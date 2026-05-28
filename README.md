@@ -11,6 +11,8 @@ API scraping (for the shop-level data).
 
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
+> 🛍️ **New** — [10 Fun Questions About Singapore Malls](./shopping/FUN.md): the bubble-tea capital, the secret-clone malls, the apocalypse-bunker mall, and more.
+
 > **Repo layout.** Two sibling sub-projects: [`shopping/`](./shopping/) (malls + stores + REIT financials) and [`nursing/`](./nursing/) (nursing-room facilities). The published Pages site mirrors that split.
 >
 > **Scraper code is intentionally not in this public repo.** The per-operator scrapers live locally under `shopping/scrapers/` and `nursing/scrapers/` and are gitignored. This README documents the techniques because they explain *how the data was obtained*, but the executables themselves and their HTTP caches (`raw/`) are kept private.

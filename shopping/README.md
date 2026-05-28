@@ -6,6 +6,10 @@ A catalogue of Singapore shopping centres, their corporate owners, and the **sho
 
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
+## Start here
+
+→ **[10 Fun Questions About Singapore Malls](./FUN.md)** — bubble-tea capital, the secret-clone malls, the apocalypse-bunker mall, and more.
+
 ## Reports
 
 | Report | What it answers |
