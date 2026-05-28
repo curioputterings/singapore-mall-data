@@ -4,6 +4,8 @@ A catalogue of Singapore shopping centres, their corporate owners, and the **sho
 
 ← [back to the index](../)
 
+<a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+
 ## Reports
 
 | Report | What it answers |
@@ -54,3 +56,6 @@ subcategory, is_fnb, is_halal, description, website, source
 - **VivoCity is partial** — its public index exposes only ~89 of ~300+ shops; treated as best-effort and excluded from per-shop financial metrics.
 - **City Square** has shop names + units but per-shop category only for F&B.
 - All sources are public store directories.
+
+## Support
+If this dataset is useful to you, you can support continued maintenance: [Buy me a coffee ☕](https://buymeacoffee.com/curioputterings).

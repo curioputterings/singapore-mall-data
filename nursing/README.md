@@ -4,6 +4,8 @@ A catalogue of nursing / baby-care rooms inside Singapore malls — which floor 
 
 ← [back to the index](../)
 
+<a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+
 ## Report
 
 → **[FACILITIES_REPORT.md](./FACILITIES_REPORT.md)** — per-mall summary, rooms-per-floor, distance to nearest entrance, and source-confidence notes.
@@ -38,3 +40,6 @@ Every record is tagged `source_confidence`:
 ## Snapshot date
 
 Snapshot dated **2026-05-27**. Tenant mixes change frequently; nursing-room counts are more stable but capacity and exact locations should be re-verified before relying on them operationally.
+
+## Support
+If this dataset is useful to you, you can support continued maintenance: [Buy me a coffee ☕](https://buymeacoffee.com/curioputterings).

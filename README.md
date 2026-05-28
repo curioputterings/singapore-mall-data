@@ -2,6 +2,8 @@
 
 Two open datasets on Singapore shopping centres, plus analytical reports on top of them.
 
+<a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+
 | Project | What it covers |
 | --- | --- |
 | **[Shopping](./shopping/)** | 86 shopping centres, their corporate owners, geography, transit access, and **8,800+ shops** with a unified 14-category scope-of-business taxonomy. Reports on chain ubiquity, mall similarity, F&B cuisine mix, brand provenance (Singapore vs. foreign), and REIT financials. |
@@ -27,3 +29,6 @@ Data dated **2026-05-27**. Tenant mixes change frequently; the registry reflects
 
 ## License
 Data is derived from public store directories and public REIT disclosures; redistribute with attribution. No warranty — treat as a research snapshot.
+
+## Support
+If this dataset is useful to you, you can support continued maintenance: [Buy me a coffee ☕](https://buymeacoffee.com/curioputterings).
