@@ -1,0 +1,40 @@
+# Nursing-Room Facilities — Data & Report
+
+A catalogue of nursing / baby-care rooms inside Singapore malls — which floor each one sits on, capacity where the mall publishes it, and (for malls whose wayfinder exposes coordinates) the real walking metres to the nearest mall entrance.
+
+← [back to the index](../)
+
+## Report
+
+→ **[FACILITIES_REPORT.md](./FACILITIES_REPORT.md)** — per-mall summary, rooms-per-floor, distance to nearest entrance, and source-confidence notes.
+
+## Data
+
+| File | Rows | Description |
+| --- | ---: | --- |
+| [`data/nursing_rooms.json`](./data/nursing_rooms.json) | 145 | One record per room: mall, operator, floor, location, nearest unit, status, capacity, amenities, source, source confidence, source-last-modified |
+| [`data/nursing_rooms_mappedin.json`](./data/nursing_rooms_mappedin.json) | 46 | Mappedin-sourced rooms with (x, y) coordinates + walking distance to nearest entrance (Frasers and other Mappedin malls) |
+| [`data/nursing_rooms_summary.json`](./data/nursing_rooms_summary.json) | 57 | Per-mall aggregates: rooms per floor, capacity, walking + vertical distance, source confidence |
+
+## Sources & confidence
+
+Every record is tagged `source_confidence`:
+
+- **official** — scraped from the operator's own page (CapitaLand concierge pages; Mappedin wayfinder for Frasers et al.)
+- **community-curated** — Little Day Out blog articles and babyment.com directory, used **only** to gap-fill malls with no operator-side facility page. Cited per row with URL and `dateModified` (babyment publishes no date — recorded as `null`). Cross-validation shows community sources undercount by 60–90% on malls where operator data also exists, so treat their counts as a *lower bound* of floor presence.
+
+## Distance to nearest entrance — two methods
+
+**Mappedin malls** (Frasers and others that embed the Mappedin interactive map): the public API exposes a coordinate layer — each nursing room and each mall entrance as an (x, y) node on a specific floor, plus the walkway graph and lift/escalator links. We run a multi-source Dijkstra from every entrance over that graph (same-floor edges weighted in metres via each floor's `x_scale`; lift/escalator transfers free) to get the **real horizontal walking distance** from each room to the nearest entrance.
+
+**Everyone else** (CapitaLand concierge pages list rooms textually with no coordinates): real metres can't be computed. We fall back to a **vertical** floor-distance proxy — for each retail floor (taken from `shopping/data/stores.json`), the number of floors to the nearest floor that has an open nursing room. Defensible accessibility proxy, not a true distance.
+
+## Coverage
+
+- **27 malls / 90+ rooms** with floor-level data
+- Mappedin-coordinate coverage adds exact walking distance for the Frasers portfolio and others
+- Malls that confirm the amenity but publish no floor (Jewel, Mandarin Gallery, MBS, Suntec, Link REIT, Lendlease SPAs) are recorded as not-covered rather than guessed
+
+## Snapshot date
+
+Snapshot dated **2026-05-27**. Tenant mixes change frequently; nursing-room counts are more stable but capacity and exact locations should be re-verified before relying on them operationally.

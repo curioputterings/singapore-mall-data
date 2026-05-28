@@ -1,0 +1,2902 @@
+shop,type,num_malls,num_outlets,malls
+Watsons,Retail,39,39,"AMK Hub, Aperia Mall, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Hougang 1, Hougang Mall, IMM Building, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Marina Square, Ngee Ann City, Northpoint City, One Holland Village, PLQ Mall, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Suntec City, Swing By @ Thomson Plaza, Tampines 1, Tampines Mall, The Centrepoint, The Shoppes at Marina Bay Sands, Tiong Bahru Plaza, United Square, Velocity@Novena Square, VivoCity, Waterway Point, West Coast Plaza, Westgate, White Sands"
+Guardian,Retail,35,36,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Century Square, Clarke Quay Central, Funan, Great World, Greenwich V, HillV2, Hougang Mall, IMM Building, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Ngee Ann City, Northpoint City, One Holland Village, PLQ Mall, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Suntec City, Swing By @ Thomson Plaza, Tampines Mall, The Centrepoint, The Shoppes at Marina Bay Sands, Tiong Bahru Plaza, United Square, Velocity@Novena Square, Waterway Point, Westgate, White Sands"
+LAC,Retail,30,30,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Hougang Mall, IMM Building, ION Orchard, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines Mall, The Centrepoint, The Shoppes at Marina Bay Sands, Tiong Bahru Plaza, United Square, Velocity@Novena Square, Waterway Point, West Coast Plaza, White Sands, Wisma Atria"
+Eu Yan Sang,Retail,28,33,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Century Square, City Square Mall, Great World, Hougang Mall, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Paragon, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Square 2, Suntec City, Tampines Mall, The Shoppes at Marina Bay Sands, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, White Sands"
+7-Eleven,Retail,28,29,"313@somerset, Aperia Mall, Bedok Mall, Bugis+ (Part of Bugis Town), Causeway Point, Great World, HillV2, IMM Building, ION Orchard, Icon Village, Jewel Changi Airport, Lot One Shoppers' Mall, Marina Square, Northpoint City, PLQ Mall, Paragon, Plaza Singapura, Raffles City Shopping Centre, Riverside Point, Sengkang Grand Mall, Square 2, Suntec City, Tiong Bahru Plaza, United Square, Velocity@Novena Square, Westgate, White Sands, Wisma Atria"
+FairPrice,Retail,25,25,"AMK Hub, Bedok Mall, CQ @ Clarke Quay, Causeway Point, Century Square, City Square Mall, Funan, Hougang 1, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Katong V, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Sengkang Grand Mall, Square 2, Swing By @ Thomson Plaza, Tampines Mall, The Centrepoint, Tiong Bahru Plaza, Valley Point, Waterway Point, White Sands"
+OWNDAYS,Retail,25,25,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), Causeway Point, Century Square, City Square Mall, Hougang Mall, ION Orchard, Jem, Jewel Changi Airport, Jurong Point, Ngee Ann City, Northpoint City, PLQ Mall, Plaza Singapura, Raffles City Shopping Centre, Suntec City, The Shoppes at Marina Bay Sands, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, Westgate, White Sands"
+Skechers,Retail,24,24,"313@somerset, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Century Square, City Square Mall, Great World, Hougang Mall, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Marina Square, Northpoint City, Paragon, Plaza Singapura, Suntec City, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, White Sands, Wisma Atria"
+kcuts,Retail,24,24,"AMK Hub, Aperia Mall, Causeway Point, Century Square, Great World, Greenwich V, HillV2, Hougang Mall, Junction 10, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Sengkang Grand Mall, Suntec City, Tampines 1, Tiong Bahru Plaza, United Square, Valley Point, Velocity@Novena Square, Waterway Point, Westgate, White Sands"
+OCBC,Retail,23,25,"AMK Hub, Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), Causeway Point, Great World, Hougang Mall, IMM Building, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines Mall, Tiong Bahru Plaza, United Square, Waterway Point, Westgate, White Sands, Wisma Atria"
+Singtel,Retail,23,24,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Hougang 1, ION Orchard, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Raffles City Shopping Centre, Sengkang Grand Mall, Tampines 1, Tampines Mall, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, Westgate"
+Challenger,Retail,23,23,"313@somerset, AMK Hub, Bedok Mall, Causeway Point, City Square Mall, Funan, Great World, IMM Building, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Plaza Singapura, Suntec City, Tampines 1, Tampines Mall, Tiong Bahru Plaza, Waterway Point, White Sands"
+UNIQLO,Retail,22,22,"Bedok Mall, Bugis+ (Part of Bugis Town), Causeway Point, City Square Mall, Great World, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Orchard Central, PLQ Mall, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Suntec City, Tampines Mall, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point"
+Spectacle Hut,Retail,21,21,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Century Square, City Square Mall, Great World, Jem, Jewel Changi Airport, Jurong Point, Lot One Shoppers' Mall, Ngee Ann City, Northpoint City, One Holland Village, Plaza Singapura, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands, Tiong Bahru Plaza, Waterway Point, Westgate, White Sands"
+Pet Lovers Centre,Retail,20,20,"Bedok Mall, Bugis Junction (Part of Bugis Town), City Square Mall, Great World, HillV2, Hougang Mall, Jem, Junction 10, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Suntec City, Tampines Mall, The Centrepoint, United Square, Valley Point, West Coast Plaza, White Sands"
+HOCKHUA TONIC,Retail,19,19,"AMK Hub, Bedok Mall, Causeway Point, City Square Mall, Great World, Hougang 1, Hougang Mall, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Sengkang Grand Mall, Swing By @ Thomson Plaza, Tampines Mall, Tiong Bahru Plaza, United Square, Waterway Point, White Sands"
+SK JEWELLERY,Retail,19,19,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Great World, Hougang Mall, IMM Building, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Square 2, Suntec City, Tampines Mall, Waterway Point"
+Clippers Barber,Retail,17,17,"AMK Hub, Aperia Mall, Causeway Point, City Square Mall, Funan, Great World, Hougang Mall, Jem, Jurong Point, Northpoint City, PLQ Mall, Sengkang Grand Mall, Square 2, Suntec City, Tampines 1, West Coast Plaza, White Sands"
+CHARLES & KEITH,Retail,16,16,"313@somerset, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Clarke Quay Central, ION Orchard, Jem, Jewel Changi Airport, Ngee Ann City, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines Mall, The Shoppes at Marina Bay Sands, Waterway Point, Wisma Atria"
+Kskin,Retail,16,16,"313@somerset, AMK Hub, Bugis+ (Part of Bugis Town), Causeway Point, Great World, Greenwich V, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Square 2, Swing By @ Thomson Plaza, Waterway Point, White Sands"
+UOB,Retail,16,16,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), City Square Mall, Great World, IMM Building, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, PLQ Mall, Paragon, Raffles City Shopping Centre, Suntec City, Tampines Mall"
+Venus Beauty,Retail,16,16,"Bedok Mall, Causeway Point, Century Square, City Square Mall, Hougang Mall, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Sengkang Grand Mall, Tiong Bahru Plaza, United Square, Waterway Point, White Sands"
+Lenskart,Retail,15,16,"Bedok Mall, Causeway Point, Century Square, City Square Mall, Hougang Mall, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Suntec City, Waterway Point, Westgate, White Sands"
+Bata,Retail,15,15,"AMK Hub, Bedok Mall, Causeway Point, Century Square, City Square Mall, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Tiong Bahru Plaza, United Square, VivoCity, Waterway Point"
+Giordano,Retail,15,15,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Hougang Mall, Jem, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Suntec City, Tampines Mall, Tiong Bahru Plaza, Velocity@Novena Square, White Sands"
+Japan Home,Retail,15,15,"Bedok Mall, Century Square, City Square Mall, Hougang Mall, Junction 8, Jurong Point, Lot One Shoppers' Mall, Marina Square, Northpoint City, PLQ Mall, Square 2, Tiong Bahru Plaza, Waterway Point, Westgate, White Sands"
+Pixie Nail Spa,Retail,15,15,"Bugis Junction (Part of Bugis Town), Causeway Point, Funan, Jem, Jurong Point, Marina Square, Ngee Ann City, Northpoint City, PLQ Mall, Plaza Singapura, Tampines 1, Tiong Bahru Plaza, Waterway Point, West Coast Plaza, White Sands"
+iStudio,Retail,15,15,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Jem, Junction 8, Jurong Point, One Holland Village, PLQ Mall, Paragon, Plaza Singapura, Raffles City Shopping Centre, Tampines Mall"
+Aureus Academy,Retail,14,14,"AMK Hub, Bedok Mall, Causeway Point, Century Square, Great World, Hougang 1, Jurong Point, Northpoint City, Suntec City, Swing By @ Thomson Plaza, United Square, West Coast Plaza, Westgate, White Sands"
+Levi's,Retail,14,14,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, ION Orchard, Jem, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Suntec City, Tampines Mall, VivoCity, Waterway Point"
+Miniso,Retail,14,14,"313@somerset, Bedok Mall, Century Square, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Suntec City, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, West Coast Plaza, Westgate"
+PANDORA,Retail,14,14,"Bugis Junction (Part of Bugis Town), Causeway Point, Great World, ION Orchard, Jewel Changi Airport, Junction 8, Northpoint City, PLQ Mall, Plaza Singapura, Suntec City, Tampines Mall, The Shoppes at Marina Bay Sands, Waterway Point, Westgate"
+Popular,Retail,14,14,"Bedok Mall, Causeway Point, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Tampines Mall, Tiong Bahru Plaza, United Square, VivoCity, Waterway Point, Westgate, White Sands"
+The Body Shop,Retail,14,14,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, ION Orchard, Jem, Junction 8, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Suntec City, Tampines Mall, Tiong Bahru Plaza, Waterway Point"
+Unity,Retail,14,14,"AMK Hub, Causeway Point, IMM Building, Junction 8, Jurong Point, Lot One Shoppers' Mall, PLQ Mall, Plaza Singapura, Swing By @ Thomson Plaza, Tampines 1, Velocity@Novena Square, Waterway Point, Westgate, White Sands"
+Goldheart,Retail,13,14,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Suntec City, Velocity@Novena Square, Waterway Point"
+Beauty Language,Retail,13,13,"AMK Hub, Bedok Mall, Bugis+ (Part of Bugis Town), Causeway Point, City Square Mall, IMM Building, Jem, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Swing By @ Thomson Plaza, Tampines Mall, Tiong Bahru Plaza"
+DON DON DONKI,Retail,13,13,"City Square Mall, Clarke Quay Central, Jem, Jewel Changi Airport, Jurong Point, Northpoint City, Orchard Central, PLQ Mall, Square 2, Suntec City, Tampines 1, Tiong Bahru Plaza, Waterway Point"
+Fun Claw,Retail,13,13,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Jewel Changi Airport, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Plaza Singapura, Sengkang Grand Mall, Swing By @ Thomson Plaza, Waterway Point"
+THEFACESHOP,Retail,13,13,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Junction 8, Jurong Point, Northpoint City, Tampines 1, Tiong Bahru Plaza, VivoCity, Waterway Point, Westgate, Wisma Atria"
+Xiaomi,Retail,13,13,"Bedok Mall, Causeway Point, City Square Mall, Funan, Great World, Hougang Mall, Jewel Changi Airport, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Tampines Mall, Waterway Point, Westgate"
+Gadget Mix,Retail,12,12,"Bedok Mall, Causeway Point, City Square Mall, Great World, Jem, One Holland Village, Orchard Central, Suntec City, Tampines 1, Tampines Mall, Velocity@Novena Square, West Coast Plaza"
+My Digital Lock,Retail,12,12,"AMK Hub, Hougang Mall, IMM Building, Jurong Point, Northpoint City, Sengkang Grand Mall, Suntec City, Tampines 1, Tiong Bahru Plaza, Waterway Point, Westgate, White Sands"
+OSIM,Retail,12,12,"AMK Hub, Causeway Point, Great World, Jem, Junction 8, Jurong Point, Northpoint City, Plaza Singapura, Suntec City, Tampines Mall, VivoCity, Waterway Point"
+Smiggle,Retail,12,12,"313@somerset, City Square Mall, ION Orchard, Jem, Jewel Changi Airport, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Tampines 1, United Square, Wisma Atria"
+epitex,Retail,12,12,"AMK Hub, Causeway Point, City Square Mall, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Sengkang Grand Mall, Tampines Mall, Waterway Point, Westgate"
+iORA,Retail,12,12,"313@somerset, Bedok Mall, Bugis Junction (Part of Bugis Town), City Square Mall, Jem, Junction 8, Marina Square, Sengkang Grand Mall, Square 2, Suntec City, Westgate, Wisma Atria"
+Benjamin Barker,Retail,11,11,"313@somerset, Bugis Junction (Part of Bugis Town), Funan, ION Orchard, Jem, Marina Square, Ngee Ann City, Plaza Singapura, Suntec City, Tampines 1, Waterway Point"
+Cotton On,Retail,11,11,"313@somerset, Bugis Junction (Part of Bugis Town), City Square Mall, IMM Building, Jem, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Suntec City, Tampines Mall, Velocity@Novena Square"
+HELEN,Retail,11,11,"313@somerset, Bugis Junction (Part of Bugis Town), Causeway Point, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Velocity@Novena Square, Waterway Point, Wisma Atria"
+MUJI,Retail,11,11,"313@somerset, Bugis Junction (Part of Bugis Town), Great World, ION Orchard, Jem, Jewel Changi Airport, Paragon, Plaza Singapura, Raffles City Shopping Centre, Tampines 1, VivoCity"
+OPPO,Retail,11,11,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Jem, Jurong Point, Northpoint City, PLQ Mall, Suntec City, Tampines Mall"
+Syoujin,Retail,11,11,"Funan, Junction 8, Jurong Point, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Suntec City, Tampines 1, Westgate, White Sands"
+The Green Party,Retail,11,11,"313@somerset, Causeway Point, Century Square, City Square Mall, Jem, Northpoint City, PLQ Mall, Suntec City, Swing By @ Thomson Plaza, United Square, Waterway Point"
+Young Hearts,Retail,11,11,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Century Square, Hougang Mall, Jem, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Suntec City, Waterway Point"
+adidas,Retail,11,11,"Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), Causeway Point, City Square Mall, IMM Building, ION Orchard, Jewel Changi Airport, Northpoint City, Suntec City, The Shoppes at Marina Bay Sands, Waterway Point"
+Best Denki,Retail,10,10,"Bedok Mall, Funan, Great World, IMM Building, Junction 8, Jurong Point, Ngee Ann City, Plaza Singapura, VivoCity, Waterway Point"
+Capitol Optical,Retail,10,10,"City Square Mall, Great World, Jem, Junction 8, Northpoint City, One Holland Village, Raffles City Shopping Centre, Suntec City, Tampines Mall, White Sands"
+Crocs,Retail,10,10,"Causeway Point, ION Orchard, Jem, Jewel Changi Airport, Junction 8, PLQ Mall, Plaza Singapura, Suntec City, Tampines Mall, Waterway Point"
+Decathlon,Retail,10,10,"City Square Mall, Hougang Mall, Jurong Point, Lot One Shoppers' Mall, Suntec City, The Centrepoint, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, Westgate"
+G2000,Retail,10,10,"AMK Hub, Causeway Point, Jem, Northpoint City, PLQ Mall, Plaza Singapura, Raffles City Shopping Centre, Tampines 1, VivoCity, Waterway Point"
+Golden Village,Retail,10,10,"Bugis+ (Part of Bugis Town), Century Square, City Square Mall, Funan, Great World, Junction 8, Jurong Point, Plaza Singapura, Suntec City, Tampines Mall"
+HOOGA,Retail,10,10,"313@somerset, Funan, Great World, Jewel Changi Airport, PLQ Mall, Plaza Singapura, Suntec City, Tampines 1, Waterway Point, Westgate"
+Japan IPL Express,Retail,10,10,"AMK Hub, Century Square, Funan, Jem, Jurong Point, Northpoint City, PLQ Mall, Sengkang Grand Mall, Velocity@Novena Square, Waterway Point"
+Kiddy Palace,Retail,10,10,"Bedok Mall, Causeway Point, Century Square, Jurong Point, Lot One Shoppers' Mall, Marina Square, Northpoint City, Waterway Point, Westgate, White Sands"
+Kiehl's,Retail,10,10,"Bugis Junction (Part of Bugis Town), ION Orchard, Ngee Ann City, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines Mall, Waterway Point, Westgate"
+Lovisa,Retail,10,10,"Bugis Junction (Part of Bugis Town), Causeway Point, Great World, ION Orchard, Plaza Singapura, Tampines 1, Velocity@Novena Square, Waterway Point, Westgate, Wisma Atria"
+Nail Palace,Retail,10,10,"AMK Hub, Bugis+ (Part of Bugis Town), Causeway Point, Century Square, City Square Mall, Jurong Point, Lot One Shoppers' Mall, Northpoint City, White Sands, Wisma Atria"
+Pierre Cardin,Retail,10,10,"AMK Hub, Bedok Mall, Hougang Mall, Jem, Jurong Point, Northpoint City, PLQ Mall, Sengkang Grand Mall, Suntec City, Velocity@Novena Square"
+Q & M Dental Surgery,Retail,10,10,"Bedok Mall, Century Square, Hougang Mall, IMM Building, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Velocity@Novena Square, White Sands"
+SKP,Retail,10,10,"AMK Hub, Causeway Point, Hougang Mall, Junction 8, Jurong Point, Lot One Shoppers' Mall, PLQ Mall, Tiong Bahru Plaza, Waterway Point, White Sands"
+SkinGO!,Retail,10,10,"City Square Mall, Hougang Mall, Junction 8, Jurong Point, Marina Square, Northpoint City, Plaza Singapura, Tampines 1, Tiong Bahru Plaza, United Square"
+Valu$,Retail,10,10,"City Square Mall, Hougang Mall, Jurong Point, Northpoint City, PLQ Mall, Sengkang Grand Mall, Tampines 1, Tiong Bahru Plaza, Waterway Point, White Sands"
+DBS,Retail,9,10,"Bugis Junction (Part of Bugis Town), Junction 8, Ngee Ann City, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, The Shoppes at Marina Bay Sands, Westgate"
+Stalford Learning Centre,Retail,9,10,"AMK Hub, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Sengkang Grand Mall, Tampines Mall, Tiong Bahru Plaza, Westgate, White Sands"
+EC House,Retail,9,9,"Bedok Mall, Junction 8, Jurong Point, Lot One Shoppers' Mall, Swing By @ Thomson Plaza, United Square, Velocity@Novena Square, West Coast Plaza, Westgate"
+HYSSES,Retail,9,9,"Bugis Junction (Part of Bugis Town), Great World, Junction 8, Jurong Point, Marina Square, PLQ Mall, Raffles City Shopping Centre, Tampines 1, Westgate"
+Minmed Clinic,Retail,9,9,"Bedok Mall, City Square Mall, Jem, Northpoint City, One Holland Village, Sengkang Grand Mall, United Square, Waterway Point, White Sands"
+Mister Minit,Retail,9,9,"Causeway Point, Great World, Hougang Mall, Ngee Ann City, Northpoint City, Plaza Singapura, VivoCity, Waterway Point, Westgate"
+Nailz Gallery,Retail,9,9,"AMK Hub, Bedok Mall, Causeway Point, Northpoint City, Raffles City Shopping Centre, Sengkang Grand Mall, Tiong Bahru Plaza, Westgate, White Sands"
+PEDRO,Retail,9,9,"313@somerset, Bugis Junction (Part of Bugis Town), ION Orchard, Jem, Jewel Changi Airport, Plaza Singapura, Suntec City, The Shoppes at Marina Bay Sands, Wisma Atria"
+QB House,Retail,9,9,"AMK Hub, City Square Mall, Hougang 1, Jem, Jurong Point, PLQ Mall, Square 2, Tiong Bahru Plaza, VivoCity"
+Sorella,Retail,9,9,"AMK Hub, Bedok Mall, Century Square, Hougang Mall, Jurong Point, Northpoint City, Waterway Point, Westgate, White Sands"
+Swarovski,Retail,9,9,"Jem, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines Mall, The Shoppes at Marina Bay Sands, VivoCity, Wisma Atria"
+"TOYS""R""US",Retail,9,9,"Bugis Junction (Part of Bugis Town), City Square Mall, Great World, Jem, Jewel Changi Airport, Paragon, Tampines Mall, United Square, VivoCity"
+Timezone,Retail,9,9,"Causeway Point, City Square Mall, Hougang Mall, Jurong Point, Marina Square, Northpoint City, Plaza Singapura, Waterway Point, Westgate"
+ASICS,Retail,8,8,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport, Paragon, Plaza Singapura, Suntec City, Velocity@Novena Square, Westgate"
+Anytime Fitness,Retail,8,8,"City Square Mall, Greenwich V, HillV2, Jurong Point, Suntec City, Tiong Bahru Plaza, Valley Point, West Coast Plaza"
+Daiso,Retail,8,8,"Bugis Junction (Part of Bugis Town), Great World, ION Orchard, Jurong Point, Plaza Singapura, Swing By @ Thomson Plaza, Tampines 1, West Coast Plaza"
+Gain City,Retail,8,8,"Bedok Mall, Causeway Point, Funan, IMM Building, Marina Square, Northpoint City, Tampines 1, Waterway Point"
+LANEIGE,Retail,8,8,"Bugis Junction (Part of Bugis Town), Junction 8, Jurong Point, Northpoint City, Tampines Mall, Waterway Point, Westgate, Wisma Atria"
+MoneyMax,Retail,8,8,"Causeway Point, Hougang Mall, IMM Building, Jem, Jurong Point, Northpoint City, Waterway Point, White Sands"
+Poh Heng Jewellery,Retail,8,8,"Causeway Point, Hougang Mall, IMM Building, Jem, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Tiong Bahru Plaza"
+Samsonite,Retail,8,8,"Bugis+ (Part of Bugis Town), ION Orchard, Jem, Jewel Changi Airport, Marina Square, Plaza Singapura, Suntec City, The Shoppes at Marina Bay Sands"
+Sans & Sans,Retail,8,8,"Bugis Junction (Part of Bugis Town), Jem, Junction 8, Marina Square, Ngee Ann City, Square 2, Suntec City, Wisma Atria"
+Sephora,Retail,8,8,"Bugis+ (Part of Bugis Town), Causeway Point, ION Orchard, Ngee Ann City, Plaza Singapura, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands, Westgate"
+Stryv,Retail,8,8,"Causeway Point, ION Orchard, Junction 8, Jurong Point, Northpoint City, PLQ Mall, Suntec City, White Sands"
+Xpressflower.com,Retail,8,8,"AMK Hub, Bedok Mall, Causeway Point, Jurong Point, Northpoint City, Plaza Singapura, Tampines Mall, VivoCity"
+Bank Of China,Retail,7,7,"AMK Hub, Bedok Mall, Causeway Point, Tampines 1, Tiong Bahru Plaza, Waterway Point, Westgate"
+CARs International,Retail,7,7,"City Square Mall, Lot One Shoppers' Mall, Marina Square, Raffles City Shopping Centre, Suntec City, Tampines Mall, Waterway Point"
+CS Fresh,Retail,7,7,"Bugis Junction (Part of Bugis Town), Greenwich V, HillV2, One Holland Village, Plaza Singapura, Raffles City Shopping Centre, United Square"
+Chomel,Retail,7,7,"Great World, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Northpoint City, Suntec City"
+Concierge (Waterway Point),Retail,7,7,"Century Square, Hougang Mall, Tampines 1, The Centrepoint, Tiong Bahru Plaza, Waterway Point, White Sands"
+Cotton On Kids,Retail,7,7,"City Square Mall, Great World, Northpoint City, Plaza Singapura, United Square, Waterway Point, Wisma Atria"
+ECCO,Retail,7,7,"ION Orchard, Jewel Changi Airport, Plaza Singapura, Suntec City, Tampines Mall, The Shoppes at Marina Bay Sands, Westgate"
+INNISFREE,Retail,7,7,"Causeway Point, Jem, Junction 8, Ngee Ann City, PLQ Mall, Plaza Singapura, Tampines Mall"
+KIMOJ,Retail,7,7,"Bugis+ (Part of Bugis Town), Causeway Point, City Square Mall, Funan, PLQ Mall, The Centrepoint, Westgate"
+Kaleido,Retail,7,7,"Bugis Junction (Part of Bugis Town), Causeway Point, ION Orchard, Tampines 1, Tampines Mall, Waterway Point, Wisma Atria"
+Kin Teck Tong,Retail,7,7,"Bedok Mall, Century Square, Jem, Junction 8, Northpoint City, Plaza Singapura, Sengkang Grand Mall"
+L'OCCITANE,Retail,7,7,"ION Orchard, Northpoint City, Paragon, Plaza Singapura, Raffles City Shopping Centre, Tampines Mall, Westgate"
+M&G LIFE,Retail,7,7,"Jewel Changi Airport, Northpoint City, PLQ Mall, Raffles City Shopping Centre, Square 2, Suntec City, Wisma Atria"
+MANGO,Retail,7,7,"313@somerset, ION Orchard, Jem, Marina Square, PLQ Mall, Raffles City Shopping Centre, Wisma Atria"
+New York Skin Solutions,Retail,7,7,"Jurong Point, Ngee Ann City, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square, Westgate, White Sands"
+Ogawa,Retail,7,7,"Causeway Point, Century Square, Great World, Junction 8, Jurong Point, Northpoint City, Suntec City"
+PAZZION,Retail,7,7,"Bugis Junction (Part of Bugis Town), Jem, Jewel Changi Airport, Junction 8, The Shoppes at Marina Bay Sands, VivoCity, Wisma Atria"
+Presto Drycleaners,Retail,7,7,"Bedok Mall, Great World, ION Orchard, Junction 8, Paragon, Suntec City, Westgate"
+RAY-BAN,Retail,7,7,"313@somerset, Funan, ION Orchard, Jewel Changi Airport, Plaza Singapura, Suntec City, The Shoppes at Marina Bay Sands"
+Raffles Medical,Retail,7,7,"Causeway Point, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Raffles City Shopping Centre, Tampines 1, White Sands"
+Rest N Go,Retail,7,7,"Bugis+ (Part of Bugis Town), Hougang 1, Jewel Changi Airport, Jurong Point, Suntec City, West Coast Plaza, Westgate"
+SkinLab The Medical Spa,Retail,7,7,"Causeway Point, Junction 8, Jurong Point, Plaza Singapura, Tampines 1, Waterway Point, Westgate"
+Sunnystep,Retail,7,7,"Bugis Junction (Part of Bugis Town), Causeway Point, ION Orchard, Jurong Point, Square 2, Tampines Mall, Westgate"
+TAKA Jewellery,Retail,7,7,"Bedok Mall, Century Square, Jem, Jurong Point, Northpoint City, PLQ Mall, Tiong Bahru Plaza"
+Tech House,Retail,7,7,"Causeway Point, Junction 8, Jurong Point, Suntec City, Tampines Mall, Velocity@Novena Square, Westgate"
+V Medical Aesthetics & Laser Clinic,Retail,7,7,"Bedok Mall, Century Square, Jurong Point, Northpoint City, Plaza Singapura, Westgate, White Sands"
+Wacoal,Retail,7,7,"Bedok Mall, Jem, Jurong Point, Northpoint City, Plaza Singapura, Suntec City, Waterway Point"
+Yun Nam Hair Care,Retail,7,7,"AMK Hub, Century Square, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Tiong Bahru Plaza"
+Better Vision,Retail,6,6,"Causeway Point, Northpoint City, Tampines Mall, Velocity@Novena Square, Waterway Point, Westgate"
+Birkenstock,Retail,6,6,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport, Paragon, Suntec City, The Shoppes at Marina Bay Sands"
+Boarding Gate,Retail,6,6,"Bugis Junction (Part of Bugis Town), Jem, Marina Square, Paragon, Raffles City Shopping Centre, Waterway Point"
+Glimpse,Retail,6,6,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Century Square, Northpoint City, Westgate"
+HLA,Retail,6,6,"City Square Mall, Jem, Jurong Point, Lot One Shoppers' Mall, PLQ Mall, Suntec City"
+Harvey Norman,Retail,6,6,"Hougang Mall, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Suntec City, Westgate"
+Home's Harmony,Retail,6,6,"Causeway Point, Century Square, Northpoint City, PLQ Mall, Suntec City, Waterway Point"
+I Can Read,Retail,6,6,"AMK Hub, City Square Mall, HillV2, United Square, Waterway Point, West Coast Plaza"
+LEGO Certified Store (Bricks World),Retail,6,6,"Jem, Jurong Point, Ngee Ann City, Plaza Singapura, Suntec City, Tampines Mall"
+"Love, Bonito",Retail,6,6,"313@somerset, Funan, ION Orchard, Jem, Tampines 1, Waterway Point"
+MINDCHAMPS PRESCHOOL,Retail,6,6,"City Square Mall, Junction 10, Paragon, Riverside Point, Sengkang Grand Mall, West Coast Plaza"
+Maxi-Cash,Retail,6,6,"Causeway Point, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Tiong Bahru Plaza, Waterway Point"
+Musee Platinum Tokyo,Retail,6,6,"Bugis+ (Part of Bugis Town), Plaza Singapura, Tampines 1, The Centrepoint, Velocity@Novena Square, Westgate"
+Nippon Home,Retail,6,6,"Bedok Mall, Causeway Point, City Square Mall, Jurong Point, Northpoint City, Waterway Point"
+PRISM+,Retail,6,6,"Funan, Junction 8, Jurong Point, Northpoint City, Suntec City, Tampines Mall"
+Q & M Dental Centre,Retail,6,6,"Bugis Junction (Part of Bugis Town), Funan, Great World, Jem, Orchard Central, Velocity@Novena Square"
+Refash,Retail,6,6,"Bedok Mall, Bugis Junction (Part of Bugis Town), Northpoint City, Tampines 1, The Centrepoint, Westgate"
+Sparkle,Retail,6,6,"Century Square, City Square Mall, Northpoint City, The Centrepoint, Waterway Point, Westgate"
+StarHub,Retail,6,6,"Jurong Point, Northpoint City, Paragon, Suntec City, Tampines Mall, Westgate"
+Stellar,Retail,6,6,"Bugis Junction (Part of Bugis Town), Century Square, ION Orchard, Jem, Northpoint City, Waterway Point"
+The Wallet Shop,Retail,6,6,"Bugis Junction (Part of Bugis Town), Northpoint City, PLQ Mall, Tampines Mall, Waterway Point, Westgate"
+Tissot,Retail,6,6,"ION Orchard, Jem, PLQ Mall, Raffles City Shopping Centre, Suntec City, The Shoppes at Marina Bay Sands"
+Tree Art,Retail,6,6,"City Square Mall, Northpoint City, Paragon, Sengkang Grand Mall, United Square, Westgate"
+Triumph,Retail,6,6,"313@somerset, AMK Hub, ION Orchard, Jem, Northpoint City, PLQ Mall"
+UNDER ARMOUR,Retail,6,6,"Bugis Junction (Part of Bugis Town), Funan, Junction 8, Orchard Central, Paragon, Waterway Point"
+W Optics,Retail,6,6,"Bedok Mall, Causeway Point, Great World, Marina Square, Suntec City, The Centrepoint"
+Welcia,Retail,6,6,"Bedok Mall, Century Square, Ngee Ann City, Northpoint City, Raffles City Shopping Centre, Velocity@Novena Square"
+prettyFIT,Retail,6,6,"Bugis Junction (Part of Bugis Town), Century Square, Jem, Junction 8, PLQ Mall, Wisma Atria"
+CHANEL,Retail,5,6,"ION Orchard, Jem, Ngee Ann City, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Cheers,Retail,5,6,"AMK Hub, Clarke Quay Central, Jurong Point, Lucky Chinatown, Northpoint City"
+Cow Play Cow Moo,Retail,5,6,"313@somerset, Century Square, Hougang 1, Jurong Point, Suntec City"
+ZARA,Retail,5,6,"313@somerset, ION Orchard, Jewel Changi Airport, The Shoppes at Marina Bay Sands, VivoCity"
+1855 The Bottle Shop,Retail,5,5,"ION Orchard, Paragon, Suntec City, The Shoppes at Marina Bay Sands, United Square"
+AESOP,Retail,5,5,"ION Orchard, Ngee Ann City, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands, Westgate"
+ALDO,Retail,5,5,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport, PLQ Mall, Plaza Singapura"
+ANTA,Retail,5,5,"Junction 8, Jurong Point, Plaza Singapura, Tampines 1, Westgate"
+Anothersole,Retail,5,5,"Bugis Junction (Part of Bugis Town), Ngee Ann City, PLQ Mall, Tampines 1, Wisma Atria"
+AsterSpring,Retail,5,5,"Jem, Northpoint City, One Holland Village, Plaza Singapura, United Square"
+BEGA,Retail,5,5,"Bedok Mall, Century Square, Marina Square, Westgate, White Sands"
+BOSS,Retail,5,5,"Mandarin Gallery, Ngee Ann City, Paragon, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Bath & Body Works,Retail,5,5,"Causeway Point, ION Orchard, Jewel Changi Airport, Ngee Ann City, The Shoppes at Marina Bay Sands"
+CFOOT,Retail,5,5,"Junction 8, Jurong Point, Northpoint City, Square 2, Waterway Point"
+COURTS,Retail,5,5,"Causeway Point, Funan, Jem, Jurong Point, Tampines Mall"
+Calvin Klein,Retail,5,5,"ION Orchard, Jewel Changi Airport, Paragon, Raffles City Shopping Centre, Westgate"
+Chiropractic First,Retail,5,5,"Causeway Point, Great World, Jurong Point, Northpoint City, United Square"
+Cold Storage,Retail,5,5,"Aperia Mall, Suntec City, Tampines 1, Velocity@Novena Square, West Coast Plaza"
+Dunlopillo,Retail,5,5,"Causeway Point, City Square Mall, Lot One Shoppers' Mall, Marina Square, PLQ Mall"
+Eurotex,Retail,5,5,"Bedok Mall, Century Square, Northpoint City, Westgate, White Sands"
+FILA,Retail,5,5,"ION Orchard, Paragon, Suntec City, The Shoppes at Marina Bay Sands, Westgate"
+G-Shock Casio,Retail,5,5,"Bugis Junction (Part of Bugis Town), ION Orchard, Jem, Jewel Changi Airport, Northpoint City"
+Garmin,Retail,5,5,"Funan, Plaza Singapura, Tampines Mall, Westgate, Wisma Atria"
+KKV,Retail,5,5,"Bedok Mall, Jem, Jurong Point, Raffles City Shopping Centre, Tiong Bahru Plaza"
+London Weight Management,Retail,5,5,"AMK Hub, Ngee Ann City, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square"
+MONTIGO,Retail,5,5,"Bugis Junction (Part of Bugis Town), ION Orchard, Junction 8, Jurong Point, Tampines Mall"
+Mister Mobile,Retail,5,5,"Bedok Mall, Jurong Point, Tampines 1, Waterway Point, White Sands"
+Mobilestop,Retail,5,5,"Northpoint City, Raffles City Shopping Centre, Suntec City, Tampines Mall, Tiong Bahru Plaza"
+Ms New,Retail,5,5,"AMK Hub, Jurong Point, Northpoint City, PLQ Mall, Tiong Bahru Plaza"
+NK Hairworks,Retail,5,5,"Bedok Mall, Hougang 1, Plaza Singapura, Waterway Point, White Sands"
+Nailz Treats,Retail,5,5,"Bedok Mall, Funan, ION Orchard, Junction 8, One Holland Village"
+Novela,Retail,5,5,"Bugis+ (Part of Bugis Town), PLQ Mall, Tampines 1, Velocity@Novena Square, Waterway Point"
+Novita,Retail,5,5,"Jurong Point, Northpoint City, Plaza Singapura, Velocity@Novena Square, Westgate"
+POP MART,Retail,5,5,"Funan, ION Orchard, Jewel Changi Airport, Plaza Singapura, Westgate"
+Playdress,Retail,5,5,"Bugis Junction (Part of Bugis Town), Tampines 1, The Centrepoint, Waterway Point, Westgate"
+Pop Play Planet,Retail,5,5,"313@somerset, Funan, Jurong Point, Lot One Shoppers' Mall, Tampines 1"
+RABEANCO,Retail,5,5,"313@somerset, Jewel Changi Airport, Raffles City Shopping Centre, Suntec City, Wisma Atria"
+Recoil,Retail,5,5,"313@somerset, Bugis Junction (Part of Bugis Town), Suntec City, Tampines 1, Westgate"
+SALOMON,Retail,5,5,"Bugis Junction (Part of Bugis Town), Jewel Changi Airport, Orchard Central, Raffles City Shopping Centre, Suntec City"
+SK Gold,Retail,5,5,"Causeway Point, Jem, Jurong Point, Northpoint City, The Shoppes at Marina Bay Sands"
+Sealy Sleep Boutique,Retail,5,5,"Century Square, Funan, IMM Building, One Holland Village, Plaza Singapura"
+Shakura Pigmentation Beauty,Retail,5,5,"Junction 8, Lot One Shoppers' Mall, Plaza Singapura, Tampines 1, Westgate"
+Singapore Pools,Retail,5,5,"Funan, IMM Building, Lot One Shoppers' Mall, Northpoint City, Suntec City"
+Sinjojo,Retail,5,5,"Century Square, Jurong Point, Plaza Singapura, Tampines 1, Waterway Point"
+Solace Studios,Retail,5,5,"Causeway Point, Century Square, Jem, Jewel Changi Airport, Junction 8"
+Spacio TCM Wellness,Retail,5,5,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Northpoint City, The Centrepoint"
+TRT,Retail,5,5,"Bugis Junction (Part of Bugis Town), Jem, Marina Square, Ngee Ann City, PLQ Mall"
+The Stage Walk,Retail,5,5,"Bugis Junction (Part of Bugis Town), Jem, Junction 8, PLQ Mall, Tampines 1"
+United Overseas Bank,Retail,5,5,"Hougang Mall, Northpoint City, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point"
+V Aesthetics Body Slim,Retail,5,5,"Bedok Mall, Northpoint City, Plaza Singapura, Tampines 1, Westgate"
+VIVAIA,Retail,5,5,"Bedok Mall, Bugis Junction (Part of Bugis Town), Jewel Changi Airport, Westgate, Wisma Atria"
+Vivian & Sean,Retail,5,5,"Causeway Point, Century Square, Lot One Shoppers' Mall, Northpoint City, White Sands"
+ZTP Ginseng Birdnest,Retail,5,5,"IMM Building, Jem, Northpoint City, Tiong Bahru Plaza, Waterway Point"
+lululemon,Retail,5,5,"ION Orchard, Jem, Ngee Ann City, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+AGrader Learning Centre,Retail,4,5,"Jurong Point, Northpoint City, Sengkang Grand Mall, White Sands"
+A.M Aesthetics,Retail,4,4,"Bedok Mall, Lot One Shoppers' Mall, Orchard Central, Raffles City Shopping Centre"
+APM Monaco,Retail,4,4,"ION Orchard, Jewel Changi Airport, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+BIMBA Y LOLA,Retail,4,4,"ION Orchard, Jewel Changi Airport, Mandarin Gallery, The Shoppes at Marina Bay Sands"
+Banana Story,Retail,4,4,"Causeway Point, Lot One Shoppers' Mall, PLQ Mall, Tiong Bahru Plaza"
+Become Aesthetics Clinic,Retail,4,4,"Causeway Point, PLQ Mall, Tampines 1, Westgate"
+Beyond The Vines,Retail,4,4,"Funan, ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+Bossini,Retail,4,4,"AMK Hub, Bedok Mall, City Square Mall, Tampines Mall"
+British Essential,Retail,4,4,"Jurong Point, Northpoint City, Tampines 1, White Sands"
+CHOW TAI FOOK,Retail,4,4,"Bugis Junction (Part of Bugis Town), ION Orchard, Jem, Jewel Changi Airport"
+Chinese Medical Centre,Retail,4,4,"Tiong Bahru Plaza, West Coast Plaza, Westgate, White Sands"
+Chip Lee Jewellery,Retail,4,4,"Causeway Point, Century Square, Northpoint City, Tiong Bahru Plaza"
+Citibank ATM,Retail,4,4,"Bedok Mall, Causeway Point, Paragon, Raffles City Shopping Centre"
+Coach,Retail,4,4,"Jewel Changi Airport, Paragon, The Shoppes at Marina Bay Sands, VivoCity"
+DR. STRETCH,Retail,4,4,"Great World, Orchard Central, Suntec City, Velocity@Novena Square"
+"Dorra Tummy, Hip & Thigh Slimming",Retail,4,4,"Bedok Mall, Junction 8, Lot One Shoppers' Mall, Plaza Singapura"
+FUJIFILM,Retail,4,4,"Jurong Point, Lot One Shoppers' Mall, PLQ Mall, Sengkang Grand Mall"
+Fitness First,Retail,4,4,"AMK Hub, Bugis Junction (Part of Bugis Town), Junction 10, Paragon"
+FotoHub,Retail,4,4,"Jurong Point, Raffles City Shopping Centre, Tampines Mall, Westgate"
+Four Star,Retail,4,4,"Causeway Point, Century Square, Hougang Mall, Lot One Shoppers' Mall"
+Gifts Greetings,Retail,4,4,"Century Square, Jem, PLQ Mall, Suntec City"
+H2 Hub Timepiece,Retail,4,4,"AMK Hub, Bedok Mall, Century Square, Jurong Point"
+HONOR,Retail,4,4,"Causeway Point, Plaza Singapura, Suntec City, Tampines Mall"
+HSBC ATM,Retail,4,4,"Bugis Junction (Part of Bugis Town), Great World, Suntec City, Westgate"
+HUAWEI,Retail,4,4,"313@somerset, Northpoint City, Suntec City, Westgate"
+Happy Walker,Retail,4,4,"AMK Hub, Bedok Mall, Jem, Northpoint City"
+Hush Puppies,Retail,4,4,"AMK Hub, Marina Square, Northpoint City, The Centrepoint"
+I'M IN,Retail,4,4,"Funan, Jem, Jewel Changi Airport, Tampines 1"
+IVI Aesthetic,Retail,4,4,"Hougang Mall, Jurong Point, Northpoint City, Waterway Point"
+Jean Yip Hairdressing,Retail,4,4,"Causeway Point, Jem, Swing By @ Thomson Plaza, White Sands"
+Jean Yip Hub,Retail,4,4,"Bugis Junction (Part of Bugis Town), Lot One Shoppers' Mall, Plaza Singapura, Tampines Mall"
+Kappa,Retail,4,4,"Bugis Junction (Part of Bugis Town), Century Square, Hougang Mall, The Centrepoint"
+Komehyo,Retail,4,4,"Great World, PLQ Mall, Plaza Singapura, Suntec City"
+Longchamp,Retail,4,4,"ION Orchard, Paragon, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Longines,Retail,4,4,"Bugis Junction (Part of Bugis Town), Jewel Changi Airport, The Shoppes at Marina Bay Sands, Wisma Atria"
+Love & Co.,Retail,4,4,"ION Orchard, Jem, Northpoint City, Tampines Mall"
+M1,Retail,4,4,"Bugis Junction (Part of Bugis Town), Causeway Point, IMM Building, Tampines Mall"
+MINDSPACE,Retail,4,4,"City Square Mall, Greenwich V, Square 2, West Coast Plaza"
+MONOLOQ,Retail,4,4,"Clarke Quay Central, Marina Square, One Holland Village, Wisma Atria"
+Marks & Spencer,Retail,4,4,"Paragon, Plaza Singapura, Raffles City Shopping Centre, VivoCity"
+Mavis Tutorial Centre,Retail,4,4,"AMK Hub, Bedok Mall, Jurong Point, Lot One Shoppers' Mall"
+Maybank,Retail,4,4,"Causeway Point, Jurong Point, Northpoint City, PLQ Mall"
+Mind Stretcher,Retail,4,4,"Hougang 1, Jurong Point, United Square, Waterway Point"
+Mothercare,Retail,4,4,"Marina Square, Northpoint City, Paragon, Plaza Singapura"
+MyRepublic,Retail,4,4,"AMK Hub, Bedok Mall, Jem, Jurong Point"
+N20 Nail Spa,Retail,4,4,"Plaza Singapura, Sengkang Grand Mall, Tiong Bahru Plaza, Westgate"
+New Balance,Retail,4,4,"Jewel Changi Airport, Paragon, Suntec City, Velocity@Novena Square"
+Oakley,Retail,4,4,"313@somerset, Funan, Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+Odoroki,Retail,4,4,"Causeway Point, Jurong Point, PLQ Mall, Westgate"
+Oh! Sunny,Retail,4,4,"Bugis Junction (Part of Bugis Town), Causeway Point, Junction 8, Wisma Atria"
+Onitsuka Tiger,Retail,4,4,"Jewel Changi Airport, Ngee Ann City, Raffles City Shopping Centre, Suntec City"
+Oriental Hair Solutions,Retail,4,4,"Causeway Point, Junction 8, Jurong Point, Tampines 1"
+Otaku House,Retail,4,4,"Jewel Changi Airport, PLQ Mall, Plaza Singapura, Suntec City"
+Paris Miki,Retail,4,4,"Bugis Junction (Part of Bugis Town), Junction 8, Plaza Singapura, Tampines 1"
+Peniwern,Retail,4,4,"Bedok Mall, Century Square, Jurong Point, Northpoint City"
+Play United,Retail,4,4,"Century Square, Hougang Mall, The Centrepoint, United Square"
+Repair Station,Retail,4,4,"Century Square, Jurong Point, PLQ Mall, West Coast Plaza"
+SELFFIX DIY,Retail,4,4,"Century Square, Great World, The Centrepoint, Westgate"
+SL Aesthetic Clinic,Retail,4,4,"Causeway Point, Plaza Singapura, Waterway Point, Westgate"
+Sa Sa,Retail,4,4,"Jurong Point, Northpoint City, Tampines 1, Westgate"
+Sam Edelman,Retail,4,4,"Jewel Changi Airport, Paragon, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Samsung,Retail,4,4,"Bedok Mall, Bugis Junction (Part of Bugis Town), Junction 8, Tampines Mall"
+Samsung Experience Store,Retail,4,4,"313@somerset, Causeway Point, Jem, Jurong Point"
+Scarlett,Retail,4,4,"Century Square, Hougang Mall, Suntec City, Waterway Point"
+Scarlett Supermarket,Retail,4,4,"Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Westgate"
+Serta,Retail,4,4,"City Square Mall, IMM Building, Marina Square, Plaza Singapura"
+Shaw Theatres,Retail,4,4,"Jem, Jewel Changi Airport, Lot One Shoppers' Mall, Waterway Point"
+Shine Korea,Retail,4,4,"Aperia Mall, Causeway Point, One Holland Village, Tampines 1"
+Simply Toys,Retail,4,4,"City Square Mall, Jewel Changi Airport, Plaza Singapura, Suntec City"
+Slumberland,Retail,4,4,"IMM Building, Junction 8, Plaza Singapura, Westgate"
+Smoovee Skin,Retail,4,4,"Great World, Lot One Shoppers' Mall, Northpoint City, White Sands"
+Standard Photo,Retail,4,4,"Funan, Junction 8, Tiong Bahru Plaza, White Sands"
+Strip & Browhaus,Retail,4,4,"ION Orchard, Plaza Singapura, Raffles City Shopping Centre, Westgate"
+Sun Paradise,Retail,4,4,"Jem, Junction 8, Plaza Singapura, VivoCity"
+Sweet Home,Retail,4,4,"Jurong Point, Northpoint City, Velocity@Novena Square, White Sands"
+TAG Heuer,Retail,4,4,"ION Orchard, Jewel Changi Airport, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+TOG,Retail,4,4,"Jem, Jurong Point, Plaza Singapura, Tampines Mall"
+TUMI,Retail,4,4,"ION Orchard, Mandarin Gallery, Paragon, The Shoppes at Marina Bay Sands"
+Teo Heng KTV Studio,Retail,4,4,"Causeway Point, Suntec City, The Centrepoint, White Sands"
+The Ballet School,Retail,4,4,"Junction 10, Northpoint City, West Coast Plaza, Westgate"
+The Learning Lab,Retail,4,4,"Century Square, Jem, Tampines Mall, United Square"
+The Orange Academy,Retail,4,4,"Century Square, Northpoint City, Tampines 1, Tiong Bahru Plaza"
+The Planet Traveller,Retail,4,4,"ION Orchard, Marina Square, Paragon, Westgate"
+Time Studio,Retail,4,4,"Causeway Point, Junction 8, Tiong Bahru Plaza, Westgate"
+Tommy Hilfiger,Retail,4,4,"ION Orchard, Paragon, Raffles City Shopping Centre, Westgate"
+Top Secret STUDIO,Retail,4,4,"AMK Hub, Bugis+ (Part of Bugis Town), Plaza Singapura, Suntec City"
+Typo,Retail,4,4,"313@somerset, ION Orchard, Plaza Singapura, VivoCity"
+Victoria Facelift,Retail,4,4,"Junction 8, Tiong Bahru Plaza, Waterway Point, White Sands"
+WTS Travel,Retail,4,4,"AMK Hub, Causeway Point, Jurong Point, Suntec City"
+Wing Joo Loong,Retail,4,4,"Jurong Point, PLQ Mall, Suntec City, Swing By @ Thomson Plaza"
+1Gravity,Retail,3,3,"Funan, Northpoint City, Westgate"
+2nd STREET,Retail,3,3,"313@somerset, PLQ Mall, Tiong Bahru Plaza"
+3 Little Girls,Retail,3,3,"Orchard Central, Suntec City, White Sands"
+6 Elements Hair Spa,Retail,3,3,"Century Square, Lot One Shoppers' Mall, Sengkang Grand Mall"
+ALL WOULD ENVY,Retail,3,3,"Junction 8, Plaza Singapura, Tampines Mall"
+APGUJEONG HAIR STUDIO,Retail,3,3,"Great World, Square 2, Tampines 1"
+AXS Station,Retail,3,3,"Bugis+ (Part of Bugis Town), Plaza Singapura, Raffles City Shopping Centre"
+ActionCity,Retail,3,3,"Bugis Junction (Part of Bugis Town), Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+ActionCity Plus,Retail,3,3,"Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), The Shoppes at Marina Bay Sands"
+Advanced Dental,Retail,3,3,"Junction 8, Sengkang Grand Mall, Waterway Point"
+Artary,Retail,3,3,"Tampines Mall, Waterway Point, Westgate"
+Aspire Hub Education,Retail,3,3,"Bedok Mall, PLQ Mall, United Square"
+BYD by 1826,Retail,3,3,"IMM Building, Suntec City, Waterway Point"
+Bed Bath N’ Table,Retail,3,3,"Great World, Plaza Singapura, Suntec City"
+Beijing 101,Retail,3,3,"Bedok Mall, Funan, Jem"
+Beijing 101 Hair Consultants,Retail,3,3,"Causeway Point, Century Square, Northpoint City"
+Bites by Scarlett,Retail,3,3,"Causeway Point, PLQ Mall, Tampines 1"
+Books Kinokuniya,Retail,3,3,"Bugis Junction (Part of Bugis Town), Ngee Ann City, Raffles City Shopping Centre"
+Box Hunt,Retail,3,3,"Tampines 1, Waterway Point, Westgate"
+Browhaus,Retail,3,3,"Great World, Mandarin Gallery, Raffles City Shopping Centre"
+Burberry,Retail,3,3,"Paragon, The Shoppes at Marina Bay Sands, Wisma Atria"
+By Invite Only,Retail,3,3,"ION Orchard, Raffles City Shopping Centre, Tampines 1"
+CARTIER,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+CELINE,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+CLARINS,Retail,3,3,"Great World, ION Orchard, Westgate"
+COS,Retail,3,3,"ION Orchard, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Chrysalis Spa (Imago),Retail,3,3,"AMK Hub, Jurong Point, The Centrepoint"
+Citrusox,Retail,3,3,"Jem, Junction 8, Plaza Singapura"
+City Chain,Retail,3,3,"Bugis Junction (Part of Bugis Town), Jem, Northpoint City"
+Clarks,Retail,3,3,"ION Orchard, PLQ Mall, Velocity@Novena Square"
+Converse,Retail,3,3,"Bugis Junction (Part of Bugis Town), Jewel Changi Airport, Raffles City Shopping Centre"
+Coslab,Retail,3,3,"Northpoint City, The Centrepoint, Waterway Point"
+Couple Lab,Retail,3,3,"Bugis+ (Part of Bugis Town), Causeway Point, Plaza Singapura"
+DIOR,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+DMK,Retail,3,3,"Jurong Point, Plaza Singapura, Tampines 1"
+De Arte Hair Studio,Retail,3,3,"Jurong Point, Northpoint City, Tampines 1"
+Diptyque,Retail,3,3,"ION Orchard, Ngee Ann City, Raffles City Shopping Centre"
+Dollars & Scent,Retail,3,3,"Bedok Mall, Jurong Point, Northpoint City"
+ESINEY,Retail,3,3,"Funan, PLQ Mall, Westgate"
+EX Style,Retail,3,3,"Century Square, Northpoint City, PLQ Mall"
+Echo,Retail,3,3,"Bedok Mall, Junction 8, Suntec City"
+Estetica,Retail,3,3,"Century Square, Northpoint City, Plaza Singapura"
+Ex Beauty,Retail,3,3,"Century Square, Northpoint City, Tiong Bahru Plaza"
+FENDI,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+FILA KIDS,Retail,3,3,"Paragon, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+FRESH,Retail,3,3,"ION Orchard, Jem, Raffles City Shopping Centre"
+Fossil,Retail,3,3,"Jem, Suntec City, The Shoppes at Marina Bay Sands"
+Foto Express,Retail,3,3,"AMK Hub, Bedok Mall, Jem"
+Fred Perry,Retail,3,3,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport"
+Futurum Academy,Retail,3,3,"Funan, Junction 8, United Square"
+GG<5,Retail,3,3,"Ngee Ann City, Raffles City Shopping Centre, Suntec City"
+GINLEE,Retail,3,3,"Great World, Ngee Ann City, Raffles City Shopping Centre"
+GIVENCHY,Retail,3,3,"Paragon, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+GLOBAL ART,Retail,3,3,"Junction 10, West Coast Plaza, White Sands"
+GUCCI,Retail,3,3,"ION Orchard, Paragon, The Shoppes at Marina Bay Sands"
+GUERLAIN,Retail,3,3,"ION Orchard, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Gamemartz,Retail,3,3,"Bugis Junction (Part of Bugis Town), Funan, Plaza Singapura"
+Gingersnaps,Retail,3,3,"Paragon, Raffles City Shopping Centre, United Square"
+Giordano Ladies,Retail,3,3,"Raffles City Shopping Centre, Suntec City, Wisma Atria"
+H&M,Retail,3,3,"Jem, Suntec City, VivoCity"
+HAACH,Retail,3,3,"Orchard Central, Raffles City Shopping Centre, The Centrepoint"
+HANDS,Retail,3,3,"Great World, Orchard Central, Suntec City"
+HOUSE OF TRADITIONAL JAVANESE MASSAGE,Retail,3,3,"Greenwich V, Junction 10, West Coast Plaza"
+Heart Springs Spa,Retail,3,3,"Hougang Mall, Tampines 1, Tiong Bahru Plaza"
+Highlander London,Retail,3,3,"Jurong Point, Suntec City, Tampines 1"
+JF Elite,Retail,3,3,"Bugis+ (Part of Bugis Town), City Square Mall, Westgate"
+JUDYDOLL,Retail,3,3,"Bugis+ (Part of Bugis Town), Tampines Mall, Wisma Atria"
+Jo Malone London,Retail,3,3,"ION Orchard, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+KARVA Salon for Ladies,Retail,3,3,"Causeway Point, Northpoint City, Sengkang Grand Mall"
+KUMON LEARNING CENTRE,Retail,3,3,"City Square Mall, Great World, Katong V"
+Kimage,Retail,3,3,"Lot One Shoppers' Mall, Northpoint City, Tiong Bahru Plaza"
+Kitchen+Ware,Retail,3,3,"Causeway Point, Northpoint City, Waterway Point"
+LA Barbershop,Retail,3,3,"Jurong Point, Lot One Shoppers' Mall, Swing By @ Thomson Plaza"
+LAMY,Retail,3,3,"313@somerset, Bugis+ (Part of Bugis Town), Raffles City Shopping Centre"
+LOVE AND BRAVERY,Retail,3,3,"Jem, Plaza Singapura, Tampines 1"
+Liang Yi (良医),Retail,3,3,"Funan, Great World, PLQ Mall"
+Little Ground,Retail,3,3,"Great World, Paragon, Raffles City Shopping Centre"
+Liv Activ,Retail,3,3,"Marina Square, Raffles City Shopping Centre, Velocity@Novena Square"
+Louis Vuitton,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+Lulucrystalsx,Retail,3,3,"Bugis+ (Part of Bugis Town), ION Orchard, Raffles City Shopping Centre"
+Lush,Retail,3,3,"ION Orchard, VivoCity, Wisma Atria"
+MODE Aesthetics,Retail,3,3,"Bedok Mall, Jem, The Centrepoint"
+Marimekko,Retail,3,3,"ION Orchard, Jewel Changi Airport, Ngee Ann City"
+Massimo Dutti,Retail,3,3,"ION Orchard, Jewel Changi Airport, VivoCity"
+May Tailor & Laundry,Retail,3,3,"Funan, Marina Square, The Shoppes at Marina Bay Sands"
+Mayer,Retail,3,3,"Causeway Point, Century Square, Sengkang Grand Mall"
+MediFeet,Retail,3,3,"AMK Hub, Square 2, Tiong Bahru Plaza"
+Meilleur Moment,Retail,3,3,"313@somerset, Jewel Changi Airport, Plaza Singapura"
+Michael Trio,Retail,3,3,"Jem, Tampines 1, Wisma Atria"
+Mobile Fashion,Retail,3,3,"AMK Hub, Lot One Shoppers' Mall, Plaza Singapura"
+Moley Apparels,Retail,3,3,"Marina Square, Northpoint City, Westgate"
+My First Skool,Retail,3,3,"Jurong Point, Waterway Point, Westgate"
+Myeongdong Hair Studio,Retail,3,3,"Lot One Shoppers' Mall, Westgate, White Sands"
+NIKE,Retail,3,3,"Jewel Changi Airport, Suntec City, VivoCity"
+NK Robotics,Retail,3,3,"Northpoint City, Sengkang Grand Mall, Westgate"
+NTUC LearningHub,Retail,3,3,"AMK Hub, Causeway Point, Waterway Point"
+Nitori,Retail,3,3,"Bugis Junction (Part of Bugis Town), Junction 8, Westgate"
+PANDA CHAN SNACK,Retail,3,3,"Bedok Mall, Funan, Plaza Singapura"
+PEARLY LUSTRE,Retail,3,3,"313@somerset, Bugis Junction (Part of Bugis Town), Jewel Changi Airport"
+POSB,Retail,3,3,"AMK Hub, Jurong Point, Square 2"
+POSB ATM,Retail,3,3,"Aperia Mall, Jem, Lot One Shoppers' Mall"
+POSB Bank,Retail,3,3,"Tiong Bahru Plaza, Waterway Point, White Sands"
+Panda Chan,Retail,3,3,"Clarke Quay Central, Jurong Point, Swing By @ Thomson Plaza"
+PlayFACTO School,Retail,3,3,"Junction 10, Katong V, Waterway Point"
+Polo Ralph Lauren,Retail,3,3,"Jewel Changi Airport, Paragon, The Shoppes at Marina Bay Sands"
+Prada,Retail,3,3,"ION Orchard, Paragon, The Shoppes at Marina Bay Sands"
+Precious Thoughts,Retail,3,3,"Jem, Marina Square, Plaza Singapura"
+Premier Dead Sea,Retail,3,3,"AMK Hub, Jem, Tampines 1"
+Purpur,Retail,3,3,"Bugis Junction (Part of Bugis Town), Northpoint City, Tampines 1"
+QB Premium,Retail,3,3,"Bugis Junction (Part of Bugis Town), One Holland Village, Raffles City Shopping Centre"
+RANDY INDULGENCE ACAI BAR,Retail,3,3,"AMK Hub, Junction 8, Plaza Singapura"
+Running Lab,Retail,3,3,"Bugis Junction (Part of Bugis Town), Marina Square, Velocity@Novena Square"
+SAINT LAURENT,Retail,3,3,"ION Orchard, Paragon, The Shoppes at Marina Bay Sands"
+SHINE,Retail,3,3,"Jurong Point, Northpoint City, PLQ Mall"
+SHISEIDO,Retail,3,3,"ION Orchard, Jem, Tampines Mall"
+SLEEPNIGHT,Retail,3,3,"Bedok Mall, City Square Mall, Northpoint City"
+SONY,Retail,3,3,"313@somerset, One Holland Village, Westgate"
+Safewell,Retail,3,3,"IMM Building, Plaza Singapura, Tiong Bahru Plaza"
+Scent by SIX,Retail,3,3,"313@somerset, Bugis Junction (Part of Bugis Town), Jem"
+Sea Horse,Retail,3,3,"Causeway Point, Century Square, Junction 8"
+Seafolly,Retail,3,3,"Great World, Raffles City Shopping Centre, Wisma Atria"
+Setirom,Retail,3,3,"Jewel Changi Airport, Plaza Singapura, Suntec City"
+Simba,Retail,3,3,"AMK Hub, Junction 8, Jurong Point"
+Simmons Gallery,Retail,3,3,"IMM Building, PLQ Mall, Raffles City Shopping Centre"
+SneakSurf,Retail,3,3,"Bugis Junction (Part of Bugis Town), Suntec City, Tampines Mall"
+Sothys Premium Salon,Retail,3,3,"Bedok Mall, Mandarin Gallery, Northpoint City"
+Strip,Retail,3,3,"Great World, Mandarin Gallery, Northpoint City"
+TEAM Salon,Retail,3,3,"Jem, One Holland Village, Raffles City Shopping Centre"
+THE EDITOR'S MARKET,Retail,3,3,"Great World, Jem, Tampines 1"
+TK TrichoKare,Retail,3,3,"Jurong Point, Ngee Ann City, Velocity@Novena Square"
+TUDOR,Retail,3,3,"ION Orchard, Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+Teva,Retail,3,3,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport"
+The Ballet & Music Company,Retail,3,3,"Jurong Point, Sengkang Grand Mall, United Square"
+The Digital Gadgets,Retail,3,3,"Jewel Changi Airport, Plaza Singapura, The Shoppes at Marina Bay Sands"
+The Flip Flop Shop,Retail,3,3,"Century Square, Jurong Point, Northpoint City"
+The Oaks Cellars,Retail,3,3,"Great World, Mandarin Gallery, The Shoppes at Marina Bay Sands"
+The Thai Spa,Retail,3,3,"Orchard Central, Plaza Singapura, Suntec City"
+The Whisky Distillery,Retail,3,3,"ION Orchard, Jem, The Shoppes at Marina Bay Sands"
+Tiffany & Co.,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+Toy Outpost,Retail,3,3,"Northpoint City, Plaza Singapura, Suntec City"
+Turtle,Retail,3,3,"Hougang Mall, Marina Square, PLQ Mall"
+V Aesthetics Hair Grow,Retail,3,3,"Plaza Singapura, Raffles City Shopping Centre, Westgate"
+Van Cleef & Arpels,Retail,3,3,"ION Orchard, Ngee Ann City, The Shoppes at Marina Bay Sands"
+Vintage Studio Hairdressing Spa,Retail,3,3,"Bedok Mall, Bugis Junction (Part of Bugis Town), Westgate"
+WJL 永裕隆,Retail,3,3,"Causeway Point, Northpoint City, Westgate"
+Weston Corp,Retail,3,3,"313@somerset, Jewel Changi Airport, Tampines Mall"
+Wilson,Retail,3,3,"ION Orchard, Jewel Changi Airport, Raffles City Shopping Centre"
+X-Craft,Retail,3,3,"Causeway Point, Jurong Point, Tampines Mall"
+YEAH GELATO 野人先生,Retail,3,3,"IMM Building, Plaza Singapura, Tampines Mall"
+YISHION,Retail,3,3,"Bugis+ (Part of Bugis Town), Jurong Point, Westgate"
+Yale Smart Shop,Retail,3,3,"Causeway Point, Jurong Point, Northpoint City"
+Yale [The S&L House],Retail,3,3,"Bedok Mall, Sengkang Grand Mall, United Square"
+Yamaha (Music Store & Music School),Retail,3,3,"Plaza Singapura, Tampines Mall, Westgate"
+ZOFF,Retail,3,3,"ION Orchard, Jurong Point, Orchard Central"
+Zero Healthcare,Retail,3,3,"Causeway Point, Century Square, IMM Building"
+Zhong Yan Tang,Retail,3,3,"AMK Hub, Northpoint City, Plaza Singapura"
+avenue,Retail,3,3,"Jem, Northpoint City, Tampines Mall"
+bloomB,Retail,3,3,"Paragon, United Square, VivoCity"
+homestolife,Retail,3,3,"City Square Mall, Great World, Marina Square"
+iROO,Retail,3,3,"Great World, Ngee Ann City, Raffles City Shopping Centre"
+Club21,Retail,2,3,"Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+& Other Stories,Retail,2,2,"ION Orchard, Raffles City Shopping Centre"
+20dB Digisound,Retail,2,2,"Square 2, Westgate"
+3T Mobile,Retail,2,2,"IMM Building, Sengkang Grand Mall"
+52TOYS,Retail,2,2,"Great World, Westgate"
+99 PERCENT HAIR STUDIO,Retail,2,2,"Bedok Mall, Orchard Central"
+A.R.Money Exchange,Retail,2,2,"Junction 8, Lot One Shoppers' Mall"
+ALLU,Retail,2,2,"Jem, Tampines 1"
+ALUXE,Retail,2,2,"Jem, Tampines 1"
+AUBE BEAUTY SALON,Retail,2,2,"Clarke Quay Central, Marina Square"
+AWHSOME by Hyggerium,Retail,2,2,"Jewel Changi Airport, One Holland Village"
+Absolute Bedding,Retail,2,2,"Century Square, IMM Building"
+Airbot,Retail,2,2,"Jem, Tampines Mall"
+All Watches,Retail,2,2,"Bugis Junction (Part of Bugis Town), Wisma Atria"
+Allbest Exchange,Retail,2,2,"Jurong Point, PLQ Mall"
+Amaris,Retail,2,2,"Jewel Changi Airport, Paragon"
+Anake,Retail,2,2,"Hougang Mall, White Sands"
+Another One,Retail,2,2,"Bugis Junction (Part of Bugis Town), Velocity@Novena Square"
+Apple,Retail,2,2,"Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+Arch Angel,Retail,2,2,"One Holland Village, Westgate"
+Authorised Mi Store,Retail,2,2,"Jem, Suntec City"
+BACCARAT,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+BAOZHITANG CHINESE MEDICINE AND THERAPY CENTRE,Retail,2,2,"Katong V, West Coast Plaza"
+BIG MAMA,Retail,2,2,"Ngee Ann City, West Coast Plaza"
+BLANCPAIN,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+BMF The Aesthetics People,Retail,2,2,"Jurong Point, Marina Square"
+BOGGI Milano,Retail,2,2,"Ngee Ann City, Paragon"
+BOLON,Retail,2,2,"Junction 8, Wisma Atria"
+BONIA,Retail,2,2,"Northpoint City, Westgate"
+BOSE,Retail,2,2,"Funan, Paragon"
+BREGUET,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+BUCCELLATI,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+BUD COSMETICS,Retail,2,2,"Mandarin Gallery, Square 2"
+BVLGARI,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Balenciaga,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Barehands,Retail,2,2,"Funan, Ngee Ann City"
+Beijing Language School,Retail,2,2,"Jurong Point, Waterway Point"
+Bell & Ross,Retail,2,2,"Mandarin Gallery, The Shoppes at Marina Bay Sands"
+Bellezza Aesthetics,Retail,2,2,"Plaza Singapura, Raffles City Shopping Centre"
+Berluti,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Berries World of Learning School,Retail,2,2,"Northpoint City, West Coast Plaza"
+Best Perfume Store,Retail,2,2,"Plaza Singapura, Westgate"
+Bio Organicare,Retail,2,2,"Century Square, Plaza Singapura"
+BodyWerkz,Retail,2,2,"Square 2, Tampines 1"
+Bolon Eyewear,Retail,2,2,"Suntec City, Waterway Point"
+Bottega Veneta,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Bratpack,Retail,2,2,"Bugis Junction (Part of Bugis Town), The Centrepoint"
+Braun Buffel,Retail,2,2,"ION Orchard, Westgate"
+Breitling,Retail,2,2,"Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Brunello Cucinelli,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+CHAUMET,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+CHESS AT THREE,Retail,2,2,"Katong V, United Square"
+CHOPARD,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+CHRISTIAN LOUBOUTIN,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+COCORO,Retail,2,2,"Plaza Singapura, Tiong Bahru Plaza"
+COTTON ON BODY,Retail,2,2,"ION Orchard, Plaza Singapura"
+CUCKOO,Retail,2,2,"City Square Mall, Westgate"
+Cellini,Retail,2,2,"Suntec City, The Centrepoint"
+Cheryl W,Retail,2,2,"Century Square, Tiong Bahru Plaza"
+China Mobile CMLink,Retail,2,2,"Jem, PLQ Mall"
+Chou Niang Jiu Niang,Retail,2,2,"IMM Building, Plaza Singapura"
+Christofle,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Climb Central,Retail,2,2,"Funan, Velocity@Novena Square"
+CocoArt,Retail,2,2,"Marina Square, Westgate"
+Columbia,Retail,2,2,"Jewel Changi Airport, Paragon"
+Confucius Mandarin,Retail,2,2,"Northpoint City, Tampines Mall"
+Cortina Watch,Retail,2,2,"Paragon, Raffles City Shopping Centre"
+Cristofori Music School,Retail,2,2,"AMK Hub, Junction 8"
+Crocodile,Retail,2,2,"Lot One Shoppers' Mall, White Sands"
+Cube-i,Retail,2,2,"AMK Hub, Tampines 1"
+Customer Service Counter (Causeway Point),Retail,2,2,"Causeway Point, Northpoint City"
+Cuttour Hair Studio,Retail,2,2,"Jewel Changi Airport, PLQ Mall"
+D & C (Design & Comfort),Retail,2,2,"Bedok Mall, Northpoint City"
+DIESEL,Retail,2,2,"ION Orchard, Paragon"
+DJI,Retail,2,2,"Funan, Jewel Changi Airport"
+DR HAACH,Retail,2,2,"Orchard Central, Raffles City Shopping Centre"
+DR. LASH,Retail,2,2,"Orchard Central, Westgate"
+DRx Clinic,Retail,2,2,"Jurong Point, PLQ Mall"
+De Silver,Retail,2,2,"AMK Hub, Northpoint City"
+Descente,Retail,2,2,"Jewel Changi Airport, Raffles City Shopping Centre"
+Dior Beauty,Retail,2,2,"Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Dolce & Gabbana,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Dorra Slimming,Retail,2,2,"Northpoint City, Tiong Bahru Plaza"
+Dr J,Retail,2,2,"Bedok Mall, Century Square"
+Dr. Kong,Retail,2,2,"Causeway Point, Jem"
+Dr.Bags,Retail,2,2,"Junction 8, Plaza Singapura"
+Dreame,Retail,2,2,"Funan, Westgate"
+Dyson,Retail,2,2,"Northpoint City, Westgate"
+ESCENTIALS,Retail,2,2,"ION Orchard, Paragon"
+ESTÉE LAUDER (ESTEE LAUDER),Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+EVERBEST,Retail,2,2,"Bedok Mall, Marina Square"
+EVISU,Retail,2,2,"ION Orchard, Jewel Changi Airport"
+EYE LEVEL,Retail,2,2,"City Square Mall, West Coast Plaza"
+Eazea Smart Lock,Retail,2,2,"Causeway Point, Tampines 1"
+EduGrove Mandarin Enrichment Centre,Retail,2,2,"AMK Hub, White Sands"
+Elements Wellness,Retail,2,2,"313@somerset, The Centrepoint"
+Emporio Armani,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Evergreen Stationery,Retail,2,2,"Great World, Suntec City"
+Eyedentity,Retail,2,2,"Bugis Junction (Part of Bugis Town), PLQ Mall"
+FAT HOPE,Retail,2,2,"Aperia Mall, Bugis Junction (Part of Bugis Town)"
+FILA FUSION,Retail,2,2,"Bugis Junction (Part of Bugis Town), Orchard Central"
+FLAMING QUEEN,Retail,2,2,"Mandarin Gallery, Paragon"
+FOND,Retail,2,2,"Jem, Velocity@Novena Square"
+FOR THE LOVE OF LAUNDRY,Retail,2,2,"One Holland Village, United Square"
+FRANCK MULLER,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Fash Mob,Retail,2,2,"Funan, Plaza Singapura"
+Ferragamo,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Fitflop,Retail,2,2,"Jem, Northpoint City"
+Flower Matters,Retail,2,2,"ION Orchard, The Centrepoint"
+Flying Tiger Copenhagen,Retail,2,2,"Bugis+ (Part of Bugis Town), Wisma Atria"
+Forever New,Retail,2,2,"Raffles City Shopping Centre, Wisma Atria"
+Fortune Wigs,Retail,2,2,"Century Square, Northpoint City"
+Freeman Florist,Retail,2,2,"Waterway Point, White Sands"
+From There On,Retail,2,2,"Plaza Singapura, Tampines 1"
+GENTLE MONSTER,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+GEOX,Retail,2,2,"Clarke Quay Central, The Centrepoint"
+GRAFF,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Gift.ed by Turtle,Retail,2,2,"313@somerset, Jem"
+Giorgio Armani,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Glamour + Nail.Lash.Brow Studio,Retail,2,2,"Century Square, Jem"
+Glamour Beauty,Retail,2,2,"Hougang Mall, PLQ Mall"
+Grand Seiko,Retail,2,2,"Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+Gucci Beauty,Retail,2,2,"ION Orchard, Raffles City Shopping Centre"
+HAKO,Retail,2,2,"Jem, Jurong Point"
+HERMÈS (HERMES),Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+HI-CLAW,Retail,2,2,"United Square, West Coast Plaza"
+HIART,Retail,2,2,"Junction 10, United Square"
+HOKA,Retail,2,2,"ION Orchard, Raffles City Shopping Centre"
+HUA LANGUAGE CENTRE,Retail,2,2,"Greenwich V, United Square"
+HUBLOT,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Hang Ten,Retail,2,2,"Hougang Mall, Northpoint City"
+Happie,Retail,2,2,"Jurong Point, Tampines 1"
+Healing Touch Spa,Retail,2,2,"One Holland Village, The Centrepoint"
+Hills Aesthetics Clinic,Retail,2,2,"313@somerset, Jem"
+Hom Yoga,Retail,2,2,"Orchard Central, Valley Point"
+House of Kpop,Retail,2,2,"Jem, Plaza Singapura"
+Hunter,Retail,2,2,"Plaza Singapura, Suntec City"
+ICBC,Retail,2,2,"AMK Hub, Waterway Point"
+ICON Aesthetics,Retail,2,2,"Century Square, Wisma Atria"
+ILDO TAEKWONDO,Retail,2,2,"HillV2, West Coast Plaza"
+INI8TIVE,Retail,2,2,"Jurong Point, Lot One Shoppers' Mall"
+ISLAND SHOP,Retail,2,2,"Clarke Quay Central, Marina Square"
+IWC SCHAFFHAUSEN,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Ian Darcy EAU DE PARFUM,Retail,2,2,"Junction 8, Lot One Shoppers' Mall"
+Insta360,Retail,2,2,"Plaza Singapura, Suntec City"
+JAEGER-LECOULTRE,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+JD Sports,Retail,2,2,"Bugis+ (Part of Bugis Town), ION Orchard"
+JOYRE TCMEDI SPA,Retail,2,2,"Hougang 1, Square 2"
+Jas-Indulge,Retail,2,2,"IMM Building, West Coast Plaza"
+Jean Yip,Retail,2,2,"AMK Hub, Jurong Point"
+Jean Yip Beauty & Slimming,Retail,2,2,"Causeway Point, Westgate"
+Jewel Cafe,Retail,2,2,"Jem, Junction 8"
+Jimmy Choo,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Jonsson Protein Healthy Hair Growth,Retail,2,2,"Plaza Singapura, Westgate"
+Jullia Olger,Retail,2,2,"Square 2, The Centrepoint"
+Junior Page,Retail,2,2,"Great World, The Centrepoint"
+JustCo,Retail,2,2,"Marina Square, The Centrepoint"
+K-Market,Retail,2,2,"Northpoint City, West Coast Plaza"
+K.LAB,Retail,2,2,"Waterway Point, Westgate"
+K.STAR,Retail,2,2,"Orchard Central, Plaza Singapura"
+K.STAR KARAOKE,Retail,2,2,"CQ @ Clarke Quay, PLQ Mall"
+KBOX,Retail,2,2,"Bugis+ (Part of Bugis Town), Junction 8"
+KLARRA,Retail,2,2,"ION Orchard, Raffles City Shopping Centre"
+Karva Salon for Family,Retail,2,2,"Century Square, Plaza Singapura"
+Kate Spade New York,Retail,2,2,"Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+Kawai Music School,Retail,2,2,"City Square Mall, The Centrepoint"
+Kawata House of Socks,Retail,2,2,"AMK Hub, Bedok Mall"
+Kinohimitsu,Retail,2,2,"Northpoint City, PLQ Mall"
+LA MER,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+LA PRAIRIE,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+LACOSTE,Retail,2,2,"ION Orchard, Wisma Atria"
+LAGOON LAUNDRY,Retail,2,2,"Katong V, PLQ Mall"
+LEICA,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+LI-NING,Retail,2,2,"Bugis+ (Part of Bugis Town), Plaza Singapura"
+LIANG YI TCM,Retail,2,2,"Tampines 1, United Square"
+LIOU&LANS,Retail,2,2,"PLQ Mall, Wisma Atria"
+LOEWE,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+LOJEL,Retail,2,2,"Funan, Suntec City"
+LORO PIANA,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+LUX BOUTIQUE,Retail,2,2,"Plaza Singapura, Suntec City"
+LWL,Retail,2,2,"AMK Hub, Northpoint City"
+Ladyfinger,Retail,2,2,"AMK Hub, Tampines 1"
+Le Petit Society,Retail,2,2,"Jewel Changi Airport, Paragon"
+Lee Hwa,Retail,2,2,"Bugis Junction (Part of Bugis Town), Jem"
+Leftfoot,Retail,2,2,"Mandarin Gallery, Marina Square"
+Life 4 Cuts,Retail,2,2,"313@somerset, Jurong Point"
+Life4Cut,Retail,2,2,"Bugis Junction (Part of Bugis Town), Suntec City"
+Limited Edt,Retail,2,2,"313@somerset, The Shoppes at Marina Bay Sands"
+Little Kingdom by Unisprings,Retail,2,2,"City Square Mall, IMM Building"
+Little Match Girl,Retail,2,2,"Raffles City Shopping Centre, Wisma Atria"
+MAD PARFUMEUR,Retail,2,2,"Bugis Junction (Part of Bugis Town), Westgate"
+MAJE,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+MASTER-FIX SERVICES,Retail,2,2,"ION Orchard, Paragon"
+MBT,Retail,2,2,"Paragon, Suntec City"
+MCM,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+MLB,Retail,2,2,"ION Orchard, Mandarin Gallery"
+MO&Co.,Retail,2,2,"Jewel Changi Airport, Raffles City Shopping Centre"
+MR. D.I.Y.,Retail,2,2,"Junction 10, West Coast Plaza"
+Ma Kuang TCM,Retail,2,2,"Causeway Point, Hougang Mall"
+Ma Kuang TCM Medical Centre,Retail,2,2,"Plaza Singapura, Westgate"
+Maison Francis Kurkdjian,Retail,2,2,"Ngee Ann City, Raffles City Shopping Centre"
+Maison Margiela,Retail,2,2,"Jewel Changi Airport, Paragon"
+Marni,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Max Mara,Retail,2,2,"Mandarin Gallery, The Shoppes at Marina Bay Sands"
+Maybank ATM,Retail,2,2,"IMM Building, Plaza Singapura"
+Melissa,Retail,2,2,"PLQ Mall, Wisma Atria"
+Metro,Retail,2,2,"Causeway Point, Paragon"
+Milly’s,Retail,2,2,"Jem, Tampines 1"
+Mirage Aesthetic,Retail,2,2,"Raffles City Shopping Centre, Westgate"
+Miu Miu,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Mobile Life,Retail,2,2,"Junction 8, Northpoint City"
+Moleskine,Retail,2,2,"Ngee Ann City, Paragon"
+Mondays Made,Retail,2,2,"Ngee Ann City, The Centrepoint"
+Money Changer,Retail,2,2,"City Square Mall, Ngee Ann City"
+Montblanc,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Moynat,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Multiflora TCM Spa,Retail,2,2,"AMK Hub, Westgate"
+My Greatest Child,Retail,2,2,"Jewel Changi Airport, Plaza Singapura"
+My Gym,Retail,2,2,"Great World, Westgate"
+NARS,Retail,2,2,"Bugis Junction (Part of Bugis Town), Ngee Ann City"
+NATURELAND SPA. PREMIUM,Retail,2,2,"ION Orchard, Jewel Changi Airport"
+NB 1906,Retail,2,2,"Bugis Junction (Part of Bugis Town), ION Orchard"
+Nail Addiction,Retail,2,2,"Century Square, United Square"
+Nail Bliss,Retail,2,2,"Sengkang Grand Mall, Velocity@Novena Square"
+Nails & Good Company,Retail,2,2,"Plaza Singapura, Tampines 1"
+Nailz Haus,Retail,2,2,"Mandarin Gallery, Ngee Ann City"
+Nature's Farm,Retail,2,2,"Century Square, Junction 8"
+New Nada Barber,Retail,2,2,"Century Square, Tiong Bahru Plaza"
+NoFrills Dental,Retail,2,2,"Marina Square, Suntec City"
+OH!SOME,Retail,2,2,"Suntec City, Tampines 1"
+OMEGA,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+OODLES LEARNING,Retail,2,2,"Junction 10, Katong V"
+ORGANIC EXPRESS HAIR COLOR LAB,Retail,2,2,"One Holland Village, West Coast Plaza"
+ORGANIC HAIR REGROWTH SOLUTIONS,Retail,2,2,"Orchard Central, PLQ Mall"
+ORGANIC WAY SALON,Retail,2,2,"Bugis+ (Part of Bugis Town), Sengkang Grand Mall"
+ORIENT CROWN,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+OTO,Retail,2,2,"Bedok Mall, Tampines Mall"
+OUR SECOND NATURE,Retail,2,2,"Great World, One Holland Village"
+OWELL,Retail,2,2,"IMM Building, Tampines Mall"
+One2Play,Retail,2,2,"City Square Mall, Waterway Point"
+Outside,Retail,2,2,"313@somerset, Marina Square"
+Owell BodyCare,Retail,2,2,"Causeway Point, Hougang Mall"
+PANERAI,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+PATEK PHILIPPE,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+PHOENIX MEDICAL GROUP,Retail,2,2,"Greenwich V, HillV2"
+PHS HAIRSCIENCE®,Retail,2,2,"Bedok Mall, Ngee Ann City"
+PIAGET,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+PICOTA NAIL SPA,Retail,2,2,"ION Orchard, Jewel Changi Airport"
+PINC,Retail,2,2,"Causeway Point, Waterway Point"
+PUMA,Retail,2,2,"313@somerset, Bugis+ (Part of Bugis Town)"
+PUMA Outlet,Retail,2,2,"City Square Mall, IMM Building"
+Pavonine House,Retail,2,2,"Square 2, The Centrepoint"
+Penhaligon's,Retail,2,2,"Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Petit Bateau,Retail,2,2,"Marina Square, Paragon"
+Platinum Yoga,Retail,2,2,"AMK Hub, Jurong Point"
+Play-e,Retail,2,2,"AMK Hub, Bedok Mall"
+Pomellato,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Prime Auto Care,Retail,2,2,"Great World, Junction 8"
+Pro Trim Hair Studio,Retail,2,2,"Jem, Ngee Ann City"
+Propeller,Retail,2,2,"Funan, Plaza Singapura"
+QB Premium Haircut & Style,Retail,2,2,"313@somerset, Suntec City"
+QUEEN EXCLUSIVE COLLECTION,Retail,2,2,"Marina Square, Square 2"
+RED ARMY WATCHES,Retail,2,2,"ION Orchard, Suntec City"
+RIMOWA,Retail,2,2,"Mandarin Gallery, The Shoppes at Marina Bay Sands"
+RITUALS,Retail,2,2,"ION Orchard, Jem"
+ROYAL SELANGOR,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Rado,Retail,2,2,"Suntec City, The Shoppes at Marina Bay Sands"
+Raffles Dental,Retail,2,2,"Causeway Point, White Sands"
+Raffles Florist,Retail,2,2,"Bugis Junction (Part of Bugis Town), Junction 8"
+Ralph Lauren Children,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Red 2,Retail,2,2,"AMK Hub, Jurong Point"
+Regina,Retail,2,2,"Clarke Quay Central, Junction 8"
+Revival Hair Gallery,Retail,2,2,"AMK Hub, Century Square"
+Rolex at Cortina Watch,Retail,2,2,"Paragon, Raffles City Shopping Centre"
+SABRINAGOH,Retail,2,2,"Great World, Raffles City Shopping Centre"
+SANDRO,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+SCOOP Wholefoods Australia,Retail,2,2,"Raffles City Shopping Centre, Waterway Point"
+SEED Heritage,Retail,2,2,"Paragon, Wisma Atria"
+SLEEPNIGHT Lifestyle Mattress,Retail,2,2,"Jurong Point, Suntec City"
+SPLICE BARBERSHOP,Retail,2,2,"One Holland Village, Suntec City"
+STAR ARTS,Retail,2,2,"City Square Mall, Westgate"
+SUNGLASS HUT,Retail,2,2,"ION Orchard, Wisma Atria"
+SWATCH,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+Sahur's Art,Retail,2,2,"Funan, Plaza Singapura"
+Sandbar,Retail,2,2,"Great World, Paragon"
+Scanteak Signature,Retail,2,2,"Suntec City, Westgate"
+Shadori,Retail,2,2,"Bugis+ (Part of Bugis Town), Wisma Atria"
+Shanghai Tang,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Shoe Clinic,Retail,2,2,"Century Square, PLQ Mall"
+Shu Uemura,Retail,2,2,"Bugis Junction (Part of Bugis Town), ION Orchard"
+Sincere Fine Watches,Retail,2,2,"Ngee Ann City, Suntec City"
+Smigy,Retail,2,2,"PLQ Mall, United Square"
+Solvil Et Titus,Retail,2,2,"Jurong Point, Ngee Ann City"
+Song-Cho,Retail,2,2,"AMK Hub, IMM Building"
+Spa Esprit,Retail,2,2,"Great World, Raffles City Shopping Centre"
+Strip / Browhaus,Retail,2,2,"Paragon, Tampines 1"
+Sulwhasoo,Retail,2,2,"ION Orchard, Westgate"
+Sun & Sand Sports,Retail,2,2,"Raffles City Shopping Centre, Westgate"
+Sunday Staples,Retail,2,2,"313@somerset, Jem"
+TEMPUR,Retail,2,2,"IMM Building, Plaza Singapura"
+THE ETON ACADEMY,Retail,2,2,"Great World, Sengkang Grand Mall"
+TOY-C,Retail,2,2,"Plaza Singapura, Suntec City"
+TRUE FITNESS,Retail,2,2,"Great World, Velocity@Novena Square"
+Tang Shan TCM & Massage,Retail,2,2,"City Square Mall, Velocity@Novena Square"
+The Ark Futsal,Retail,2,2,"Aperia Mall, Funan"
+The Aroma Hub,Retail,2,2,"Northpoint City, Tampines Mall"
+The Chinese Wedding Shop,Retail,2,2,"Jem, Jurong Point"
+The Clinic Group,Retail,2,2,"Aperia Mall, Westgate"
+The Hour Glass,Retail,2,2,"Ngee Ann City, Paragon"
+The Seafood Market Place By Song Fish,Retail,2,2,"Century Square, Jem"
+The Shirt Bar,Retail,2,2,"Jewel Changi Airport, Suntec City"
+The Smell Lab,Retail,2,2,"Bugis+ (Part of Bugis Town), United Square"
+The Tinsel Rack,Retail,2,2,"Plaza Singapura, Tampines 1"
+The Underground,Retail,2,2,"Lot One Shoppers' Mall, Westgate"
+The Willow Label,Retail,2,2,"Jem, Plaza Singapura"
+The s.k.MED Clinic,Retail,2,2,"Tampines 1, West Coast Plaza"
+Tory Burch,Retail,2,2,"The Shoppes at Marina Bay Sands, Wisma Atria"
+Tracyeinny,Retail,2,2,"Junction 8, PLQ Mall"
+U Hair,Retail,2,2,"Junction 8, Jurong Point"
+UBreakifix.sg,Retail,2,2,"Northpoint City, White Sands"
+UNBOTTLED,Retail,2,2,"Bugis Junction (Part of Bugis Town), Great World"
+Under Armour Outlet,Retail,2,2,"City Square Mall, IMM Building"
+Universal Optical,Retail,2,2,"Century Square, Square 2"
+VACHERON CONSTANTIN,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+VALENTINO,Retail,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+VS Salon,Retail,2,2,"313@somerset, Tampines Mall"
+ValueLux Furnishing,Retail,2,2,"Bedok Mall, City Square Mall"
+ValueMax,Retail,2,2,"Jurong Point, White Sands"
+Versace,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Vilebrequin,Retail,2,2,"Ngee Ann City, The Shoppes at Marina Bay Sands"
+Vincent Watch,Retail,2,2,"Causeway Point, Tampines Mall"
+W.TWO,Retail,2,2,"AMK Hub, Hougang Mall"
+WANDERLUST + CO,Retail,2,2,"Great World, Ngee Ann City"
+WANG LEARNING CENTRE,Retail,2,2,"Hougang 1, Square 2"
+Winning,Retail,2,2,"Causeway Point, Hougang Mall"
+Write Edge,Retail,2,2,"Great World, Westgate"
+Writers' Guild,Retail,2,2,"AMK Hub, Northpoint City"
+Y21,Retail,2,2,"Bugis Junction (Part of Bugis Town), Suntec City"
+ZTP,Retail,2,2,"AMK Hub, Jurong Point"
+Zegna,Retail,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+iBrow Studio,Retail,2,2,"Junction 8, Square 2"
+iClaw Taiwan,Retail,2,2,"Marina Square, The Centrepoint"
+iRun,Retail,2,2,"313@somerset, Wisma Atria"
+TANGS,Retail,1,3,VivoCity
+Brompton Junction,Retail,1,2,Funan
+Hush Puppies (Shoes) Outlet,Retail,1,2,IMM Building
+Little Farms (Cafe),Retail,1,2,Valley Point
+Yu Cai Education Centre,Retail,1,2,Northpoint City
+Zouk,Retail,1,2,CQ @ Clarke Quay
+#RAVE,Retail,1,1,Marina Square
+10 SQUARE @ ORCHARD CENTRAL,Retail,1,1,Orchard Central
+100 Island Beauty and Wellness,Retail,1,1,Aperia Mall
+12HRS Money Exchanger,Retail,1,1,Velocity@Novena Square
+19 Exchange,Retail,1,1,Bugis Junction (Part of Bugis Town)
+1TCM,Retail,1,1,Velocity@Novena Square
+21 Medical Aesthetics Clinic,Retail,1,1,Raffles City Shopping Centre
+24/7 FITNESS ORCHARD,Retail,1,1,Pacific Plaza
+2PM,Retail,1,1,Jurong Point
+2ft. Orthotics,Retail,1,1,Plaza Singapura
+2it & drink,Retail,1,1,Valley Point
+3+ SALON,Retail,1,1,Pacific Plaza
+3DSENSE MEDIA SCHOOL,Retail,1,1,Clarke Quay Central
+3Sixty Degree Lab,Retail,1,1,Northpoint City
+3TMOBILESTORY,Retail,1,1,Century Square
+3WAY,Retail,1,1,Lucky Chinatown
+45R,Retail,1,1,Paragon
+6IXTY8IGHT,Retail,1,1,VivoCity
+8 Treasures,Retail,1,1,Jurong Point
+999.9,Retail,1,1,Ngee Ann City
+A GOOD PLACE,Retail,1,1,One Holland Village
+A+ HAIR SALON,Retail,1,1,Paragon
+A. LANGE & SOHNE,Retail,1,1,ION Orchard
+A.D.S Clinic,Retail,1,1,Suntec City
+AAPE STORE,Retail,1,1,313@somerset
+ABC Cooking Studio,Retail,1,1,Funan
+ABRAKADOODLE ART STUDIO,Retail,1,1,Great World
+ABSOLUTE PILATES,Retail,1,1,Great World
+ACADEMY OF CHIROPRACTIC CLINIC,Retail,1,1,Riverside Point
+ACLIUM,Retail,1,1,Suntec City
+ACNE STUDIOS,Retail,1,1,The Shoppes at Marina Bay Sands
+ADVENTURE 21,Retail,1,1,Clarke Quay Central
+AERIAL ARTS COLLECTIVE,Retail,1,1,Icon Village
+AGASSY,Retail,1,1,Bugis Junction (Part of Bugis Town)
+AHKAH,Retail,1,1,The Shoppes at Marina Bay Sands
+AI JEWELLERY,Retail,1,1,Lucky Chinatown
+AIBI Outlet,Retail,1,1,IMM Building
+AIGNER,Retail,1,1,Paragon
+AILISA WELLNESS,Retail,1,1,Square 2
+AIMER,Retail,1,1,The Shoppes at Marina Bay Sands
+AIMER KIDS,Retail,1,1,The Shoppes at Marina Bay Sands
+AIMER MEN,Retail,1,1,The Shoppes at Marina Bay Sands
+AIX Armani Exchange,Retail,1,1,Ngee Ann City
+AKEMI,Retail,1,1,Plaza Singapura
+AL-AMAN EXCHANGE,Retail,1,1,Causeway Point
+ALDO Outlet,Retail,1,1,IMM Building
+ALEXANDER MCQUEEN,Retail,1,1,The Shoppes at Marina Bay Sands
+ALH RMC Money Changer,Retail,1,1,Wisma Atria
+ALICE+OLIVIA,Retail,1,1,Paragon
+ALIGN BRACES CLINIC,Retail,1,1,Plaza Singapura
+ALIVE TATTOO STUDIO,Retail,1,1,Lucky Chinatown
+ALIZIA GIFT HOUSE,Retail,1,1,Square 2
+ALL IN ONE ACADEMY,Retail,1,1,Junction 10
+ALLSMILES DENTAL CARE,Retail,1,1,One Holland Village
+ALUXE JEWELRY,Retail,1,1,ION Orchard
+AL² RADIANT,Retail,1,1,Plaza Singapura
+AM I ADDICTED KOREAN POTTERY STUDIO,Retail,1,1,Orchard Central
+AMAFFI PERFUME HOUSE,Retail,1,1,The Shoppes at Marina Bay Sands
+AMAZONIA,Retail,1,1,Great World
+AMB Aquatic Hub,Retail,1,1,The Centrepoint
+AMBER FAMILY CLINIC,Retail,1,1,Katong V
+ANAGEN SCALP,Retail,1,1,Pacific Plaza
+ANGLICAN SENIOR CENTRE,Retail,1,1,HillV2
+ANTA Basketball,Retail,1,1,Paragon
+ANTA Kids Outlet,Retail,1,1,IMM Building
+ANTA Outlet,Retail,1,1,IMM Building
+AOE,Retail,1,1,Mandarin Gallery
+AOM,Retail,1,1,Square 2
+APAX MEDICAL & AESTHETICS CLINIC,Retail,1,1,Junction 10
+AQARA HOME,Retail,1,1,Bugis Junction (Part of Bugis Town)
+ARCH,Retail,1,1,Suntec City
+ARKIDENTAL,Retail,1,1,Great World
+ART & ROSES FLOWERS 'N' GIFTS,Retail,1,1,Square 2
+ART VILLAGE,Retail,1,1,West Coast Plaza
+ASIA MUSIC SCHOOL,Retail,1,1,West Coast Plaza
+ASICS Factory Outlet,Retail,1,1,IMM Building
+ASLOWE,Retail,1,1,Northpoint City
+ASSEMBLE / ACCENT,Retail,1,1,Orchard Central
+ASTALIFT,Retail,1,1,Plaza Singapura
+ATLAS KIND,Retail,1,1,Great World
+AURA CLINIC,Retail,1,1,One Holland Village
+AURA MEDICAL AESTHETICS,Retail,1,1,One Holland Village
+AURRA BY JET CONCEPTS,Retail,1,1,Katong V
+AVEDA MICRO EXPERIENCE CENTER,Retail,1,1,Great World
+AWEI,Retail,1,1,United Square
+AWENQIQI,Retail,1,1,Suntec City
+AXS Machine,Retail,1,1,Jem
+AXS Station 2,Retail,1,1,Suntec City
+AXS Stations/Citi/DBS ATMs (Behind Travelators),Retail,1,1,City Square Mall
+Aartical,Retail,1,1,IMM Building
+Abel Richard,Retail,1,1,The Shoppes at Marina Bay Sands
+About Flowers,Retail,1,1,Lot One Shoppers' Mall
+Absolute Boutique Fitness Studio,Retail,1,1,The Centrepoint
+Accentz,Retail,1,1,White Sands
+Accessity,Retail,1,1,The Centrepoint
+Ace Club Tennis,Retail,1,1,Funan
+Acqua di Parma,Retail,1,1,Raffles City Shopping Centre
+Action City,Retail,1,1,Ngee Ann City
+Action City Plus,Retail,1,1,Ngee Ann City
+AcuMed Medical Group,Retail,1,1,Jurong Point
+Adams Tailor,Retail,1,1,Marina Square
+Adeva Spa,Retail,1,1,Paragon
+Adore Cosmetics,Retail,1,1,Plaza Singapura
+Adpost Moneychanger,Retail,1,1,Mandarin Gallery
+AfactivecasualXKaftanique,Retail,1,1,Causeway Point
+Aglow Baby & Child Clinic,Retail,1,1,United Square
+AgnesG. Nails,Retail,1,1,PLQ Mall
+Ai Tang Zu,Retail,1,1,White Sands
+Aircon Gallery by Best Tech,Retail,1,1,IMM Building
+Airzone,Retail,1,1,City Square Mall
+Akemi Home,Retail,1,1,Jem
+AlX ARMANI EXCHANGE,Retail,1,1,ION Orchard
+Alan Photo,Retail,1,1,Funan
+Alchemist & Arcade,Retail,1,1,Funan
+Alice Girl,Retail,1,1,Bugis Junction (Part of Bugis Town)
+All Best,Retail,1,1,IMM Building
+All Best Air-Conditioning,Retail,1,1,Century Square
+Allure Beauty Saloon,Retail,1,1,City Square Mall
+Alo Yoga,Retail,1,1,The Shoppes at Marina Bay Sands
+AlphaTheta,Retail,1,1,Funan
+Amazing Collective,Retail,1,1,The Centrepoint
+Amazing Hearing,Retail,1,1,Bedok Mall
+American Shoe Store (Alden),Retail,1,1,Mandarin Gallery
+Amore Define,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Amore Fitness,Retail,1,1,Tampines 1
+Amore Fitness & Define,Retail,1,1,Plaza Singapura
+Amouage,Retail,1,1,Raffles City Shopping Centre
+"Analisa, The Perfumers' Album, PARIS",Retail,1,1,Plaza Singapura
+Angelique Boutique,Retail,1,1,The Centrepoint
+Anta Kids,Retail,1,1,City Square Mall
+Anthony Hair Boutique,Retail,1,1,Tampines 1
+Anytime Fitness Clarke Quay,Retail,1,1,CQ @ Clarke Quay
+Aparo Golf,Retail,1,1,Marina Square
+Aptos Taekwondo,Retail,1,1,City Square Mall
+Arc'teryx,Retail,1,1,The Shoppes at Marina Bay Sands
+Armani Beauty,Retail,1,1,Raffles City Shopping Centre
+Aroma Truffle,Retail,1,1,Jewel Changi Airport
+Art District SG,Retail,1,1,Mandarin Gallery
+Art Friend,Retail,1,1,Plaza Singapura
+Arteastiq Jamming Studio,Retail,1,1,Mandarin Gallery
+Artisan Jewellery,Retail,1,1,Aperia Mall
+Artistry Hair Studio,Retail,1,1,City Square Mall
+Asia Excel,Retail,1,1,IMM Building
+Asian Artistry,Retail,1,1,The Centrepoint
+Aspire Hub,Retail,1,1,Jurong Point
+Astute Medical Clinic,Retail,1,1,Funan
+Audio-Technica,Retail,1,1,Funan
+Aveda,Retail,1,1,Ngee Ann City
+Aventi Living,Retail,1,1,IMM Building
+Avenue Medical + Surgery Group,Retail,1,1,Ngee Ann City
+Avenue on 3,Retail,1,1,Paragon
+Avinichi,Retail,1,1,Westgate
+Aēsop,Retail,1,1,Tampines Mall
+B Outlet,Retail,1,1,IMM Building
+B*dazzle,Retail,1,1,Wisma Atria
+B. S. Moey - Chong Optometrist & Contact Lens Practitioner,Retail,1,1,Plaza Singapura
+BA&SH,Retail,1,1,The Shoppes at Marina Bay Sands
+BABIES BELLIES,Retail,1,1,Square 2
+BABY DIOR,Retail,1,1,The Shoppes at Marina Bay Sands
+BACKSTAGE HAIR SALON,Retail,1,1,Orchard Central
+BALLY,Retail,1,1,The Shoppes at Marina Bay Sands
+BALMAIN,Retail,1,1,The Shoppes at Marina Bay Sands
+BAO BAO ISSEY MIYAKE,Retail,1,1,The Shoppes at Marina Bay Sands
+BAO ZHI TANG FOOT REFLEXOLOGY,Retail,1,1,Katong V
+BAPE STORE® SINGAPORE,Retail,1,1,Mandarin Gallery
+BBounce Studio,Retail,1,1,The Centrepoint
+BEAUTY COLLECTIVE,Retail,1,1,Square 2
+BEAUTY EMPIRE,Retail,1,1,Square 2
+BEAUTY FULL SKIN,Retail,1,1,Icon Village
+BEAUTY'S ZIP,Retail,1,1,Square 2
+BECOME Aesthetics Clinics,Retail,1,1,Plaza Singapura
+BEN'S COLLECTIONS,Retail,1,1,Square 2
+BFT WEST COAST PLAZA,Retail,1,1,West Coast Plaza
+BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+BIG BUS & DUCK,Retail,1,1,Suntec City
+BJ LUXURY,Retail,1,1,Pacific Plaza
+BKK Forex,Retail,1,1,Aperia Mall
+BLAXK,Retail,1,1,Funan
+BLOOM & BOOM,Retail,1,1,Bugis+ (Part of Bugis Town)
+BOBBI BROWN,Retail,1,1,ION Orchard
+BOCHECHAS X TINY DOTS WONDER,Retail,1,1,Great World
+BOROFONE,Retail,1,1,Lot One Shoppers' Mall
+BOSS Green,Retail,1,1,The Shoppes at Marina Bay Sands
+BOSS Outlet,Retail,1,1,IMM Building
+BOTTOMSLIM AND ASIAN SKIN SOLUTIONS,Retail,1,1,Square 2
+BOUCHERON,Retail,1,1,The Shoppes at Marina Bay Sands
+BP Brow & Lash,Retail,1,1,Bedok Mall
+BR Aesthetics Medical Clinic,Retail,1,1,The Shoppes at Marina Bay Sands
+BUBBLES GYM,Retail,1,1,One Holland Village
+BUBEN & ZORWEG,Retail,1,1,ION Orchard
+BUFF'D NAIL SPA,Retail,1,1,The Shoppes at Marina Bay Sands
+BURBERRY KIDS,Retail,1,1,The Shoppes at Marina Bay Sands
+BUSY BEES LEARNING CENTRE,Retail,1,1,HillV2
+BUZUD,Retail,1,1,Square 2
+BYD,Retail,1,1,Suntec City
+BYREDO,Retail,1,1,Ngee Ann City
+Babies Bliss,Retail,1,1,Plaza Singapura
+Bada Hair,Retail,1,1,Mandarin Gallery
+Bagzx,Retail,1,1,Jurong Point
+Ballet Quarter,Retail,1,1,PLQ Mall
+Bally Photo Electronics,Retail,1,1,Plaza Singapura
+Bank of China ATM,Retail,1,1,Junction 8
+Barani,Retail,1,1,Suntec City
+Barani Outlet,Retail,1,1,IMM Building
+Bath & Body Works by BuyBye Valiram Fashion Outlet,Retail,1,1,IMM Building
+Bbyeol by Ruhens,Retail,1,1,Suntec City
+Be U Hair Design,Retail,1,1,The Centrepoint
+Beaute Hub,Retail,1,1,Suntec City
+Beaute Nails,Retail,1,1,Suntec City
+Beautique,Retail,1,1,The Centrepoint
+Beauty Essentials,Retail,1,1,Century Square
+Beauty Full Skin Wellness,Retail,1,1,Tampines 1
+Bedroom Affairs,Retail,1,1,Waterway Point
+Believer Music,Retail,1,1,Velocity@Novena Square
+Belle & Kate,Retail,1,1,313@somerset
+Belle & Tulle Bridal,Retail,1,1,Paragon
+Belle Watch,Retail,1,1,The Centrepoint
+Bellroy,Retail,1,1,Plaza Singapura
+Bells Baking Studio,Retail,1,1,Suntec City
+BenTahir,Retail,1,1,Northpoint City
+Beneunder 蕉下,Retail,1,1,Westgate
+Benjamin Barker Outlet,Retail,1,1,IMM Building
+Best Imprezzione,Retail,1,1,The Centrepoint
+Best Tech,Retail,1,1,City Square Mall
+Bethesda Medical Centre,Retail,1,1,Suntec City
+Bioskin,Retail,1,1,The Centrepoint
+Bioskin Luxe Aesthetic Clinic,Retail,1,1,The Centrepoint
+Birkenstock Outlet,Retail,1,1,IMM Building
+Black Lily,Retail,1,1,AMK Hub
+Blackoutz,Retail,1,1,Northpoint City
+Ble de Fonty (Opening Soon),Retail,1,1,Jewel Changi Airport
+Blessed Kidz Learning Hub,Retail,1,1,City Square Mall
+Blossom,Retail,1,1,Lot One Shoppers' Mall
+Blue Ribbon Florist & Gifts,Retail,1,1,Tiong Bahru Plaza
+Blé de Fonty,Retail,1,1,313@somerset
+Boarding Gate & The Wallet Shop,Retail,1,1,Bedok Mall
+Bodyworks Chiropractic,Retail,1,1,Aperia Mall
+Boft Photo Printing Machine,Retail,1,1,Jem
+BolotreeSG,Retail,1,1,Northpoint City
+Bonbon Blowout Bar,Retail,1,1,Marina Square
+Bossini. X Outlet,Retail,1,1,IMM Building
+Boulder Movement,Retail,1,1,Bugis+ (Part of Bugis Town)
+Boulder+,Retail,1,1,Aperia Mall
+Boulevard Outdoor Inspirations,Retail,1,1,Plaza Singapura
+Bountifuliving / JOEI,Retail,1,1,Swing By @ Thomson Plaza
+Brands Lover,Retail,1,1,Marina Square
+Braun Büffel,Retail,1,1,Suntec City
+BreakFixNow,Retail,1,1,Bedok Mall
+Bricks & Ocean,Retail,1,1,Marina Square
+Bridging the Gap (Early Intervention For Life),Retail,1,1,City Square Mall
+BritishIndia,Retail,1,1,Marina Square
+Brooks Brothers,Retail,1,1,Paragon
+Brow Art Asia,Retail,1,1,Tiong Bahru Plaza
+Bugis Money Changer,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Buttonscarves,Retail,1,1,Jewel Changi Airport
+By Invite Only Jewellery,Retail,1,1,313@somerset
+Bynd Artisan,Retail,1,1,Raffles City Shopping Centre
+C.C,Retail,1,1,AMK Hub
+CAPITOL OPTICAL MYOPIA MANAGEMENT CENTRE,Retail,1,1,Lot One Shoppers' Mall
+CAPSULE by Watches of Switzerland,Retail,1,1,Jewel Changi Airport
+CARA CLUB,Retail,1,1,Bugis+ (Part of Bugis Town)
+CAREHOME,Retail,1,1,Square 2
+CARS,Retail,1,1,Jurong Point
+CARS International Premier,Retail,1,1,Paragon
+CASE LOGIC,Retail,1,1,Clarke Quay Central
+CASETIFY STUDIO,Retail,1,1,ION Orchard
+CASH STUDIO,Retail,1,1,Clarke Quay Central
+CASING HUB,Retail,1,1,Bugis Junction (Part of Bugis Town)
+CD Plus,Retail,1,1,United Square
+CELMONZE SIGNATURE,Retail,1,1,One Holland Village
+CENDRE@SWEENYS,Retail,1,1,One Holland Village
+CERAMIQUE AESTHETICS,Retail,1,1,Orchard Central
+CERAMIQUE AESTHETICS. WELLNESS,Retail,1,1,Orchard Central
+CH CAROLINA HERRERA,Retail,1,1,The Shoppes at Marina Bay Sands
+CHALLENGER B3,Retail,1,1,ION Orchard
+CHAMBER,Retail,1,1,Wisma Atria
+CHANEL FRAGRANCE & BEAUTY,Retail,1,1,The Shoppes at Marina Bay Sands
+CHANEL PRIVE,Retail,1,1,ION Orchard
+"CHANG BAI SHAN GINSENG MEDICAL HALL, SEAFOOD & BIRD'S NEST WHOLESALE CENTRE",Retail,1,1,Lucky Chinatown
+CHASEYCHARM,Retail,1,1,313@somerset
+CHATEAU DE SABLE,Retail,1,1,Great World
+CHATSWORTH MEDI@RT ACADEMY,Retail,1,1,Riverside Point
+CHEAK,Retail,1,1,ION Orchard
+CHEN KANG WELLNESS & THERAPY,Retail,1,1,West Coast Plaza
+CHIC FEVER,Retail,1,1,Bugis Junction (Part of Bugis Town)
+CHINA CONSTRUCTION (SOUTH PACIFIC) DEVELOPMENT CO.,Retail,1,1,Riverside Point
+CHINATOWN SEAL CARVING SOUVENIR,Retail,1,1,Lucky Chinatown
+CHJ JEWELLERY,Retail,1,1,Northpoint City
+CHLOÉ,Retail,1,1,The Shoppes at Marina Bay Sands
+CHONG HOE HEALTHCARE,Retail,1,1,Clarke Quay Central
+CHRONO95 Luxury Watch Boutique,Retail,1,1,Mandarin Gallery
+CHUN KEI JEWELLERY,Retail,1,1,Lucky Chinatown
+CITI WEALTH CENTRE,Retail,1,1,One Holland Village
+CLARINS SKIN SPA,Retail,1,1,ION Orchard
+CLE DE PEAU BEAUTE,Retail,1,1,ION Orchard
+CLEANLY DRY CLEANING & ALTERATION,Retail,1,1,Square 2
+CLICK PHOTO IDEAS,Retail,1,1,Great World
+CLOUD 9 STUDIO,Retail,1,1,Bedok Mall
+CLUB 101,Retail,1,1,Orchard Central
+CLUB MONACO,Retail,1,1,ION Orchard
+CLUB PILATES,Retail,1,1,Orchard Central
+CLUB21 X PLAY COMME DES GARÇONS,Retail,1,1,The Shoppes at Marina Bay Sands
+CLÉMENCE BY RUE MADAME,Retail,1,1,Great World
+CMA Mental Arithmetic Centre,Retail,1,1,City Square Mall
+CO PLAY,Retail,1,1,Plaza Singapura
+COACH Outlet,Retail,1,1,IMM Building
+COGITO CHEMISTRY,Retail,1,1,Square 2
+COLDWEAR Outlet,Retail,1,1,IMM Building
+COLOR MOON ART STUDIO,Retail,1,1,Clarke Quay Central
+COMFORT ZONE SIGNATURE,Retail,1,1,Square 2
+CONFORMITY,Retail,1,1,Orchard Central
+CONNECT @ City Square Mall,Retail,1,1,City Square Mall
+COSMO HAIR & BEAUTY SALON,Retail,1,1,Great World
+COULISSE HEIR,Retail,1,1,ION Orchard
+COZ,Retail,1,1,Bugis Junction (Part of Bugis Town)
+CR Group,Retail,1,1,Funan
+CRISTOFORI ACADEMY OF FINE ARTS,Retail,1,1,One Holland Village
+CRUMPLER,Retail,1,1,ION Orchard
+CS FRESH BY COLD STORAGE,Retail,1,1,Great World
+CS Fresh Gold,Retail,1,1,Paragon
+CTDI,Retail,1,1,Aperia Mall
+CUE 8 BILLIARDS,Retail,1,1,Clarke Quay Central
+CUE GURU POOL SPORT @ BUGIS+,Retail,1,1,Bugis+ (Part of Bugis Town)
+CURIOUS CREATURES,Retail,1,1,ION Orchard
+Caesars,Retail,1,1,Plaza Singapura
+Calista Fashion,Retail,1,1,Jurong Point
+Calligaris,Retail,1,1,Suntec City
+Calvin Klein Outlet,Retail,1,1,IMM Building
+Card Arena by MyRepublic,Retail,1,1,Suntec City
+Card Shack Machine,Retail,1,1,Jem
+Cardboard Collectible,Retail,1,1,The Centrepoint
+Caribbean,Retail,1,1,The Centrepoint
+Caring Skin,Retail,1,1,Ngee Ann City
+Carousell Luxury,Retail,1,1,The Centrepoint
+Cartier at Cortina Watch,Retail,1,1,Raffles City Shopping Centre
+Cash Lux,Retail,1,1,Century Square
+Celmonze Signature Aesthetic,Retail,1,1,Funan
+Central Exchange Money Changer,Retail,1,1,Suntec City
+Challenger Flagship Store,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Champion Outlet,Retail,1,1,IMM Building
+Chandra Exchange,Retail,1,1,Tampines Mall
+Chanel Beauty at BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Chanel Watches & Fine Jewellery,Retail,1,1,Ngee Ann City
+Charles & Keith Outlet,Retail,1,1,IMM Building
+Chateau de Sable Outlet,Retail,1,1,IMM Building
+Chaut Fifth,Retail,1,1,Suntec City
+Chen Kang Wellness,Retail,1,1,Tampines Mall
+Cheng Rui Lifestyle Feng Shui,Retail,1,1,Tampines 1
+Cheongdam Aesthetics Clinic,Retail,1,1,United Square
+Cheongdam Korean Skin Management,Retail,1,1,United Square
+Cheongdam Skin Management & Aesthetics Clinic,Retail,1,1,Jurong Point
+Chequered Flag,Retail,1,1,Wisma Atria
+Cheris,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Cheryl W Wellness & Weight Management,Retail,1,1,Ngee Ann City
+Chez Vous . Chez Image,Retail,1,1,Ngee Ann City
+Chiki Can Paint,Retail,1,1,AMK Hub
+Chimp Champ,Retail,1,1,Marina Square
+Chiropractic First The Spine & Nerve Clinic,Retail,1,1,Sengkang Grand Mall
+Choa Chu Kang Public Library,Retail,1,1,Lot One Shoppers' Mall
+Chopard at Cortina Watch,Retail,1,1,Raffles City Shopping Centre
+Chota House,Retail,1,1,313@somerset
+Château de Sable,Retail,1,1,Paragon
+Citi Beauty Aesthetics,Retail,1,1,Velocity@Novena Square
+Citispa,Retail,1,1,Northpoint City
+City Chain Outlet,Retail,1,1,IMM Building
+City Mahjong Centre,Retail,1,1,Jurong Point
+City Tourist Hub,Retail,1,1,Marina Square
+Clarins at BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Clariti - Hearing Care Professionals,Retail,1,1,The Centrepoint
+Clarks Outlet,Retail,1,1,IMM Building
+ClawGey,Retail,1,1,White Sands
+ClearSK Laser Aesthetic Clinic,Retail,1,1,Westgate
+Clearlab,Retail,1,1,The Centrepoint
+Clifford Gems & Money Exchange,Retail,1,1,Raffles City Shopping Centre
+Clinico Hearing Solution,Retail,1,1,Velocity@Novena Square
+Clinique,Retail,1,1,Causeway Point
+Clippers Barber & Smoovee Skin,Retail,1,1,Waterway Point
+Cloud9,Retail,1,1,Century Square
+Cloud9 Studio,Retail,1,1,Westgate
+Clovers,Retail,1,1,Jurong Point
+Club Shine,Retail,1,1,Marina Square
+Clé de Peau Beauté,Retail,1,1,The Shoppes at Marina Bay Sands
+Coloc The Tailor,Retail,1,1,Mandarin Gallery
+Colorwash,Retail,1,1,Mandarin Gallery
+Compass Foreign Exchange,Retail,1,1,Sengkang Grand Mall
+Concept Nailz Spa,Retail,1,1,City Square Mall
+Connect 4,Retail,1,1,VivoCity
+ConnectIT by Jade Gift Shop,Retail,1,1,313@somerset
+Connor,Retail,1,1,Bugis+ (Part of Bugis Town)
+Converse Outlet,Retail,1,1,IMM Building
+Coo. Seoul+,Retail,1,1,Jurong Point
+Core Concepts,Retail,1,1,Velocity@Novena Square
+Corinne Jewelry,Retail,1,1,Marina Square
+Corinthians Asia Group (Office),Retail,1,1,CQ @ Clarke Quay
+Cotton Amour,Retail,1,1,Marina Square
+Cotton On Kids Outlet,Retail,1,1,IMM Building
+Craftsmen Authentic / Explorer,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Craftsmen Authentic Optical,Retail,1,1,United Square
+Crawfurd Medical,Retail,1,1,Suntec City
+Creed,Retail,1,1,Raffles City Shopping Centre
+Creme Hairdressing,Retail,1,1,City Square Mall
+Crocodile Outlet,Retail,1,1,IMM Building
+Crocs Outlet Shop,Retail,1,1,IMM Building
+Crystal Optics,Retail,1,1,Hougang Mall
+Crystal Wines,Retail,1,1,Valley Point
+Cupid,Retail,1,1,Northpoint City
+Cute and Funny,Retail,1,1,Bugis Junction (Part of Bugis Town)
+D&C Design & Comfort,Retail,1,1,Suntec City
+D&C Shoes,Retail,1,1,City Square Mall
+DAISO JAPAN X THREEPPY,Retail,1,1,Square 2
+"DAISO Japan, Standard Products and THREEPPY",Retail,1,1,IMM Building
+DAISO X THREEPPY,Retail,1,1,Clarke Quay Central
+DAVIDOFF OF GENEVA,Retail,1,1,The Shoppes at Marina Bay Sands
+DBS DIGITAL LOBBY,Retail,1,1,Great World
+DBS/POSB,Retail,1,1,Century Square
+DE FIGURELAB,Retail,1,1,Bugis Junction (Part of Bugis Town)
+DEJADE JEWELLERY,Retail,1,1,Mandarin Gallery
+DELSEY PARIS,Retail,1,1,Suntec City
+DELTA DENTAL SURGEONS,Retail,1,1,Aperia Mall
+DELVAUX,Retail,1,1,The Shoppes at Marina Bay Sands
+DENTAL FOCUS JUNCTION 10 CLINIC,Retail,1,1,Junction 10
+DENTALTRENDZ 时尚牙科 WEST COAST,Retail,1,1,West Coast Plaza
+DER ANTHYLLIS ORGANIC,Retail,1,1,Pacific Plaza
+DESIGUAL,Retail,1,1,ION Orchard
+DETERMINANT,Retail,1,1,Plaza Singapura
+DEVIALET,Retail,1,1,The Shoppes at Marina Bay Sands
+DF Academy,Retail,1,1,Westgate
+DIMENSIONS INTERNATIONAL COLLEGE,Retail,1,1,One Holland Village
+DIOR B2-52,Retail,1,1,ION Orchard
+DIOR MEN,Retail,1,1,The Shoppes at Marina Bay Sands
+DIOR PRESTIGE LA SUITE,Retail,1,1,ION Orchard
+DISTINCT CREATIVE ARTS,Retail,1,1,West Coast Plaza
+DLUSH.SG,Retail,1,1,The Centrepoint
+DO MY HAIR,Retail,1,1,Orchard Central
+DOLCE&GABBANA JUNIOR,Retail,1,1,The Shoppes at Marina Bay Sands
+DONGFENG Volt Auto,Retail,1,1,Suntec City
+DOPAMINE RUSH,Retail,1,1,Orchard Central
+DP Architects Pte Ltd,Retail,1,1,Marina Square
+DR. SOLUTIONS AESTHETIC CLINIC,Retail,1,1,Orchard Central
+DRAGON BRAND BIRD'S NEST,Retail,1,1,The Shoppes at Marina Bay Sands
+DRX MEDICAL AESTHETICS X-PRESS,Retail,1,1,Northpoint City
+DRx Medispa,Retail,1,1,313@somerset
+DTAP EXPRESS,Retail,1,1,Icon Village
+DU YI BOOKSHOP,Retail,1,1,West Coast Plaza
+DUALSONIC,Retail,1,1,Jem
+DaErCto,Retail,1,1,IMM Building
+Daily & Co,Retail,1,1,Marina Square
+Daiso Japan,Retail,1,1,Marina Square
+Damiani,Retail,1,1,Paragon
+Dance Thrilogy,Retail,1,1,Marina Square
+Dancepointe Academy,Retail,1,1,City Square Mall
+Danz People,Retail,1,1,Marina Square
+Daughters Diamonds,Retail,1,1,Paragon
+Daum,Retail,1,1,Paragon
+Dayspring Medical Clinic,Retail,1,1,Century Square
+Dead Sea Premier,Retail,1,1,Jurong Point
+Dear Bliss,Retail,1,1,Marina Square
+Deen Exchange,Retail,1,1,313@somerset
+Deen Express,Retail,1,1,313@somerset
+Dementia Singapore Ltd,Retail,1,1,Jurong Point
+Demo Store for Demo,Retail,1,1,VivoCity
+Denim D'Artisan,Retail,1,1,313@somerset
+Denticare,Retail,1,1,Jurong Point
+Design & Comfort (D&C),Retail,1,1,AMK Hub
+Designer Brow Beauty,Retail,1,1,Marina Square
+Diamond Ateliers,Retail,1,1,The Centrepoint
+Diamond2®,Retail,1,1,Wisma Atria
+Digital Xpress,Retail,1,1,United Square
+Dimension Poptown,Retail,1,1,Suntec City
+Dior Beauty Boutique,Retail,1,1,Jem
+Disabled People's Association,Retail,1,1,Jurong Point
+Dollar Exchange,Retail,1,1,Jurong Point
+Dollhouse,Retail,1,1,Waterway Point
+Donna Aesthetics/ La Vida/ Nailz Haus/ HGs,Retail,1,1,AMK Hub
+Donna Beauty,Retail,1,1,White Sands
+Dorifto!,Retail,1,1,Velocity@Novena Square
+Dr Mark Leong’s Clubhouse,Retail,1,1,Mandarin Gallery
+Dr Scalp,Retail,1,1,Raffles City Shopping Centre
+DrScalp,Retail,1,1,The Centrepoint
+Dreams Studio,Retail,1,1,IMM Building
+Dressing Paula,Retail,1,1,Raffles City Shopping Centre
+"Drs Lim, Hoe & Wong Radiology Pte Ltd",Retail,1,1,Jurong Point
+Drs Singh & Partners,Retail,1,1,Raffles City Shopping Centre
+Drumstruck Studios,Retail,1,1,Funan
+Dunlopillo Suite,Retail,1,1,IMM Building
+Dyslexia Association of Singapore,Retail,1,1,Jurong Point
+Dyson Demo Store Service Centre,Retail,1,1,Jewel Changi Airport
+E'BOUNTY SKINCARE,Retail,1,1,Clarke Quay Central
+E-H Hairdesign Studio,Retail,1,1,United Square
+EAST SIDE PILATES,Retail,1,1,Katong V
+EBLACKBOX,Retail,1,1,Bugis+ (Part of Bugis Town)
+ECCO Outlet,Retail,1,1,IMM Building
+ECHO GOODS,Retail,1,1,Bugis+ (Part of Bugis Town)
+ECLAIRE & SAVOIR,Retail,1,1,313@somerset
+ECOK. CHARCOALHOUSE,Retail,1,1,AMK Hub
+EICHITOO,Retail,1,1,Bugis Junction (Part of Bugis Town)
+ELAN HAIR STUDIO,Retail,1,1,Clarke Quay Central
+ELEGANCE ETERNAL,Retail,1,1,Clarke Quay Central
+ELEMIS,Retail,1,1,Tampines Mall
+ELEMIS LONDON,Retail,1,1,ION Orchard
+ELISSA MEDICAL CLINIC,Retail,1,1,Hougang 1
+EMBRACE+ JEWELLERY & MORE,Retail,1,1,One Holland Village
+EMERGE ARTS & MEDIA ACADEMY,Retail,1,1,Clarke Quay Central
+EMPIRE,Retail,1,1,Westgate
+EMPORIO ARMANI JUNIOR,Retail,1,1,The Shoppes at Marina Bay Sands
+EMTOP - Making A Difference,Retail,1,1,Westgate
+ENERGIA FITNESS,Retail,1,1,Riverside Point
+ENGLISH BY JEN,Retail,1,1,Katong V
+ENVIE DE POIS,Retail,1,1,ION Orchard
+EPI TREATZ,Retail,1,1,Square 2
+EROS BEAUTY & WELLNESS,Retail,1,1,Square 2
+ESSENTIALS TRADITIONAL CHINESE MEDICINE,Retail,1,1,Lucky Chinatown
+ESTA,Retail,1,1,Raffles City Shopping Centre
+ETC Travel Retail,Retail,1,1,Junction 8
+ETRO,Retail,1,1,Paragon
+EU Travel Expo,Retail,1,1,Suntec City
+EVISU Outlet,Retail,1,1,IMM Building
+EVOLVE MMA,Retail,1,1,Orchard Central
+EVOLVE SALON,Retail,1,1,Great World
+EVRYDAY STUDIOS,Retail,1,1,Great World
+EX Style Prestige,Retail,1,1,Jurong Point
+EXPRESS CORNER MONEY CHANGER,Retail,1,1,Great World
+EYE MASTER,Retail,1,1,West Coast Plaza
+EYE STUDIO TOKYO,Retail,1,1,Clarke Quay Central
+Eazea,Retail,1,1,Jurong Point
+Eccellente by HAO mart,Retail,1,1,Marina Square
+Eclado,Retail,1,1,The Centrepoint
+Eclat By Oui,Retail,1,1,313@somerset
+Edition,Retail,1,1,Raffles City Shopping Centre
+Editions De Parfums Frédéric Malle,Retail,1,1,Raffles City Shopping Centre
+EduFirst Learning Centre,Retail,1,1,Northpoint City
+Edvox Music School,Retail,1,1,Waterway Point
+Efflorescence Face.Eyebrow,Retail,1,1,United Square
+Elegant Nails,Retail,1,1,Valley Point
+Elite Supplements,Retail,1,1,Funan
+Elly Sera Florist,Retail,1,1,Marina Square
+Elm Tree,Retail,1,1,City Square Mall
+Enchanted Home,Retail,1,1,City Square Mall
+Energized,Retail,1,1,PLQ Mall
+Ergoworks,Retail,1,1,Marina Square
+EsBoudoir,Retail,1,1,VivoCity
+Esiney Trading,Retail,1,1,Jem
+Eubiq,Retail,1,1,IMM Building
+Everbest Outlet,Retail,1,1,IMM Building
+Express Money Exchange,Retail,1,1,Northpoint City
+Expressions,Retail,1,1,Funan
+Eye & Retina Surgeons (ERS) Suntec City,Retail,1,1,Suntec City
+Eye Do Optic,Retail,1,1,Jurong Point
+Eye Practice,Retail,1,1,Marina Square
+Eyecare Studio Optometrist,Retail,1,1,Jurong Point
+Eyechamp Young,Retail,1,1,Waterway Point
+Eyeventure Optometrist,Retail,1,1,Junction 8
+Eyewear House,Retail,1,1,Junction 8
+FAI JEWELLERY TRADING,Retail,1,1,Lucky Chinatown
+FAMILY CARE PHYSIOTHERAPY CLINIC,Retail,1,1,West Coast Plaza
+FAMILY-COM,Retail,1,1,Great World
+FANKA,Retail,1,1,Bugis+ (Part of Bugis Town)
+FANTASIA MUSIC ACADEMY,Retail,1,1,Orchard Central
+FAR EAST EXCHANGE,Retail,1,1,The Shoppes at Marina Bay Sands
+FARM FROZEN,Retail,1,1,Square 2
+FE The Nail Lounge,Retail,1,1,Raffles City Shopping Centre
+FEMINU,Retail,1,1,Lot One Shoppers' Mall
+FILA KIDS OUTLET,Retail,1,1,IMM Building
+FILA Outlet,Retail,1,1,IMM Building
+FIRMAN SHAH (Money Changer),Retail,1,1,Bedok Mall
+FIRMAN SHAH ISLAND,Retail,1,1,Clarke Quay Central
+FIX BOT,Retail,1,1,Square 2
+FJORD STEEL EXPRESSIONS,Retail,1,1,Square 2
+FLO. BY ABRAKADOODLE,Retail,1,1,Orchard Central
+FRED,Retail,1,1,The Shoppes at Marina Bay Sands
+FREE Skin & Body Perfect,Retail,1,1,The Centrepoint
+FRESH DE BEAU,Retail,1,1,Clarke Quay Central
+FRESHE BEAUTE,Retail,1,1,Clarke Quay Central
+FRETTE,Retail,1,1,The Shoppes at Marina Bay Sands
+FRIENDS GOLF,Retail,1,1,Clarke Quay Central
+FS8,Retail,1,1,HillV2
+FU TAI WELLNESS CENTRE,Retail,1,1,Lucky Chinatown
+FUJITEC by OGAWA,Retail,1,1,Suntec City
+FUNNYLAND SINGAPORE,Retail,1,1,Bugis Junction (Part of Bugis Town)
+FUR A VETRESKA PET STORE,Retail,1,1,One Holland Village
+FURLA,Retail,1,1,Paragon
+FURLA Outlet,Retail,1,1,IMM Building
+Faber-Castell,Retail,1,1,Marina Square
+Fabindia,Retail,1,1,VivoCity
+FarEastFlora.com,Retail,1,1,City Square Mall
+Fengshui World,Retail,1,1,Bedok Mall
+Fight Zone,Retail,1,1,AMK Hub
+Fight Zone Singapore,Retail,1,1,Velocity@Novena Square
+Fila Flagship S.E.A,Retail,1,1,Jewel Changi Airport
+Finger Waltz Music,Retail,1,1,PLQ Mall
+First Lady Nails & Beauty,Retail,1,1,Northpoint City
+First Luxury,Retail,1,1,Mandarin Gallery
+Firstpointe,Retail,1,1,Aperia Mall
+FitFlop and Teva,Retail,1,1,Tampines Mall
+Fitness First Platinum,Retail,1,1,Westgate
+Fjallraven,Retail,1,1,313@somerset
+Flavours of Ishikawa,Retail,1,1,Ngee Ann City
+Flight Experience,Retail,1,1,Funan
+Food Art,Retail,1,1,Raffles City Shopping Centre
+Foot Locker,Retail,1,1,Jewel Changi Airport
+Foot Locker Inc.,Retail,1,1,PLQ Mall
+Foot Tree,Retail,1,1,City Square Mall
+Footnote Reflexology,Retail,1,1,PLQ Mall
+Fort Canine Swimming Club,Retail,1,1,CQ @ Clarke Quay
+Fortoire,Retail,1,1,Suntec City
+Fotohi Carpet Gallery,Retail,1,1,The Centrepoint
+Fountain Money Changer,Retail,1,1,Marina Square
+Four Star By ISZ Bedding,Retail,1,1,City Square Mall
+Fraiche,Retail,1,1,Raffles City Shopping Centre
+Freia Aesthetics,Retail,1,1,Marina Square
+Fresh and Clean,Retail,1,1,Sengkang Grand Mall
+Fresver,Retail,1,1,Sengkang Grand Mall
+Fuji Film by Mach Photo,Retail,1,1,City Square Mall
+Fujifilm X Space,Retail,1,1,Suntec City
+Fujitec,Retail,1,1,Causeway Point
+FullOut,Retail,1,1,Plaza Singapura
+Fullerton Health,Retail,1,1,Jurong Point
+Fun Dream,Retail,1,1,Plaza Singapura
+Fun Station,Retail,1,1,Plaza Singapura
+Functional Health Centre,Retail,1,1,Funan
+G Military,Retail,1,1,White Sands
+G'Plan,Retail,1,1,IMM Building
+G-SHOCK CASIO PREMIUM,Retail,1,1,The Shoppes at Marina Bay Sands
+G-Star Raw,Retail,1,1,Paragon
+G2 by G2000,Retail,1,1,IMM Building
+GAC,Retail,1,1,PLQ Mall
+GG GAMER’S GUILD,Retail,1,1,Bugis+ (Part of Bugis Town)
+GIFTED AND TALENTED EDUCATION,Retail,1,1,Katong V
+GIORGIO ARMANI BEAUTY,Retail,1,1,ION Orchard
+GK Global,Retail,1,1,Causeway Point
+GOLDHEART JEWEL GALLERIA,Retail,1,1,ION Orchard
+GOLDMINE XCHANGE (MONEY CHANGER),Retail,1,1,Great World
+GOLFX,Retail,1,1,Great World
+GOOD HEALTH TCM CLINIC 好健康家庭中医诊所,Retail,1,1,Lot One Shoppers' Mall
+GPA Dental Group United Square,Retail,1,1,United Square
+GRACE NAIL,Retail,1,1,Clarke Quay Central
+GRAF VON FABER-CASTELL,Retail,1,1,ION Orchard
+GUARDIAN B4,Retail,1,1,ION Orchard
+GUCCI KIDS,Retail,1,1,The Shoppes at Marina Bay Sands
+GUESS Outlet,Retail,1,1,IMM Building
+GUINOT INSTITUT PARIS,Retail,1,1,Katong V
+GX-5 Extreme Swing,Retail,1,1,CQ @ Clarke Quay
+Gadget Surelution,Retail,1,1,City Square Mall
+Galaxy Gymnastics,Retail,1,1,City Square Mall
+GameXtreme,Retail,1,1,Tampines Mall
+Garden,Retail,1,1,Suntec City
+Geberit / Franke,Retail,1,1,Marina Square
+Geniebook,Retail,1,1,United Square
+Geniebook CAMPUS,Retail,1,1,Junction 8
+Geniebook CAMPUS & AfterSkool,Retail,1,1,Century Square
+Giant Hypermarket,Retail,1,1,IMM Building
+Gift by Changi Airport,Retail,1,1,Jewel Changi Airport
+Giggle Jungle by Yooland,Retail,1,1,City Square Mall
+Gingersnaps Outlet,Retail,1,1,IMM Building
+Giordano Outlet,Retail,1,1,IMM Building
+Glamour+,Retail,1,1,City Square Mall
+Glassesgateway,Retail,1,1,Tiong Bahru Plaza
+Glow 2 Go,Retail,1,1,Jurong Point
+Glow Haven,Retail,1,1,City Square Mall
+Glow Haven Aesthetics and Wellness,Retail,1,1,Jem
+Goelia,Retail,1,1,Jewel Changi Airport
+Golden Goose,Retail,1,1,The Shoppes at Marina Bay Sands
+Golden Goose Deluxe Brand / YOUNIQUE,Retail,1,1,Paragon
+Goldheart Jewelry,Retail,1,1,Jem
+Goldlion,Retail,1,1,Jurong Point
+Goldlion Outletshop,Retail,1,1,IMM Building
+Gown Forestry & Co.,Retail,1,1,Suntec City
+Goyard,Retail,1,1,Ngee Ann City
+Greatminds,Retail,1,1,City Square Mall
+GreenLeiF,Retail,1,1,Valley Point
+Guardian Health & Beauty / Pharmacy,Retail,1,1,City Square Mall
+Guardian Pharmacy,Retail,1,1,Paragon
+Gucci Beauty at BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Guess Accessories,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Gulf Fragrances,Retail,1,1,Jewel Changi Airport
+Guo Tai TCM Rehab & Wellness Centre,Retail,1,1,The Centrepoint
+H M Gallery Outlet,Retail,1,1,IMM Building
+H&M Kids,Retail,1,1,United Square
+H. Moser & Cie at Cortina Watch,Retail,1,1,Raffles City Shopping Centre
+HAIR ATELIER BY SHUNJI MATSUO,Retail,1,1,ION Orchard
+HAIR SEQUENCE,Retail,1,1,West Coast Plaza
+HAIRPLUSLAB,Retail,1,1,Katong V
+HAKKA,Retail,1,1,The Centrepoint
+HANA FILM,Retail,1,1,Orchard Central
+HANGUK SKIN SOLUTIONS,Retail,1,1,Pacific Plaza
+HANLIN LANGUAGE SCHOOL,Retail,1,1,Junction 10
+HAPPY TOGETHER,Retail,1,1,Orchard Central
+HARNN,Retail,1,1,Raffles City Shopping Centre
+HARRY WINSTON,Retail,1,1,ION Orchard
+HASSAN & SONS EXCHANGE,Retail,1,1,AMK Hub
+HAVEFUN,Retail,1,1,Lucky Chinatown
+HEADS UP FOR TAILS,Retail,1,1,Great World
+HEARTSLAND DENTAL,Retail,1,1,Hougang 1
+HEC Life+,Retail,1,1,The Shoppes at Marina Bay Sands
+HELENA RUBINSTEIN,Retail,1,1,ION Orchard
+HERMETISE,Retail,1,1,Raffles City Shopping Centre
+HESS PRESCHOOL,Retail,1,1,Katong V
+HEVEYA,Retail,1,1,Great World
+HI STYLE,Retail,1,1,Bugis Junction (Part of Bugis Town)
+HIDOLPHIN COUNSELLING,Retail,1,1,Square 2
+HKI International Exchange (Money Changer),Retail,1,1,Suntec City
+HM Gallery,Retail,1,1,Marina Square
+HMI OneCare Clinic,Retail,1,1,Jurong Point
+HOKA Outlet,Retail,1,1,IMM Building
+HOLA MOBILE PITSTOP,Retail,1,1,Greenwich V
+HONG FU MART,Retail,1,1,West Coast Plaza
+HOOGA Scents,Retail,1,1,IMM Building
+HOPLA! Kids Shoe Shop,Retail,1,1,United Square
+HOT YOGA STUDIO LAVA,Retail,1,1,Great World
+HUES by Full House Salon,Retail,1,1,Tampines 1
+HUGO,Retail,1,1,ION Orchard
+HWA International School,Retail,1,1,Marina Square
+Habanos,Retail,1,1,Suntec City
+Hair Inn,Retail,1,1,Plaza Singapura
+Hair Plus Korean Salon,Retail,1,1,Suntec City
+Hair by Billie,Retail,1,1,Raffles City Shopping Centre
+Hairology,Retail,1,1,Plaza Singapura
+Hallyu Hair,Retail,1,1,Funan
+Han Dian TCM,Retail,1,1,Northpoint City
+Handicaps Welfare Association Rehab & Training Centre @ Jurong,Retail,1,1,Jurong Point
+Handphone Inspiration,Retail,1,1,Marina Square
+Hao Yi Tou,Retail,1,1,Northpoint City
+Havaianas,Retail,1,1,Ngee Ann City
+Havaianas Outlet,Retail,1,1,IMM Building
+HaveFun Family KTV,Retail,1,1,313@somerset
+HaveFun Family Karaoke,Retail,1,1,Suntec City
+HaveFun Karaoke,Retail,1,1,Bugis+ (Part of Bugis Town)
+HaveFun LiveShow,Retail,1,1,Bugis+ (Part of Bugis Town)
+Head Spa by GOYO,Retail,1,1,Mandarin Gallery
+Healthway Hougang Clinic,Retail,1,1,Hougang Mall
+Healthway Medical & Straits Podiatry,Retail,1,1,The Centrepoint
+Heart Springs Wellness,Retail,1,1,PLQ Mall
+Heart To Heart Jewellery,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Hedgren,Retail,1,1,Suntec City
+Heguru Education Centre,Retail,1,1,Waterway Point
+Heguru Singapore,Retail,1,1,City Square Mall
+Hello Station,Retail,1,1,Jurong Point
+Henry Jacques,Retail,1,1,The Shoppes at Marina Bay Sands
+Heritage Strings & Arts,Retail,1,1,Marina Square
+Hermès Perfume and Beauty store,Retail,1,1,Raffles City Shopping Centre
+Herschel,Retail,1,1,Funan
+Herschel Supply Company,Retail,1,1,313@somerset
+Hinomi,Retail,1,1,Aperia Mall
+HipVan Atelier,Retail,1,1,CQ @ Clarke Quay
+Hisential Orchard Clinic,Retail,1,1,Mandarin Gallery
+Hitec Mobile & Repair Center,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Hoe Kee,Retail,1,1,IMM Building
+Home Baking Day,Retail,1,1,City Square Mall
+Home's Favourite Bakes,Retail,1,1,Jewel Changi Airport
+Homme Plissé Issey Miyake,Retail,1,1,The Shoppes at Marina Bay Sands
+Hong Leong Finance,Retail,1,1,City Square Mall
+Honor Experience Store,Retail,1,1,Tiong Bahru Plaza
+HopHop Bunny,Retail,1,1,Marina Square
+Hot Toys,Retail,1,1,Bugis Junction (Part of Bugis Town)
+House of Cars,Retail,1,1,The Centrepoint
+Hua Cheng & Learning Point,Retail,1,1,Century Square
+Hua Cheng Education Centre,Retail,1,1,City Square Mall
+Hugh British,Retail,1,1,Marina Square
+Hungry Hungry Hippo,Retail,1,1,VivoCity
+Hush Puppies Apparel,Retail,1,1,Northpoint City
+Hydro Flask,Retail,1,1,Funan
+Hästens,Retail,1,1,The Shoppes at Marina Bay Sands
+I LOVE SG,Retail,1,1,Jewel Changi Airport
+I-OBSERVATION HOUSE,Retail,1,1,Hougang 1
+I-PRIMO,Retail,1,1,ION Orchard
+I-PRIMO Tokyo,Retail,1,1,Suntec City
+I.E.F.SG,Retail,1,1,Bedok Mall
+IC2P,Retail,1,1,Jurong Point
+ICON Hair Salon,Retail,1,1,Tampines 1
+IGLOW,Retail,1,1,Great World
+IKEA Jurong,Retail,1,1,Jem
+IL Clay Supper Club,Retail,1,1,CQ @ Clarke Quay
+ILLUM.E,Retail,1,1,Square 2
+IMPRESSION FACE & BODY CARE,Retail,1,1,Clarke Quay Central
+IN GOOD COMPANY,Retail,1,1,ION Orchard
+IN.COLLECTIONS,Retail,1,1,Pacific Plaza
+INGCO,Retail,1,1,Jurong Point
+INSTIC ACADEMY,Retail,1,1,West Coast Plaza
+INTO BEAUTY,Retail,1,1,Clarke Quay Central
+ISLAND RUN CLUB,Retail,1,1,Great World
+IZUMI AESTHETICS,Retail,1,1,Clarke Quay Central
+Iban Express,Retail,1,1,AMK Hub
+Ichiru Homestyle,Retail,1,1,Lot One Shoppers' Mall
+Ilham Empire,Retail,1,1,Causeway Point
+Iliyas Trading Money Changer,Retail,1,1,Tiong Bahru Plaza
+Imago Aesthetic,Retail,1,1,The Centrepoint
+In Trim Hair,Retail,1,1,Aperia Mall
+Income Insurance,Retail,1,1,AMK Hub
+Indulge Skin & Body Lab,Retail,1,1,AMK Hub
+Infinity Kpop,Retail,1,1,Suntec City
+Ink & Sacs,Retail,1,1,Marina Square
+Inmers,Retail,1,1,City Square Mall
+Innersense Beauty & Wellness,Retail,1,1,Suntec City
+Innersense Signature,Retail,1,1,Waterway Point
+Instant Glamour,Retail,1,1,Marina Square
+Invader & ASUS,Retail,1,1,Funan
+Ipanema,Retail,1,1,Marina Square
+Irvins Salted Egg,Retail,1,1,Jewel Changi Airport
+Iuiga,Retail,1,1,Funan
+J Beauty Bar & Spa,Retail,1,1,Bugis Junction (Part of Bugis Town)
+J Glasses & Hearing,Retail,1,1,PLQ Mall
+J Lindeberg,Retail,1,1,Mandarin Gallery
+J. KEYER +,Retail,1,1,Great World
+JADE DYNASTY GALLERY,Retail,1,1,Lucky Chinatown
+JAN & ELLY ENGLISH LANGUAGE SCHOOL,Retail,1,1,Greenwich V
+JANTZEN,Retail,1,1,West Coast Plaza
+JANTZEN SALON,Retail,1,1,Great World
+JAPANESE BODY THERAPY,Retail,1,1,Suntec City
+JASS HAIR DESIGN,Retail,1,1,Square 2
+JC Global,Retail,1,1,Northpoint City
+JD,Retail,1,1,Funan
+JD- King of Trainers,Retail,1,1,Jurong Point
+JEEVES-LONDON'S FINEST DRY CLEANERS,Retail,1,1,Pacific Plaza
+JENNIFER GREEN,Retail,1,1,ION Orchard
+JERIC SALON,Retail,1,1,ION Orchard
+JET'AMINE,Retail,1,1,Bugis Junction (Part of Bugis Town)
+JHL TCM Beauty,Retail,1,1,Bedok Mall
+JIANG EDUCATION CENTRE,Retail,1,1,West Coast Plaza
+JINTONG CARL CONSULTANCY,Retail,1,1,Riverside Point
+JM Taekwondo,Retail,1,1,The Centrepoint
+JML,Retail,1,1,Causeway Point
+JNC BEAUTY AESTHETICS,Retail,1,1,Lucky Chinatown
+JOOCYEE,Retail,1,1,Wisma Atria
+JOVIAL WELLNESS AND AESTHETICS,Retail,1,1,Clarke Quay Central
+JS SKIN,Retail,1,1,Katong V
+JUBA,Retail,1,1,Clarke Quay Central
+JULIA GABRIEL,Retail,1,1,Greenwich V
+JULLIA OLGER BY ARTNATURE,Retail,1,1,Great World
+JUNGSAEMMOOL,Retail,1,1,ION Orchard
+JWest,Retail,1,1,Jem
+JY Medical Aesthetics Clinics,Retail,1,1,Jurong Point
+JYUNKA,Retail,1,1,Pacific Plaza
+Jacadi Paris,Retail,1,1,Paragon
+Jacob & Co.,Retail,1,1,Ngee Ann City
+Jaedals,Retail,1,1,Mandarin Gallery
+Jalan Sriwijaya,Retail,1,1,Ngee Ann City
+JasonSally Hairdressers,Retail,1,1,Bedok Mall
+Jean Yip Aesthetics,Retail,1,1,Jem
+Jean Yip Group,Retail,1,1,Tiong Bahru Plaza
+Jean Yip Hair & Hair Spa,Retail,1,1,Bedok Mall
+Jean Yip Hairdressing & Aesthetics,Retail,1,1,Junction 8
+Jean Yip Hairdressing & Hair Spa,Retail,1,1,Westgate
+Jean Yip Hairdressing Hair Spa & Beauty,Retail,1,1,Waterway Point
+Jean Yip Hairdressing and 6 Elements Hair Spa,Retail,1,1,Sengkang Grand Mall
+Jean Yip Hairdressing/ Jean Yip Slimming & Beauty,Retail,1,1,Northpoint City
+Jean Yip Salon,Retail,1,1,Hougang Mall
+Jelly Pop,Retail,1,1,Jewel Changi Airport
+Jernn Shoes,Retail,1,1,Wisma Atria
+Jeulia,Retail,1,1,Wisma Atria
+Jil Sander,Retail,1,1,Paragon
+Jo Malone London at BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Jody Marshall Dance Company,Retail,1,1,Suntec City
+Jon Louis,Retail,1,1,Junction 8
+Josiah Montessori,Retail,1,1,Suntec City
+Joyre Medical & Aesthetic Clinic,Retail,1,1,Jurong Point
+Joyre TCMedi Clinic,Retail,1,1,Causeway Point
+Julia Gabriel Centre,Retail,1,1,Tampines Mall
+JungSung Hair Salon by Joel Park,Retail,1,1,The Centrepoint
+JurPoint Medicare Clinic,Retail,1,1,Jurong Point
+Juz Salon,Retail,1,1,Mandarin Gallery
+K Bowling Club,Retail,1,1,313@somerset
+K Designer Nail & Beauty,Retail,1,1,Suntec City
+K N Chin & Associates Pte Ltd,Retail,1,1,Suntec City
+K Shoe & Bags Services,Retail,1,1,White Sands
+K&M BEAUTY AESTHETIC,Retail,1,1,Square 2
+K-SWISS,Retail,1,1,Raffles City Shopping Centre
+KAI KAI GIFTS,Retail,1,1,Clarke Quay Central
+KATE SPADE,Retail,1,1,ION Orchard
+KAYLÎE,Retail,1,1,The Centrepoint
+KENJO,Retail,1,1,Hougang Mall
+KERASTASE,Retail,1,1,ION Orchard
+KEW ORGANICS,Retail,1,1,Clarke Quay Central
+KGOLF / ANEW,Retail,1,1,Mandarin Gallery
+KIDO,Retail,1,1,Clarke Quay Central
+KILIAN PARIS,Retail,1,1,Raffles City Shopping Centre
+KIMARIE,Retail,1,1,Square 2
+KIMISTRY,Retail,1,1,The Centrepoint
+KIPLING,Retail,1,1,ION Orchard
+KIRAME,Retail,1,1,Plaza Singapura
+KJ OPTOMETRISTS,Retail,1,1,Junction 10
+KJ THERAPY,Retail,1,1,Square 2
+KKKL TRAVEL & TOURS,Retail,1,1,Katong V
+KO DJENG SAKURA DENTAL CLINIC,Retail,1,1,Icon Village
+KODECOON ACADEMY,Retail,1,1,West Coast Plaza
+KOJIMAYA,Retail,1,1,Clarke Quay Central
+KOKORO SEITAI JAPANESE CHIROPRACTIC AND STRETCHING THERAPY,Retail,1,1,Square 2
+KOMME,Retail,1,1,Tampines 1
+KORYO MART,Retail,1,1,313@somerset
+KPLUS,Retail,1,1,The Centrepoint
+KRTC Kent Ridge Education,Retail,1,1,AMK Hub
+KSkin Korean Express Facial,Retail,1,1,Hougang 1
+KSkin and Myeongdong Hair Studio,Retail,1,1,Tiong Bahru Plaza
+KUKO Beauty,Retail,1,1,Orchard Central
+KUMON,Retail,1,1,West Coast Plaza
+KYLIE COSMETICS,Retail,1,1,Bugis Junction (Part of Bugis Town)
+KYOK STUDIOS,Retail,1,1,Clarke Quay Central
+Kai Joo Optical,Retail,1,1,Hougang Mall
+Kakoo,Retail,1,1,Velocity@Novena Square
+Kaneko Optical,Retail,1,1,Ngee Ann City
+Kappa / Sergio Tacchini,Retail,1,1,Northpoint City
+Kappa Outlet,Retail,1,1,IMM Building
+Kartell By Lifestorey,Retail,1,1,Marina Square
+Kashmir Heritage,Retail,1,1,The Centrepoint
+Kave Home,Retail,1,1,Raffles City Shopping Centre
+Kaylie,Retail,1,1,Marina Square
+Keen,Retail,1,1,Marina Square
+Kele,Retail,1,1,Jewel Changi Airport
+Kelture Aveda Hair Salon,Retail,1,1,Paragon
+Kenko Training Hub,Retail,1,1,Marina Square
+Kenko Wellness Reflexology,Retail,1,1,Paragon
+Kenko Wellness Spa and Reflexology,Retail,1,1,Marina Square
+Kent Ridge Education Hub,Retail,1,1,Tiong Bahru Plaza
+Kenzo,Retail,1,1,The Shoppes at Marina Bay Sands
+Key Power Sports,Retail,1,1,Velocity@Novena Square
+Key Power Sports and Manduka,Retail,1,1,Paragon
+Keyshoe,Retail,1,1,Jurong Point
+Kicks Taekwondo,Retail,1,1,AMK Hub
+Kidodo DIY,Retail,1,1,Marina Square
+Kidodo Indoor Playground,Retail,1,1,City Square Mall
+Kidodo Space,Retail,1,1,Suntec City
+Kidodo Space VR Galaxy,Retail,1,1,Suntec City
+Kidodo Village,Retail,1,1,Marina Square
+Kids Clinic @ Sengkang,Retail,1,1,Sengkang Grand Mall
+Kids In The Room,Retail,1,1,Marina Square
+Kids ‘n’ Me,Retail,1,1,United Square
+Kids21,Retail,1,1,The Shoppes at Marina Bay Sands
+Kim Able,Retail,1,1,Jurong Point
+Kim Able Household,Retail,1,1,Northpoint City
+Kim Cham Place,Retail,1,1,Jurong Point
+Kim Guan Goldsmith & Jeweller,Retail,1,1,City Square Mall
+Kim.T - Artsseni,Retail,1,1,Raffles City Shopping Centre
+Kimage Cove,Retail,1,1,Marina Square
+Kimage Hairdressing School,Retail,1,1,Marina Square
+King Koil Gallery,Retail,1,1,Marina Square
+Kings & Queens One-Stop Solution,Retail,1,1,Marina Square
+Kipling Outlet,Retail,1,1,IMM Building
+Kiyo,Retail,1,1,Northpoint City
+Kiztopia,Retail,1,1,Marina Square
+Kodak Express,Retail,1,1,Lot One Shoppers' Mall
+Kohong Lifestyle,Retail,1,1,Jurong Point
+Kosme Aesthetics,Retail,1,1,PLQ Mall
+Kosy Living,Retail,1,1,Marina Square
+Kreative Beaulab,Retail,1,1,Mandarin Gallery
+Kuhn & Komor,Retail,1,1,Paragon
+Kurumiz,Retail,1,1,AMK Hub
+Kurun Tokyo,Retail,1,1,Ngee Ann City
+Kwanpen,Retail,1,1,The Shoppes at Marina Bay Sands
+Kwong Cheong Thye,Retail,1,1,Jewel Changi Airport
+KyBoot - Shop of Switzerland,Retail,1,1,Suntec City
+L'zzie,Retail,1,1,Bugis Junction (Part of Bugis Town)
+L.E. Ball Park,Retail,1,1,313@somerset
+LA BARBERSHOP LA COWBOY KIDS,Retail,1,1,Great World
+LA Barber shop,Retail,1,1,Velocity@Novena Square
+LA LUMIERE AESTHETIC,Retail,1,1,Orchard Central
+LA PEAU BEAUTY SALON,Retail,1,1,Katong V
+LA PETITE ECOLE,Retail,1,1,One Holland Village
+LALIQUE,Retail,1,1,Paragon
+LANCOME (LANCÔME),Retail,1,1,ION Orchard
+LAO NIANG TCM CLINIC,Retail,1,1,Square 2
+LAOPU GOLD,Retail,1,1,The Shoppes at Marina Bay Sands
+LASH MONSTER,Retail,1,1,Square 2
+LASSIC & CO,Retail,1,1,Square 2
+LAUNDRY QUEEN,Retail,1,1,Great World
+LAVA Fitness,Retail,1,1,CQ @ Clarke Quay
+LE YANMIEL BEAUTE,Retail,1,1,West Coast Plaza
+LEE HWA DIAMOND PROMENADE,Retail,1,1,ION Orchard
+LEGO,Retail,1,1,ION Orchard
+LETUTU,Retail,1,1,Clarke Quay Central
+LEVEL UP,Retail,1,1,CQ @ Clarke Quay
+LEWAVE Hair Studio,Retail,1,1,Century Square
+LG Subscribe™,Retail,1,1,Suntec City
+LIGHTON TCM,Retail,1,1,Square 2
+LILIEWOODS SOCIAL,Retail,1,1,Great World
+LIMS Legacy,Retail,1,1,Marina Square
+LIULI,Retail,1,1,Paragon
+LOVE LINK JEWELLERY,Retail,1,1,West Coast Plaza
+LOVELOTS LUXURY & DIAMOND,Retail,1,1,Orchard Central
+LOVET,Retail,1,1,ION Orchard
+LR Boulangerie,Retail,1,1,Valley Point
+LUMINE SINGAPORE,Retail,1,1,Raffles City Shopping Centre
+LUMINOUS NAILS & BEAUTY,Retail,1,1,Hougang 1
+La Belle,Retail,1,1,Northpoint City
+La Belle Skin Aesthetic,Retail,1,1,Westgate
+La Fleur,Retail,1,1,Suntec City
+La Joie,Retail,1,1,Paragon
+La Kelly,Retail,1,1,United Square
+La Tendo,Retail,1,1,Suntec City
+La Vida,Retail,1,1,Bedok Mall
+La Vida & Nailz Haus,Retail,1,1,Northpoint City
+Lacoste Outlet,Retail,1,1,IMM Building
+Lady Z,Retail,1,1,Jurong Point
+Laichan,Retail,1,1,Mandarin Gallery
+Laundry Club,Retail,1,1,Swing By @ Thomson Plaza
+Le Femme Collections,Retail,1,1,United Square
+Le Labo,Retail,1,1,The Shoppes at Marina Bay Sands
+Le Pommier,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Leap SchoolHouse,Retail,1,1,City Square Mall
+Leather Atrium,Retail,1,1,Junction 8
+Lee Heng Jewellers,Retail,1,1,Tiong Bahru Plaza
+Lee Hwa Diamond Atelier,Retail,1,1,VivoCity
+Lee Hwa Jewellery,Retail,1,1,Tampines Mall
+Legacy Dance Co.,Retail,1,1,Marina Square
+Lemongrass House,Retail,1,1,Raffles City Shopping Centre
+Lenskart Outlet,Retail,1,1,IMM Building
+Lenskart Studio,Retail,1,1,Tampines 1
+Lenskart.com,Retail,1,1,PLQ Mall
+Leon & Friends,Retail,1,1,Marina Square
+Leonian Outlet,Retail,1,1,IMM Building
+Leonian Sportique,Retail,1,1,Mandarin Gallery
+Let Color Soar,Retail,1,1,Century Square
+Levi's Outlet,Retail,1,1,IMM Building
+Li-Hong Jade,Retail,1,1,Raffles City Shopping Centre
+Lian Hoe Gifts and Jades,Retail,1,1,Jurong Point
+Life By City Energy,Retail,1,1,Plaza Singapura
+Life4Cuts,Retail,1,1,Plaza Singapura
+Lifescan Imaging,Retail,1,1,City Square Mall
+Lifetime Vision Care,Retail,1,1,United Square
+Lifexp,Retail,1,1,Causeway Point
+Lil Dublin,Retail,1,1,CQ @ Clarke Quay
+Lilian Select,Retail,1,1,Jurong Point
+Lily Valley Pre School,Retail,1,1,Marina Square
+Limited Edt Vault,Retail,1,1,313@somerset
+Linda Gallery,Retail,1,1,Paragon
+Linen Gallery,Retail,1,1,United Square
+Listening Lab - Hearing Centre,Retail,1,1,Suntec City
+Little Haven Family Clinic,Retail,1,1,City Square Mall
+Liverpool FC,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Liverpool Football Club,Retail,1,1,Jewel Changi Airport
+Livewire by Singapore Pools,Retail,1,1,The Shoppes at Marina Bay Sands
+Lladró,Retail,1,1,Paragon
+Llora,Retail,1,1,Ngee Ann City
+Lockdown Lava Floor,Retail,1,1,Marina Square
+Lorna Whiston Schools,Retail,1,1,United Square
+Love Beauty,Retail,1,1,Tampines 1
+Love In A Bottle,Retail,1,1,Marina Square
+Lucca Vudor,Retail,1,1,Suntec City
+Lucky Rabbit,Retail,1,1,Century Square
+Luminous Dental @ Yishun,Retail,1,1,Northpoint City
+Luminous Dental Clinic,Retail,1,1,Bedok Mall
+Lush Fresh Handmade Cosmetics,Retail,1,1,Tampines Mall
+Luxe Floral,Retail,1,1,Aperia Mall
+Luxe Maison,Retail,1,1,The Centrepoint
+Luxebags,Retail,1,1,Causeway Point
+Lynn Aesthetic,Retail,1,1,Tampines 1
+LâArtisan Parfumeur,Retail,1,1,Ngee Ann City
+L’ATELIER KOREAN HAIR SALON,Retail,1,1,Square 2
+L’Oreal Academy,Retail,1,1,Marina Square
+M COSSET,Retail,1,1,Katong V
+M&G AESTHETICS BODY SCULPTING WELLNESS,Retail,1,1,Pacific Plaza
+M.A.C,Retail,1,1,Bugis Junction (Part of Bugis Town)
+M.A.D SCHOOL,Retail,1,1,Riverside Point
+M.S. Money Exchange,Retail,1,1,Hougang Mall
+M1 Shop,Retail,1,1,Jurong Point
+M21 DRYCLEANERS,Retail,1,1,Icon Village
+MAAX Hair Salon,Retail,1,1,Pacific Plaza
+MADERA.SG,Retail,1,1,Causeway Point
+MAISON D'ESTHETIQUE,Retail,1,1,Lucky Chinatown
+MANDARIN REPTILE,Retail,1,1,Mandarin Gallery
+MANNEQUEEN®,Retail,1,1,Great World
+MAT PLUS LIT,Retail,1,1,Square 2
+MATTER,Retail,1,1,One Holland Village
+MAUBOUSSIN,Retail,1,1,Wisma Atria
+MAX OUT FITNESS,Retail,1,1,Orchard Central
+MAX&CO.,Retail,1,1,ION Orchard
+MAZE ACADEMY,Retail,1,1,Clarke Quay Central
+MBP Sports,Retail,1,1,Suntec City
+MBP Sports - Tennis & Padel Tennis Court,Retail,1,1,Marina Square
+MCQUEEN,Retail,1,1,ION Orchard
+ME GAMES,Retail,1,1,Lucky Chinatown
+MEDICELS AESTHETICS,Retail,1,1,Orchard Central
+MEIDI-YA JAPANESE SUPERMARKET,Retail,1,1,Great World
+MEMORIA COLLECTION,Retail,1,1,Lucky Chinatown
+MENG DESIGN & BUILD,Retail,1,1,West Coast Plaza
+MERIYOUNG TCM,Retail,1,1,Clarke Quay Central
+META ROBOTICS,Retail,1,1,Katong V
+METHODX,Retail,1,1,Icon Village
+MGM Foreign Exchange,Retail,1,1,Paragon
+MIKIMOTO,Retail,1,1,The Shoppes at Marina Bay Sands
+MINISQ,Retail,1,1,Square 2
+MINMED 24-HR CLINIC,Retail,1,1,Jurong Point
+MINMED CLINIC (RIVER VALLEY) & MINMED PAEDIATRICS (RIVER VALLEY),Retail,1,1,Great World
+MINMED DENTAL CLINIC,Retail,1,1,Jurong Point
+MINMED HEALTH (BUGIS),Retail,1,1,Bugis Junction (Part of Bugis Town)
+MIZU AESTHETIC CLINIC + AERAS,Retail,1,1,ION Orchard
+MOBILER STAR,Retail,1,1,Lucky Chinatown
+MOFUNLAND,Retail,1,1,Marina Square
+MOFUNLAND & NEUROBIX METHOD,Retail,1,1,West Coast Plaza
+MONICA VINADER,Retail,1,1,ION Orchard
+MONNALISA,Retail,1,1,The Shoppes at Marina Bay Sands
+MOOM,Retail,1,1,Great World
+MORNING,Retail,1,1,Ngee Ann City
+MOTHERHOUSE,Retail,1,1,Suntec City
+MOTHERSWORK,Retail,1,1,Great World
+MOWE,Retail,1,1,Bugis Junction (Part of Bugis Town)
+MOYEM MEDICAL AESTHETICS,Retail,1,1,Great World
+MR.DIY,Retail,1,1,Suntec City
+MST Athleisure Wear,Retail,1,1,Suntec City
+MST GOLF,Retail,1,1,Great World
+MST GOLF Superstore,Retail,1,1,Suntec City
+MST Golf Super Store,Retail,1,1,City Square Mall
+MTBL Cultural Centre (Singapore),Retail,1,1,Suntec City
+MUET,Retail,1,1,Bugis Junction (Part of Bugis Town)
+MUHAMMED MONEY CHANGER,Retail,1,1,Plaza Singapura
+MULTIFLORA NOIBARA,Retail,1,1,One Holland Village
+MUZART LEARNING CENTRE,Retail,1,1,West Coast Plaza
+MY BALLET STUDIO,Retail,1,1,Great World
+MY CHIROCARE,Retail,1,1,Greenwich V
+MY FOOT REFLEXOLOGY,Retail,1,1,Great World
+Ma Kuang,Retail,1,1,Jurong Point
+Ma Kuang TCM Women's and Children's Clinic,Retail,1,1,City Square Mall
+Mabel Story,Retail,1,1,Causeway Point
+Maison 21G Paris,Retail,1,1,The Shoppes at Marina Bay Sands
+Maison Berger,Retail,1,1,PLQ Mall
+Maison Berger Paris,Retail,1,1,Waterway Point
+Maison Margiela Fragrance,Retail,1,1,Paragon
+Maison Margiela Paris,Retail,1,1,Ngee Ann City
+Mandeville Conservatory of Music,Retail,1,1,United Square
+Manifesto,Retail,1,1,Mandarin Gallery
+Manolo Blahnik,Retail,1,1,The Shoppes at Marina Bay Sands
+Marie France Van Damme,Retail,1,1,Ngee Ann City
+Marquis QSquare,Retail,1,1,Marina Square
+Maryling,Retail,1,1,Paragon
+Masterpiece Jewellery,Retail,1,1,The Centrepoint
+Matchpoint Inc.,Retail,1,1,Marina Square
+Mayer Outlet,Retail,1,1,IMM Building
+Mdm Ling Bakery,Retail,1,1,Jewel Changi Airport
+Mee Mee Eyecare,Retail,1,1,313@somerset
+Mega Discount Store,Retail,1,1,United Square
+Melissa Outlet,Retail,1,1,IMM Building
+Menaka's Bridal Dressing,Retail,1,1,Jurong Point
+Mendis Aesthetics,Retail,1,1,Mandarin Gallery
+Merlin Frame Maker & Art Gallery,Retail,1,1,Paragon
+Meyson Jewellery,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Michael Kors,Retail,1,1,Mandarin Gallery
+Michael Kors by BuyBye Valiram Fashion Outlet,Retail,1,1,IMM Building
+Midori’s Hair Salon,Retail,1,1,Velocity@Novena Square
+Miki House,Retail,1,1,The Shoppes at Marina Bay Sands
+Milan Men's Boutique,Retail,1,1,The Centrepoint
+Million Dollar Exchange,Retail,1,1,Westgate
+Millys,Retail,1,1,Suntec City
+Mimi Restaurant,Retail,1,1,CQ @ Clarke Quay
+MindChamps Global HQ/Enrichment Academy,Retail,1,1,Marina Square
+MindChamps Reading & Writing,Retail,1,1,Westgate
+Mini Me Racing,Retail,1,1,United Square
+Minister Shoe,Retail,1,1,Tampines 1
+Ministry Of Scalp Therapy,Retail,1,1,Mandarin Gallery
+Minmed,Retail,1,1,AMK Hub
+Minmed Wellness Collective,Retail,1,1,Jewel Changi Airport
+Miss Empire,Retail,1,1,Velocity@Novena Square
+MisterChrono Paris,Retail,1,1,Mandarin Gallery
+Mistgold,Retail,1,1,Plaza Singapura
+Mobel Story,Retail,1,1,Marina Square
+Mobile Art,Retail,1,1,Plaza Singapura
+Mobile Stop,Retail,1,1,Wisma Atria
+Modelle,Retail,1,1,Raffles City Shopping Centre
+Modparade,Retail,1,1,Funan
+Molecule,Retail,1,1,The Centrepoint
+Molo,Retail,1,1,Paragon
+Moncler,Retail,1,1,The Shoppes at Marina Bay Sands
+Mondi Lifestyle Gallery,Retail,1,1,IMM Building
+Monopoly,Retail,1,1,VivoCity
+Montale Paris,Retail,1,1,Jewel Changi Airport
+Moodytiger,Retail,1,1,The Shoppes at Marina Bay Sands
+Moomin,Retail,1,1,Funan
+Moomoo,Retail,1,1,313@somerset
+Moomoo Trade,Retail,1,1,Jem
+Morphosis Beauty Hub,Retail,1,1,IMM Building
+Morris I Tech,Retail,1,1,Funan
+Motherlove,Retail,1,1,Ngee Ann City
+Movie Replicas Collection,Retail,1,1,Plaza Singapura
+Mr Decor Furniture Gallery,Retail,1,1,IMM Building
+MrIT.com.sg,Retail,1,1,Marina Square
+Mt. Sapola,Retail,1,1,Ngee Ann City
+MultiFlora,Retail,1,1,Century Square
+Music Delight School,Retail,1,1,White Sands
+My English School,Retail,1,1,Northpoint City
+My Hairstylistz,Retail,1,1,Tampines Mall
+My Learning Haven,Retail,1,1,Suntec City
+My Little Pony,Retail,1,1,VivoCity
+N'S BOUTIQUE,Retail,1,1,Square 2
+N20 Beauty & Eyelash,Retail,1,1,Tampines Mall
+NAIL CULTURE,Retail,1,1,Great World
+NAILS IN VOGUE,Retail,1,1,Junction 8
+NALA,Retail,1,1,Great World
+NANYANG EDUCATION CONSULTANCY,Retail,1,1,West Coast Plaza
+NARS Cosmetics,Retail,1,1,Jem
+NARS at BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+NATION CARE,Retail,1,1,Riverside Point
+NATIONAL VOLUNTEER & PHILANTHROPY CENTRE (THE GIVING PLACE),Retail,1,1,Clarke Quay Central
+NBC Stationery & Gifts,Retail,1,1,Bugis Junction (Part of Bugis Town)
+NEIWAI,Retail,1,1,Raffles City Shopping Centre
+NEOLIVE,Retail,1,1,Square 2
+NERF,Retail,1,1,VivoCity
+NEUGLOW The Aesthetics Doctors,Retail,1,1,The Centrepoint
+NEW LIFE CHILDCARE,Retail,1,1,Junction 10
+NEW NADA,Retail,1,1,Bedok Mall
+NEWLIFE DENTAL PRACTICE,Retail,1,1,Clarke Quay Central
+NIKE By Bugis,Retail,1,1,Bugis Junction (Part of Bugis Town)
+NIMISSKI,Retail,1,1,Ngee Ann City
+NISHINO HEALTH & BEAUTY,Retail,1,1,Great World
+NK BY NIKI,Retail,1,1,Raffles City Shopping Centre
+NORQAIN,Retail,1,1,Wisma Atria
+NOVELA Outlet,Retail,1,1,IMM Building
+NTUC Learning Hub,Retail,1,1,Jurong Point
+NUFFIELD DENTAL,Retail,1,1,One Holland Village
+NUFFIELD DENTAL SELETAR,Retail,1,1,Greenwich V
+NUH CHILDREN'S URGENT CARE CLINIC @ BUKIT PANJANG,Retail,1,1,Junction 10
+NUHEALTH MEDICAL CENTRE,Retail,1,1,Junction 10
+NUSS The Graduate Club,Retail,1,1,Suntec City
+Nail & Massage Addiction,Retail,1,1,Suntec City
+Nail Atelier,Retail,1,1,Plaza Singapura
+Nail Lover,Retail,1,1,Jurong Point
+Nailography by N20,Retail,1,1,Ngee Ann City
+Nails Fifth Avenue,Retail,1,1,Hougang Mall
+Nails N Lash,Retail,1,1,Northpoint City
+Nailz Haus & Donna Beauty,Retail,1,1,IMM Building
+Nailz Treats PLUS,Retail,1,1,Bedok Mall
+Namh.com,Retail,1,1,Tampines Mall
+Nanyang Educational Consultancy,Retail,1,1,White Sands
+Natrahea,Retail,1,1,Northpoint City
+Natural Project,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Natural Wild Honey,Retail,1,1,Jem
+Naturalizer,Retail,1,1,Jem
+Natureland Massage & Therapy,Retail,1,1,Valley Point
+Natureland Premium,Retail,1,1,The Shoppes at Marina Bay Sands
+Natureland Spa . Therapy,Retail,1,1,CQ @ Clarke Quay
+Neals Yard Remedies,Retail,1,1,Ngee Ann City
+Nectarlife,Retail,1,1,Raffles City Shopping Centre
+Nectarlife | Pearl de Flore,Retail,1,1,Jewel Changi Airport
+Neonmello,Retail,1,1,Plaza Singapura
+Nest Designs,Retail,1,1,Paragon
+Neurobix Method,Retail,1,1,Marina Square
+New Balance Outlet,Retail,1,1,IMM Building
+New Heights,Retail,1,1,Marina Square
+New Store Test,Retail,1,1,VivoCity
+Ngee Soon Jewellery,Retail,1,1,Northpoint City
+Niessing,Retail,1,1,Raffles City Shopping Centre
+Nike Unite IMM,Retail,1,1,IMM Building
+Nikon Experience Hub,Retail,1,1,Funan
+Niks Maple Central Clinic,Retail,1,1,The Centrepoint
+Niks Shop Salon,Retail,1,1,The Centrepoint
+Ning,Retail,1,1,Funan
+NingXia Signature,Retail,1,1,Suntec City
+Northern Opticians,Retail,1,1,Paragon
+Nuffield Dental Westgate,Retail,1,1,Westgate
+Nutrilite Health & Wellbeing,Retail,1,1,Aperia Mall
+O'COLOR HAIR SALON,Retail,1,1,Katong V
+O+ Eyewear,Retail,1,1,Mandarin Gallery
+O.H EYE,Retail,1,1,Junction 10
+O2 LAB,Retail,1,1,Riverside Point
+OBLIQUE EYEWEAR,Retail,1,1,Orchard Central
+OFFICE MATE STATIONERY,Retail,1,1,Clarke Quay Central
+OGAWA Bespoke,Retail,1,1,Plaza Singapura
+OHMM,Retail,1,1,Riverside Point
+OJO Optometry,Retail,1,1,Tampines 1
+OKZ,Retail,1,1,Bugis Junction (Part of Bugis Town)
+OLSON STUDIO,Retail,1,1,Orchard Central
+ON HAIR,Retail,1,1,Icon Village
+ONEDAY HEAD CARE & WELLNESS,Retail,1,1,Clarke Quay Central
+ONEDAY NAILS LASHES BROWS,Retail,1,1,Clarke Quay Central
+ONNIE LENS,Retail,1,1,Bugis+ (Part of Bugis Town)
+ONY LASER,Retail,1,1,Orchard Central
+OPERA GALLERY,Retail,1,1,ION Orchard
+OPPO Service Centre,Retail,1,1,Westgate
+OPTICAL 88 PREMIER,Retail,1,1,ION Orchard
+ORO GOLD Cosmetics,Retail,1,1,Westgate
+OSIM / LAC,Retail,1,1,Jewel Changi Airport
+OSIM Outlet,Retail,1,1,IMM Building
+OSLcare,Retail,1,1,Bugis Junction (Part of Bugis Town)
+OSSIA MUSIC SCHOOL,Retail,1,1,Junction 10
+OTO Outlet,Retail,1,1,IMM Building
+OUTDOOR LIFE,Retail,1,1,Funan
+OVERWORLD,Retail,1,1,Funan
+OVERWORLD LAVA,Retail,1,1,Orchard Central
+OVV,Retail,1,1,Jewel Changi Airport
+OWNDAYS Outlet,Retail,1,1,IMM Building
+Oakley Outlet,Retail,1,1,IMM Building
+Ode to Art,Retail,1,1,Raffles City Shopping Centre
+Odoroki / FUN CLAW,Retail,1,1,Bugis+ (Part of Bugis Town)
+Ogawa Outlet,Retail,1,1,IMM Building
+Oh! Sunny Outlet,Retail,1,1,IMM Building
+Omnidesk,Retail,1,1,Funan
+On,Retail,1,1,Jewel Changi Airport
+One Optique,Retail,1,1,AMK Hub
+One Piece Mugiwara store from Shonen Jump,Retail,1,1,Jewel Changi Airport
+One2play Handicraft,Retail,1,1,Northpoint City
+OneDoctors Family Clinic,Retail,1,1,Waterway Point
+Ong Radio,Retail,1,1,The Centrepoint
+Onitsuka Tiger Outlet,Retail,1,1,IMM Building
+Only Fashion,Retail,1,1,Northpoint City
+Optical 88,Retail,1,1,Jurong Point
+Optical 88 Outlet,Retail,1,1,IMM Building
+Optics Premier,Retail,1,1,The Centrepoint
+Oriental Hair Solution,Retail,1,1,Ngee Ann City
+Oro Style House,Retail,1,1,Marina Square
+Osaka Owl,Retail,1,1,Northpoint City
+Oterre,Retail,1,1,Suntec City
+Our Art Studio,Retail,1,1,PLQ Mall
+Outlet by Club 21,Retail,1,1,IMM Building
+Oysho,Retail,1,1,Jewel Changi Airport
+PANDORA Outlet,Retail,1,1,IMM Building
+PAPERMARKET,Retail,1,1,Great World
+PARFUMS CHRISTIAN DIOR,Retail,1,1,ION Orchard
+PASSIONATE NAILS,Retail,1,1,Great World
+PAÃPURI,Retail,1,1,Ngee Ann City
+PEAK360,Retail,1,1,Clarke Quay Central
+PEDRO Outlet,Retail,1,1,IMM Building
+PERFECT U,Retail,1,1,Riverside Point
+PERFUMES & COSMETICS GALLERY,Retail,1,1,Square 2
+PETS' STATION,Retail,1,1,One Holland Village
+PFP Signature Centre,Retail,1,1,Ngee Ann City
+PINK ESSENTIAL,Retail,1,1,West Coast Plaza
+PLAYFACTO @ HOLLAND,Retail,1,1,One Holland Village
+POH HENG,Retail,1,1,Tampines Mall
+POH KIM DVD/Blu Ray,Retail,1,1,Plaza Singapura
+POLISH THE NAILS ROOM,Retail,1,1,Square 2
+POM - Press On Me,Retail,1,1,Westgate
+POPPIN,Retail,1,1,The Centrepoint
+POPPIN Marketplace,Retail,1,1,Tiong Bahru Plaza
+POSB ATM/AXS,Retail,1,1,Causeway Point
+POSTCARD,Retail,1,1,Ngee Ann City
+POWER HEALING SHIATSU THERAPY & HOLISTICS,Retail,1,1,Lucky Chinatown
+PRICEBREAKER,Retail,1,1,Great World
+PRIMO,Retail,1,1,Jurong Point
+PRIX SALON,Retail,1,1,Square 2
+PROMISS,Retail,1,1,West Coast Plaza
+PROOF LIVING,Retail,1,1,ION Orchard
+PSB Academy,Retail,1,1,Marina Square
+PULSE+ALLIED HEALTH CLINIC / PULSE TCM CLINIC,Retail,1,1,ION Orchard
+PUMA OUTLET STORE,Retail,1,1,West Coast Plaza
+PURE ORGANIC BEAUTY,Retail,1,1,West Coast Plaza
+PURE SALON AND SPA,Retail,1,1,Plaza Singapura
+PURO PREMIUM CIGARS,Retail,1,1,Riverside Point
+Pablo Blau,Retail,1,1,Raffles City Shopping Centre
+Paco Funworld,Retail,1,1,Bugis+ (Part of Bugis Town)
+Palladium,Retail,1,1,Jewel Changi Airport
+Pandora Jewelry,Retail,1,1,Jurong Point
+Parfums de Marly,Retail,1,1,Paragon
+Party Palace,Retail,1,1,Northpoint City
+Pas Normal Studios,Retail,1,1,Funan
+Pasir Ris Library,Retail,1,1,White Sands
+Passions,Retail,1,1,Marina Square
+Pearl's Optics,Retail,1,1,Jurong Point
+Peek A Box,Retail,1,1,Bugis+ (Part of Bugis Town)
+Penhaligonâs,Retail,1,1,Ngee Ann City
+Perfect Pitch,Retail,1,1,City Square Mall
+Perfetto,Retail,1,1,White Sands
+Perky Lash,Retail,1,1,Tampines 1
+Pet's Station,Retail,1,1,Jurong Point
+Phat Burger Bro,Retail,1,1,Valley Point
+Phillip Investor Centre,Retail,1,1,Northpoint City
+Phiten,Retail,1,1,Marina Square
+Photoism,Retail,1,1,City Square Mall
+Photonow Self-Photo Studio,Retail,1,1,The Centrepoint
+Phuture,Retail,1,1,CQ @ Clarke Quay
+Physicians Practice Family Medical Center,Retail,1,1,United Square
+Pianoland,Retail,1,1,Westgate
+Pick Me,Retail,1,1,Funan
+Picky Pic,Retail,1,1,PLQ Mall
+PickyPic Photobooth,Retail,1,1,Northpoint City
+Picture Me,Retail,1,1,Suntec City
+Pictureland,Retail,1,1,Waterway Point
+Pierre Cardin Lingerie Outlet,Retail,1,1,IMM Building
+Pink Parlour Premium,Retail,1,1,The Centrepoint
+Pirate Land,Retail,1,1,The Centrepoint
+Pixie Lash,Retail,1,1,Tampines 1
+Pixie Nails,Retail,1,1,Velocity@Novena Square
+Planet of Play,Retail,1,1,VivoCity
+Play-Doh,Retail,1,1,VivoCity
+Pleats Please Issey Miyake,Retail,1,1,The Shoppes at Marina Bay Sands
+Point Medical Group,Retail,1,1,Jurong Point
+Pois Boutique,Retail,1,1,Paragon
+Pokémon Center Singapore (Temporarily Closed),Retail,1,1,Jewel Changi Airport
+Pokémon Mart at Plaza Singapura,Retail,1,1,Plaza Singapura
+Popular Pals,Retail,1,1,City Square Mall
+Pororo Park Singapore,Retail,1,1,Marina Square
+Porsche,Retail,1,1,Jewel Changi Airport
+Posh Living,Retail,1,1,IMM Building
+Posh Wellness,Retail,1,1,Marina Square
+Pots & Pans Culinary Studio,Retail,1,1,The Centrepoint
+Prada Beauty,Retail,1,1,Raffles City Shopping Centre
+PramWash,Retail,1,1,United Square
+Precision Optics,Retail,1,1,United Square
+Prestique Studio,Retail,1,1,Marina Square
+Privilege Boutique Wellness*,Retail,1,1,Wisma Atria
+Prologue,Retail,1,1,Ngee Ann City
+Pull&Bear,Retail,1,1,VivoCity
+Pulse TCM,Retail,1,1,Paragon
+Punggol Exchange,Retail,1,1,Waterway Point
+Pure K 纯K,Retail,1,1,Funan
+Puyi Optical,Retail,1,1,The Shoppes at Marina Bay Sands
+Puzzletopia,Retail,1,1,City Square Mall
+Q & M Dental Centre / Q & M Medical & Aesthetic (Farrer Park),Retail,1,1,City Square Mall
+Q & M Dental Surgery / Medical & Aesthetic Clinic,Retail,1,1,Tampines 1
+QB House Kids,Retail,1,1,Waterway Point
+QIU Nail. Eyelashes,Retail,1,1,Jurong Point
+QTM HERBAL THERAPY SPA,Retail,1,1,Lucky Chinatown
+QUEEN'S PARADISE,Retail,1,1,Great World
+QUINZEL,Retail,1,1,Tampines 1
+Qeelin,Retail,1,1,The Shoppes at Marina Bay Sands
+Qoltured by Fortytwo,Retail,1,1,Raffles City Shopping Centre
+Qoosh Nail Spa,Retail,1,1,Wisma Atria
+Quantum Medical,Retail,1,1,Aperia Mall
+Que Sera Vintage,Retail,1,1,Plaza Singapura
+Queen C,Retail,1,1,Tampines 1
+Queen College,Retail,1,1,Westgate
+Quiksilver,Retail,1,1,313@somerset
+Quintessential,Retail,1,1,Mandarin Gallery
+RACHELSHOPPE,Retail,1,1,Orchard Central
+RAD RUSSEL,Retail,1,1,Suntec City
+RAFFLES JAPANESE CLINIC,Retail,1,1,Great World
+RAPHA CHIROPRACTIC,Retail,1,1,West Coast Plaza
+REDMAN by Phoon Huat,Retail,1,1,Westgate
+REGA,Retail,1,1,IMM Building
+REHAB PRO THERAPY,Retail,1,1,Riverside Point
+RENEU SKIN & WELLNESS,Retail,1,1,Pacific Plaza
+RESEARCHBOOKS ASIA,Retail,1,1,Square 2
+REVL,Retail,1,1,CQ @ Clarke Quay
+RICH & GOOD CAKE SHOP since 1997 TM,Retail,1,1,Jewel Changi Airport
+RISIS,Retail,1,1,ION Orchard
+RISIS Atelier,Retail,1,1,Wisma Atria
+RIVER’S EDGE ABODE BY Esse,Retail,1,1,CQ @ Clarke Quay
+ROBOTHINK,Retail,1,1,West Coast Plaza
+ROLEX,Retail,1,1,ION Orchard
+ROLEX BOUTIQUE MARINA BAY,Retail,1,1,The Shoppes at Marina Bay Sands
+ROSABELLE LAUNDERETTE,Retail,1,1,Greenwich V
+ROUNA EYELASH & BEAUTY JAPAN,Retail,1,1,Riverside Point
+ROYAL RECIPE WELLNESS,Retail,1,1,Icon Village
+ROYAL TCM CENTRE,Retail,1,1,Lucky Chinatown
+RSL - Rock School London,Retail,1,1,Funan
+RUSTIC ROOM,Retail,1,1,Square 2
+Rabeanco Outlet,Retail,1,1,IMM Building
+Rachel's Best Soaps,Retail,1,1,The Centrepoint
+Rachels Best Soaps,Retail,1,1,Suntec City
+Radium Medical Aesthetics,Retail,1,1,Suntec City
+Radium Wellness Centre,Retail,1,1,Suntec City
+Raffles City Concierge,Retail,1,1,Raffles City Shopping Centre
+Raffles Dental / Medical Women’s & Children’s Centre,Retail,1,1,Tampines 1
+Raffles Medical / Raffles Children's Centre,Retail,1,1,Waterway Point
+Rahim Traders Money Changer,Retail,1,1,White Sands
+Ralph Lauren,Retail,1,1,The Shoppes at Marina Bay Sands
+Rapid Physiocare,Retail,1,1,PLQ Mall
+Rare,Retail,1,1,The Shoppes at Marina Bay Sands
+Rattan Pacific,Retail,1,1,IMM Building
+RazerStore,Retail,1,1,Funan
+Real Yoga,Retail,1,1,Raffles City Shopping Centre
+Reality Yoga & Pilates,Retail,1,1,City Square Mall
+Reborn Healthcare Center,Retail,1,1,The Shoppes at Marina Bay Sands
+Rechic,Retail,1,1,Tampines 1
+Red Apple,Retail,1,1,IMM Building
+Red Wing Shoe Store,Retail,1,1,Jewel Changi Airport
+Refresh TCM Wellness,Retail,1,1,Plaza Singapura
+Regina Hair Removal Specialist,Retail,1,1,313@somerset
+Rene Caovilla,Retail,1,1,The Shoppes at Marina Bay Sands
+Rest N Go by Gintell,Retail,1,1,Suntec City
+Rhythm Room,Retail,1,1,CQ @ Clarke Quay
+Richard Mille,Retail,1,1,The Shoppes at Marina Bay Sands
+Rip Curl,Retail,1,1,Marina Square
+Ripples,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Robert Piano,Retail,1,1,The Centrepoint
+Robo Robo,Retail,1,1,Marina Square
+Roborock,Retail,1,1,Funan
+Roche Bobois,Retail,1,1,Marina Square
+Roche Bobois Paris,Retail,1,1,Paragon
+Roger Dubuis,Retail,1,1,The Shoppes at Marina Bay Sands
+Roger Vivier,Retail,1,1,The Shoppes at Marina Bay Sands
+Rolex at Watch Palace,Retail,1,1,Mandarin Gallery
+Roryland,Retail,1,1,Plaza Singapura
+Rose Of Sharon,Retail,1,1,Velocity@Novena Square
+Rouge By Barracks,Retail,1,1,Westgate
+Royal Castles,Retail,1,1,United Square
+Royce Dental Centre,Retail,1,1,Tiong Bahru Plaza
+Royce Dental Orthodontic Centre,Retail,1,1,Tampines 1
+Royce Dental Surgery,Retail,1,1,Jem
+Rue Madame,Retail,1,1,Ngee Ann City
+S Collection,Retail,1,1,Bugis Junction (Part of Bugis Town)
+S Lady,Retail,1,1,Raffles City Shopping Centre
+SAGE Counselling Centre,Retail,1,1,Jurong Point
+SANDBOX,Retail,1,1,Orchard Central
+SBCC Baby & Child Clinic,Retail,1,1,Tiong Bahru Plaza
+SC ATM,Retail,1,1,Great World
+SCARLETT PLUS,Retail,1,1,Bugis+ (Part of Bugis Town)
+SCB ATM,Retail,1,1,Bugis Junction (Part of Bugis Town)
+SECRET SKIN BY SKIN LABO,Retail,1,1,Clarke Quay Central
+SENZE Boutique Spa by Senze Salus,Retail,1,1,Raffles City Shopping Centre
+SEOUL BEAUTE,Retail,1,1,Bugis+ (Part of Bugis Town)
+SEUNG TAE,Retail,1,1,Raffles City Shopping Centre
+SG Home Decor,Retail,1,1,Swing By @ Thomson Plaza
+SHANDA TRAVEL,Retail,1,1,Lucky Chinatown
+SHAW Theatres Paya Lebar Quarter,Retail,1,1,PLQ Mall
+SHENG SIONG SUPERMARKET,Retail,1,1,Junction 10
+SHINE'S KEY & SHOE,Retail,1,1,Square 2
+SHOP SASSY DREAM,Retail,1,1,Plaza Singapura
+SILKY MIRACLE,Retail,1,1,The Shoppes at Marina Bay Sands
+SIMBA Telecom,Retail,1,1,Orchard Central
+SINCERE HAUTE HORLOGERIE,Retail,1,1,The Shoppes at Marina Bay Sands
+SINCHONG,Retail,1,1,Bedok Mall
+SINDA Service Centre,Retail,1,1,Jurong Point
+SINGAPORE AIRLINES,Retail,1,1,ION Orchard
+SINGAPORE BALLET,Retail,1,1,Bugis+ (Part of Bugis Town)
+SINGAPORE DANCE COMPANY,Retail,1,1,West Coast Plaza
+SINGAPORE LASH CENTER,Retail,1,1,Riverside Point
+SINGAPORE POST,Retail,1,1,ION Orchard
+SINGCHOICE Beauty & Health,Retail,1,1,Raffles City Shopping Centre
+SJ Clinic & Surgery,Retail,1,1,Ngee Ann City
+SK Treasures,Retail,1,1,Northpoint City
+SK-II at BHG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+SKIN NATURLIQUE,Retail,1,1,Clarke Quay Central
+SKIN SOUL SPA,Retail,1,1,Pacific Plaza
+SKINARMA,Retail,1,1,Bugis Junction (Part of Bugis Town)
+SKINLUX,Retail,1,1,Katong V
+SKINN Lash Brow Face,Retail,1,1,Velocity@Novena Square
+SKINS,Retail,1,1,Suntec City
+SKN MediAesthetics,Retail,1,1,The Centrepoint
+SKYE Aesthetics,Retail,1,1,Plaza Singapura
+SLEEPNIGHT Mattress Boutique,Retail,1,1,IMM Building
+SLM it!,Retail,1,1,Plaza Singapura
+SLOW GREEN,Retail,1,1,Great World
+SLR Revolution,Retail,1,1,Jurong Point
+SMILEARTS DENTAL STUDIO,Retail,1,1,HillV2
+SNAP FITNESS,Retail,1,1,Sengkang Grand Mall
+SNOW MONSTER,Retail,1,1,Clarke Quay Central
+SOHO THE PRIVATE DRESSER,Retail,1,1,Pacific Plaza
+SOLMART,Retail,1,1,Square 2
+SOMMAR BEAUTY SPA,Retail,1,1,Pacific Plaza
+SOPHIA,Retail,1,1,Raffles City Shopping Centre
+SOTHYS SALON,Retail,1,1,Great World
+SOULWORKS BY KOYEE,Retail,1,1,Greenwich V
+SOZO-one,Retail,1,1,313@somerset
+SPA ARTISTRY,Retail,1,1,West Coast Plaza
+SPA ELEMENTS,Retail,1,1,ION Orchard
+SPARKLE DENTAL SURGERY,Retail,1,1,Square 2
+SPARKLE Star,Retail,1,1,Suntec City
+SPECIALIST EYECARE CLINIC,Retail,1,1,Great World
+SPERRY,Retail,1,1,Bugis Junction (Part of Bugis Town)
+SPORTSMED TCM,Retail,1,1,One Holland Village
+SPX EXPRESS,Retail,1,1,Great World
+SPX Express Locker (Opening Soon),Retail,1,1,Jem
+ST. THOMAS @ SURPRISESSS,Retail,1,1,Lucky Chinatown
+STEFANI PARFUMERIE,Retail,1,1,One Holland Village
+STEINWAY & SONS,Retail,1,1,ION Orchard
+STERRA,Retail,1,1,Tampines Mall
+STICKS & STONES,Retail,1,1,Bugis+ (Part of Bugis Town)
+STRENGTH MASTERS GYM,Retail,1,1,Icon Village
+STRONG PILATES,Retail,1,1,One Holland Village
+SUBLIME HAIRDRESSING,Retail,1,1,Orchard Central
+SUGOI BEAUTY AND COLLECTION,Retail,1,1,Orchard Central
+SUI SUI,Retail,1,1,Jurong Point
+SULTANS,Retail,1,1,United Square
+SUN SANG,Retail,1,1,Bugis Junction (Part of Bugis Town)
+SUN TANNING STUDIO,Retail,1,1,Clarke Quay Central
+SUNS,Retail,1,1,The Shoppes at Marina Bay Sands
+SUNSHINE WELLNESS AND SLIMMING,Retail,1,1,West Coast Plaza
+SUPERCO COWORKING SPACE,Retail,1,1,One Holland Village
+SUPERGA,Retail,1,1,ION Orchard
+SUPERHAIR,Retail,1,1,Square 2
+SUPERLAND PRE-SCHOOL,Retail,1,1,One Holland Village
+SV Style House,Retail,1,1,313@somerset
+SWAROVSKI Outlet,Retail,1,1,IMM Building
+Sabaai Sabaai Boutique Spa*,Retail,1,1,Wisma Atria
+Sabai Sabai Thai Private Kitchen,Retail,1,1,Valley Point
+Sage Medical Clinic,Retail,1,1,Mandarin Gallery
+Saj Exchange,Retail,1,1,Raffles City Shopping Centre
+Salon At Goldhill,Retail,1,1,United Square
+Salon Orient,Retail,1,1,Marina Square
+Salon Vim*,Retail,1,1,Wisma Atria
+Salt Clinic by Premier Dead Sea,Retail,1,1,Tampines 1
+Sam Edelman Outlet,Retail,1,1,IMM Building
+Samata,Retail,1,1,Westgate
+Samsonite Factory Outlet,Retail,1,1,IMM Building
+Sanchō by Chek Hong Leather,Retail,1,1,Raffles City Shopping Centre
+Sanrio Characters Store,Retail,1,1,Jewel Changi Airport
+Sasa,Retail,1,1,Jewel Changi Airport
+Satellite Paris | ELLI,Retail,1,1,Jewel Changi Airport
+Sa’Yang Hair,Retail,1,1,White Sands
+Scarlett Choice,Retail,1,1,Northpoint City
+Scarlett Fresh,Retail,1,1,Jurong Point
+Scene,Retail,1,1,Mandarin Gallery
+Scent Appeal,Retail,1,1,Tampines 1
+School of Music Clef,Retail,1,1,Suntec City
+School of Music and the Arts (SOMA),Retail,1,1,Marina Square
+Sciencetopia,Retail,1,1,City Square Mall
+Sciencewerkz by Stalford,Retail,1,1,Waterway Point
+Scissors Paper Stone,Retail,1,1,Marina Square
+Sea Apple,Retail,1,1,United Square
+Seahorse,Retail,1,1,Jurong Point
+Sealy,Retail,1,1,City Square Mall
+Seasons Marina Spa,Retail,1,1,Marina Square
+Secret Furnishing,Retail,1,1,IMM Building
+Secret Garden,Retail,1,1,Raffles City Shopping Centre
+Seiko,Retail,1,1,Ngee Ann City
+Seimon-Cho Outlet,Retail,1,1,IMM Building
+Seimon-cho,Retail,1,1,Plaza Singapura
+Seimpi Education,Retail,1,1,The Centrepoint
+ServiceSG Centre,Retail,1,1,AMK Hub
+Seth Vision,Retail,1,1,Marina Square
+Shafeek Exchange Money Changer,Retail,1,1,Northpoint City
+Shara Exchange,Retail,1,1,Century Square
+Sharewow,Retail,1,1,Marina Square
+Shimmer & Shine,Retail,1,1,Northpoint City
+Shinagawa Eye Clinic,Retail,1,1,The Centrepoint
+Shine Korea Supermarket,Retail,1,1,Marina Square
+Shinka,Retail,1,1,AMK Hub
+Shiro Aesthetic Clinic,Retail,1,1,Mandarin Gallery
+Short-Q,Retail,1,1,The Centrepoint
+Shou Slimming Centre,Retail,1,1,Velocity@Novena Square
+Shreeyaasha Hair & Beauty Salon,Retail,1,1,White Sands
+Shugar Prestige,Retail,1,1,Paragon
+Shugar Spa,Retail,1,1,Waterway Point
+Shukey,Retail,1,1,Suntec City
+Siddix Tailor,Retail,1,1,Suntec City
+Silver River Money Changer,Retail,1,1,Marina Square
+Sim Siang Choon,Retail,1,1,IMM Building
+Simba Service Centre,Retail,1,1,PLQ Mall
+Simmons,Retail,1,1,United Square
+Simmons Studio,Retail,1,1,Plaza Singapura
+Simply Flowers,Retail,1,1,Jem
+Simply Zakka,Retail,1,1,Jewel Changi Airport
+Sin Jojo,Retail,1,1,Suntec City
+SingHear Tinnitus and Hearing Specialists,Retail,1,1,City Square Mall
+Singapore Paincare TCM Wellness,Retail,1,1,Marina Square
+Singapore Ski & Snowboard Academy,Retail,1,1,Marina Square
+Singapura Otter by Creamier,Retail,1,1,Jewel Changi Airport
+Singpost,Retail,1,1,Jurong Point
+Singtel +Serv,Retail,1,1,The Centrepoint
+Sintex,Retail,1,1,Jurong Point
+Sintex Outlet,Retail,1,1,IMM Building
+Skechers Outlet,Retail,1,1,IMM Building
+Skeda,Retail,1,1,Ngee Ann City
+Skin Belief,Retail,1,1,Funan
+Skin Creations,Retail,1,1,The Centrepoint
+Skin Labo,Retail,1,1,Tampines 1
+SkinLab The Medical Spa / SL Aesthetic Clinic,Retail,1,1,Sengkang Grand Mall
+Slinnar’s Beauty Club,Retail,1,1,Funan
+Smart Innovations,Retail,1,1,IMM Building
+Smartbox,Retail,1,1,IMM Building
+Smile Doctor Dentalcare @ Punggol Waterway,Retail,1,1,Waterway Point
+Smile Inc.® Dental Surgeons,Retail,1,1,Mandarin Gallery
+Smore's by Alkaff,Retail,1,1,Bedok Mall
+SocietyA,Retail,1,1,Ngee Ann City
+Softopia,Retail,1,1,Funan
+Sol Mart,Retail,1,1,The Centrepoint
+Sole Lovers,Retail,1,1,Jem
+Sonata Dancewear,Retail,1,1,Funan
+Sony Store*,Retail,1,1,Wisma Atria
+Sorella Outlet,Retail,1,1,IMM Building
+Sothys,Retail,1,1,Tampines 1
+Spa D'Or,Retail,1,1,Raffles City Shopping Centre
+Spa45*,Retail,1,1,Wisma Atria
+Space N Living,Retail,1,1,IMM Building
+Spacio,Retail,1,1,Jurong Point
+Spacio Hub,Retail,1,1,Tampines Mall
+Spacious Planners,Retail,1,1,IMM Building
+Sparkanauts,Retail,1,1,City Square Mall
+Spaze The Body & Foot Spa,Retail,1,1,Lot One Shoppers' Mall
+Spectacle Hut Outlet,Retail,1,1,IMM Building
+Spectrum Store,Retail,1,1,Suntec City
+Sperry Outlet,Retail,1,1,IMM Building
+Sphere The Living Space,Retail,1,1,Suntec City
+Spotlight,Retail,1,1,Plaza Singapura
+Sri Murugan Plus,Retail,1,1,Jurong Point
+Sri Murugan Supermarket,Retail,1,1,Northpoint City
+Standard Chartered ATM,Retail,1,1,Paragon
+Standard Chartered Bank,Retail,1,1,Jem
+Star Living,Retail,1,1,IMM Building
+Star River Language School,Retail,1,1,Tiong Bahru Plaza
+Star Watches,Retail,1,1,PLQ Mall
+StarHub Shop,Retail,1,1,Causeway Point
+State Property,Retail,1,1,Ngee Ann City
+State Swim Swimming Schools,Retail,1,1,Suntec City
+Stefano Ricci,Retail,1,1,The Shoppes at Marina Bay Sands
+Stereo,Retail,1,1,Plaza Singapura
+Steve Madden Outlet,Retail,1,1,IMM Building
+Stone For Gold,Retail,1,1,Mandarin Gallery
+Stone Island,Retail,1,1,The Shoppes at Marina Bay Sands
+Stoneage Collection,Retail,1,1,Marina Square
+Store Mapping Store (Zara),Retail,1,1,VivoCity
+Store without unit number,Retail,1,1,VivoCity
+Strange & Deranged,Retail,1,1,Paragon
+Stroke Support Station,Retail,1,1,Jurong Point
+Sugarcane Vending Machine by Quench Mart,Retail,1,1,Jem
+Sugarwaxed,Retail,1,1,The Centrepoint
+Sunday Mobile Telecommunications,Retail,1,1,Northpoint City
+Sunflower Piano House,Retail,1,1,Northpoint City
+Sunglass Avenue,Retail,1,1,The Centrepoint
+Sunglass Hut Outlet,Retail,1,1,IMM Building
+Sunshine Childhood Playland,Retail,1,1,Northpoint City
+Sunshine Health & Wellness,Retail,1,1,Jurong Point
+Super Child Club,Retail,1,1,Marina Square
+Super Rare,Retail,1,1,313@somerset
+SuperGurl,Retail,1,1,Plaza Singapura
+SuperPark Singapore,Retail,1,1,Suntec City
+Surfers Paradise,Retail,1,1,Tiong Bahru Plaza
+Suucokids,Retail,1,1,Marina Square
+SuzyAmeer,Retail,1,1,Century Square
+Svenson Hair Center,Retail,1,1,Jurong Point
+Swapaholic,Retail,1,1,CQ @ Clarke Quay
+Swee Lee,Retail,1,1,CQ @ Clarke Quay
+Swift Exchange,Retail,1,1,Jem
+Switch+,Retail,1,1,Velocity@Novena Square
+Symphony Music School,Retail,1,1,Causeway Point
+Synwin Violins,Retail,1,1,Marina Square
+T K FOTO,Retail,1,1,Funan
+T-Swirl Crepe,Retail,1,1,Plaza Singapura
+TAEGEUK TAEKWONDO,Retail,1,1,Junction 10
+TAKA JEWELLERY TREASURES,Retail,1,1,ION Orchard
+TAKA Jewellery Radiance,Retail,1,1,Lot One Shoppers' Mall
+TANPOPO HOUSE,Retail,1,1,Square 2
+TARANIS,Retail,1,1,Raffles City Shopping Centre
+TCL,Retail,1,1,Northpoint City
+TEAM ELITES INTERNATIONAL,Retail,1,1,Riverside Point
+TEST002Bags,Retail,1,1,VivoCity
+TFX,Retail,1,1,Funan
+THE AESTHETICS CENTRE,Retail,1,1,Great World
+THE AIR STATION SLEEP STORE,Retail,1,1,Square 2
+THE ARTGROUND,Retail,1,1,One Holland Village
+THE BUST SPECIALIST,Retail,1,1,Square 2
+THE CROWN,Retail,1,1,Riverside Point
+THE DRX CLINIC,Retail,1,1,Orchard Central
+THE ELLY STORE,Retail,1,1,One Holland Village
+THE EYE DOCTOR,Retail,1,1,Mandarin Gallery
+THE EYECLINIC BY DR. CHERYL LEE,Retail,1,1,Mandarin Gallery
+THE HENG'S JEWELLERY,Retail,1,1,Clarke Quay Central
+THE INN LIVEHOUSE,Retail,1,1,Bugis+ (Part of Bugis Town)
+THE JOY OF TOYS,Retail,1,1,Clarke Quay Central
+THE MUSIC CIRCLE,Retail,1,1,Katong V
+THE NAIL ARTISTRY,Retail,1,1,Great World
+THE NORTH FACE,Retail,1,1,ION Orchard
+THE OAK CELLARS,Retail,1,1,ION Orchard
+THE ONITSUKA,Retail,1,1,ION Orchard
+THE PRESTIGE EYEBROW & LASH SPECIALIST,Retail,1,1,Pacific Plaza
+THE RESTYLE TRAIT,Retail,1,1,Clarke Quay Central
+THE ROB ROCKEFELLER S.C,Retail,1,1,Riverside Point
+THE SCHOOLHOUSE BY BUSY BEES,Retail,1,1,Great World
+THE SEAFOOD MARKET PLACE,Retail,1,1,One Holland Village
+THE SPECTACLE SHOP,Retail,1,1,West Coast Plaza
+THE WEARHAUS,Retail,1,1,Square 2
+THE WRITER’S PLACE,Retail,1,1,Junction 10
+THEE BOLD STORIES,Retail,1,1,Clarke Quay Central
+THEGREYSPACE.CO,Retail,1,1,Waterway Point
+THEIMPRINT,Retail,1,1,Wisma Atria
+THEIMPRINT.SG,Retail,1,1,Funan
+THINK ACADEMY,Retail,1,1,Square 2
+THIRTY THREE 33,Retail,1,1,Hougang 1
+THREES BEAUTY SALON,Retail,1,1,Clarke Quay Central
+TIAN MA GROUP,Retail,1,1,Hougang 1
+TIMBUK2,Retail,1,1,Bugis Junction (Part of Bugis Town)
+TMC Academy,Retail,1,1,PLQ Mall
+TOG - Toy or Game,Retail,1,1,Causeway Point
+TOM FORD,Retail,1,1,Paragon
+TOMS,Retail,1,1,Funan
+TOPSPEED Racing Club,Retail,1,1,Funan
+TOYSHUNT,Retail,1,1,Great World
+TOYSLAND,Retail,1,1,West Coast Plaza
+TRAVEL ZONE,Retail,1,1,Square 2
+TRESORY.,Retail,1,1,Raffles City Shopping Centre
+TRESS & CURVY,Retail,1,1,Pacific Plaza
+TT QUICK MASSAGE,Retail,1,1,Square 2
+TTE Elephant,Retail,1,1,Westgate
+TUDOR at Cortina Watch,Retail,1,1,Raffles City Shopping Centre
+TUMI Outlet,Retail,1,1,IMM Building
+TVG,Retail,1,1,Mandarin Gallery
+TWIN CITY MEDICAL CENTRE,Retail,1,1,Great World
+TYAN,Retail,1,1,Ngee Ann City
+Tailored Fashions,Retail,1,1,Ngee Ann City
+Tasaki,Retail,1,1,The Shoppes at Marina Bay Sands
+Tasi,Retail,1,1,Marina Square
+Tefal Factory Outlet,Retail,1,1,IMM Building
+Telecoms Link Mobile,Retail,1,1,Causeway Point
+Ten Ren's Tea 天仁茗茶,Retail,1,1,Funan
+Teo Heng Family KTV Studio,Retail,1,1,Jurong Point
+Terra Luxe,Retail,1,1,Plaza Singapura
+Tesla,Retail,1,1,Westgate
+Test Store,Retail,1,1,VivoCity
+Test Store Pay Configurations,Retail,1,1,VivoCity
+Testing 2,Retail,1,1,VivoCity
+Teva/CATERPILLAR Outlet,Retail,1,1,IMM Building
+Thai Supermarket,Retail,1,1,Aperia Mall
+The Achievers’ Learning Place,Retail,1,1,Valley Point
+The Backyard Bakers,Retail,1,1,Jewel Changi Airport
+The Ballet School x Singapore Dance Company,Retail,1,1,AMK Hub
+The Belt Shop,Retail,1,1,Northpoint City
+The Better Toy Store,Retail,1,1,Paragon
+The Big Country,Retail,1,1,Velocity@Novena Square
+The Body Firm,Retail,1,1,Raffles City Shopping Centre
+The Care,Retail,1,1,Tampines Mall
+The Cheese Shop,Retail,1,1,Swing By @ Thomson Plaza
+The Chrono Vault,Retail,1,1,The Centrepoint
+The Cosmetics Company Store,Retail,1,1,IMM Building
+The Door,Retail,1,1,IMM Building
+The Eco Club,Retail,1,1,Funan
+The Editorâs Market,Retail,1,1,Ngee Ann City
+The Everyday Club,Retail,1,1,Funan
+The Experts Sound,Retail,1,1,Funan
+The Game of Life,Retail,1,1,VivoCity
+The Grande Whisky Museum,Retail,1,1,Suntec City
+The Green Capsule,Retail,1,1,Funan
+The Green Collective,Retail,1,1,Funan
+The Gundam Base Singapore,Retail,1,1,Jewel Changi Airport
+The H2 Therapy,Retail,1,1,Velocity@Novena Square
+The Hair Shop,Retail,1,1,Paragon
+The JeJe Korea,Retail,1,1,The Centrepoint
+The Kiap Kiap Place,Retail,1,1,Funan
+The Kind Wash,Retail,1,1,Plaza Singapura
+The Laundry Corner,Retail,1,1,United Square
+The Lion King Story,Retail,1,1,VivoCity
+The Little Arts Academy - North Campus I,Retail,1,1,Northpoint City
+The Little Arts Academy - North Campus II,Retail,1,1,Northpoint City
+The Little Gym,Retail,1,1,Marina Square
+The Logic Coders,Retail,1,1,City Square Mall
+The Maternity House,Retail,1,1,Marina Square
+The Moments,Retail,1,1,Tampines 1
+The Nailist City,Retail,1,1,313@somerset
+The North Face Outlet,Retail,1,1,IMM Building
+The Paper Bunny,Retail,1,1,Ngee Ann City
+The Par Club,Retail,1,1,Marina Square
+The Pet Safari,Retail,1,1,Waterway Point
+The Physics Cafe,Retail,1,1,United Square
+The Polliwogs,Retail,1,1,VivoCity
+The Remote Control House,Retail,1,1,Jurong Point
+The Salt Clinic By Premier,Retail,1,1,AMK Hub
+The Sense House,Retail,1,1,Century Square
+The ShoeCo,Retail,1,1,The Centrepoint
+The Singapore Mint,Retail,1,1,Suntec City
+The Spa-Lon,Retail,1,1,City Square Mall
+The Spacio Clinic,Retail,1,1,Causeway Point
+The Sparkle Star,Retail,1,1,Funan
+The Toy Folks,Retail,1,1,Marina Square
+The Travel Store,Retail,1,1,Plaza Singapura
+The Travel Store Outlet,Retail,1,1,IMM Building
+The Vogue Hair Professional,Retail,1,1,Velocity@Novena Square
+The Whoo,Retail,1,1,The Shoppes at Marina Bay Sands
+The Wonder Store,Retail,1,1,Jewel Changi Airport
+The Write Connection,Retail,1,1,City Square Mall
+The individual society,Retail,1,1,Plaza Singapura
+The odbo.,Retail,1,1,Bugis Junction (Part of Bugis Town)
+Therapy Market,Retail,1,1,The Centrepoint
+Think,Retail,1,1,Funan
+Thom Browne,Retail,1,1,The Shoppes at Marina Bay Sands
+Thomson Chinese Medicine,Retail,1,1,United Square
+Thomson Fertility,Retail,1,1,United Square
+Thomson Medical,Retail,1,1,Jem
+Thomson Paediatric Centre & Thomson Chinese Medicine,Retail,1,1,Waterway Point
+Thomson Women’s Clinic,Retail,1,1,Waterway Point
+Threeppy by Daiso Japan,Retail,1,1,Marina Square
+Tiara Creation,Retail,1,1,The Centrepoint
+Tiger Family,Retail,1,1,Suntec City
+Timberland,Retail,1,1,Jewel Changi Airport
+Timberland Outlet,Retail,1,1,IMM Building
+Time Enterprise TCM,Retail,1,1,Aperia Mall
+Tiong Bahru Dental Surgery,Retail,1,1,Tiong Bahru Plaza
+Titan Tech Academy,Retail,1,1,Suntec City
+Tns SIGNATURE,Retail,1,1,Raffles City Shopping Centre
+ToTT,Retail,1,1,Suntec City
+Tod's,Retail,1,1,The Shoppes at Marina Bay Sands
+Tokyo Zone 1945,Retail,1,1,White Sands
+Tom & Stefanie,Retail,1,1,PLQ Mall
+Tom Ford Beauty,Retail,1,1,The Shoppes at Marina Bay Sands
+Tommy Hilfiger Outlet,Retail,1,1,IMM Building
+Tong Garden,Retail,1,1,Jewel Changi Airport
+ToofDoctor Dental Surgeons,Retail,1,1,Suntec City
+Top Cash Jewellery,Retail,1,1,Jem
+Top Feeling International,Retail,1,1,Westgate
+Topologie,Retail,1,1,Jewel Changi Airport
+Toy Or Games (TOG),Retail,1,1,Bugis+ (Part of Bugis Town)
+Toys 'R' Us,Retail,1,1,Waterway Point
+Toys Terminal,Retail,1,1,Northpoint City
+Toys''R''Us,Retail,1,1,Suntec City
+Transformer,Retail,1,1,VivoCity
+Trapped Escape Room,Retail,1,1,The Centrepoint
+Traveller World,Retail,1,1,Jewel Changi Airport
+Triumph Outlet,Retail,1,1,IMM Building
+True Harmony,Retail,1,1,Plaza Singapura
+True Medical Clinic,Retail,1,1,PLQ Mall
+Tudor at Watch Palace,Retail,1,1,Mandarin Gallery
+Twister,Retail,1,1,VivoCity
+U-Home Interior Design,Retail,1,1,IMM Building
+U-One,Retail,1,1,City Square Mall
+U@GX,Retail,1,1,AMK Hub
+UCCI,Retail,1,1,Clarke Quay Central
+UCHINO Bath & Relaxation,Retail,1,1,Raffles City Shopping Centre
+UFIT CLINIC,Retail,1,1,Orchard Central
+UJADE JEWELLERY,Retail,1,1,Lucky Chinatown
+UN.WASTELANDS,Retail,1,1,313@somerset
+UNIQLO Flower,Retail,1,1,Suntec City
+UNITED OPTOMETRIST,Retail,1,1,Square 2
+UOB Auto Lobby,Retail,1,1,City Square Mall
+UOB Autolobby,Retail,1,1,Tampines Mall
+Umistrong,Retail,1,1,City Square Mall
+Uni Retreat,Retail,1,1,PLQ Mall
+Unicity,Retail,1,1,Suntec City
+Unionware,Retail,1,1,Westgate
+Unisprings,Retail,1,1,IMM Building
+Universal Traveller,Retail,1,1,Suntec City
+Unusual Express,Retail,1,1,Northpoint City
+Urban Revivo,Retail,1,1,Raffles City Shopping Centre
+V Medical Aesthetics Laser Clinic,Retail,1,1,Velocity@Novena Square
+V-ZUG,Retail,1,1,ION Orchard
+VACANZA,Retail,1,1,Bugis Junction (Part of Bugis Town)
+VANDAMOD,Retail,1,1,The Centrepoint
+VANS Outlet,Retail,1,1,IMM Building
+VERONICA'S FLORIST & GIFTS,Retail,1,1,Great World
+VICTORIA'S SECRET AND PINK,Retail,1,1,ION Orchard
+VIERGE BEAUTIQUE,Retail,1,1,West Coast Plaza
+VII Skinn,Retail,1,1,Plaza Singapura
+VIP Parking Zone,Retail,1,1,VivoCity
+VITOREINA,Retail,1,1,Plaza Singapura
+VIVA MEDICAL GROUP (WESTSIDE),Retail,1,1,West Coast Plaza
+VIVIE TOKYO SALON,Retail,1,1,Riverside Point
+VOM FASS,Retail,1,1,ION Orchard
+VS Salon Hairdressing,Retail,1,1,Causeway Point
+VS Salon Hairdressing Spa,Retail,1,1,Waterway Point
+VUE,Retail,1,1,Mandarin Gallery
+Vain Beauty,Retail,1,1,PLQ Mall
+Van Heusen,Retail,1,1,Northpoint City
+Vanessa Beauty & Henna Artwork Creations,Retail,1,1,City Square Mall
+Vanilla Taste of Beauty,Retail,1,1,Hougang Mall
+Vanity Room,Retail,1,1,United Square
+Vans,Retail,1,1,Paragon
+Velvet Beauty Wellness,Retail,1,1,City Square Mall
+Venia Cherie,Retail,1,1,Hougang Mall
+VeniaCherie,Retail,1,1,Junction 8
+Venus Tears,Retail,1,1,Tampines 1
+Vets for Life Animal Clinic,Retail,1,1,Valley Point
+VibeMax,Retail,1,1,Suntec City
+Vibrancy Skin,Retail,1,1,Bedok Mall
+Victoria Beauty SPA,Retail,1,1,Raffles City Shopping Centre
+Victoria Face Lift,Retail,1,1,Plaza Singapura
+Victoria's Secret,Retail,1,1,Mandarin Gallery
+Victoria's Secret and Pink by Victoria's Secret,Retail,1,1,VivoCity
+Victoria's Secret by BuyBye Valiram Fashion Outlet,Retail,1,1,IMM Building
+VictoriaEnso,Retail,1,1,Jewel Changi Airport
+ViewQwest,Retail,1,1,Suntec City
+Vincen+ Watch,Retail,1,1,Jem
+Vincent Signature,Retail,1,1,Jurong Point
+Vincitore The Italian Shoe Store,Retail,1,1,Marina Square
+Vintage Studio Hairdressing,Retail,1,1,Northpoint City
+Vision Exchange,Retail,1,1,Jurong Point
+Vispring,Retail,1,1,Marina Square
+Voila Paris,Retail,1,1,The Centrepoint
+Vroomtown Driving City,Retail,1,1,Marina Square
+W LAB,Retail,1,1,Orchard Central
+WALKING ON SUNSHINE (HAIR/NAIL/CAFE),Retail,1,1,Orchard Central
+WAM & EDUCATION CENTRE,Retail,1,1,West Coast Plaza
+WAN TO PLAY CANDYLAND,Retail,1,1,West Coast Plaza
+WANYOO ESPORTS,Retail,1,1,Riverside Point
+WATCH GALLERY,Retail,1,1,Mandarin Gallery
+WATER B,Retail,1,1,Riverside Point
+WAX FACTOR,Retail,1,1,Orchard Central
+WC Store,Retail,1,1,Jewel Changi Airport
+WC26,Retail,1,1,Wisma Atria
+WELL.COM,Retail,1,1,Lucky Chinatown
+WELOVECURATINGSG,Retail,1,1,Clarke Quay Central
+WEN'S FLORAL STUDIO,Retail,1,1,Orchard Central
+WESTERN UNION,Retail,1,1,Lucky Chinatown
+WILD RICE,Retail,1,1,Funan
+WINSTON OH HEARING,Retail,1,1,West Coast Plaza
+WORLD OF WATCHES 2,Retail,1,1,Pacific Plaza
+WTS Travel & Tours,Retail,1,1,Lot One Shoppers' Mall
+Walking In The Light,Retail,1,1,Bugis+ (Part of Bugis Town)
+Wanderlust x Playdress,Retail,1,1,Plaza Singapura
+Wardrobemess,Retail,1,1,Funan
+Watch Station International & Fossil Outlet,Retail,1,1,IMM Building
+Watch it!,Retail,1,1,PLQ Mall
+Watches of Japan,Retail,1,1,Bedok Mall
+Watches of Switzerland,Retail,1,1,Paragon
+Watsons Health,Retail,1,1,Paragon
+WeArt,Retail,1,1,The Centrepoint
+Weekend Max Mara,Retail,1,1,Paragon
+Welcia Singapore,Retail,1,1,Suntec City
+Wellspring Wellness 康园养生屋,Retail,1,1,Bedok Mall
+West Coast Dental Clinic,Retail,1,1,Marina Square
+Weston Corp World Cup,Retail,1,1,Tampines Mall
+Whimsy,Retail,1,1,Junction 8
+White30,Retail,1,1,Funan
+Wigwise Hair Solution,Retail,1,1,The Centrepoint
+Willow Stream Spa,Retail,1,1,Raffles City Shopping Centre
+Wilson Outlet,Retail,1,1,IMM Building
+Wine Hair Boutique,Retail,1,1,AMK Hub
+Winter Time,Retail,1,1,Northpoint City
+Winter Time Outlet,Retail,1,1,IMM Building
+Within Yoga | Pilates,Retail,1,1,Ngee Ann City
+Wolfgang Violin Studio,Retail,1,1,The Centrepoint
+Wooderful Life,Retail,1,1,Funan
+X'VOCK STUDIO HAIR & BEAUTY,Retail,1,1,HillV2
+X-Boundaries,Retail,1,1,Mandarin Gallery
+X-Zen Hair Salon,Retail,1,1,The Centrepoint
+XGEAR,Retail,1,1,Waterway Point
+XOREX PRESS,Retail,1,1,West Coast Plaza
+XTRA,Retail,1,1,Marina Square
+XZQT Portfolio,Retail,1,1,Paragon
+Xi Apparel & Jade,Retail,1,1,Mandarin Gallery
+Xpress Foot Wellness,Retail,1,1,AMK Hub
+Xtra Office,Retail,1,1,Marina Square
+X’treme Professional Hair Studio,Retail,1,1,Sengkang Grand Mall
+Y by Yann,Retail,1,1,Paragon
+Y.Y. Household,Retail,1,1,White Sands
+YALE and THE S&L HOUSE,Retail,1,1,IMM Building
+YAN AESTHETIC & LASER CLINIC,Retail,1,1,West Coast Plaza
+YAN PALACE,Retail,1,1,Ngee Ann City
+YANN BEYRIE SALON*,Retail,1,1,Wisma Atria
+YOGA MOVEMENT,Retail,1,1,Icon Village
+YOGLE BEAUTY,Retail,1,1,Junction 10
+YOU ARE MY SUNSHINE SALON,Retail,1,1,Orchard Central
+YOU CHENG EDUCATION CENTRE,Retail,1,1,Junction 10
+YOUNG DANCERS ACADEMY,Retail,1,1,HillV2
+YOUR AUTHENTIC SELLER,Retail,1,1,Orchard Central
+YSL Beauty,Retail,1,1,Raffles City Shopping Centre
+YU Cookies (Temporarily closed),Retail,1,1,Jewel Changi Airport
+YUTOPIA,Retail,1,1,ION Orchard
+YVES SAINT LAURENT BEAUTE,Retail,1,1,ION Orchard
+Yamaha Creators’ Crossing,Retail,1,1,Plaza Singapura
+Yan Sang Tang,Retail,1,1,Raffles City Shopping Centre
+Yang Hua Furniture Trading,Retail,1,1,Century Square
+YeoMama Batik,Retail,1,1,Raffles City Shopping Centre
+Yi Atelier of Brows,Retail,1,1,Funan
+Yi Cool,Retail,1,1,Jurong Point
+Yi Hua Xuan,Retail,1,1,Junction 8
+Yield,Retail,1,1,313@somerset
+Yinen Crystals,Retail,1,1,Jurong Point
+Yishun Library,Retail,1,1,Northpoint City
+Yogibo,Retail,1,1,Suntec City
+Yong Kang TCM Clinic,Retail,1,1,Jurong Point
+Yong Kang TCM and Physio Clinic,Retail,1,1,Suntec City
+Yooland,Retail,1,1,Westgate
+YouClass Learning Centre,Retail,1,1,Marina Square
+YouMe Men's Store,Retail,1,1,Jurong Point
+Young Curves,Retail,1,1,Westgate
+Young by Multiflora,Retail,1,1,United Square
+Yu Er,Retail,1,1,AMK Hub
+Yu Er Fashion,Retail,1,1,Lot One Shoppers' Mall
+Yue Hwa Chinese Products,Retail,1,1,Jurong Point
+Yuen An Zhan Medical Hall,Retail,1,1,Jurong Point
+Yuer,Retail,1,1,Causeway Point
+Yves Saint Laurent Beauté,Retail,1,1,Jem
+Z+KTV,Retail,1,1,Pacific Plaza
+ZEISS Vision Center by KJ Optometrists,Retail,1,1,Plaza Singapura
+ZEN BEAUTY,Retail,1,1,Square 2
+ZENITH EDUCATION STUDIO,Retail,1,1,Junction 10
+ZENZI,Retail,1,1,Bugis Junction (Part of Bugis Town)
+ZHENG CAI YU XI GE,Retail,1,1,Lucky Chinatown
+ZOEO APPAREL,Retail,1,1,Square 2
+Zanetta,Retail,1,1,The Centrepoint
+Zara Men,Retail,1,1,VivoCity
+Zell-V Platinum,Retail,1,1,Ngee Ann City
+Zenith,Retail,1,1,The Shoppes at Marina Bay Sands
+ZhengXin Chicken Steak,Retail,1,1,Plaza Singapura
+Zimmermann,Retail,1,1,Paragon
+Zirconite Shield Singapore,Retail,1,1,IMM Building
+Zone X,Retail,1,1,Lot One Shoppers' Mall
+Zoomoov,Retail,1,1,Westgate
+Zorba the Greek Taverna,Retail,1,1,CQ @ Clarke Quay
+Zotelier,Retail,1,1,Velocity@Novena Square
+[RDM] New Sharepoint API Key,Retail,1,1,VivoCity
+allbirds,Retail,1,1,Funan
+arena,Retail,1,1,Tampines Mall
+atomi x furniture / atomi x lifestyle,Retail,1,1,Mandarin Gallery
+balabala,Retail,1,1,Plaza Singapura
+beside-u,Retail,1,1,Jem
+bloomB Outlet,Retail,1,1,IMM Building
+bmb Holistic Maternity Wellness,Retail,1,1,Paragon
+byCaxs DOLL PARLOUR,Retail,1,1,Raffles City Shopping Centre
+chicco,Retail,1,1,Plaza Singapura
+crafune,Retail,1,1,Funan
+d’SSL,Retail,1,1,Velocity@Novena Square
+d’skin,Retail,1,1,Velocity@Novena Square
+ePLAY,Retail,1,1,Hougang Mall
+edvox music & dance,Retail,1,1,Paragon
+elly sera,Retail,1,1,Tampines 1
+epitex Outlet,Retail,1,1,IMM Building
+fitflop Outlet,Retail,1,1,IMM Building
+hairz,Retail,1,1,Bugis Junction (Part of Bugis Town)
+i-Outlet,Retail,1,1,AMK Hub
+i.Dental,Retail,1,1,Northpoint City
+iClaw,Retail,1,1,Jurong Point
+iFresh,Retail,1,1,Marina Square
+iROO Outlet,Retail,1,1,IMM Building
+kate spade new york outlet,Retail,1,1,IMM Building
+kcuts & Kskin,Retail,1,1,Bedok Mall
+kim robinson,Retail,1,1,Ngee Ann City
+kizik,Retail,1,1,Plaza Singapura
+library@harbourfront,Retail,1,1,VivoCity
+madeyoulook,Retail,1,1,Funan
+mimi mono 奈美良一,Retail,1,1,Plaza Singapura
+misssee,Retail,1,1,Tampines 1
+myhalo,Retail,1,1,Bugis Junction (Part of Bugis Town)
+running lab Outlet,Retail,1,1,IMM Building
+schönemama,Retail,1,1,Westgate
+test store again for configurations,Retail,1,1,VivoCity
+uBreakiFix,Retail,1,1,Tiong Bahru Plaza
+urban de.Fine,Retail,1,1,Marina Square
+utopia,Retail,1,1,The Centrepoint
+vivo,Retail,1,1,313@somerset
+woosee fine art and finest tea,Retail,1,1,Mandarin Gallery

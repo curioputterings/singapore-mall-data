@@ -1,0 +1,23 @@
+mall,owner,shops,fnb_pct,gross_rev_Sm,npi_Sm,npi_margin_pct,valuation_Sm,npi_yield_pct,occupancy_pct,nla_sqft,rev_per_shop_k,rev_per_sqft,npi_src,rev_src,flags
+Raffles City Shopping Centre,CICT,262,37,248.3,171.3,69,,,99.3,,948.0,,E,D,integrated(office+retail)
+VivoCity,MPACT,89,34,226.1,170.3,75,3200.0,5.3,100.0,1037000.0,,218.0,E,E,shop-count partial
+Paragon,Paragon REIT,196,31,167.5,120.6,72,2903.0,4.3,100.0,,855.0,,E,E,
+Jurong Point,Link REIT,380,37,142.3,99.6,70,2120.0,4.7,97.8,721559.0,374.0,197.0,D,-,
+Jem,LREIT,252,36,125.0,94.1,75,2188.0,4.3,100.0,893044.0,496.0,140.0,E,E,integrated(office+retail)
+Suntec City,Suntec REIT,396,42,111.2,77.8,70,,,99.5,880000.0,281.0,126.0,E,E,retail segment of integrated dev
+Causeway Point,FCT,222,36,97.7,69.4,71,1336.0,5.2,99.6,419688.0,440.0,233.0,D,-,
+Plaza Singapura,CICT,294,30,93.7,64.7,69,1441.0,4.5,99.7,485500.0,319.0,193.0,E,D,
+Waterway Point,FCT,226,41,87.0,61.8,71,1315.0,4.7,100.0,389444.0,385.0,223.0,D,-,100% basis (FCT holds 50%)
+IMM Building,CICT,229,25,89.4,61.7,69,,,98.0,,390.0,,E,D,
+Bugis Junction,CICT,241,33,83.7,57.8,69,1130.0,5.1,100.0,393554.0,347.0,213.0,E,D,
+Tampines Mall,CICT,149,36,82.7,57.1,69,1133.0,4.9,100.0,356303.0,555.0,232.0,E,D,
+Westgate,CICT,244,34,75.5,52.1,69,,,98.0,,309.0,,E,D,
+Funan,CICT,190,38,64.6,44.6,69,,,98.0,,340.0,,E,D,integrated(office+retail)
+Bugis+,CICT,94,41,63.4,43.7,69,359.0,12.2,100.0,214400.0,674.0,296.0,E,D,
+Wisma Atria,Starhill Global,100,30,53.5,42.3,79,,,100.0,126412.0,535.0,423.0,E,D,
+Junction 8,CICT,171,35,61.0,42.1,69,,,98.0,,357.0,,E,D,
+313@somerset,LREIT,138,41,55.3,41.5,75,1008.0,4.1,98.8,288000.0,401.0,192.0,E,E,
+Bedok Mall,CICT,194,40,58.1,40.1,69,,,98.0,,299.0,,E,D,
+Lot One Shoppers' Mall,CICT,145,36,46.5,32.1,69,,,98.0,,321.0,,E,D,
+CQ @ Clarke Quay,CICT,60,63,30.0,20.7,69,,,85.0,,500.0,,E,D,
+Ngee Ann City,Starhill Global,148,24,,,79,1148.0,,100.0,,,,-,-,Toshin master lease; rev aggregated

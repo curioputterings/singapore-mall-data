@@ -1,0 +1,20 @@
+[
+  {
+    "mall_name": "Jurong Point",
+    "owner_group": "Link REIT",
+    "num_stores": 380,
+    "source": "linkreit-api"
+  },
+  {
+    "mall_name": "AMK Hub",
+    "owner_group": "Link REIT",
+    "num_stores": 205,
+    "source": "linkreit-api"
+  },
+  {
+    "mall_name": "Swing By @ Thomson Plaza",
+    "owner_group": "Link REIT",
+    "num_stores": 55,
+    "source": "linkreit-api"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "mall_name": "Orchard Central",
+    "owner_group": "Far East Organization",
+    "num_stores": 92,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Clarke Quay Central",
+    "owner_group": "Far East Organization",
+    "num_stores": 99,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Katong V",
+    "owner_group": "Far East Organization",
+    "num_stores": 33,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Greenwich V",
+    "owner_group": "Far East Organization",
+    "num_stores": 24,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "HillV2",
+    "owner_group": "Far East Organization",
+    "num_stores": 28,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Junction 10",
+    "owner_group": "Far East Organization",
+    "num_stores": 40,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Hougang 1",
+    "owner_group": "Far East Organization",
+    "num_stores": 39,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Icon Village",
+    "owner_group": "Far East Organization",
+    "num_stores": 38,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Lucky Chinatown",
+    "owner_group": "Far East Organization",
+    "num_stores": 28,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Far East Square",
+    "owner_group": "Far East Organization",
+    "num_stores": 34,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Riverside Point",
+    "owner_group": "Far East Organization",
+    "num_stores": 27,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Pacific Plaza",
+    "owner_group": "Far East Organization",
+    "num_stores": 23,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "One Holland Village",
+    "owner_group": "Far East Organization",
+    "num_stores": 97,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "West Coast Plaza",
+    "owner_group": "Far East Organization",
+    "num_stores": 95,
+    "source": "fareast-sitecore"
+  },
+  {
+    "mall_name": "Square 2",
+    "owner_group": "Far East Organization",
+    "num_stores": 134,
+    "source": "fareast-sitecore"
+  }
+]

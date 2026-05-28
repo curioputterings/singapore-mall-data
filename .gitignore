@@ -1,0 +1,28 @@
+# Python venv (lives at the repo root, shared by both projects)
+venv/
+__pycache__/
+*.pyc
+
+# Claude Code state
+.claude/
+
+# Per-project scrapers and HTTP caches are intentionally NOT published
+shopping/scrapers/
+nursing/scrapers/
+shopping/raw/
+nursing/raw/
+
+# Claude Code project instructions (describe scraping internals — not for public)
+CLAUDE.md
+shopping/CLAUDE.md
+nursing/CLAUDE.md
+
+# Legacy duplicates at repo root, superseded by shopping/data/mbs_stores.json
+scrape_mbs.py
+mbs_stores.json
+mbs_stores.csv
+
+# Jekyll build artifacts (Pages renders on GitHub's side; nothing local)
+_site/
+.jekyll-cache/
+.jekyll-metadata

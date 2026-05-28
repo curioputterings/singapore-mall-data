@@ -1,0 +1,88 @@
+mall_name,owner,owner_group,owner_type,address,postal_code,planning_region,nearest_mrt,latitude,longitude,num_stores,num_fnb,has_store_data,ownership_note
+ION Orchard,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"2 Orchard Turn, Singapore 238801",238801,Orchard / Central Area,Orchard (NS22/TE14),1.303995,103.832036,278,67,True,50% interest
+Plaza Singapura,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"68 Orchard Rd, Singapore 238839",238839,Orchard / Central Area,Dhoby Ghaut (NS24/NE6/CC1),1.300581,103.845132,294,88,True,
+The Atrium@Orchard,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"60A Orchard Rd, Singapore 238890",238890,Orchard / Central Area,Dhoby Ghaut (NS24/NE6/CC1),,,0,0,False,
+Bugis Junction,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"200 Victoria St, Singapore 188021",188021,Downtown Core / Bugis,Bugis (EW12/DT14),1.29906,103.85544,241,80,True,
+Bugis+,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"201 Victoria St, Singapore 188067",188067,Downtown Core / Bugis,Bugis (EW12/DT14),1.29963,103.8543,94,39,True,
+Funan,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"107 North Bridge Rd, Singapore 179105",179105,Civic District / Downtown,City Hall (NS25/EW13),1.2912343,103.850153,190,73,True,
+Raffles City Singapore,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"252 North Bridge Rd, Singapore 179103",179103,Civic District / Downtown,City Hall (NS25/EW13),1.29385,103.85284,262,96,True,
+CQ @ Clarke Quay,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"3 River Valley Rd, Singapore 179024",179024,Singapore River / Central,"Fort Canning (DT20), Clarke Quay (NE5)",1.29061,103.84655,60,38,True,
+Bedok Mall,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"311 New Upper Changi Rd, Singapore 467360",467360,Bedok / East Region,Bedok (EW5),1.32517052,103.9298715,194,78,True,
+Tampines Mall,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"4 Tampines Central 5, Singapore 529510",529510,Tampines / East Region,Tampines (EW2/DT32),1.3528955,103.9448539,149,53,True,
+Junction 8,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"9 Bishan Place, Singapore 579837",579837,Bishan / Central Region,Bishan (NS17/CC15),1.3505294,103.8484368,171,60,True,
+Westgate,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"3 Gateway Drive, Singapore 608532",608532,Jurong East / West Region,Jurong East (NS1/EW24),1.3351,103.74192,244,83,True,
+IMM Building,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"2 Jurong East Street 21, Singapore 609601",609601,Jurong East / West Region,Jurong East (NS1/EW24),1.334804,103.746879,229,57,True,
+Lot One Shoppers' Mall,CapitaLand Integrated Commercial Trust (CICT),CapitaLand,REIT,"21 Choa Chu Kang Ave 4, Singapore 689812",689812,Choa Chu Kang / West,Choa Chu Kang (NS4/BP1),1.38518,103.74506,145,52,True,
+Aperia Mall,CapitaLand Ascendas REIT (CLAR),CapitaLand,REIT,"12 Kallang Ave, Singapore 339511",339511,Kallang / Central Region,"Lavender (EW11), Bendemeer (DT23)",1.309689,103.86437,67,42,True,
+Causeway Point,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"1 Woodlands Square, Singapore 738099",738099,Woodlands / North Region,Woodlands (NS9/TE2),,,222,80,True,
+Northpoint City,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"930 Yishun Ave 2, Singapore 769098",769098,Yishun / North Region,Yishun (NS13),,,407,179,True,North & South Wing
+NEX,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"23 Serangoon Central, Singapore 556083",556083,Serangoon / North-East,Serangoon (NE12/CC13),,,0,0,False,50% interest
+Waterway Point,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"83 Punggol Central, Singapore 828761",828761,Punggol / North-East,Punggol (NE17/PTC),,,226,92,True,50% interest
+Tampines 1,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"10 Tampines Central 1, Singapore 529536",529536,Tampines / East Region,Tampines (EW2/DT32),,,186,76,True,
+Century Square,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"2 Tampines Central 5, Singapore 529509",529509,Tampines / East Region,Tampines (EW2/DT32),,,145,52,True,
+White Sands,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"1 Pasir Ris Central Street 3, Singapore 518457",518457,Pasir Ris / East Region,Pasir Ris (EW1),,,143,61,True,
+Hougang Mall,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"90 Hougang Ave 10, Singapore 538766",538766,Hougang / North-East,Hougang (NE14),,,103,46,True,
+Tiong Bahru Plaza,Frasers Centrepoint Trust (FCT),Frasers Property,REIT,"302 Tiong Bahru Rd, Singapore 168732",168732,Bukit Merah / Central,Tiong Bahru (EW17),,,149,65,True,
+Orchard Central,Far East Organization,Far East Organization,Private developer,"181 Orchard Rd, Singapore 238896",238896,Orchard / Central Area,Somerset (NS23),,,92,34,True,
+One Holland Village,Far East Organization,Far East Organization,Private developer,"7 Holland Village Way, Singapore 275748",275748,Holland Village / Central,Holland Village (CC21),,,97,46,True,
+Clarke Quay Central,Far East Organization,Far East Organization,Private developer,"6 Eu Tong Sen St, Singapore 059817",059817,Singapore River / Central,Clarke Quay (NE5),,,99,42,True,
+Square 2,Far East Organization,Far East Organization,Private developer,"10 Sinaran Drive, Singapore 307506",307506,Novena / Central Region,Novena (NS20),,,134,50,True,
+West Coast Plaza,Far East Organization,Far East Organization,Private developer,"154 West Coast Rd, Singapore 127371",127371,Clementi / West Region,Clementi (EW23) - via bus,,,95,23,True,
+Far East Plaza,Far East Organization,Far East Organization,Private developer,"14 Scotts Rd, Singapore 228213",228213,Orchard / Central Area,Orchard (NS22/TE14),,,0,0,False,
+Lucky Plaza,Far East Organization,Far East Organization,Private developer,"304 Orchard Rd, Singapore 238863",238863,Orchard / Central Area,Orchard (NS22/TE14),,,0,0,False,
+Far East Shopping Centre,Far East Organization,Far East Organization,Private developer,"545 Orchard Rd, Singapore 238882",238882,Orchard / Central Area,Orchard (NS22/TE14),,,0,0,False,
+Orchard Plaza,Far East Organization,Far East Organization,Private developer,"150 Orchard Rd, Singapore 238841",238841,Orchard / Central Area,Somerset (NS23),,,0,0,False,
+Claymore Plaza,Far East Organization,Far East Organization,Private developer,"Claymore Hill, Singapore",,Orchard / Central Area,Orchard (NS22/TE14),,,0,0,False,
+The Reserve Residences Mall,Far East Organization,Far East Organization,Private developer,"Jalan Anak Bukit, Singapore",,Bukit Timah / Central,Beauty World (DT5),,,0,0,False,Upcoming
+VivoCity,Mapletree Pan Asia Commercial Trust (MPACT),Mapletree,REIT,"1 HarbourFront Walk, Singapore 098585",098585,Bukit Merah / HarbourFront,HarbourFront (NE1/CC29),,,89,30,True,
+Alexandra Retail Centre (ARC),Mapletree Pan Asia Commercial Trust (MPACT),Mapletree,REIT,"460 Alexandra Rd, Singapore 119963",119963,Bukit Merah / Alexandra,Labrador Park (CC27),,,0,0,False,
+Jem,Lendlease Global Commercial REIT (LREIT),Lendlease,REIT,"50 Jurong Gateway Rd, Singapore 608549",608549,Jurong East / West Region,Jurong East (NS1/EW24),,,252,90,True,
+313@somerset,Lendlease Global Commercial REIT (LREIT),Lendlease,REIT,"313 Orchard Rd, Singapore 238895",238895,Orchard / Central Area,Somerset (NS23),,,138,56,True,
+PLQ Mall,Lendlease Global Commercial REIT (LREIT),Lendlease,REIT,"10 Paya Lebar Rd, Singapore 409057",409057,Paya Lebar / Central Region,Paya Lebar (EW8/CC9),,,196,83,True,
+Parkway Parade,Lendlease Global Commercial REIT (LREIT),Lendlease,REIT,"80 Marine Parade Rd, Singapore 449269",449269,Marine Parade / East Coast,Marine Parade (TE26),,,0,0,False,Partial ownership/management
+City Square Mall,City Developments Limited (CDL),Hong Leong Group,Developer,"180 Kitchener Rd, Singapore 208539",208539,Kallang / Little India,Farrer Park (NE8),,,209,74,True,
+Palais Renaissance,City Developments Limited (CDL),Hong Leong Group,Developer,"390 Orchard Rd, Singapore 238871",238871,Orchard / Central Area,Orchard (NS22/TE14),,,0,0,False,
+Delfi Orchard,City Developments Limited (CDL),Hong Leong Group,Developer,"402 Orchard Rd, Singapore 238876",238876,Orchard / Central Area,Orchard (NS22/TE14),,,0,0,False,
+Katong Shopping Centre,City Developments Limited (CDL),Hong Leong Group,Developer,"865 Mountbatten Rd, Singapore 437844",437844,Marine Parade / East,Dakota (CC8) - via bus,,,0,0,False,Strata owner/developer
+The Arcade,City Developments Limited (CDL),Hong Leong Group,Developer,"11 Collyer Quay, Singapore 049317",049317,Downtown Core / Raffles,Raffles Place (EW14/NS26),,,0,0,False,Strata owner
+Sengkang Grand Mall,City Developments Limited (CDL),Hong Leong Group,Developer,"70 Compassvale Bow, Singapore 544692",544692,Sengkang / North-East,Buangkok (NE15),1.3819737618752774,103.89281115643556,88,40,True,Joint Venture
+Quayside Isle,City Developments Limited (CDL),Hong Leong Group,Developer,"31 Ocean Way, Sentosa Cove, Singapore 098375",098375,Sentosa / Southern Islands,Sentosa Cove Shuttle,,,0,0,False,
+King's Centre,City Developments Limited (CDL),Hong Leong Group,Developer,"390 Havelock Rd, Singapore 169662",169662,Singapore River / Central,Havelock (TE16),,,0,0,False,
+Great World,Allgreen Properties,Kuok Group,Private developer,"1 Kim Seng Promenade, Singapore 237994",237994,River Valley / Central,Great World (TE15),,,218,86,True,
+Tanglin Mall,Allgreen Properties,Kuok Group,Private developer,"163 Tanglin Rd, Singapore 247933",247933,Orchard / Tanglin,Orchard Boulevard (TE13),,,0,0,False,
+Tanglin Place,Allgreen Properties,Kuok Group,Private developer,"91 Tanglin Rd, Singapore 247918",247918,Orchard / Tanglin,Orchard Boulevard (TE13),,,0,0,False,
+The Seletar Mall,Allgreen Properties,Kuok Group,Private developer,"33 Sengkang West Ave, Singapore 797653",797653,Sengkang / North-East,Fernvale (SW5) LRT,,,0,0,False,
+Pasir Ris Mall,Allgreen Properties,Kuok Group,Private developer,"7 Pasir Ris Central, Singapore 519612",519612,Pasir Ris / East Region,Pasir Ris (EW1/CR5),,,0,0,False,Joint Venture
+Paragon,Paragon REIT,Cuscaden Peak Investments,REIT,"290 Orchard Rd, Singapore 238859",238859,Orchard / Central Area,"Orchard (NS22/TE14), Somerset (NS23)",,,196,60,True,
+The Clementi Mall,Paragon REIT,Cuscaden Peak Investments,REIT,"3155 Commonwealth Ave West, Singapore 129588",129588,Clementi / West Region,Clementi (EW23),,,0,0,False,
+United Square,UOL Group Limited,UOL Group,Developer,"101 Thomson Rd, Singapore 307591",307591,Novena / Central Region,Novena (NS20),,,118,40,True,
+Velocity@Novena Square,UOL Group Limited,UOL Group,Developer,"238 Thomson Rd, Singapore 307683",307683,Novena / Central Region,Novena (NS20),,,123,50,True,
+Suntec City,Suntec REIT,ESR Group,REIT,"3 Temasek Blvd, Singapore 038983",038983,Downtown Core / Marina Centre,"Promenade (CC4/DT15), Esplanade (CC3), City Hall (EW13/NS25)",,,396,168,True,
+Marina Bay Link Mall,Suntec REIT,ESR Group,REIT,"8A Marina Blvd, Singapore 018984",018984,Downtown Core / Marina Bay,"Downtown (DT17), Marina Bay (NS27/CE2/TE20)",,,0,0,False,33.3% interest
+Ngee Ann City,Starhill Global REIT,YTL Corporation,REIT,"391 Orchard Rd, Singapore 238872",238872,Orchard / Central Area,Orchard (NS22/TE14),,,148,36,True,Strata interest / Takashimaya
+Wisma Atria,Starhill Global REIT,YTL Corporation,REIT,"435 Orchard Rd, Singapore 238877",238877,Orchard / Central Area,Orchard (NS22/TE14),,,100,30,True,Strata interest
+Marina Square,Singapore Land Group (SingLand),UOL Group,Developer,"6 Raffles Blvd, Singapore 039594",039594,Downtown Core / Marina Centre,"Esplanade (CC3), Promenade (CC4/DT15)",,,216,65,True,
+The Shoppes at Marina Bay Sands,Las Vegas Sands Corp.,Las Vegas Sands Corp.,Foreign developer,"10 Bayfront Ave, Singapore 018956",018956,Downtown Core / Marina Bay,Bayfront (CE1/DT16),,,214,7,True,
+Jewel Changi Airport,"CapitaLand (sponsor / managed, e.g. JV)",Changi Airport Group & CapitaLand,Joint venture,"78 Airport Blvd, Singapore 819666",819666,Changi / East Region,Changi Airport (CG2),1.360427,103.989832,261,116,True,
+Jurong Point,Link REIT (formerly Mercatus),Link REIT (formerly Mercatus),REIT,"1 Jurong West Central 2, Singapore 648886",648886,Jurong West / West Region,Boon Lay (EW27),,,380,142,True,
+Thomson Plaza,Link REIT / Various Strata,Link REIT / Various Strata,REIT / Strata,"301 Upper Thomson Rd, Singapore 574408",574408,Bishan / Central Region,Upper Thomson (TE8),,,0,0,False,
+AMK Hub,Mercatus Co-operative (NTUC),Mercatus Co-operative (NTUC),Co-operative,"53 Ang Mo Kio Ave 3, Singapore 569933",569933,Ang Mo Kio / North-East,Ang Mo Kio (NS16),,,205,97,True,
+Mustafa Centre,Mohamed Mustafa & Samsudin Co.,Mohamed Mustafa & Samsudin Co.,Private,"145 Syed Alwi Rd, Singapore 207704",207704,Rochor / Little India,Farrer Park (NE8),,,0,0,False,
+Chinatown Point,Perennial Holdings,Perennial Holdings,Private developer,"133 New Bridge Rd, Singapore 059413",059413,Outram / Chinatown,Chinatown (NE4/DT19),,,0,0,False,
+Compass One,M&G Real Estate,M&G Real Estate,Fund manager,"1 Sengkang Square, Singapore 545078",545078,Sengkang / North-East,Sengkang (NE16/STC),,,0,0,False,
+Our Tampines Hub,People's Association / Gov,People's Association / Gov,Government,"1 Tampines Walk, Singapore 528523",528523,Tampines / East Region,Tampines (EW2/DT32),,,0,0,False,
+Heartland Mall,Guthrie GTS / Private,Guthrie GTS / Private,Private,"205 Hougang Street 21, Singapore 530205",530205,Hougang / North-East,Kovan (NE13),,,0,0,False,
+The Centrepoint,,Frasers Property,,,,,,,,139,29,True,not in research registry
+Valley Point,,Frasers Property,,,,,,,,21,0,True,not in research registry
+Katong V,,Far East Organization,,,,,,,,33,9,True,not in research registry
+Greenwich V,,Far East Organization,,,,,,,,24,7,True,not in research registry
+HillV2,,Far East Organization,,,,,,,,28,13,True,not in research registry
+Junction 10,,Far East Organization,,,,,,,,40,13,True,not in research registry
+Hougang 1,,Far East Organization,,,,,,,,39,20,True,not in research registry
+Icon Village,,Far East Organization,,,,,,,,38,27,True,not in research registry
+Lucky Chinatown,,Far East Organization,,,,,,,,28,2,True,not in research registry
+Far East Square,,Far East Organization,,,,,,,,34,34,True,not in research registry
+Riverside Point,,Far East Organization,,,,,,,,27,5,True,not in research registry
+Pacific Plaza,,Far East Organization,,,,,,,,23,4,True,not in research registry
+Swing By @ Thomson Plaza,,Link REIT,,,,,,,,55,34,True,not in research registry
+Mandarin Gallery,,OUE Limited,,,,,,,,77,15,True,not in research registry

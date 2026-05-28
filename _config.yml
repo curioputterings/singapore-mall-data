@@ -1,0 +1,22 @@
+title: Singapore Malls — Data & Analytics
+description: >-
+  Two open datasets on Singapore shopping centres: store directories with a
+  unified scope-of-business taxonomy, and nursing/baby-care room facilities.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: true
+optional_front_matter:
+  remove_originals: true
+exclude:
+  - venv/
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

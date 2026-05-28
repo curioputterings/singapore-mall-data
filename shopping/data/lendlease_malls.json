@@ -1,0 +1,20 @@
+[
+  {
+    "mall_name": "313@somerset",
+    "owner_group": "Lendlease",
+    "num_stores": 138,
+    "source": "lendlease-headless"
+  },
+  {
+    "mall_name": "Jem",
+    "owner_group": "Lendlease",
+    "num_stores": 252,
+    "source": "lendlease-headless"
+  },
+  {
+    "mall_name": "PLQ Mall",
+    "owner_group": "Lendlease",
+    "num_stores": 196,
+    "source": "lendlease-plq-json"
+  }
+]

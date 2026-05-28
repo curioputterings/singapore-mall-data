@@ -1,0 +1,62 @@
+[
+  {
+    "mall_name": "Causeway Point",
+    "owner_group": "Frasers Property",
+    "num_stores": 222,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Northpoint City",
+    "owner_group": "Frasers Property",
+    "num_stores": 407,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Waterway Point",
+    "owner_group": "Frasers Property",
+    "num_stores": 226,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Tampines 1",
+    "owner_group": "Frasers Property",
+    "num_stores": 186,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Century Square",
+    "owner_group": "Frasers Property",
+    "num_stores": 145,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Hougang Mall",
+    "owner_group": "Frasers Property",
+    "num_stores": 103,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Tiong Bahru Plaza",
+    "owner_group": "Frasers Property",
+    "num_stores": 149,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "White Sands",
+    "owner_group": "Frasers Property",
+    "num_stores": 143,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "The Centrepoint",
+    "owner_group": "Frasers Property",
+    "num_stores": 139,
+    "source": "frasers-storesearch"
+  },
+  {
+    "mall_name": "Valley Point",
+    "owner_group": "Frasers Property",
+    "num_stores": 21,
+    "source": "frasers-storesearch"
+  }
+]

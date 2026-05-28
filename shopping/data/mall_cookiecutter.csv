@@ -1,0 +1,60 @@
+mall,owner,region,n_brands,chain_share,mean_jaccard_to_others
+Junction 8,CapitaLand,Suburban / Heartland,,0.888,0.077
+Lot One Shoppers' Mall,CapitaLand,Suburban / Heartland,,0.876,0.076
+Hougang Mall,Frasers,Suburban / Heartland,,0.874,0.068
+Causeway Point,Frasers,Suburban / Heartland,,0.864,0.076
+Waterway Point,Frasers,Suburban / Heartland,,0.862,0.084
+Bedok Mall,CapitaLand,Suburban / Heartland,,0.856,0.076
+White Sands,Frasers,Suburban / Heartland,,0.853,0.076
+Sengkang Grand Mall,CDL,Suburban / Heartland,,0.852,0.048
+Tiong Bahru Plaza,Frasers,Suburban / Heartland,,0.845,0.074
+Jem,Lendlease,Suburban / Heartland,,0.841,0.07
+Tampines Mall,CapitaLand,Suburban / Heartland,,0.812,0.056
+Westgate,CapitaLand,Suburban / Heartland,,0.807,0.051
+AMK Hub,Link REIT,Suburban / Heartland,,0.799,0.066
+Century Square,Frasers,Suburban / Heartland,,0.793,0.042
+Northpoint City,Frasers,Suburban / Heartland,,0.781,0.077
+Tampines 1,Frasers,Suburban / Heartland,,0.769,0.045
+Hougang 1,Far East,Suburban / Heartland,,0.769,0.026
+Swing By @ Thomson Plaza,Link REIT,Suburban / Heartland,,0.764,0.037
+PLQ Mall,Lendlease,Suburban / Heartland,,0.724,0.057
+Plaza Singapura,CapitaLand,Orchard belt,,0.71,0.056
+Wisma Atria,Starhill,Orchard belt,,0.707,0.031
+Jurong Point,Link REIT,Suburban / Heartland,,0.707,0.072
+Velocity@Novena Square,UOL,Suburban / Heartland,,0.699,0.053
+ION Orchard,CapitaLand,Orchard belt,,0.686,0.038
+Bugis Junction (Part of Bugis Town),?,Unknown,,0.68,0.053
+Jewel Changi Airport,Jewel(CAG),Suburban / Heartland,,0.658,0.047
+313@somerset,Lendlease,Orchard belt,,0.645,0.043
+The Shoppes at Marina Bay Sands,MBS,Downtown / Central,,0.636,0.021
+Greenwich V,Far East,Suburban / Heartland,,0.625,0.02
+City Square Mall,CDL,Suburban / Heartland,,0.622,0.063
+Great World,Kuok Group,Downtown / Central,,0.615,0.052
+Raffles City Shopping Centre,?,Unknown,,0.602,0.041
+United Square,UOL,Suburban / Heartland,,0.585,0.041
+Suntec City,Suntec REIT,Downtown / Central,,0.584,0.052
+Paragon,Paragon REIT,Orchard belt,,0.577,0.031
+One Holland Village,Far East,Suburban / Heartland,,0.577,0.029
+HillV2,Far East,Suburban / Heartland,,0.571,0.022
+Bugis+ (Part of Bugis Town),?,Unknown,,0.564,0.023
+Funan,CapitaLand,Downtown / Central,,0.54,0.036
+Ngee Ann City,Starhill,Orchard belt,,0.503,0.019
+Aperia Mall,CapitaLand,Suburban / Heartland,,0.478,0.025
+Square 2,Far East,Suburban / Heartland,,0.478,0.025
+Junction 10,Far East,Suburban / Heartland,,0.475,0.011
+West Coast Plaza,Far East,Suburban / Heartland,,0.474,0.027
+Valley Point,Frasers,Downtown / Central,,0.45,0.014
+The Centrepoint,Frasers,Orchard belt,,0.41,0.022
+VivoCity,Mapletree,Suburban / Heartland,,0.388,0.016
+Marina Square,UOL,Downtown / Central,,0.363,0.023
+IMM Building,CapitaLand,Suburban / Heartland,,0.36,0.031
+Orchard Central,Far East,Orchard belt,,0.304,0.007
+Katong V,Far East,Suburban / Heartland,,0.273,0.004
+Clarke Quay Central,Far East,Downtown / Central,,0.253,0.016
+Far East Square,Far East,Downtown / Central,,0.235,0.003
+Mandarin Gallery,OUE,Orchard belt,,0.234,0.002
+Icon Village,Far East,Downtown / Central,,0.158,0.003
+Riverside Point,Far East,Downtown / Central,,0.111,0.004
+Pacific Plaza,Far East,Orchard belt,,0.087,0.004
+CQ @ Clarke Quay,CapitaLand,Downtown / Central,,0.085,0.003
+Lucky Chinatown,Far East,Downtown / Central,,0.071,0.002

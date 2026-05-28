@@ -1,0 +1,1441 @@
+shop,type,num_malls,num_outlets,malls
+Starbucks,F&B,34,35,"313@somerset, AMK Hub, Aperia Mall, Bedok Mall, Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), Century Square, City Square Mall, Clarke Quay Central, Great World, HillV2, Hougang Mall, ION Orchard, Jem, Jewel Changi Airport, Jurong Point, Marina Square, Northpoint City, One Holland Village, Pacific Plaza, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Swing By @ Thomson Plaza, The Centrepoint, United Square, Valley Point, Velocity@Novena Square, Waterway Point, West Coast Plaza, Westgate, White Sands, Wisma Atria"
+Ya Kun Kaya Toast,F&B,32,33,"313@somerset, AMK Hub, Aperia Mall, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Century Square, City Square Mall, Clarke Quay Central, Far East Square, Funan, Great World, IMM Building, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Marina Square, Northpoint City, One Holland Village, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Swing By @ Thomson Plaza, Tiong Bahru Plaza, United Square, Waterway Point, Westgate, White Sands"
+Old Chang Kee,F&B,27,27,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Hougang Mall, IMM Building, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Paragon, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Swing By @ Thomson Plaza, Tiong Bahru Plaza, United Square, Velocity@Novena Square, Waterway Point, White Sands"
+Toast Box,F&B,27,27,"313@somerset, AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Greenwich V, IMM Building, ION Orchard, Jem, Junction 8, Jurong Point, Ngee Ann City, One Holland Village, PLQ Mall, Paragon, Raffles City Shopping Centre, Suntec City, Tampines 1, Tampines Mall, The Centrepoint, United Square, Velocity@Novena Square, West Coast Plaza, Westgate"
+Subway,F&B,24,24,"313@somerset, Aperia Mall, Bedok Mall, Bugis Junction (Part of Bugis Town), City Square Mall, Clarke Quay Central, Great World, Hougang Mall, IMM Building, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Paragon, Suntec City, Swing By @ Thomson Plaza, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, West Coast Plaza, White Sands, Wisma Atria"
+The Coffee Bean & Tea Leaf,F&B,23,23,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Bugis+ (Part of Bugis Town), Causeway Point, Century Square, Greenwich V, IMM Building, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Suntec City, Tiong Bahru Plaza, United Square, Velocity@Novena Square, Waterway Point, Wisma Atria"
+Mr. Coconut,F&B,22,22,"AMK Hub, Bedok Mall, Causeway Point, Century Square, City Square Mall, Clarke Quay Central, Hougang Mall, IMM Building, Jewel Changi Airport, Junction 8, Jurong Point, Northpoint City, One Holland Village, PLQ Mall, Suntec City, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, Westgate, White Sands, Wisma Atria"
+Wok Hey,F&B,22,22,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Hougang Mall, IMM Building, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, White Sands"
+Boost Juice,F&B,21,21,"313@somerset, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, One Holland Village, PLQ Mall, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Swing By @ Thomson Plaza, Tampines 1, Waterway Point, White Sands"
+McDonald's,F&B,21,21,"Aperia Mall, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Hougang 1, Jem, Jewel Changi Airport, Junction 8, Lot One Shoppers' Mall, Marina Square, Northpoint City, Plaza Singapura, Sengkang Grand Mall, Suntec City, Tiong Bahru Plaza, United Square, Waterway Point, White Sands"
+Stuff'd,F&B,21,21,"313@somerset, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Funan, Great World, Hougang 1, Hougang Mall, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Square 2, Suntec City, Tampines Mall, Tiong Bahru Plaza, Waterway Point, White Sands"
+BreadTalk,F&B,20,20,"313@somerset, Bedok Mall, Causeway Point, City Square Mall, Clarke Quay Central, Great World, Hougang Mall, IMM Building, ION Orchard, Junction 8, One Holland Village, PLQ Mall, Plaza Singapura, Raffles City Shopping Centre, Tampines Mall, The Shoppes at Marina Bay Sands, United Square, Velocity@Novena Square, VivoCity, Westgate"
+Sanook Kitchen,F&B,19,19,"Bedok Mall, City Square Mall, Funan, Hougang Mall, ION Orchard, Jewel Changi Airport, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Orchard Central, PLQ Mall, Sengkang Grand Mall, Square 2, Suntec City, Swing By @ Thomson Plaza, Tampines 1, Waterway Point, West Coast Plaza, Westgate"
+Bengawan Solo,F&B,18,18,"AMK Hub, Bugis Junction (Part of Bugis Town), Causeway Point, Great World, Hougang Mall, ION Orchard, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Swing By @ Thomson Plaza, Tampines Mall, Tiong Bahru Plaza, White Sands"
+Din Tai Fung,F&B,18,18,"City Square Mall, Great World, IMM Building, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Northpoint City, One Holland Village, Paragon, Plaza Singapura, Raffles City Shopping Centre, Suntec City, Tampines Mall, The Centrepoint, Velocity@Novena Square, Waterway Point, Wisma Atria"
+LiHO,F&B,17,18,"313@somerset, AMK Hub, Bedok Mall, Bugis+ (Part of Bugis Town), Funan, Greenwich V, Hougang Mall, Jem, Junction 10, Junction 8, Jurong Point, Suntec City, Tampines Mall, Tiong Bahru Plaza, Waterway Point, West Coast Plaza, White Sands"
+Bee Cheng Hiang,F&B,17,17,"Bedok Mall, Causeway Point, Great World, Hougang Mall, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Paragon, Raffles City Shopping Centre, Tampines Mall, Tiong Bahru Plaza, Waterway Point, White Sands"
+CHICHA San Chen,F&B,17,17,"313@somerset, AMK Hub, Bedok Mall, Jem, Jewel Changi Airport, Jurong Point, Lot One Shoppers' Mall, Marina Square, Ngee Ann City, Northpoint City, PLQ Mall, Plaza Singapura, Suntec City, Tampines 1, Velocity@Novena Square, Waterway Point, White Sands"
+Luckin Coffee,F&B,17,17,"313@somerset, Aperia Mall, Century Square, Hougang 1, Hougang Mall, Jem, Jewel Changi Airport, Junction 8, Marina Square, Northpoint City, PLQ Mall, Plaza Singapura, Suntec City, Tampines 1, Waterway Point, Westgate, White Sands"
+SUKIYA,F&B,17,17,"313@somerset, AMK Hub, Century Square, City Square Mall, Funan, Great World, Hougang 1, Hougang Mall, Jem, Jurong Point, Marina Square, Northpoint City, Sengkang Grand Mall, Square 2, Suntec City, Waterway Point, White Sands"
+Tori-Q,F&B,17,17,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Great World, Hougang Mall, ION Orchard, Jem, Junction 8, Northpoint City, Paragon, Plaza Singapura, Tampines 1, Tampines Mall, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, White Sands"
+KOI Thé,F&B,16,17,"Great World, Hougang 1, Hougang Mall, IMM Building, Junction 8, Northpoint City, PLQ Mall, Paragon, Raffles City Shopping Centre, Sengkang Grand Mall, Tampines Mall, The Centrepoint, Tiong Bahru Plaza, United Square, Waterway Point, White Sands"
+Mr Bean,F&B,16,17,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Hougang Mall, Jem, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Square 2, The Centrepoint, Tiong Bahru Plaza, Waterway Point, White Sands"
+Chateraise,F&B,16,16,"AMK Hub, Bedok Mall, Causeway Point, City Square Mall, Funan, Hougang Mall, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Sengkang Grand Mall, Square 2, Tampines 1, Tiong Bahru Plaza, Waterway Point, Westgate"
+Four Leaves,F&B,16,16,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Hougang Mall, IMM Building, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, PLQ Mall, Suntec City, Tampines Mall, Tiong Bahru Plaza, Velocity@Novena Square, White Sands"
+KFC,F&B,16,16,"Bugis Junction (Part of Bugis Town), Causeway Point, City Square Mall, Hougang 1, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Plaza Singapura, Swing By @ Thomson Plaza, Tampines Mall, Tiong Bahru Plaza, Velocity@Novena Square, White Sands"
+Paris Baguette,F&B,16,16,"AMK Hub, Aperia Mall, Bedok Mall, Bugis Junction (Part of Bugis Town), Hougang Mall, ION Orchard, Jem, Jewel Changi Airport, Marina Square, Northpoint City, One Holland Village, PLQ Mall, Paragon, Square 2, Tiong Bahru Plaza, White Sands"
+CHAGEE,F&B,15,15,"Bedok Mall, Causeway Point, Clarke Quay Central, Great World, Hougang Mall, Jem, Junction 8, Jurong Point, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Suntec City, Tampines 1, Velocity@Novena Square, Waterway Point"
+PlayMade,F&B,15,15,"313@somerset, Bedok Mall, Causeway Point, City Square Mall, Hougang Mall, Jurong Point, Northpoint City, One Holland Village, PLQ Mall, Sengkang Grand Mall, Tampines 1, Tiong Bahru Plaza, Velocity@Novena Square, Waterway Point, Westgate"
+Polar Puffs & Cakes,F&B,15,15,"AMK Hub, Bedok Mall, Causeway Point, Hougang Mall, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Square 2, Tampines Mall, Tiong Bahru Plaza, Waterway Point, White Sands"
+Fun Toast,F&B,14,14,"City Square Mall, Hougang 1, Junction 10, Junction 8, Jurong Point, Lot One Shoppers' Mall, Lucky Chinatown, Northpoint City, Suntec City, Tiong Bahru Plaza, West Coast Plaza, Westgate, White Sands, Wisma Atria"
+Dian Xiao Er,F&B,13,13,"Bedok Mall, Causeway Point, City Square Mall, Great World, Jem, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Marina Square, Northpoint City, Tampines 1, Waterway Point"
+TALAD THAI BANANA,F&B,13,13,"AMK Hub, Aperia Mall, City Square Mall, ION Orchard, Jewel Changi Airport, Junction 8, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Raffles City Shopping Centre, Sengkang Grand Mall, Tampines Mall, Waterway Point"
+Burger King,F&B,12,12,"Clarke Quay Central, HillV2, IMM Building, Jem, Jurong Point, Marina Square, Northpoint City, Plaza Singapura, Suntec City, Tiong Bahru Plaza, United Square, Waterway Point"
+DUNKIN',F&B,12,12,"AMK Hub, Bedok Mall, Causeway Point, City Square Mall, Funan, ION Orchard, Jurong Point, Northpoint City, Plaza Singapura, Square 2, Suntec City, Waterway Point"
+Genki Sushi,F&B,12,12,"313@somerset, Bugis+ (Part of Bugis Town), City Square Mall, Junction 8, Jurong Point, Northpoint City, Plaza Singapura, Suntec City, Tampines Mall, United Square, Waterway Point, Westgate"
+Nine Fresh,F&B,12,12,"AMK Hub, Bedok Mall, Causeway Point, Century Square, Jewel Changi Airport, Junction 8, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Tiong Bahru Plaza, Waterway Point"
+Potato Corner,F&B,12,12,"313@somerset, AMK Hub, Funan, Hougang Mall, Jem, Jewel Changi Airport, Jurong Point, Northpoint City, One Holland Village, Suntec City, Tampines 1, White Sands"
+The Soup Spoon,F&B,12,12,"AMK Hub, Bugis Junction (Part of Bugis Town), ION Orchard, Jem, Jurong Point, Northpoint City, Paragon, Raffles City Shopping Centre, Sengkang Grand Mall, Tiong Bahru Plaza, Velocity@Novena Square, White Sands"
+Xiang Xiang Hunan Cuisine,F&B,12,12,"313@somerset, AMK Hub, Bedok Mall, Causeway Point, Hougang Mall, Jurong Point, Lot One Shoppers' Mall, Northpoint City, One Holland Village, Sengkang Grand Mall, Suntec City, Westgate"
+Crave,F&B,11,11,"AMK Hub, Causeway Point, City Square Mall, Jem, Junction 8, Jurong Point, Lot One Shoppers' Mall, Marina Square, Northpoint City, Tiong Bahru Plaza, Waterway Point"
+MOS Burger,F&B,11,11,"AMK Hub, Bedok Mall, Causeway Point, City Square Mall, Hougang Mall, Jem, Jurong Point, Northpoint City, The Centrepoint, Tiong Bahru Plaza, Waterway Point"
+Munchi Pancakes,F&B,11,11,"AMK Hub, Bedok Mall, City Square Mall, Jewel Changi Airport, Junction 8, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Tiong Bahru Plaza, Velocity@Novena Square, White Sands"
+Sushi Express,F&B,11,11,"Century Square, Funan, Hougang Mall, IMM Building, Jurong Point, Northpoint City, PLQ Mall, Sengkang Grand Mall, Waterway Point, Westgate, White Sands"
+Swensen's,F&B,11,11,"AMK Hub, Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, IMM Building, Junction 8, Jurong Point, Northpoint City, Plaza Singapura, Tampines Mall, Waterway Point"
+Wine Connection,F&B,11,11,"City Square Mall, Greenwich V, HillV2, Jem, Jurong Point, PLQ Mall, Raffles City Shopping Centre, Suntec City, Tampines 1, West Coast Plaza, Westgate"
+EAT.,F&B,10,10,"Bedok Mall, Century Square, City Square Mall, Jurong Point, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Square 2, Tiong Bahru Plaza, Westgate"
+Famous Amos,F&B,10,10,"AMK Hub, Causeway Point, Jem, Jurong Point, Northpoint City, Plaza Singapura, Tampines Mall, Waterway Point, White Sands, Wisma Atria"
+Gong Yuan Ma La Tang,F&B,10,10,"Century Square, Funan, Great World, IMM Building, Northpoint City, Square 2, Suntec City, The Centrepoint, Tiong Bahru Plaza, Waterway Point"
+Guzman Y Gomez,F&B,10,10,"Funan, Great World, ION Orchard, Jewel Changi Airport, Northpoint City, One Holland Village, Suntec City, Velocity@Novena Square, Waterway Point, Westgate"
+Sushi Tei,F&B,10,10,"Jem, Jewel Changi Airport, Northpoint City, One Holland Village, Paragon, Raffles City Shopping Centre, Swing By @ Thomson Plaza, Tampines 1, Tiong Bahru Plaza, West Coast Plaza"
+Sushiro,F&B,10,10,"Bedok Mall, Causeway Point, Jewel Changi Airport, Lot One Shoppers' Mall, Square 2, Suntec City, Tampines 1, Tiong Bahru Plaza, Waterway Point, Wisma Atria"
+Auntie Anne's,F&B,9,9,"AMK Hub, Bugis Junction (Part of Bugis Town), Jem, Jewel Changi Airport, Northpoint City, PLQ Mall, Paragon, Plaza Singapura, Waterway Point"
+Cedele,F&B,9,9,"Greenwich V, HillV2, IMM Building, PLQ Mall, Paragon, Raffles City Shopping Centre, Velocity@Novena Square, VivoCity, Waterway Point"
+Gochi-So Shokudo,F&B,9,9,"Bedok Mall, Bugis Junction (Part of Bugis Town), Jewel Changi Airport, Northpoint City, Plaza Singapura, Square 2, Tampines 1, Westgate, Wisma Atria"
+Haidilao Hot Pot,F&B,9,9,"313@somerset, Bugis+ (Part of Bugis Town), Century Square, IMM Building, Marina Square, PLQ Mall, Plaza Singapura, VivoCity, Wisma Atria"
+Jollibee,F&B,9,9,"AMK Hub, Bedok Mall, Century Square, City Square Mall, Hougang Mall, Jurong Point, Square 2, Suntec City, Waterway Point"
+KOI THE,F&B,9,9,"AMK Hub, Aperia Mall, Bedok Mall, Bugis+ (Part of Bugis Town), Funan, ION Orchard, Jurong Point, Plaza Singapura, Westgate"
+Krispy Kreme,F&B,9,9,"AMK Hub, Bugis Junction (Part of Bugis Town), Century Square, Great World, IMM Building, Jewel Changi Airport, Northpoint City, Paragon, Suntec City"
+Nam Kee Pau,F&B,9,9,"Bedok Mall, City Square Mall, Junction 8, Northpoint City, PLQ Mall, Tiong Bahru Plaza, United Square, Valley Point, Waterway Point"
+PUTIEN,F&B,9,9,"Great World, Jewel Changi Airport, Jurong Point, Marina Square, Northpoint City, Suntec City, Tampines Mall, Waterway Point, Westgate"
+Pezzo,F&B,9,9,"Bedok Mall, Causeway Point, Hougang Mall, Jurong Point, Lot One Shoppers' Mall, Northpoint City, Tampines 1, Waterway Point, White Sands"
+Shihlin Taiwan Street Snacks,F&B,9,9,"313@somerset, AMK Hub, Aperia Mall, City Square Mall, Hougang Mall, Jurong Point, Northpoint City, PLQ Mall, Square 2"
+Super Sushi,F&B,9,9,"Hougang Mall, ION Orchard, Jem, Jurong Point, Northpoint City, Sengkang Grand Mall, Tampines Mall, Tiong Bahru Plaza, White Sands"
+COLLIN’S®,F&B,8,8,"Great World, Jurong Point, Marina Square, Northpoint City, PLQ Mall, Sengkang Grand Mall, Tampines 1, Westgate"
+Dough Culture,F&B,8,8,"AMK Hub, Causeway Point, Hougang Mall, Northpoint City, Sengkang Grand Mall, Tampines Mall, Waterway Point, White Sands"
+Ichiban Boshi,F&B,8,8,"AMK Hub, Causeway Point, Century Square, Great World, Jem, Jurong Point, Velocity@Novena Square, Waterway Point"
+KAZO,F&B,8,8,"AMK Hub, Century Square, Funan, Jem, Jurong Point, Northpoint City, Sengkang Grand Mall, Suntec City"
+Kopi & Tarts,F&B,8,8,"AMK Hub, Aperia Mall, City Square Mall, Funan, Jurong Point, Northpoint City, Suntec City, White Sands"
+Mister Donut,F&B,8,8,"313@somerset, Junction 8, Jurong Point, Northpoint City, Swing By @ Thomson Plaza, Tampines 1, Velocity@Novena Square, Waterway Point"
+Monster Curry,F&B,8,8,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport, Jurong Point, Northpoint City, Suntec City, Velocity@Novena Square, Waterway Point"
+Saizeriya,F&B,8,8,"Aperia Mall, Century Square, Hougang 1, Marina Square, PLQ Mall, Tampines 1, United Square, White Sands"
+Steak 99,F&B,8,8,"AMK Hub, Causeway Point, Jem, Lot One Shoppers' Mall, Northpoint City, PLQ Mall, Plaza Singapura, Tiong Bahru Plaza"
+Wingstop,F&B,8,8,"AMK Hub, Bedok Mall, City Square Mall, Funan, Jem, Jurong Point, Tampines Mall, White Sands"
+llaollao,F&B,8,8,"AMK Hub, Great World, IMM Building, Jewel Changi Airport, Northpoint City, Plaza Singapura, Tampines 1, Wisma Atria"
+Crystal Jade Hong Kong Kitchen,F&B,7,7,"Causeway Point, Great World, Jurong Point, Ngee Ann City, One Holland Village, Suntec City, Tampines 1"
+Dabba Street,F&B,7,7,"AMK Hub, Bugis Junction (Part of Bugis Town), Hougang Mall, Jurong Point, Northpoint City, Tiong Bahru Plaza, White Sands"
+Food Republic,F&B,7,7,"313@somerset, Causeway Point, City Square Mall, Jewel Changi Airport, Suntec City, VivoCity, Wisma Atria"
+IPPUDO,F&B,7,7,"CQ @ Clarke Quay, City Square Mall, Mandarin Gallery, One Holland Village, Raffles City Shopping Centre, Sengkang Grand Mall, Westgate"
+Kenangan Coffee,F&B,7,7,"AMK Hub, Aperia Mall, IMM Building, Jewel Changi Airport, Ngee Ann City, Raffles City Shopping Centre, Tampines Mall"
+Kopitiam,F&B,7,7,"AMK Hub, Hougang 1, Jurong Point, Northpoint City, Plaza Singapura, Tampines Mall, Tiong Bahru Plaza"
+Kuriya Japanese Market,F&B,7,7,"AMK Hub, Great World, Jurong Point, Northpoint City, Paragon, Tampines 1, Waterway Point"
+Long John Silver's,F&B,7,7,"Junction 8, Jurong Point, Northpoint City, Suntec City, Tiong Bahru Plaza, Westgate, White Sands"
+MIXUE,F&B,7,7,"AMK Hub, Century Square, Hougang Mall, Jurong Point, Northpoint City, Swing By @ Thomson Plaza, West Coast Plaza"
+Maki-San,F&B,7,7,"AMK Hub, Century Square, Great World, Hougang 1, Lot One Shoppers' Mall, Northpoint City, White Sands"
+Malaysia Boleh!,F&B,7,7,"AMK Hub, Bugis Junction (Part of Bugis Town), Great World, Jurong Point, Northpoint City, Tampines 1, The Centrepoint"
+Nan Yang Dao,F&B,7,7,"Bugis+ (Part of Bugis Town), Century Square, Jem, Jurong Point, PLQ Mall, Swing By @ Thomson Plaza, Tiong Bahru Plaza"
+PastaMania,F&B,7,7,"Causeway Point, City Square Mall, Hougang 1, Jem, Lot One Shoppers' Mall, Northpoint City, Tampines Mall"
+Song Fa Bak Kut Teh,F&B,7,7,"Jem, Jewel Changi Airport, Northpoint City, Suntec City, The Centrepoint, Velocity@Novena Square, Waterway Point"
+Tai Cheong Bakery,F&B,7,7,"ION Orchard, Jem, Northpoint City, PLQ Mall, Raffles City Shopping Centre, Square 2, Tampines 1"
+Tim Ho Wan,F&B,7,7,"Aperia Mall, Great World, Jewel Changi Airport, Plaza Singapura, Tampines 1, Waterway Point, Westgate"
+Yakiniku Like,F&B,7,7,"313@somerset, AMK Hub, Junction 8, PLQ Mall, Suntec City, Tampines 1, Westgate"
+Yakiniku Shokudo,F&B,7,7,"Bedok Mall, Funan, IMM Building, Lot One Shoppers' Mall, Northpoint City, Plaza Singapura, Square 2"
+An Acai Affair,F&B,6,6,"313@somerset, Jewel Changi Airport, Northpoint City, Sengkang Grand Mall, Waterway Point, Westgate"
+Awfully Chocolate,F&B,6,6,"ION Orchard, One Holland Village, Raffles City Shopping Centre, Square 2, Tampines 1, VivoCity"
+BEUTEA,F&B,6,6,"Aperia Mall, Bugis Junction (Part of Bugis Town), City Square Mall, Junction 8, Northpoint City, Tiong Bahru Plaza"
+Butter & Cream,F&B,6,6,"Causeway Point, Hougang Mall, Jewel Changi Airport, Jurong Point, Waterway Point, White Sands"
+Eighteen Plum,F&B,6,6,"AMK Hub, Bedok Mall, IMM Building, Junction 8, Plaza Singapura, Westgate"
+Fish & Co.,F&B,6,6,"AMK Hub, Causeway Point, Jewel Changi Airport, Jurong Point, Suntec City, Waterway Point"
+Greendot,F&B,6,6,"Bedok Mall, Junction 8, Jurong Point, Northpoint City, Tampines 1, Westgate"
+Henri Charpentier,F&B,6,6,"Great World, Ngee Ann City, Orchard Central, PLQ Mall, Paragon, Waterway Point"
+I Love Taimei,F&B,6,6,"Bugis Junction (Part of Bugis Town), Junction 8, Northpoint City, Sengkang Grand Mall, Tampines 1, Waterway Point"
+Kei Kaisendon,F&B,6,6,"AMK Hub, Great World, Jewel Changi Airport, Marina Square, Square 2, Suntec City"
+Mincheng Bibimbap,F&B,6,6,"AMK Hub, Bugis Junction (Part of Bugis Town), Funan, Northpoint City, Tiong Bahru Plaza, Westgate"
+NiKU iKU,F&B,6,6,"Bugis Junction (Part of Bugis Town), Causeway Point, Hougang Mall, Lot One Shoppers' Mall, Tiong Bahru Plaza, Velocity@Novena Square"
+Qi Ji,F&B,6,6,"AMK Hub, Funan, Hougang 1, Jurong Point, Northpoint City, White Sands"
+SWEE HENG 1989 Classic,F&B,6,6,"Hougang Mall, IMM Building, Lot One Shoppers' Mall, Northpoint City, Sengkang Grand Mall, White Sands"
+Tiong Bahru Bakery,F&B,6,6,"Jem, Plaza Singapura, Raffles City Shopping Centre, Tampines 1, The Centrepoint, Wisma Atria"
+Tongue Tip Lanzhou Beef Noodles,F&B,6,6,"Century Square, Jurong Point, Northpoint City, Suntec City, Tiong Bahru Plaza, Westgate"
+Tun Xiang Hokkien Delights,F&B,6,6,"Bedok Mall, Jewel Changi Airport, Northpoint City, Square 2, Swing By @ Thomson Plaza, Wisma Atria"
+Yolé,F&B,6,6,"Causeway Point, Sengkang Grand Mall, Tampines Mall, United Square, Waterway Point, Westgate"
+Zhang Liang Mala Tang,F&B,6,6,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Jem, PLQ Mall, Tampines 1"
+4FINGERS Crispy Chicken,F&B,5,5,"Causeway Point, Jem, Jurong Point, Tampines 1, Tiong Bahru Plaza"
+A-One Signature,F&B,5,5,"AMK Hub, HillV2, Jurong Point, Northpoint City, Tiong Bahru Plaza"
+Aburi-EN,F&B,5,5,"Causeway Point, Jem, Jewel Changi Airport, Orchard Central, Suntec City"
+Ajumma's,F&B,5,5,"Funan, Northpoint City, PLQ Mall, Waterway Point, Westgate"
+Astons Specialities,F&B,5,5,"Bugis+ (Part of Bugis Town), Clarke Quay Central, Suntec City, Swing By @ Thomson Plaza, Westgate"
+Bakery Cuisine,F&B,5,5,"Aperia Mall, Greenwich V, Jurong Point, Suntec City, The Centrepoint"
+Baskin Robbins,F&B,5,5,"Bedok Mall, City Square Mall, Jurong Point, Northpoint City, One Holland Village"
+Bottles & Bottles,F&B,5,5,"Great World, One Holland Village, PLQ Mall, Tampines 1, The Centrepoint"
+Canton Paradise,F&B,5,5,"Bedok Mall, City Square Mall, ION Orchard, Jem, Plaza Singapura"
+Cat & the Fiddle,F&B,5,5,"City Square Mall, Junction 8, Northpoint City, Tampines 1, Westgate"
+Eat 3 Bowls,F&B,5,5,"Causeway Point, Century Square, Jem, Square 2, White Sands"
+Encik Tan,F&B,5,5,"Bedok Mall, IMM Building, Junction 10, Northpoint City, Waterway Point"
+Garrett Popcorn Shops,F&B,5,5,"313@somerset, Jurong Point, Raffles City Shopping Centre, Tampines Mall, Wisma Atria"
+Go-Ang Pratunam Chicken Rice,F&B,5,5,"Far East Square, Jem, Plaza Singapura, Suntec City, VivoCity"
+Gokoku Japanese Bakery,F&B,5,5,"Great World, Jurong Point, Northpoint City, Tampines Mall, Wisma Atria"
+HEYTEA,F&B,5,5,"ION Orchard, Jewel Changi Airport, Orchard Central, The Shoppes at Marina Bay Sands, Westgate"
+Hot Tomato,F&B,5,5,"Bedok Mall, Causeway Point, Jewel Changi Airport, Jurong Point, Northpoint City"
+Koo Kee,F&B,5,5,"AMK Hub, Hougang 1, Jem, Jurong Point, Tiong Bahru Plaza"
+Melvados,F&B,5,5,"AMK Hub, Hougang 1, Jem, Jurong Point, PLQ Mall"
+Ottie Pancakes,F&B,5,5,"Aperia Mall, Funan, Jurong Point, Suntec City, Swing By @ Thomson Plaza"
+Paradise Dynasty,F&B,5,5,"Funan, PLQ Mall, Suntec City, Westgate, Wisma Atria"
+Pepper Lunch,F&B,5,5,"AMK Hub, Bedok Mall, Jem, Jurong Point, Tampines 1"
+PrimaDéli,F&B,5,5,"Causeway Point, Lot One Shoppers' Mall, Northpoint City, Waterway Point, White Sands"
+Seoul Garden,F&B,5,5,"Bugis Junction (Part of Bugis Town), IMM Building, Marina Square, Northpoint City, Tampines Mall"
+Shabu Sai,F&B,5,5,"Causeway Point, Northpoint City, Orchard Central, Tampines 1, Westgate"
+Shake Shack,F&B,5,5,"Great World, Jewel Changi Airport, Junction 8, Suntec City, Westgate"
+Soup Restaurant,F&B,5,5,"Hougang Mall, Jewel Changi Airport, Paragon, Suntec City, United Square"
+Tim Hortons,F&B,5,5,"313@somerset, City Square Mall, Jem, Jurong Point, Plaza Singapura"
+Twyst,F&B,5,5,"ION Orchard, Jem, Northpoint City, Sengkang Grand Mall, White Sands"
+YGF MALATANG,F&B,5,5,"Bugis+ (Part of Bugis Town), Northpoint City, Plaza Singapura, Tampines Mall, Westgate"
+Yew Kee Specialities,F&B,5,5,"AMK Hub, Jurong Point, Suntec City, Swing By @ Thomson Plaza, Tampines 1"
+108 Matcha Saro,F&B,4,4,"Bugis Junction (Part of Bugis Town), ION Orchard, Suntec City, Tampines 1"
+365 Juices Bar,F&B,4,4,"Great World, Marina Square, Suntec City, The Centrepoint"
+ASTONS Steak & Salad,F&B,4,4,"City Square Mall, Marina Square, Square 2, The Centrepoint"
+Ajisen Tanjiro,F&B,4,4,"Bedok Mall, Causeway Point, Hougang Mall, IMM Building"
+Beard Papa’s,F&B,4,4,"Century Square, Great World, Northpoint City, Plaza Singapura"
+Cellarbration,F&B,4,4,"Marina Square, Northpoint City, Plaza Singapura, Tampines Mall"
+Chocolate Origin,F&B,4,4,"City Square Mall, Junction 8, Jurong Point, Northpoint City"
+CoCo ICHIBANYA,F&B,4,4,"Bugis+ (Part of Bugis Town), PLQ Mall, Plaza Singapura, Suntec City"
+Da Paolo Gastronomia,F&B,4,4,"Great World, Paragon, Raffles City Shopping Centre, VivoCity"
+Duke Bakery,F&B,4,4,"Sengkang Grand Mall, Swing By @ Thomson Plaza, United Square, White Sands"
+Délifrance,F&B,4,4,"Causeway Point, Northpoint City, Tampines 1, Waterway Point"
+Eat Pizza,F&B,4,4,"AMK Hub, IMM Building, PLQ Mall, Plaza Singapura"
+Food Junction,F&B,4,4,"Great World, Junction 8, Lot One Shoppers' Mall, Westgate"
+Fragrance,F&B,4,4,"IMM Building, Northpoint City, Sengkang Grand Mall, Swing By @ Thomson Plaza"
+Geláre,F&B,4,4,"Bugis+ (Part of Bugis Town), Causeway Point, Northpoint City, White Sands"
+Ho Kee Pau,F&B,4,4,"AMK Hub, Bedok Mall, Causeway Point, Lot One Shoppers' Mall"
+Hoshino Coffee,F&B,4,4,"ION Orchard, Plaza Singapura, Suntec City, United Square"
+Josh's Grill,F&B,4,4,"313@somerset, Bugis Junction (Part of Bugis Town), Jewel Changi Airport, Velocity@Novena Square"
+KOI Express,F&B,4,4,"313@somerset, Jewel Changi Airport, Square 2, Wisma Atria"
+LITTLE POND,F&B,4,4,"Bedok Mall, Jurong Point, Northpoint City, One Holland Village"
+Lao Huo Tang,F&B,4,4,"Causeway Point, Jurong Point, Marina Square, Waterway Point"
+LeNu Chef Wai’s Noodle Bar,F&B,4,4,"Bedok Mall, Bugis Junction (Part of Bugis Town), Jem, VivoCity"
+Mamma Mia Trattoria E Caffè,F&B,4,4,"Jewel Changi Airport, Suntec City, Tampines 1, Waterway Point"
+Mr. Onigiri,F&B,4,4,"Funan, Hougang 1, Icon Village, Northpoint City"
+Nando's,F&B,4,4,"Bugis Junction (Part of Bugis Town), Jurong Point, Plaza Singapura, Tampines Mall"
+Now Pizza,F&B,4,4,"Funan, Jurong Point, Sengkang Grand Mall, Swing By @ Thomson Plaza"
+Nunsaram Korean Dessert Cafe,F&B,4,4,"Bugis Junction (Part of Bugis Town), Junction 8, Plaza Singapura, Westgate"
+Old Tea Hut,F&B,4,4,"Century Square, Jem, Northpoint City, Velocity@Novena Square"
+PS.CAFE,F&B,4,4,"Great World, Jewel Changi Airport, Paragon, Raffles City Shopping Centre"
+Papa Ayam,F&B,4,4,"313@somerset, City Square Mall, Northpoint City, PLQ Mall"
+Popeyes,F&B,4,4,"IMM Building, Northpoint City, Tampines 1, West Coast Plaza"
+Red Ginger,F&B,4,4,"Causeway Point, IMM Building, Jurong Point, Lot One Shoppers' Mall"
+Ritz Apple Strudel,F&B,4,4,"Bedok Mall, Bugis Junction (Part of Bugis Town), Great World, Junction 8"
+Rive Gauche Patisserie,F&B,4,4,"ION Orchard, Northpoint City, Raffles City Shopping Centre, Tampines 1"
+Saap Saap Thai,F&B,4,4,"Bedok Mall, Funan, IMM Building, White Sands"
+Shihlin Taiwan Street Food,F&B,4,4,"IMM Building, Tiong Bahru Plaza, Waterway Point, White Sands"
+So Pho,F&B,4,4,"Jem, Tampines Mall, Velocity@Novena Square, Waterway Point"
+Tai Chong Kok,F&B,4,4,"Northpoint City, Swing By @ Thomson Plaza, Tampines Mall, Waterway Point"
+Tonkatsu ENbiton,F&B,4,4,"313@somerset, Causeway Point, Jem, Suntec City"
+Tonkatsu by Ma Maison,F&B,4,4,"Jewel Changi Airport, Mandarin Gallery, Tiong Bahru Plaza, Westgate"
+Venchi,F&B,4,4,"ION Orchard, Paragon, Raffles City Shopping Centre, The Shoppes at Marina Bay Sands"
+Wanpo Tea Shop,F&B,4,4,"Jem, Northpoint City, Suntec City, Tampines 1"
+White Restaurant,F&B,4,4,"IMM Building, Jewel Changi Airport, Suntec City, Waterway Point"
+YOSHINOYA,F&B,4,4,"Bedok Mall, Bugis Junction (Part of Bugis Town), Causeway Point, Junction 8"
+Yuen Kee Dumpling,F&B,4,4,"AMK Hub, Funan, IMM Building, Westgate"
+rumeL,F&B,4,4,"Bugis+ (Part of Bugis Town), Hougang Mall, PLQ Mall, Tiong Bahru Plaza"
+% Arabica (Temporarily closed),F&B,3,3,"313@somerset, Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+85 Redhill Teochew Fishball Noodles,F&B,3,3,"Plaza Singapura, Valley Point, White Sands"
+A HOT HIDEOUT,F&B,3,3,"Aperia Mall, Bugis Junction (Part of Bugis Town), Junction 10"
+Ajisen Ramen,F&B,3,3,"Bugis Junction (Part of Bugis Town), Junction 8, Lot One Shoppers' Mall"
+Au Croissant,F&B,3,3,"Valley Point, Waterway Point, West Coast Plaza"
+Ayam Penyet President,F&B,3,3,"Century Square, Northpoint City, White Sands"
+BATTERCATCH,F&B,3,3,"Bedok Mall, Great World, Orchard Central"
+BBQ Box 串烧工坊,F&B,3,3,"AMK Hub, Jem, Jurong Point"
+Bali Thai,F&B,3,3,"Causeway Point, Ngee Ann City, Suntec City"
+Big Fish Small Fish,F&B,3,3,"Bugis Junction (Part of Bugis Town), Century Square, Suntec City"
+BreadTalk/Toast Box,F&B,3,3,"Northpoint City, Tiong Bahru Plaza, Waterway Point"
+CAKEBAR,F&B,3,3,"One Holland Village, Square 2, Waterway Point"
+CHA MULAN,F&B,3,3,"IMM Building, Jewel Changi Airport, Suntec City"
+Cai-Ca,F&B,3,3,"Bugis Junction (Part of Bugis Town), Century Square, Northpoint City"
+Casa Vostra,F&B,3,3,"Jem, Raffles City Shopping Centre, Tampines Mall"
+Chewy Junior,F&B,3,3,"Bugis Junction (Part of Bugis Town), Sengkang Grand Mall, White Sands"
+Chicken Pie Kitchen & Don Signature Crab,F&B,3,3,"AMK Hub, White Sands, Wisma Atria"
+CocoCane,F&B,3,3,"City Square Mall, Lot One Shoppers' Mall, Waterway Point"
+Cookhouse by Koufu,F&B,3,3,"Velocity@Novena Square, Waterway Point, White Sands"
+Cut Butchery,F&B,3,3,"Bedok Mall, Swing By @ Thomson Plaza, Tampines Mall"
+D'Penyetz,F&B,3,3,"Jem, PLQ Mall, Tiong Bahru Plaza"
+Dapur Penyet,F&B,3,3,"Funan, The Centrepoint, Tiong Bahru Plaza"
+Dough Magic,F&B,3,3,"AMK Hub, Jurong Point, Northpoint City"
+Each-a-Cup,F&B,3,3,"AMK Hub, Causeway Point, ION Orchard"
+Fieldnotes,F&B,3,3,"Jem, Raffles City Shopping Centre, Tampines 1"
+Fore Coffee,F&B,3,3,"Bugis Junction (Part of Bugis Town), The Centrepoint, Tiong Bahru Plaza"
+Fragrance Bak Kwa,F&B,3,3,"AMK Hub, Jewel Changi Airport, Jurong Point"
+Fried Chicken Master,F&B,3,3,"Century Square, Northpoint City, Suntec City"
+GODIVA Chocolatier,F&B,3,3,"Bugis Junction (Part of Bugis Town), Jewel Changi Airport, Raffles City Shopping Centre"
+HAWKERS' STREET,F&B,3,3,"ION Orchard, Square 2, Tampines 1"
+Hakka Yu,F&B,3,3,"Jem, Jewel Changi Airport, Northpoint City"
+Han's,F&B,3,3,"Marina Square, Swing By @ Thomson Plaza, Waterway Point"
+HoneyWorld,F&B,3,3,"Great World, Jurong Point, United Square"
+Hong Kong Egglet,F&B,3,3,"Bugis Junction (Part of Bugis Town), Jurong Point, Northpoint City"
+Huggs Coffee,F&B,3,3,"Clarke Quay Central, PLQ Mall, United Square"
+JINJJA Chicken,F&B,3,3,"Northpoint City, Sengkang Grand Mall, Westgate"
+JUMBO SEAFOOD,F&B,3,3,"ION Orchard, Jewel Changi Airport, Riverside Point"
+Ji De Chi Dessert,F&B,3,3,"Century Square, Northpoint City, Westgate"
+Kebabs Faktory,F&B,3,3,"Funan, Northpoint City, Sengkang Grand Mall"
+Kenny Rogers Roasters,F&B,3,3,"City Square Mall, Marina Square, Sengkang Grand Mall"
+Kin No Mame,F&B,3,3,"Paragon, Plaza Singapura, Raffles City Shopping Centre"
+Kind Kones,F&B,3,3,"Great World, Suntec City, Westgate"
+Kiwami Ramen & Gyoza Bar,F&B,3,3,"Jem, Jewel Changi Airport, Suntec City"
+Koong Woh Tong,F&B,3,3,"Funan, Hougang Mall, Northpoint City"
+Lavender,F&B,3,3,"Bugis Junction (Part of Bugis Town), ION Orchard, Jewel Changi Airport"
+Le Shrimp Ramen,F&B,3,3,"Paragon, Plaza Singapura, Sengkang Grand Mall"
+LeNu,F&B,3,3,"City Square Mall, Northpoint City, One Holland Village"
+Lee Wee & Brothers,F&B,3,3,"ION Orchard, Jem, Tampines Mall"
+Läderach,F&B,3,3,"ION Orchard, Jewel Changi Airport, The Shoppes at Marina Bay Sands"
+Mei Heong Yuen Dessert,F&B,3,3,"City Square Mall, Northpoint City, Velocity@Novena Square"
+Mr Teh Tarik Express,F&B,3,3,"Far East Square, Jurong Point, Northpoint City"
+PAUL,F&B,3,3,"Ngee Ann City, Paragon, Suntec City"
+Paradise Classic,F&B,3,3,"Bedok Mall, Jewel Changi Airport, One Holland Village"
+PastaGo,F&B,3,3,"Bedok Mall, Tampines 1, Tiong Bahru Plaza"
+Pawa Bakery,F&B,3,3,"PLQ Mall, Plaza Singapura, Suntec City"
+Peperoni Pizzeria,F&B,3,3,"PLQ Mall, Suntec City, United Square"
+Pizza Hut,F&B,3,3,"Marina Square, Tiong Bahru Plaza, Waterway Point"
+Plum Village,F&B,3,3,"Suntec City, Tampines 1, United Square"
+Poke Theory,F&B,3,3,"Causeway Point, PLQ Mall, Velocity@Novena Square"
+ROYCE',F&B,3,3,"ION Orchard, Raffles City Shopping Centre, Westgate"
+SAN REN XING 三人行,F&B,3,3,"Bedok Mall, Bugis Junction (Part of Bugis Town), Swing By @ Thomson Plaza"
+SF FRUITS,F&B,3,3,"Bedok Mall, IMM Building, Junction 8"
+SF Fruits & Juices,F&B,3,3,"Causeway Point, Jewel Changi Airport, White Sands"
+SMOOY,F&B,3,3,"Funan, Hougang Mall, Jem"
+SUKI-YA,F&B,3,3,"Bugis+ (Part of Bugis Town), Marina Square, Plaza Singapura"
+Shiok Burger,F&B,3,3,"AMK Hub, Raffles City Shopping Centre, Tiong Bahru Plaza"
+Supergreen,F&B,3,3,"313@somerset, Aperia Mall, Northpoint City"
+Sushi Plus,F&B,3,3,"313@somerset, Bugis Junction (Part of Bugis Town), Tampines 1"
+Sushi Zushi,F&B,3,3,"Bugis Junction (Part of Bugis Town), Funan, Westgate"
+TAI ER,F&B,3,3,"313@somerset, Great World, Jem"
+TOMORO COFFEE,F&B,3,3,"PLQ Mall, Sengkang Grand Mall, Square 2"
+Tambuah Mas Indonesian Restaurant,F&B,3,3,"Great World, Jewel Changi Airport, Paragon"
+Tempura-EN,F&B,3,3,"Great World, Jewel Changi Airport, Suntec City"
+Texas Chicken,F&B,3,3,"Causeway Point, Century Square, Junction 10"
+The Cocoa Trees,F&B,3,3,"Jurong Point, Raffles City Shopping Centre, Suntec City"
+The Tree Cafe,F&B,3,3,"Century Square, Funan, Marina Square"
+The Whale Tea,F&B,3,3,"Jurong Point, Lot One Shoppers' Mall, Suntec City"
+Toast & Roll by Swee Heng,F&B,3,3,"Jurong Point, Suntec City, Velocity@Novena Square"
+Tokyo Shokudo,F&B,3,3,"Lot One Shoppers' Mall, Tampines Mall, Waterway Point"
+Warabimochi Kamakura,F&B,3,3,"Jem, One Holland Village, Waterway Point"
+Xin Wang Hong Kong Cafe,F&B,3,3,"Bugis+ (Part of Bugis Town), Suntec City, Velocity@Novena Square"
+YES LEMON,F&B,3,3,"Hougang Mall, Jewel Changi Airport, United Square"
+iSTEAKS,F&B,3,3,"Jem, Suntec City, Tampines 1"
+itea,F&B,3,3,"Bugis+ (Part of Bugis Town), Northpoint City, United Square"
+i•tea,F&B,3,3,"AMK Hub, Hougang 1, Wisma Atria"
+rrooll,F&B,3,3,"Causeway Point, Northpoint City, Tampines 1"
+snacKING Retro Biscuits,F&B,3,3,"City Square Mall, Jurong Point, Waterway Point"
+328 Katong Laksa,F&B,2,2,"United Square, Westgate"
+50 年 Taste Of Tradition,F&B,2,2,"Plaza Singapura, United Square"
+A&W,F&B,2,2,"Jewel Changi Airport, Jurong Point"
+ALICE BOULANGERIE AND RESTAURANT,F&B,2,2,"Icon Village, Raffles City Shopping Centre"
+Alchemist,F&B,2,2,"Plaza Singapura, Square 2"
+Arteastiq DePatio,F&B,2,2,"Jewel Changi Airport, Plaza Singapura"
+Avocadoria,F&B,2,2,"AMK Hub, Bedok Mall"
+BAKEINC,F&B,2,2,"City Square Mall, Hougang 1"
+BAKERY CUISINE EXPRESS,F&B,2,2,"Great World, Katong V"
+BARCOOK BAKERY,F&B,2,2,"Clarke Quay Central, Square 2"
+BBQ Express,F&B,2,2,"Junction 8, Lot One Shoppers' Mall"
+BHC Chicken,F&B,2,2,"Jewel Changi Airport, Marina Square"
+BINGXUE TEA & ICE CREAM,F&B,2,2,"Lot One Shoppers' Mall, Suntec City"
+BLU JAZ,F&B,2,2,"Clarke Quay Central, Far East Square"
+BLUEBIRD TRAVEL 青鳥旅行,F&B,2,2,"Jewel Changi Airport, Raffles City Shopping Centre"
+BOOST,F&B,2,2,"Bedok Mall, ION Orchard"
+Baba Nyonya,F&B,2,2,"Clarke Quay Central, Jewel Changi Airport"
+Bacha Coffee,F&B,2,2,"ION Orchard, Raffles City Shopping Centre"
+Bari Bari Steak,F&B,2,2,"Junction 8, Tampines 1"
+Beauty in The Pot,F&B,2,2,"Jewel Changi Airport, The Centrepoint"
+Ben's Cookies,F&B,2,2,"Suntec City, Wisma Atria"
+Beryl's,F&B,2,2,"Bugis Junction (Part of Bugis Town), Wisma Atria"
+Betsubara,F&B,2,2,"Marina Square, Swing By @ Thomson Plaza"
+Beyond Pancakes,F&B,2,2,"City Square Mall, Marina Square"
+Blue Bottle Coffee,F&B,2,2,"Paragon, Raffles City Shopping Centre"
+Boon Lay Power Nasi Lemak,F&B,2,2,"Causeway Point, Square 2"
+BreadTalk / Toastbox,F&B,2,2,"AMK Hub, Jurong Point"
+Brotzeit,F&B,2,2,"Raffles City Shopping Centre, Westgate"
+Bulgogi Syo,F&B,2,2,"Bugis Junction (Part of Bugis Town), Suntec City"
+Butahage,F&B,2,2,"Century Square, Suntec City"
+CHILCHIL THAI STREET KITCHEN,F&B,2,2,"HillV2, Hougang 1"
+COCA,F&B,2,2,"Ngee Ann City, Suntec City"
+CROLO by Swee Heng,F&B,2,2,"AMK Hub, Jurong Point"
+Café&Meal MUJI,F&B,2,2,"Plaza Singapura, Raffles City Shopping Centre"
+Candy Empire,F&B,2,2,"313@somerset, Suntec City"
+Chicken Ka Kee,F&B,2,2,"Causeway Point, Waterway Point"
+City Hot Pot,F&B,2,2,"Jurong Point, Sengkang Grand Mall"
+Coffeesmith,F&B,2,2,"Suntec City, Westgate"
+Compose Coffee,F&B,2,2,"PLQ Mall, Suntec City"
+Country Brot by Four Leaves,F&B,2,2,"Northpoint City, Waterway Point"
+Curry Times,F&B,2,2,"Velocity@Novena Square, Westgate"
+DaXi 大喜,F&B,2,2,"AMK Hub, Plaza Singapura"
+Daily Chicken,F&B,2,2,"Bugis Junction (Part of Bugis Town), Waterway Point"
+Dal.komm COFFEE,F&B,2,2,"Funan, Marina Square"
+Delifrance,F&B,2,2,"Jem, Lot One Shoppers' Mall"
+Devil Chicken,F&B,2,2,"Bedok Mall, Jurong Point"
+Dickson Nasi Lemak,F&B,2,2,"Century Square, Icon Village"
+Eastern Rice Dumpling,F&B,2,2,"Bedok Mall, Northpoint City"
+Emicakes,F&B,2,2,"Plaza Singapura, Tampines 1"
+Epid’or,F&B,2,2,"Plaza Singapura, Raffles City Shopping Centre"
+FIVE GUYS,F&B,2,2,"ION Orchard, Plaza Singapura"
+Fei Siong,F&B,2,2,"Junction 8, Tampines Mall"
+First Bowl 壹碗,F&B,2,2,"AMK Hub, Funan"
+Flipper's,F&B,2,2,"Bugis Junction (Part of Bugis Town), Westgate"
+Fong Sheng Hao,F&B,2,2,"PLQ Mall, Westgate"
+Fruit Box,F&B,2,2,"Northpoint City, Tiong Bahru Plaza"
+Ghost Kakigori,F&B,2,2,"Jurong Point, Suntec City"
+Grill N Grill,F&B,2,2,"AMK Hub, Hougang Mall"
+GyoGyo,F&B,2,2,"City Square Mall, Funan"
+Gyukatsu Kyoto Katsugyu 牛かつ 京都勝牛,F&B,2,2,"One Holland Village, Raffles City Shopping Centre"
+Gyushi,F&B,2,2,"City Square Mall, The Centrepoint"
+HABIT,F&B,2,2,"Icon Village, One Holland Village"
+HUGABO,F&B,2,2,"Causeway Point, White Sands"
+Hainan Second Street,F&B,2,2,"Bedok Mall, IMM Building"
+HarriAnns Nonya Table,F&B,2,2,"PLQ Mall, Suntec City"
+Hi Noodle,F&B,2,2,"313@somerset, Jurong Point"
+Hoe Nam Signatures,F&B,2,2,"Aperia Mall, Marina Square"
+Hokkaido Baked Cheese Tart,F&B,2,2,"Bugis Junction (Part of Bugis Town), Causeway Point"
+Hong Lim Curry Puff,F&B,2,2,"Great World, Northpoint City"
+Hototogisu Ramen,F&B,2,2,"Great World, Waterway Point"
+Hundred Grains 百米香,F&B,2,2,"Aperia Mall, Velocity@Novena Square"
+ISHIRO FUSHION BOWL (TEMPORARILY CLOSED),F&B,2,2,"One Holland Village, Square 2"
+Imperial Treasure Super Peking Duck,F&B,2,2,"Jewel Changi Airport, Paragon"
+J.Co,F&B,2,2,"Bugis+ (Part of Bugis Town), Tampines Mall"
+JASONS DELI,F&B,2,2,"ION Orchard, The Shoppes at Marina Bay Sands"
+JI DE CHI & OTTER PIZZA,F&B,2,2,"Junction 10, Square 2"
+Jack's Place,F&B,2,2,"City Square Mall, Jewel Changi Airport"
+Jia Li Seafood Soup,F&B,2,2,"AMK Hub, Tiong Bahru Plaza"
+Jiak Ba Food Heaven,F&B,2,2,"Far East Square, Junction 8"
+Juice Farm,F&B,2,2,"Jurong Point, Swing By @ Thomson Plaza"
+KE MING 克茗冰室,F&B,2,2,"Funan, Plaza Singapura"
+KILLINEY,F&B,2,2,"Marina Square, Square 2"
+Khao,F&B,2,2,"Funan, Great World"
+Knots Flowers and More,F&B,2,2,"One Holland Village, Westgate"
+LIM CHEE GUAN,F&B,2,2,"ION Orchard, Jewel Changi Airport"
+LONGJING,F&B,2,2,"Suntec City, Velocity@Novena Square"
+Lau Wang Claypot Delights,F&B,2,2,"Jem, Tampines 1"
+Legendary Hong Kong,F&B,2,2,"Jurong Point, Tampines Mall"
+Lemonaide,F&B,2,2,"Funan, Icon Village"
+Läderach Chocolatier Suisse,F&B,2,2,"Raffles City Shopping Centre, Westgate"
+M&S FOOD,F&B,2,2,"Great World, One Holland Village"
+MADAM ANG KK,F&B,2,2,"Paragon, Square 2"
+MANGO ICE 杨小贤绵绵冰,F&B,2,2,"Jurong Point, Tampines Mall"
+MARUTAMA RAMEN,F&B,2,2,"Clarke Quay Central, ION Orchard"
+MATSUKIYA,F&B,2,2,"One Holland Village, Paragon"
+MENDON,F&B,2,2,"Bedok Mall, Lot One Shoppers' Mall"
+MRS BANANA,F&B,2,2,"Bugis Junction (Part of Bugis Town), IMM Building"
+Ma Maison,F&B,2,2,"Bugis Junction (Part of Bugis Town), Ngee Ann City"
+Maji Curry,F&B,2,2,"Funan, Square 2"
+Mamma Mia! Trattoria E Caffe,F&B,2,2,"Jurong Point, Plaza Singapura"
+Marché,F&B,2,2,"313@somerset, Suntec City"
+Menya Kokoro,F&B,2,2,"Plaza Singapura, Suntec City"
+Miam Miam,F&B,2,2,"Bugis Junction (Part of Bugis Town), Westgate"
+Ministry of Rojak,F&B,2,2,"Century Square, Northpoint City"
+Monster Planet,F&B,2,2,"Jem, Tampines 1"
+Mrs Pho,F&B,2,2,"313@somerset, Jewel Changi Airport"
+My Korean Mom’s Kimchi,F&B,2,2,"Century Square, Far East Square"
+NATURE'S NUTRITION,F&B,2,2,"Far East Square, Square 2"
+NEW NANYANG,F&B,2,2,"HillV2, West Coast Plaza"
+NamNam,F&B,2,2,"Great World, Raffles City Shopping Centre"
+Namu Bulgogi,F&B,2,2,"Northpoint City, Tampines 1"
+Nasty Cookie,F&B,2,2,"Jewel Changi Airport, Westgate"
+Nespresso,F&B,2,2,"ION Orchard, Raffles City Shopping Centre"
+Nippon Bite,F&B,2,2,"AMK Hub, Tampines 1"
+Nong Geng Ji Hunan Home-Style Cuisine,F&B,2,2,"City Square Mall, Great World"
+OMEGA PORK NOODLE,F&B,2,2,"Jewel Changi Airport, Northpoint City"
+ORIENTAL KOPI,F&B,2,2,"Bugis Junction (Part of Bugis Town), Westgate"
+Old Seng Choong,F&B,2,2,"Paragon, The Shoppes at Marina Bay Sands"
+Overscoop,F&B,2,2,"CQ @ Clarke Quay, Orchard Central"
+POCHA! KOREAN STREET DINING,F&B,2,2,"ION Orchard, Jem"
+Paik's Noodle,F&B,2,2,"Suntec City, Waterway Point"
+PaperBakes,F&B,2,2,"Plaza Singapura, Raffles City Shopping Centre"
+Paradise Hotpot,F&B,2,2,"Bedok Mall, Westgate"
+Pasta Play,F&B,2,2,"One Holland Village, Waterway Point"
+Playground by Playmade,F&B,2,2,"AMK Hub, Suntec City"
+Popeyes Famous Louisiana Chicken,F&B,2,2,"AMK Hub, Jurong Point"
+Poulet,F&B,2,2,"Bugis+ (Part of Bugis Town), Causeway Point"
+Poulét,F&B,2,2,"Raffles City Shopping Centre, Westgate"
+QIN JI ROUGAMO,F&B,2,2,"Jurong Point, Sengkang Grand Mall"
+Queic by Olivia,F&B,2,2,"Jem, Jewel Changi Airport"
+Ramen Hitoyoshi,F&B,2,2,"Tiong Bahru Plaza, United Square"
+Re.juve,F&B,2,2,"Great World, Jem"
+Rotiboy,F&B,2,2,"Funan, Westgate"
+Ryokudo,F&B,2,2,"Far East Square, Funan"
+SALADSTOP!,F&B,2,2,"Great World, Velocity@Novena Square"
+SEN-RYO,F&B,2,2,"ION Orchard, Suntec City"
+SEORAE JIB,F&B,2,2,"Jem, Plaza Singapura"
+SEOUL NOODLE SHOP,F&B,2,2,"Northpoint City, Suntec City"
+SGFR Store,F&B,2,2,"Bedok Mall, Lot One Shoppers' Mall"
+SHI LI FANG,F&B,2,2,"Junction 10, Orchard Central"
+SHOO LOONG KAN 小龙坎火锅,F&B,2,2,"CQ @ Clarke Quay, Westgate"
+SIAM SQUARE MOOKATA (TEMPORARILY CLOSED),F&B,2,2,"Clarke Quay Central, Junction 10"
+SNACK BOX,F&B,2,2,"AMK Hub, Jewel Changi Airport"
+SUPER SUB,F&B,2,2,"PLQ Mall, Suntec City"
+SURREY HILLS GROCER,F&B,2,2,"ION Orchard, Raffles City Shopping Centre"
+SUSHI GOGO,F&B,2,2,"Junction 8, Northpoint City"
+Seoul Garden HOTPOT,F&B,2,2,"IMM Building, Northpoint City"
+Shanghai Tan Pan-Fried Buns,F&B,2,2,"Bedok Mall, Bugis+ (Part of Bugis Town)"
+Smile Martabak,F&B,2,2,"Bedok Mall, Funan"
+Snackz It! 可口味,F&B,2,2,"Causeway Point, Lot One Shoppers' Mall"
+So Do Fun,F&B,2,2,"The Centrepoint, Waterway Point"
+Sushi Zanmai,F&B,2,2,"IMM Building, Tampines Mall"
+Sushi-GO(&JOY Japanese Food Street ),F&B,2,2,"Jurong Point, Marina Square"
+Swee Heng 1989 Signature,F&B,2,2,"313@somerset, Causeway Point"
+TAN YU,F&B,2,2,"313@somerset, Westgate"
+TANYU,F&B,2,2,"Bugis Junction (Part of Bugis Town), Tampines 1"
+TCC – THE CONNOISSEUR CONCERTO,F&B,2,2,"Great World, Ngee Ann City"
+TEAHOUSE by Soup Restaurant,F&B,2,2,"Century Square, IMM Building"
+THE 1872 CLIPPER TEA CO.,F&B,2,2,"ION Orchard, Jewel Changi Airport"
+TOMI SUSHI,F&B,2,2,"Katong V, Velocity@Novena Square"
+TORA-SAN,F&B,2,2,"The Centrepoint, United Square"
+TSUJIRI,F&B,2,2,"Clarke Quay Central, Sengkang Grand Mall"
+TSUJIRI PREMIUM,F&B,2,2,"Great World, One Holland Village"
+TWG Tea,F&B,2,2,"ION Orchard, Raffles City Shopping Centre"
+Tai Er Suancai & Fish,F&B,2,2,"Jewel Changi Airport, Suntec City"
+Tangled,F&B,2,2,"Northpoint City, Suntec City"
+Tanjong Rhu Pau,F&B,2,2,"Great World, Tampines Mall"
+Tenderfresh XPRESS,F&B,2,2,"Causeway Point, Lot One Shoppers' Mall"
+Teppan-Yaki,F&B,2,2,"Causeway Point, Northpoint City"
+The Alley,F&B,2,2,"Funan, Sengkang Grand Mall"
+The Bread Club,F&B,2,2,"Jem, PLQ Mall"
+The Dim Sum Place,F&B,2,2,"Causeway Point, The Centrepoint"
+The Original Vadai,F&B,2,2,"Century Square, Northpoint City"
+The SGFR Store,F&B,2,2,"Jurong Point, Northpoint City"
+Thye Moh Chan,F&B,2,2,"Jurong Point, Paragon"
+Tofu G,F&B,2,2,"Mandarin Gallery, Ngee Ann City"
+Tokyo Milk Cheese Factory,F&B,2,2,"Paragon, Raffles City Shopping Centre"
+Tonkotsu Kazan,F&B,2,2,"Funan, Square 2"
+Tonkotsu Kazan Ramen,F&B,2,2,"Century Square, Northpoint City"
+Tsui Wah,F&B,2,2,"Jem, Jewel Changi Airport"
+Tsukada Nojo,F&B,2,2,"Plaza Singapura, Swing By @ Thomson Plaza"
+Tutto by Da Paolo,F&B,2,2,"Jewel Changi Airport, One Holland Village"
+US Pizza,F&B,2,2,"Funan, West Coast Plaza"
+VIETSMITH,F&B,2,2,"One Holland Village, Pacific Plaza"
+Vivino,F&B,2,2,"Raffles City Shopping Centre, Velocity@Novena Square"
+Wang Fu Dim Sum,F&B,2,2,"Aperia Mall, Westgate"
+Watami Japanese Dining,F&B,2,2,"Bugis+ (Part of Bugis Town), Junction 8"
+Wonder Juice,F&B,2,2,"Aperia Mall, Square 2"
+Wunderfolks,F&B,2,2,"Lot One Shoppers' Mall, Tampines Mall"
+XW Plus Western Grill,F&B,2,2,"Century Square, Northpoint City"
+XW Western Grill,F&B,2,2,"Jem, Raffles City Shopping Centre"
+Xi Men Jie,F&B,2,2,"Funan, Westgate"
+Xin Wang Hong Kong Café,F&B,2,2,"Northpoint City, White Sands"
+YOLE 0% SUGAR ADDED,F&B,2,2,"Bugis+ (Part of Bugis Town), Plaza Singapura"
+Yakiniku-Go,F&B,2,2,"Jem, Jurong Point"
+Yi Zun Noodle,F&B,2,2,"City Square Mall, Marina Square"
+ZOK NOODLE HOUSE 竹麵館(港澳),F&B,2,2,"Great World, Raffles City Shopping Centre"
+ZUS COFFEE,F&B,2,2,"Northpoint City, Westgate"
+eCreative Cake,F&B,2,2,"Century Square, IMM Building"
+myEureka,F&B,2,2,"PLQ Mall, Plaza Singapura"
+san.wich,F&B,2,2,"Lot One Shoppers' Mall, Tampines 1"
+umisushi,F&B,2,2,"AMK Hub, Waterway Point"
+Brotzeit German Bier Bar & Restaurant,F&B,1,2,VivoCity
+Meet 2 Wine Bar & Restaurant,F&B,1,2,Suntec City
+Toast Box & Thye Moh Chan,F&B,1,2,Jewel Changi Airport
+1-ATICO BY 1-ALTITUDE,F&B,1,1,ION Orchard
+101 Pot Noodles,F&B,1,1,United Square
+1A Heritage,F&B,1,1,AMK Hub
+1earn,F&B,1,1,VivoCity
+2GATHER,F&B,1,1,Suntec City
+4 Fingers Crispy Chicken,F&B,1,1,Junction 8
+49 Seats,F&B,1,1,The Centrepoint
+50 Years Taste Of Tradition,F&B,1,1,Century Square
+5:59,F&B,1,1,313@somerset
+8 Clover by Bakery Cuisine,F&B,1,1,Century Square
+85 Redhill,F&B,1,1,United Square
+88 HONG KONG ROAST MEAT SPECIALIST,F&B,1,1,Far East Square
+@ i Mango,F&B,1,1,City Square Mall
+@i MANGO COTTON ICE FRESH MILK TEA OMELETTE RICE,F&B,1,1,Northpoint City
+A Beautiful Day Café,F&B,1,1,PLQ Mall
+A Gan Guo Kui,F&B,1,1,Funan
+A KITCHEN,F&B,1,1,Junction 10
+A-ONE EXPRESS,F&B,1,1,Hougang 1
+A-Roy Thai Restaurant,F&B,1,1,Velocity@Novena Square
+AJ's Teh Tarik,F&B,1,1,Suntec City
+ALLEY.WEI TEPPAN-YAKI,F&B,1,1,Bugis Junction (Part of Bugis Town)
+AMACHA 阿嬷茶语,F&B,1,1,Tampines 1
+AMIYAKI,F&B,1,1,Icon Village
+ANTI:DOTE,F&B,1,1,Raffles City Shopping Centre
+ARMOURY STEAKS AND CRAFT BEER,F&B,1,1,Orchard Central
+ARTEASG,F&B,1,1,Raffles City Shopping Centre
+ASAP & CO,F&B,1,1,Far East Square
+AWFULLY CHOCOLATE CAFÉ,F&B,1,1,Great World
+AZABU SABO HOKKAIDO ICE-CREAM SHOP,F&B,1,1,Clarke Quay Central
+AZUL at Golden Village,F&B,1,1,Bugis+ (Part of Bugis Town)
+Abundance,F&B,1,1,Century Square
+Aburi-EN Grand,F&B,1,1,Paragon
+ActionCity Café,F&B,1,1,Jewel Changi Airport
+Ah Ma Chi Mian,F&B,1,1,Causeway Point
+Ajisen,F&B,1,1,Tiong Bahru Plaza
+Akashi Japanese Restaurant,F&B,1,1,Paragon
+Aki Sushi & Grill,F&B,1,1,Plaza Singapura
+Alley.Wei,F&B,1,1,Northpoint City
+Ambush,F&B,1,1,Junction 8
+Ameising Live House,F&B,1,1,Suntec City
+An Açaí Affair,F&B,1,1,Tampines 1
+An Nyeong,F&B,1,1,313@somerset
+Andes by Astons,F&B,1,1,IMM Building
+Angus House,F&B,1,1,Ngee Ann City
+Anjappar,F&B,1,1,Westgate
+Annabella Patisserie,F&B,1,1,Causeway Point
+Arnold's Fried Chicken,F&B,1,1,Northpoint City
+Arteastiq,F&B,1,1,Jewel Changi Airport
+Arteastiq Tea Lounge,F&B,1,1,Mandarin Gallery
+Asia Grand Restaurant,F&B,1,1,Raffles City Shopping Centre
+Asian Market Cafe,F&B,1,1,Raffles City Shopping Centre
+At Tea,F&B,1,1,313@somerset
+Attap House,F&B,1,1,PLQ Mall
+Aunt MyeongDong,F&B,1,1,City Square Mall
+Auntie Ashley,F&B,1,1,The Centrepoint
+Avenue on 3 Café,F&B,1,1,Paragon
+Awfully Chocolate Experience Cafe,F&B,1,1,Wisma Atria
+Ayo Kimbap,F&B,1,1,Jurong Point
+BA GUO GRILLED FISH,F&B,1,1,West Coast Plaza
+BAKER'S BREW,F&B,1,1,Great World
+BALIthai,F&B,1,1,IMM Building
+BANGKOK JAM,F&B,1,1,Great World
+BANH MI SOCIETY,F&B,1,1,Clarke Quay Central
+BANTIANYAO GRILLED FISH 半天妖烤鱼,F&B,1,1,IMM Building
+BAO BAO,F&B,1,1,ION Orchard
+BARA INDONESIAN GRILLED RICE,F&B,1,1,Icon Village
+BBQ Box Prime,F&B,1,1,CQ @ Clarke Quay
+BEIJU EXPRESS,F&B,1,1,Icon Village
+BEST EMPLOYEE FRIED CHICKEN,F&B,1,1,Icon Village
+BGM,F&B,1,1,Suntec City
+BIZEN Wagyu & Salad Bar,F&B,1,1,Plaza Singapura
+BREAD & HEARTH,F&B,1,1,Katong V
+BREAK AND BAKE,F&B,1,1,Far East Square
+BREWERKZ RESTAURANT AND MICROBREWERY,F&B,1,1,Riverside Point
+BROTHERBIRD,F&B,1,1,Tampines 1
+BROTHERBIRD BAKEHOUSE,F&B,1,1,Raffles City Shopping Centre
+BT21 Bubble Squad Walk 2025 - Race Pack Collection & Race Day Carnival,F&B,1,1,VivoCity
+BU ER CLASSMATE,F&B,1,1,Bugis Junction (Part of Bugis Town)
+BUNS & BOOZE (COMING SOON),F&B,1,1,Far East Square
+BURRATA JOY AND GUSTAVO LAPASTA,F&B,1,1,Katong V
+BUTTER STUDIO,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Bae.gal by Swee Heng,F&B,1,1,Century Square
+Bagus Food Hall by Kopitiam,F&B,1,1,Northpoint City
+Bagus by Kopitiam,F&B,1,1,Causeway Point
+Ban Heng Teochew Porridge,F&B,1,1,Northpoint City
+Banzai Izakaya Live House,F&B,1,1,Aperia Mall
+Bao's Pastry 鲍师傅糕点,F&B,1,1,Westgate
+Bashu Sichuan Cuisine,F&B,1,1,Plaza Singapura
+Batter Catch,F&B,1,1,IMM Building
+Bazil Kitchen [Indian Cuisine],F&B,1,1,Jewel Changi Airport
+Beautiful Lai Grilled Fish (Lai Meili),F&B,1,1,Suntec City
+Bebek Goreng Pak Ndut,F&B,1,1,Westgate
+Beryl's Chocolate,F&B,1,1,Jewel Changi Airport
+Bibim Deli,F&B,1,1,Suntec City
+Bibimbap! / Dosirak!,F&B,1,1,Bedok Mall
+Big Appetite,F&B,1,1,Funan
+Big Pasta Small Pasta,F&B,1,1,AMK Hub
+Bird Avenue,F&B,1,1,The Centrepoint
+Birds of Paradise,F&B,1,1,Jewel Changi Airport
+Bistro Box by Uncle Penyet,F&B,1,1,Swing By @ Thomson Plaza
+Blanco Court Beef Noodle,F&B,1,1,Aperia Mall
+Blue Label Pizza & Wine,F&B,1,1,Mandarin Gallery
+Bober Tea,F&B,1,1,Century Square
+Bon Broth,F&B,1,1,Raffles City Shopping Centre
+Bone Broth Vermicelli by Xian Tai Ye Gu Tang Mixian,F&B,1,1,Marina Square
+Boost Juice Bar,F&B,1,1,Jem
+Bornga,F&B,1,1,VivoCity
+Bouillon Gavroche,F&B,1,1,Mandarin Gallery
+Brauhaus Restaurant & Pub,F&B,1,1,United Square
+Brio,F&B,1,1,Jurong Point
+Buddy Hoagies Café & Grill,F&B,1,1,Waterway Point
+Bugis Xin Yuan Ji,F&B,1,1,Northpoint City
+Burnt Cones,F&B,1,1,United Square
+Buta Kizoku,F&B,1,1,Westgate
+CAFE NESUTO,F&B,1,1,ION Orchard
+CAFE ONE O,F&B,1,1,Orchard Central
+CAFFE BEVIAMO,F&B,1,1,One Holland Village
+CAFFEINEXPRESS,F&B,1,1,One Holland Village
+CAPASSO,F&B,1,1,Far East Square
+CAPTAIN KIM KOREAN BBQ & HOTPOT,F&B,1,1,Junction 10
+CASABITES,F&B,1,1,Clarke Quay Central
+CHACHAO,F&B,1,1,313@somerset
+CHADA by Tin Box,F&B,1,1,Suntec City
+CHAO TING,F&B,1,1,Far East Square
+CHEF X @ CLARKE QUAY CENTRAL,F&B,1,1,Clarke Quay Central
+CHIA PUDDIES,F&B,1,1,Clarke Quay Central
+CHIC-A-BOO Chicken Specialty,F&B,1,1,Marina Square
+CHICK-FIL-A,F&B,1,1,Bugis+ (Part of Bugis Town)
+CHICKEN HOTPOT,F&B,1,1,Square 2
+CHONG QING GRILLED FISH,F&B,1,1,HillV2
+CHURN,F&B,1,1,Tampines 1
+CINNABON,F&B,1,1,ION Orchard
+CLAYFUL CAFE,F&B,1,1,Orchard Central
+CLOVE,F&B,1,1,Raffles City Shopping Centre
+COCOBELLA LIFEBAR,F&B,1,1,One Holland Village
+COFFEE HIVE,F&B,1,1,Icon Village
+COFFEE HIVE SIGNATURES,F&B,1,1,Square 2
+COFFEEMAN,F&B,1,1,Icon Village
+COFFEESARANG,F&B,1,1,Bedok Mall
+COMMON MAN COFFEE ROASTERS ON THE GO,F&B,1,1,ION Orchard
+CRAFTSMEN SPECIALTY COFFEE,F&B,1,1,Clarke Quay Central
+CRAVE/Stuff'd,F&B,1,1,Bedok Mall
+Cafe Bom Bom,F&B,1,1,Tampines 1
+Cafe Ma Maison,F&B,1,1,Mandarin Gallery
+Café Kitsuné,F&B,1,1,Jewel Changi Airport
+Café Usagi TOKYO,F&B,1,1,Suntec City
+Café de Paris,F&B,1,1,313@somerset
+Cai Lin Ji,F&B,1,1,Jurong Point
+Cajun On Wheels,F&B,1,1,Plaza Singapura
+Cantine,F&B,1,1,Jurong Point
+Capital,F&B,1,1,CQ @ Clarke Quay
+Cedele Bakery Cafe,F&B,1,1,City Square Mall
+Century Bakkwa,F&B,1,1,Wisma Atria
+ChaPanda 茶百道,F&B,1,1,Northpoint City
+Chalk Farm,F&B,1,1,Paragon
+Chao Chao Xiang,F&B,1,1,PLQ Mall
+Chao Yue Xuan Dim Sum Express,F&B,1,1,Northpoint City
+Chapters by Drinks & Co.,F&B,1,1,CQ @ Clarke Quay
+Chef Foong Restaurant,F&B,1,1,Aperia Mall
+Chef Vo Quoc Vietnamese Cuisines,F&B,1,1,City Square Mall
+Chen's,F&B,1,1,PLQ Mall
+Chen's Kitchen,F&B,1,1,Paragon
+Chill by Vox,F&B,1,1,Suntec City
+Chimi's,F&B,1,1,313@somerset
+Chimichanga,F&B,1,1,PLQ Mall
+Chiyoda Sushi,F&B,1,1,Plaza Singapura
+Chocolate Origin & Cacaocat,F&B,1,1,Waterway Point
+Chopstix & Rice,F&B,1,1,Suntec City
+Chow Zan Dessert,F&B,1,1,Jewel Changi Airport
+Chupitos,F&B,1,1,CQ @ Clarke Quay
+Churros Republic,F&B,1,1,Funan
+Coco Lato,F&B,1,1,CQ @ Clarke Quay
+Coco Veggie Nyonya Cuisine,F&B,1,1,Marina Square
+CocoNutnut,F&B,1,1,Northpoint City
+Coffee Bee by the coffee lab #5,F&B,1,1,Paragon
+Coucou Hot Pot Brew Tea & Tea Me Tea,F&B,1,1,Suntec City
+Coucou Hotpot.Brew Tea,F&B,1,1,Jewel Changi Airport
+Creamie Sippies,F&B,1,1,Jewel Changi Airport
+Create By The Alley,F&B,1,1,Tampines 1
+Crolo,F&B,1,1,Northpoint City
+Crystal Jade Dining IN,F&B,1,1,VivoCity
+Crystal Jade Golden Palace,F&B,1,1,Paragon
+Crystal Jade La Mian Xiao Long Bao,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Crystal Jade Palace,F&B,1,1,Ngee Ann City
+Cuba Libre Cafe & Bar,F&B,1,1,CQ @ Clarke Quay
+Cô Chung,F&B,1,1,Plaza Singapura
+D'LIFE SIGNATURE,F&B,1,1,Square 2
+D'RIM Korean Steak House,F&B,1,1,Mandarin Gallery
+DANCING CRAB,F&B,1,1,Orchard Central
+DE TASTE,F&B,1,1,Orchard Central
+DOMO Modern Japanese,F&B,1,1,Raffles City Shopping Centre
+DONQ EDITER/MINI ONE,F&B,1,1,ION Orchard
+DONQ ÉDITER,F&B,1,1,Westgate
+DeliTurk by Chef Celal,F&B,1,1,Suntec City
+Delibowl Express,F&B,1,1,Sengkang Grand Mall
+Do Qoo 豆趣,F&B,1,1,IMM Building
+Donburi King 爆爆王 ばくばくおう,F&B,1,1,PLQ Mall
+Dookki,F&B,1,1,Suntec City
+Downstairs,F&B,1,1,Suntec City
+Du Du Dumplings,F&B,1,1,Tiong Bahru Plaza
+Dulcet & Studio,F&B,1,1,Ngee Ann City
+E!GHT KOREAN BBQ,F&B,1,1,Clarke Quay Central
+EATPIZZA,F&B,1,1,313@somerset
+EN Yeoh’s Bak Kut Teh,F&B,1,1,Suntec City
+EPIKebabs,F&B,1,1,Aperia Mall
+Earle Swensen's,F&B,1,1,VivoCity
+East Treasure,F&B,1,1,CQ @ Clarke Quay
+Eat Rich,F&B,1,1,City Square Mall
+Eighteen Chefs,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Elfuego by COLLIN’S®,F&B,1,1,Jewel Changi Airport
+Encik Tan / Popeyes Famous Louisiana Chicken,F&B,1,1,Marina Square
+FIREPLACE BY BEDROCK,F&B,1,1,One Holland Village
+FISH MART SAKURAYA,F&B,1,1,West Coast Plaza
+FM Food Master,F&B,1,1,Aperia Mall
+FOOD ARENA by Yew Kee Group,F&B,1,1,Suntec City
+FOOD OPERA,F&B,1,1,ION Orchard
+FOURGATHER,F&B,1,1,Far East Square
+FRENCH FOLD,F&B,1,1,Great World
+FU LIN,F&B,1,1,Suntec City
+FYP,F&B,1,1,Orchard Central
+Fa Ji Lao Wan Mian,F&B,1,1,Northpoint City
+Farmer's Brew,F&B,1,1,Jurong Point
+Feng Food,F&B,1,1,Northpoint City
+Fire Ramen,F&B,1,1,The Centrepoint
+Fisher King's Grill,F&B,1,1,PLQ Mall
+Flavours by Saute,F&B,1,1,Funan
+Folks Collective & Slurp Noodle Bar,F&B,1,1,Aperia Mall
+Food Dynasty,F&B,1,1,United Square
+Foodies’ Garden,F&B,1,1,Hougang Mall
+Four Seasons Durians,F&B,1,1,Century Square
+Fragrance Foodstuff,F&B,1,1,City Square Mall
+Fu Lin Fried Yong Tofu,F&B,1,1,IMM Building
+Fu Lin Restaurant & Bar,F&B,1,1,CQ @ Clarke Quay
+Fu Yuan Teochew Dining,F&B,1,1,CQ @ Clarke Quay
+GANGNAM STORY,F&B,1,1,Orchard Central
+GATTEN SUSHI,F&B,1,1,ION Orchard
+GINKAKUJI ONISHI,F&B,1,1,West Coast Plaza
+GINKYŌ BY KINKI,F&B,1,1,One Holland Village
+GINZA ANZU,F&B,1,1,Great World
+GLO (Coming Soon),F&B,1,1,Suntec City
+GO UNIQUE - 有间面馆 GO NOODLE HOUSE,F&B,1,1,Raffles City Shopping Centre
+GODIVA,F&B,1,1,Suntec City
+GODMAMA,F&B,1,1,Funan
+GOPIZZA,F&B,1,1,Suntec City
+GREYBOX COFFEE,F&B,1,1,Great World
+GRUB,F&B,1,1,Junction 8
+GWANGHWAMUN MIJIN,F&B,1,1,Far East Square
+Gabbar Bistro Bar,F&B,1,1,CQ @ Clarke Quay
+Gado & Grill,F&B,1,1,Sengkang Grand Mall
+Gelatissimo,F&B,1,1,Jewel Changi Airport
+Ging Sun Ho King of Bun,F&B,1,1,Tampines Mall
+Giraffa,F&B,1,1,Westgate
+Go Ba! 果霸茶,F&B,1,1,Raffles City Shopping Centre
+GoGo Franks,F&B,1,1,Jurong Point
+Gochiya,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Golden Chopsticks,F&B,1,1,Century Square
+Good Chance Cafe,F&B,1,1,Marina Square
+Good Day Bakery,F&B,1,1,Funan
+GoroGoro Steamboat & Korean Buffet,F&B,1,1,The Centrepoint
+Gourmet Paradise @ The Dining Edition,F&B,1,1,Marina Square
+"Grand Cru, Wine Concierge",F&B,1,1,Raffles City Shopping Centre
+Grand Konak Turkish and Lebanese Cuisine,F&B,1,1,CQ @ Clarke Quay
+Green Delights,F&B,1,1,Westgate
+Greendot Plus,F&B,1,1,Jewel Changi Airport
+Guerilla Coffee,F&B,1,1,Suntec City
+Gwangjang GAON,F&B,1,1,Jewel Changi Airport
+Gyo Gyo,F&B,1,1,Jem
+GyoGyo Japanese Grilled Fish & Sukiyaki,F&B,1,1,Plaza Singapura
+Gyukatsu 99,F&B,1,1,Westgate
+H&C Cafe,F&B,1,1,Paragon
+HAKU SUSHI,F&B,1,1,Great World
+HANG HEUNG HONG KONG,F&B,1,1,ION Orchard
+HANS IM GLÜCK,F&B,1,1,VivoCity
+HANSANG KOREAN FAMILY RESTAURANT,F&B,1,1,Square 2
+HAPPY BITES,F&B,1,1,Hougang Mall
+HAPPY LAMB,F&B,1,1,Pacific Plaza
+HELEN'S ORCHARD CENTRAL,F&B,1,1,Orchard Central
+HELLU COFFEE,F&B,1,1,Far East Square
+HIKARU OMAKASE,F&B,1,1,Katong V
+HINOYA TEPPANYAKI,F&B,1,1,Icon Village
+HIPPOT 潮爷来了,F&B,1,1,One Holland Village
+HITOYOSHI YOSHI SUSHI,F&B,1,1,Clarke Quay Central
+HOKKAIDO DOSANKO PLAZA MEIDI-YA,F&B,1,1,Great World
+HOMESTYLE CHINA,F&B,1,1,West Coast Plaza
+HUMBLE SEEDS,F&B,1,1,Orchard Central
+HUMMINGBIRD,F&B,1,1,Far East Square
+HUO LU HUO 火炉火,F&B,1,1,Orchard Central
+Ha Jun,F&B,1,1,Aperia Mall
+Hachi,F&B,1,1,Marina Square
+Hai Di Lao,F&B,1,1,Jurong Point
+Hai Kah Lang,F&B,1,1,Funan
+HaiDiLao,F&B,1,1,Northpoint City
+Hainanese Curry Rice,F&B,1,1,Lot One Shoppers' Mall
+Hajime Tonkatsu & Ramen,F&B,1,1,Swing By @ Thomson Plaza
+Hakka Bond 客家帮,F&B,1,1,Funan
+Halal Test,F&B,1,1,VivoCity
+Han's Union,F&B,1,1,Jem
+Hana K-Food,F&B,1,1,Velocity@Novena Square
+Hanare by Takayama,F&B,1,1,Ngee Ann City
+Hand In Hand Peking Duck Restaurant,F&B,1,1,Jem
+Hanis Cafe & Bakery,F&B,1,1,PLQ Mall
+Hanjip Korean Grill House,F&B,1,1,CQ @ Clarke Quay
+Hankang Pocha,F&B,1,1,City Square Mall
+Hannaembi,F&B,1,1,Marina Square
+Han’s Café,F&B,1,1,Velocity@Novena Square
+Hao Lai Ke,F&B,1,1,Aperia Mall
+Hao Wei Lai,F&B,1,1,United Square
+Happy Bites by Swee Heng,F&B,1,1,Sengkang Grand Mall
+Happy Cup,F&B,1,1,Funan
+Happy Lili Cafe,F&B,1,1,Wisma Atria
+Harry’s,F&B,1,1,CQ @ Clarke Quay
+Haruyama Udon®,F&B,1,1,Tampines 1
+Hatsumi Donburi & Soba,F&B,1,1,Northpoint City
+Hazuki Kaiseki,F&B,1,1,Ngee Ann City
+Heavenly Wang,F&B,1,1,Swing By @ Thomson Plaza
+Hei Sushi,F&B,1,1,IMM Building
+Helen's,F&B,1,1,CQ @ Clarke Quay
+Herbal Tea,F&B,1,1,AMK Hub
+Here Kitty Kitty,F&B,1,1,CQ @ Clarke Quay
+Heritage Tanglin Puff,F&B,1,1,Aperia Mall
+Hey! Yakiniku,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Hitoyoshi Izakaya,F&B,1,1,Jewel Changi Airport
+Hockhua Herbal Tea,F&B,1,1,Northpoint City
+Hoe Nam Vintage,F&B,1,1,Tiong Bahru Plaza
+Hokkaido Baked Cheese Tarts,F&B,1,1,Jurong Point
+Hokkaido-Ya,F&B,1,1,Swing By @ Thomson Plaza
+Holla Juice & Acai,F&B,1,1,City Square Mall
+Home,F&B,1,1,CQ @ Clarke Quay
+Homm Dessert at Heart,F&B,1,1,Raffles City Shopping Centre
+Hong Kong Egglet & Nam Kee JB Handmade Pau,F&B,1,1,IMM Building
+Hong Kong Egglet / Nam Kee Pau,F&B,1,1,Tampines 1
+Hong Kong Zhai Dim Sum,F&B,1,1,Marina Square
+Hoshino Coffee Japanese Café & Restaurant,F&B,1,1,Jewel Changi Airport
+Hummus House by Pita & Olives,F&B,1,1,City Square Mall
+Hundred Acre Creamery,F&B,1,1,Westgate
+Hvala,F&B,1,1,Ngee Ann City
+Hyang-To-Gol,F&B,1,1,Raffles City Shopping Centre
+IJOOZ,F&B,1,1,Square 2
+IKEA Swedish Restaurant and Bistro,F&B,1,1,Jem
+IKKOTEN,F&B,1,1,Far East Square
+IM JAI BY PUN IM,F&B,1,1,Icon Village
+IM-EM Thai Kitchen,F&B,1,1,Aperia Mall
+IMPERIAL TREASURE BAR + GRILL,F&B,1,1,Great World
+IMPERIAL TREASURE CANTONESE CUISINE,F&B,1,1,Great World
+IMPERIAL TREASURE FINE TEOCHEW CUISINE,F&B,1,1,ION Orchard
+IMPERIAL TREASURE HUAIYANG CUISINE,F&B,1,1,ION Orchard
+INDOSOUP PADANG,F&B,1,1,Square 2
+IO ITALIAN OSTERIA,F&B,1,1,HillV2
+IRVINS,F&B,1,1,Bugis Junction (Part of Bugis Town)
+ITACHO SUSHI,F&B,1,1,Square 2
+Ichigo by Tea Cottage,F&B,1,1,Suntec City
+Ichikokudo Hokkaido Ramen,F&B,1,1,313@somerset
+Ichikokudo Ramen,F&B,1,1,Suntec City
+Idaten Udon (&JOY Japanese Food Street),F&B,1,1,Jurong Point
+Ipoh Town 怡保城茶室,F&B,1,1,Jewel Changi Airport
+JAAN BY KIRK WESTAWAY,F&B,1,1,Raffles City Shopping Centre
+JIAK,F&B,1,1,HillV2
+JIANG HU MAO CAI,F&B,1,1,Junction 10
+JINJJA!! CHICKEN DINER,F&B,1,1,Bugis+ (Part of Bugis Town)
+JO-YI BAKERY,F&B,1,1,HillV2
+JOMO,F&B,1,1,Wisma Atria
+JOY LUCK TEAHOUSE,F&B,1,1,Bugis Junction (Part of Bugis Town)
+JUEWEI BRAISED SNACKS,F&B,1,1,Lot One Shoppers' Mall
+JYU LAE,F&B,1,1,Suntec City
+Jack's Place Steak House & Restaurant,F&B,1,1,Jem
+Janice Wong Singapore,F&B,1,1,Paragon
+Ji De Chi,F&B,1,1,Jurong Point
+Ji Xiang Everton,F&B,1,1,Bedok Mall
+Ji Xiang Kueh,F&B,1,1,The Centrepoint
+Jia He Xing,F&B,1,1,Marina Square
+Jianghu Hotpot,F&B,1,1,Northpoint City
+Jie Traditional Bakery,F&B,1,1,City Square Mall
+Jimmy Monkey,F&B,1,1,PLQ Mall
+Jinjja Kitchen,F&B,1,1,Jurong Point
+Jo's Cha,F&B,1,1,Jurong Point
+Joe & Dough,F&B,1,1,Northpoint City
+Jules Epicurean French Cuisine,F&B,1,1,CQ @ Clarke Quay
+K. COOK KOREAN BBQ BUFFET,F&B,1,1,Orchard Central
+KAFEY HAUS,F&B,1,1,Icon Village
+KAFFE & TOAST TO-GO,F&B,1,1,Great World
+KANE MOCHI,F&B,1,1,Jewel Changi Airport
+KANEMOCHI,F&B,1,1,Bugis+ (Part of Bugis Town)
+KEBABCHI BIRYANI,F&B,1,1,Bedok Mall
+KEDAIKUEKUE,F&B,1,1,Great World
+KEITAKU,F&B,1,1,Marina Square
+KEONBAE,F&B,1,1,Far East Square
+KEUM EUN DON,F&B,1,1,Orchard Central
+KIMCHI DINING,F&B,1,1,Orchard Central
+KIMCHI MAMA,F&B,1,1,Bugis+ (Part of Bugis Town)
+KISEKI JAPANESE BUFFET RESTAURANT,F&B,1,1,Orchard Central
+KOI The Express,F&B,1,1,Ngee Ann City
+KOU TEPPAN,F&B,1,1,Great World
+KUMACHAN ONSEN,F&B,1,1,Orchard Central
+KURA OYSTER & HIGHBALL BAR,F&B,1,1,Far East Square
+KURIYA DINING,F&B,1,1,Great World
+KYO WATAMI,F&B,1,1,ION Orchard
+Kaeden Cafe,F&B,1,1,Aperia Mall
+Kai Duck,F&B,1,1,Ngee Ann City
+Kai Garden,F&B,1,1,Marina Square
+Kai Oh Don海王,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Kam's Roast,F&B,1,1,Jewel Changi Airport
+Kang Ji Sugar Coated Fruits,F&B,1,1,313@somerset
+Kantin,F&B,1,1,Jewel Changi Airport
+Karii,F&B,1,1,Suntec City
+Katsu-an,F&B,1,1,Suntec City
+Kebabchi Charcoal BBQ,F&B,1,1,Suntec City
+Killiney Café,F&B,1,1,Suntec City
+Killiney Coffee Cafe,F&B,1,1,Tampines 1
+Killiney Since 1919,F&B,1,1,Plaza Singapura
+Koi Cafe Express,F&B,1,1,City Square Mall
+Koji Sushi Bar,F&B,1,1,Raffles City Shopping Centre
+Kok Sen Restaurant,F&B,1,1,City Square Mall
+Komala's,F&B,1,1,Northpoint City
+Kopi & Spells,F&B,1,1,CQ @ Clarke Quay
+KopiTime,F&B,1,1,PLQ Mall
+Kopitiam Food Hall,F&B,1,1,Jem
+Kott-Don 360,F&B,1,1,PLQ Mall
+Koufu,F&B,1,1,Swing By @ Thomson Plaza
+Krush,F&B,1,1,Marina Square
+Kuan Zhai Alley 宽窄巷子,F&B,1,1,Tampines Mall
+Kuan Zhai 宽窄碗碗香,F&B,1,1,Funan
+Kuroki,F&B,1,1,Paragon
+Kushiya,F&B,1,1,Westgate
+Kyoto Onimaru,F&B,1,1,Hougang Mall
+L'ATELIER TIRAMISU,F&B,1,1,Clarke Quay Central
+LAO BEIJING,F&B,1,1,Square 2
+LAU WANG CLAYPOT,F&B,1,1,Bugis+ (Part of Bugis Town)
+LAU WANG CLAYPOT LEGACY,F&B,1,1,One Holland Village
+LE Congee & Noodle House,F&B,1,1,Westgate
+LE PETIT KATONG,F&B,1,1,Katong V
+LETAO / TOKYO MILK CHEESE FACTORY,F&B,1,1,ION Orchard
+LINKUS HOKKIEN FLAVOR 临家,F&B,1,1,Suntec City
+LO HEY HK SEAFOOD,F&B,1,1,One Holland Village
+LUCIA The Brownie Bar,F&B,1,1,Raffles City Shopping Centre
+Laaziiz,F&B,1,1,Causeway Point
+Lady M,F&B,1,1,Jewel Changi Airport
+Lady M Pop-up,F&B,1,1,Velocity@Novena Square
+Lai Lai Taiwan Casual Dining,F&B,1,1,City Square Mall
+Lam Heung Ling,F&B,1,1,Marina Square
+Lao Huo Tang Signature,F&B,1,1,Tampines Mall
+Lao Jiang Superior Soup,F&B,1,1,IMM Building
+Lawry's The Prime Rib,F&B,1,1,Mandarin Gallery
+LeMa Dumpling,F&B,1,1,Jewel Changi Airport
+LeTAO le chocolat,F&B,1,1,Wisma Atria
+Lee Wee & Brothers' Foodstuff,F&B,1,1,Raffles City Shopping Centre
+LiHO Tea / Gong Yuan Ma La Tang,F&B,1,1,AMK Hub
+Little Ribbons Pasta Co.,F&B,1,1,Funan
+Little Saigon,F&B,1,1,CQ @ Clarke Quay
+Liv.Eat,F&B,1,1,Marina Square
+Lola's,F&B,1,1,Tampines Mall
+London Fat Duck,F&B,1,1,PLQ Mall
+Lotteria,F&B,1,1,Jewel Changi Airport
+"Love, Joy & Coffee",F&B,1,1,Velocity@Novena Square
+Luli Tea & Coffee,F&B,1,1,Marina Square
+M'Burger Inn,F&B,1,1,Plaza Singapura
+MA-LAB,F&B,1,1,Icon Village
+MACCHA HOUSE,F&B,1,1,Orchard Central
+MADLYGOOD JAPANESE CAFE,F&B,1,1,Clarke Quay Central
+MAKAN MAKAN By D'PENYETZ GROUP,F&B,1,1,Marina Square
+MAN MAN JAPANESE UNAGI RESTAURANT,F&B,1,1,Clarke Quay Central
+MARU MOCHI,F&B,1,1,Bugis Junction (Part of Bugis Town)
+MAVRX COFFEE,F&B,1,1,Great World
+MENSHO TOKYO SG,F&B,1,1,Raffles City Shopping Centre
+MICUN Bibimbap,F&B,1,1,Bugis+ (Part of Bugis Town)
+MIKI MIZU,F&B,1,1,Wisma Atria
+MIRAKU,F&B,1,1,Icon Village
+MISS G'S GRILL & BAR,F&B,1,1,Far East Square
+MITSUBA JAPANESE RESTAURANT,F&B,1,1,Clarke Quay Central
+MM 满巍明生炸鸡架,F&B,1,1,Bugis Junction (Part of Bugis Town)
+MODU Korean Restaurant,F&B,1,1,Mandarin Gallery
+MOLLY TEA,F&B,1,1,Orchard Central
+MOON JUICE KOMBUCHA,F&B,1,1,Great World
+MOS JAPANESE FINE FOODS,F&B,1,1,ION Orchard
+MR BEAN / DO QOO,F&B,1,1,Hougang 1
+MR YOUTIAO,F&B,1,1,Square 2
+MUN ZUK,F&B,1,1,Westgate
+MUNCHI PANCAKES / ALC RICEBOWLS,F&B,1,1,Causeway Point
+Made's A Café,F&B,1,1,Marina Square
+Mai Ge Wen,F&B,1,1,Suntec City
+Makan Street 福满街,F&B,1,1,IMM Building
+Mala Boss,F&B,1,1,Velocity@Novena Square
+Malayan Settlement,F&B,1,1,CQ @ Clarke Quay
+Malts,F&B,1,1,Marina Square
+Mama Klang,F&B,1,1,IMM Building
+Manna,F&B,1,1,Plaza Singapura
+Martina's Kitchen,F&B,1,1,Aperia Mall
+Marutama Ra-men,F&B,1,1,Bugis+ (Part of Bugis Town)
+Matchaya,F&B,1,1,Suntec City
+McDonald's and McCafe,F&B,1,1,Jurong Point
+Meat Co.,F&B,1,1,Paragon
+Mei Kee Bakery,F&B,1,1,Tampines 1
+Men Men Don Don,F&B,1,1,White Sands
+Meow Barbecue,F&B,1,1,Bugis+ (Part of Bugis Town)
+Milkfish,F&B,1,1,Raffles City Shopping Centre
+Mingle,F&B,1,1,Funan
+Mini Bae,F&B,1,1,AMK Hub
+Mini One,F&B,1,1,Westgate
+Miss Tang's Rice Noodle 唐大小姐小锅米线,F&B,1,1,Funan
+Miss Tea,F&B,1,1,Lot One Shoppers' Mall
+Mister Wheel,F&B,1,1,Suntec City
+Mizuki Sushi & Tempura,F&B,1,1,Ngee Ann City
+Mmmm!,F&B,1,1,Velocity@Novena Square
+MoVida Singapore,F&B,1,1,Raffles City Shopping Centre
+Monarchs & Milkweed,F&B,1,1,Jewel Changi Airport
+Monster Fish,F&B,1,1,CQ @ Clarke Quay
+Moon Moon Food,F&B,1,1,Ngee Ann City
+MoreYogurt,F&B,1,1,Suntec City
+Morganfield's,F&B,1,1,Suntec City
+Mr You Tiao,F&B,1,1,Century Square
+Mr. Bucket Chocolaterie,F&B,1,1,Ngee Ann City
+Muhan Sikdang,F&B,1,1,Jurong Point
+Mun Zuk by Li Fang Congee,F&B,1,1,Velocity@Novena Square
+Muyoo+,F&B,1,1,Jurong Point
+My Kampung,F&B,1,1,Westgate
+NANTSUTTEI,F&B,1,1,Orchard Central
+NAPOLIZZ PIZZA,F&B,1,1,Greenwich V
+NEXT SHIKAKU,F&B,1,1,Westgate
+NG AH SIO BAK KUT TEH,F&B,1,1,Clarke Quay Central
+NICK VINA ARTISAN BAKERY,F&B,1,1,Icon Village
+NIKUTOSAKE,F&B,1,1,PLQ Mall
+NOCI,F&B,1,1,Suntec City
+NOMVNOM BISTRO,F&B,1,1,Clarke Quay Central
+NOTHING BUT CHEESEBURGER (NBCB),F&B,1,1,Orchard Central
+NY Char Grill,F&B,1,1,Jewel Changi Airport
+Nai Nai Flavour,F&B,1,1,Aperia Mall
+Naixue,F&B,1,1,Jewel Changi Airport
+Nakhon Kitchen,F&B,1,1,Northpoint City
+Nam Kee,F&B,1,1,Plaza Singapura
+Nam Kee JB Handmade Pau,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Nam Kee Pau & Hong Kong Egglet,F&B,1,1,Swing By @ Thomson Plaza
+Nana Original Thai Food,F&B,1,1,Aperia Mall
+Nana Thai Royale,F&B,1,1,CQ @ Clarke Quay
+Nana's Green Tea,F&B,1,1,Plaza Singapura
+Nanjing Impressions,F&B,1,1,Plaza Singapura
+Nanyang Bliss,F&B,1,1,White Sands
+Nasty Cookie and Nasty Bakehouse,F&B,1,1,Marina Square
+Nelly's Retro Snacks,F&B,1,1,Causeway Point
+Nene Neko,F&B,1,1,PLQ Mall
+Nesuto,F&B,1,1,Jewel Changi Airport
+New Manlee Bak Kut Teh,F&B,1,1,Bugis+ (Part of Bugis Town)
+Niku Niku Oh!! Kome,F&B,1,1,Westgate
+Ningji,F&B,1,1,Suntec City
+Nomad Ventures,F&B,1,1,Causeway Point
+Nong Geng Ji,F&B,1,1,Jewel Changi Airport
+Nong Geng Ji Hunan Cuisine,F&B,1,1,Velocity@Novena Square
+Noodle Star K,F&B,1,1,Funan
+Noodle Villa,F&B,1,1,313@somerset
+Nunsaram Korean Dessert Café,F&B,1,1,Velocity@Novena Square
+Nya Nya,F&B,1,1,Wisma Atria
+O'Coffee Club,F&B,1,1,Raffles City Shopping Centre
+O'Coffee Club Indulgence,F&B,1,1,Paragon
+O'ma Spoon,F&B,1,1,313@somerset
+OCHE,F&B,1,1,Riverside Point
+OFFBEAT BY COQ & BALLS,F&B,1,1,Far East Square
+OISHII BAKERY,F&B,1,1,West Coast Plaza
+OKINAWAN DINER NIRAI-KANAI,F&B,1,1,Great World
+OLLELLA,F&B,1,1,Far East Square
+ONCE UPON A THYME,F&B,1,1,Square 2
+ONI KIMBAP / OBBA JJAJANG EXPRESS,F&B,1,1,Clarke Quay Central
+ONORI,F&B,1,1,Far East Square
+OPPA Bibimbap,F&B,1,1,Tampines 1
+OSG Bar + Kitchen,F&B,1,1,Suntec City
+OSTERIA MOZZA,F&B,1,1,ION Orchard
+Octapas by El Mesa,F&B,1,1,CQ @ Clarke Quay
+Old Street Bak Kut Teh,F&B,1,1,PLQ Mall
+Olive Vine,F&B,1,1,Marina Square
+Olivia & Co.,F&B,1,1,Suntec City
+One Fermented Rice,F&B,1,1,313@somerset
+Onggii,F&B,1,1,Suntec City
+Oriental Food 东方美食,F&B,1,1,Westgate
+Oriental Herbal Tea,F&B,1,1,Jurong Point
+PAGI SORE INDONESIAN RESTAURANT,F&B,1,1,Far East Square
+PARK BÄCKEREI,F&B,1,1,Icon Village
+PASTA EXPRESS +,F&B,1,1,IMM Building
+PAUL Bakery & Restaurant,F&B,1,1,Jewel Changi Airport
+PEPPER GRILL,F&B,1,1,IMM Building
+PHO VIETZ,F&B,1,1,Bugis Junction (Part of Bugis Town)
+PICNIC @ GREENWICH V,F&B,1,1,Greenwich V
+PINWEI MALA 品味麻辣,F&B,1,1,Aperia Mall
+PIZZA KITA,F&B,1,1,Clarke Quay Central
+PLAIN VANILLA,F&B,1,1,ION Orchard
+PM+ by Pizza Maru / Chego by Seoul Yummy,F&B,1,1,Plaza Singapura
+POULET + BRASSERIE,F&B,1,1,ION Orchard
+PPP Coffee,F&B,1,1,Funan
+PUTIEN MAMA,F&B,1,1,Tiong Bahru Plaza
+PUTIEN Restaurant,F&B,1,1,Raffles City Shopping Centre
+PUZZLE COFFEE,F&B,1,1,ION Orchard
+Paad Paad Tha!,F&B,1,1,IMM Building
+Paik's Bibim,F&B,1,1,VivoCity
+Paper Rice Vietnamese Kitchen,F&B,1,1,Plaza Singapura
+Paradise Teochew Restaurant,F&B,1,1,Ngee Ann City
+Paris Baguette x teatra,F&B,1,1,Raffles City Shopping Centre
+Patisserie Woo,F&B,1,1,Paragon
+Peach Garden,F&B,1,1,Swing By @ Thomson Plaza
+Penang Place,F&B,1,1,Suntec City
+Pita Tree Kebabs,F&B,1,1,CQ @ Clarke Quay
+Pizza Maru,F&B,1,1,Bugis+ (Part of Bugis Town)
+Pizza Nation,F&B,1,1,Northpoint City
+Pohang Seafood & Butchery,F&B,1,1,Aperia Mall
+Pondok Jawa,F&B,1,1,PLQ Mall
+Pontian Mee,F&B,1,1,IMM Building
+Pop Play Planet Cafe,F&B,1,1,Jewel Changi Airport
+Pop Thai,F&B,1,1,Funan
+Poulet Bijou,F&B,1,1,Jewel Changi Airport
+Prata Raya,F&B,1,1,AMK Hub
+Pratunam Plus,F&B,1,1,Bugis+ (Part of Bugis Town)
+Pratunam by Soi Thai Soi Nice,F&B,1,1,Jem
+Prego,F&B,1,1,Raffles City Shopping Centre
+PrimaDeli,F&B,1,1,Bedok Mall
+Project Acai,F&B,1,1,VivoCity
+Project AcaÃ­,F&B,1,1,Ngee Ann City
+QQ Rice,F&B,1,1,Jurong Point
+Qi Le Boneless Chicken Rice,F&B,1,1,AMK Hub
+R&B Tea,F&B,1,1,United Square
+R-slice by Roberta's,F&B,1,1,Paragon
+REAL FOOD,F&B,1,1,Orchard Central
+REE.CONNECT BY REE AND MUMMY,F&B,1,1,Katong V
+RENDEZVOUS RESTAURANT HOCK LOCK KEE,F&B,1,1,Clarke Quay Central
+ROLLGAADI,F&B,1,1,Great World
+ROTIKEK,F&B,1,1,Junction 10
+ROYCE,F&B,1,1,Tampines Mall
+RUXU入续,F&B,1,1,Funan
+RYAN'S GROCERY,F&B,1,1,Great World
+RYAN'S KITCHEN,F&B,1,1,Great World
+Raffles Coffee and Toast (瑞福),F&B,1,1,Funan
+Ramen Champion,F&B,1,1,Bugis+ (Part of Bugis Town)
+Ramen Kiou (&JOY Japanese Food Street),F&B,1,1,Jurong Point
+Red Ginger Coffeehouse,F&B,1,1,Waterway Point
+Red House Seafood Nanyang,F&B,1,1,CQ @ Clarke Quay
+RedTail Bar By Zouk,F&B,1,1,CQ @ Clarke Quay
+Retroholics by Tin Box,F&B,1,1,Funan
+Rich & Good Cake Shop,F&B,1,1,City Square Mall
+Rico Rico,F&B,1,1,CQ @ Clarke Quay
+Ritz Apple Strudel & Pastry,F&B,1,1,AMK Hub
+Riverside Canton Claypot Cuisine,F&B,1,1,Northpoint City
+Riverside Indonesian BBQ,F&B,1,1,313@somerset
+Rolling Rice @ The Dining Edition,F&B,1,1,Marina Square
+Rong Wantan Noodle,F&B,1,1,United Square
+Royal Host,F&B,1,1,Jewel Changi Airport
+Rumah Sayang,F&B,1,1,Jem
+RÖSTII,F&B,1,1,Far East Square
+SAIGON LEGEND,F&B,1,1,West Coast Plaza
+SBCD Korean Rice House,F&B,1,1,Suntec City
+SCRAMBLED EGG RICE KEISUKE,F&B,1,1,Bugis+ (Part of Bugis Town)
+SEORAE Korean Charcoal BBQ,F&B,1,1,Northpoint City
+SF,F&B,1,1,AMK Hub
+SF Farm Mart,F&B,1,1,Suntec City
+SF Juice,F&B,1,1,VivoCity
+SHA XIAN DELICACIES,F&B,1,1,West Coast Plaza
+SHE SELLS SEASHELLS,F&B,1,1,HillV2
+SIDES,F&B,1,1,Bugis+ (Part of Bugis Town)
+SINFOODIE FOOD COURT,F&B,1,1,Clarke Quay Central
+SIX HANDS,F&B,1,1,Far East Square
+SKAI,F&B,1,1,Raffles City Shopping Centre
+SKAI Bar,F&B,1,1,Raffles City Shopping Centre
+SNACKFIRST,F&B,1,1,One Holland Village
+SOFRA Turkish Cafe & Restaurant,F&B,1,1,Marina Square
+SONA'S GRILL,F&B,1,1,Icon Village
+SOTBOX,F&B,1,1,Suntec City
+SOTPOT,F&B,1,1,Suntec City
+SOURBOMBE BAKERY,F&B,1,1,One Holland Village
+SOUTH BANK,F&B,1,1,One Holland Village
+SPICY NOODLE 銷魂麵舖,F&B,1,1,Raffles City Shopping Centre
+SPRINGLEAF PRATA PLACE,F&B,1,1,Junction 10
+SQUE ROTISSERIE & ALEHOUSE,F&B,1,1,Clarke Quay Central
+SUKIYA. Gyudon. Curry,F&B,1,1,Jewel Changi Airport
+SUNNY KOREAN CUISINE,F&B,1,1,West Coast Plaza
+SUPER FRIED RICE,F&B,1,1,Square 2
+SUPER KITCHEN CHILLI PAN MEE,F&B,1,1,Far East Square
+SURREY HILLS GROCER ONE HOLLAND VILLAGE,F&B,1,1,One Holland Village
+SUSHI KENSHIN,F&B,1,1,Clarke Quay Central
+SYNTHESIS,F&B,1,1,Suntec City
+Sagye Lite,F&B,1,1,Westgate
+Saizeriya Ristorante E Caffe,F&B,1,1,City Square Mall
+Sake +,F&B,1,1,313@somerset
+Sakon Thai,F&B,1,1,Northpoint City
+Sakon Thai Village,F&B,1,1,Tiong Bahru Plaza
+Sakunthala's Restaurant,F&B,1,1,Northpoint City
+Salmon Warrior,F&B,1,1,Suntec City
+Salvo by Pasta Fresca,F&B,1,1,PLQ Mall
+Sampanman,F&B,1,1,Jurong Point
+Sampanman Kelong Changi,F&B,1,1,Jewel Changi Airport
+Sanchos taqueria (Halal-Certified),F&B,1,1,Paragon
+Sanpoutei Ramen,F&B,1,1,Paragon
+Saute Saranghae,F&B,1,1,Tampines 1
+Saute-san,F&B,1,1,City Square Mall
+Saybons French Food Factory,F&B,1,1,Junction 8
+Seafood Paradise,F&B,1,1,CQ @ Clarke Quay
+Secret Recipe,F&B,1,1,Plaza Singapura
+Sen Sen Sushi by DON DON DONKI,F&B,1,1,Jem
+Seorae Jib / Pocha! Korean Street Dining,F&B,1,1,Tampines Mall
+Seoul Bunsik,F&B,1,1,Funan
+Seoul Noodle,F&B,1,1,Junction 8
+Serangoon BBQ & Curry since 1983,F&B,1,1,Junction 8
+Seremban Kee Mei Siew Pow,F&B,1,1,AMK Hub
+Shahi Maharani North Indian Restaurant,F&B,1,1,Raffles City Shopping Centre
+Sharetea Premium,F&B,1,1,Northpoint City
+Shi Li Fang Hot Pot,F&B,1,1,Tiong Bahru Plaza
+Shi Li Fang Hot Pot & One Pot,F&B,1,1,White Sands
+Shimbashi Soba,F&B,1,1,Paragon
+Shinfuni 幸芙妮,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Shiok Cup,F&B,1,1,Jurong Point
+Shu Liu Xiang,F&B,1,1,Northpoint City
+Sichuan Chef,F&B,1,1,Northpoint City
+Signature KOI & KOI Thé,F&B,1,1,Suntec City
+Simply Retro by Tin Box,F&B,1,1,Suntec City
+Simply Wrapps,F&B,1,1,Raffles City Shopping Centre
+Singapura Nanyang Coffee,F&B,1,1,Marina Square
+Sinpopo,F&B,1,1,Tampines 1
+Sinpopo Brand,F&B,1,1,Funan
+Six Hands Daily,F&B,1,1,Paragon
+Skythai Fastfood,F&B,1,1,Jurong Point
+Sláinte,F&B,1,1,Paragon
+Song Fa Signatures,F&B,1,1,Paragon
+Song Gye Ok,F&B,1,1,The Centrepoint
+Soup Cup,F&B,1,1,Suntec City
+Souper Baby by Soul Souper,F&B,1,1,United Square
+Spicy Chef,F&B,1,1,White Sands
+Starbucks Reserve,F&B,1,1,PLQ Mall
+Steak 99 Plus,F&B,1,1,Tampines Mall
+Steam By Local Coffee People,F&B,1,1,Aperia Mall
+Store Testing,F&B,1,1,VivoCity
+Streats Cafe,F&B,1,1,City Square Mall
+Stuff'd More,F&B,1,1,AMK Hub
+Subway Niche,F&B,1,1,Wisma Atria
+Sufood,F&B,1,1,Raffles City Shopping Centre
+SugarBelly,F&B,1,1,Jewel Changi Airport
+Suju Japanese Restaurant,F&B,1,1,Mandarin Gallery
+Summer Acai,F&B,1,1,Jurong Point
+Sunnyhills,F&B,1,1,Ngee Ann City
+Suparakki Ramen,F&B,1,1,Northpoint City
+Super Dario Lasagne Cafe,F&B,1,1,City Square Mall
+Super Sushi / Butter Studio,F&B,1,1,Causeway Point
+Sushi Ayumu by Masa Ishibashi,F&B,1,1,Mandarin Gallery
+Sushidan,F&B,1,1,Raffles City Shopping Centre
+Swee Choon,F&B,1,1,Century Square
+Swee Choon Express,F&B,1,1,AMK Hub
+Swee Heng Classic 1989,F&B,1,1,Jurong Point
+Swish Rolls,F&B,1,1,Paragon
+TAIER Sichuan Cusine,F&B,1,1,PLQ Mall
+TAJIMAYA YAKINIKU,F&B,1,1,Great World
+TANAMERA COFFEE,F&B,1,1,Marina Square
+TANDOORI CULTURE,F&B,1,1,HillV2
+TANUKI RAW,F&B,1,1,Orchard Central
+TASTE PARADISE,F&B,1,1,ION Orchard
+TEALER,F&B,1,1,Lucky Chinatown
+TEMPURA TENDON TENYA,F&B,1,1,ION Orchard
+TENDON KOHAKU,F&B,1,1,Clarke Quay Central
+TENYA,F&B,1,1,Orchard Central
+THACHANG SG,F&B,1,1,Bugis Junction (Part of Bugis Town)
+THAI BOWL BY THAI SALAD BOWL,F&B,1,1,Icon Village
+THAT SKEWER BAR,F&B,1,1,Great World
+THE ACAI TEAHOUSE,F&B,1,1,Clarke Quay Central
+THE BERRY SPOT,F&B,1,1,Great World
+THE CANOPY CAFE,F&B,1,1,Katong V
+THE CRAIC HOUSE,F&B,1,1,Riverside Point
+THE MARMALADE PANTRY,F&B,1,1,ION Orchard
+THE PUBLIC IZAKAYA 2,F&B,1,1,Icon Village
+THE SHELF SIDE,F&B,1,1,Icon Village
+THE STRAITS WINE COMPANY,F&B,1,1,Icon Village
+THE WIRED MONKEY SG,F&B,1,1,Far East Square
+TIPO STRADA,F&B,1,1,Great World
+TOKYO SOBA,F&B,1,1,Icon Village
+TON COFFEE,F&B,1,1,Square 2
+TONSHOU,F&B,1,1,Suntec City
+TORI SANWA,F&B,1,1,Great World
+TORIO JAPANESE RESTAURANT,F&B,1,1,Pacific Plaza
+TRICOW HOTPOT & BBQ BUFFET,F&B,1,1,West Coast Plaza
+TSUI WAH RESTAURANT,F&B,1,1,Clarke Quay Central
+TTEOK Sang,F&B,1,1,Aperia Mall
+TUNG LOK PEKING DUCK,F&B,1,1,Orchard Central
+TUNG LOK SEAFOOD RESTAURANT,F&B,1,1,Orchard Central
+TUNG LOK SIGNATURES,F&B,1,1,Clarke Quay Central
+TUNG LOK TEAHOUSE,F&B,1,1,Square 2
+TWG Tea Salon & Boutique,F&B,1,1,Raffles City Shopping Centre
+TWO MEN BAGEL HOUSE,F&B,1,1,Icon Village
+Tag Espresso,F&B,1,1,Ngee Ann City
+Tajimaya Yakiniku / Suki-Ya KIN / MASH,F&B,1,1,VivoCity
+Taliwang Restaurant,F&B,1,1,Marina Square
+TamJai SamGor Mixian,F&B,1,1,Junction 8
+Tamoya Udon,F&B,1,1,Plaza Singapura
+Tamoya Udon and Tempura,F&B,1,1,Suntec City
+Tampopo,F&B,1,1,Ngee Ann City
+Tampopo Grand Sushi & Shabu Shabu,F&B,1,1,Ngee Ann City
+Tang Tang Malatang,F&B,1,1,Jurong Point
+Tang Tea House,F&B,1,1,Marina Square
+Tangled Fresh Pasta To Go,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Tanglin Cookhouse,F&B,1,1,PLQ Mall
+Taste Ipoh,F&B,1,1,Raffles City Shopping Centre
+Tenkaichi Japanese BBQ,F&B,1,1,Marina Square
+Teppan-yaki x Alley Wei,F&B,1,1,Tampines Mall
+Test 1206,F&B,1,1,VivoCity
+Testing 3,F&B,1,1,VivoCity
+Testing 7,F&B,1,1,VivoCity
+Thai Baang,F&B,1,1,AMK Hub
+Thai Market By Thai Supermarket,F&B,1,1,Jurong Point
+ThaiExpress,F&B,1,1,Raffles City Shopping Centre
+The Cake Shop,F&B,1,1,City Square Mall
+The Coach Restaurant,F&B,1,1,Jewel Changi Airport
+The Coffee Scene,F&B,1,1,CQ @ Clarke Quay
+The Cookie Museum,F&B,1,1,Raffles City Shopping Centre
+The Cookie Museum at The Gallery,F&B,1,1,Suntec City
+The Dark Gallery,F&B,1,1,Ngee Ann City
+The Eight,F&B,1,1,Raffles City Shopping Centre
+The Food Market by Food Junction,F&B,1,1,Century Square
+The Food Place by Food Republic,F&B,1,1,Raffles City Shopping Centre
+The Hainan Story,F&B,1,1,Jewel Changi Airport
+The Hainan Story Chapter Three,F&B,1,1,Jurong Point
+The JellyHearts,F&B,1,1,Plaza Singapura
+The Kind Bowl,F&B,1,1,Northpoint City
+The MeatHouse by 18 Chefs,F&B,1,1,Century Square
+The Oyster Bank,F&B,1,1,Funan
+The Pack Protein & Salad bar,F&B,1,1,Aperia Mall
+The Riverhouse,F&B,1,1,CQ @ Clarke Quay
+The Soup Expert,F&B,1,1,Suntec City
+The Stamford Brasserie,F&B,1,1,Raffles City Shopping Centre
+The Summer Acai,F&B,1,1,Jem
+The Sushi Bar,F&B,1,1,Plaza Singapura
+The Sushi Bar Dining,F&B,1,1,Ngee Ann City
+The Upper House,F&B,1,1,Funan
+The Vermilion House,F&B,1,1,Marina Square
+Tim Hortons Coffee House Est. 1964,F&B,1,1,Suntec City
+Tiong Bahru Hainanese Chicken Rice,F&B,1,1,Ngee Ann City
+Tiong Bahru Jian Bo Shui Kueh,F&B,1,1,Causeway Point
+Tip Top,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Tip Top Curry Puff,F&B,1,1,Century Square
+Tipsy Bird Gastrobar,F&B,1,1,PLQ Mall
+Toast & Roll,F&B,1,1,Bedok Mall
+Tokyo Milk Cheese Factory & Cow Cow Kitchen,F&B,1,1,Jewel Changi Airport
+Tokyo Shokudo Bistro,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Tokyo Yakiniku Heijoen,F&B,1,1,Ngee Ann City
+Tomacado,F&B,1,1,Paragon
+Tomo Tokyo,F&B,1,1,CQ @ Clarke Quay
+Tong Heng,F&B,1,1,Jurong Point
+Tonkatsu Daiki,F&B,1,1,Ngee Ann City
+Tonkichi,F&B,1,1,Ngee Ann City
+Tori Story,F&B,1,1,Lot One Shoppers' Mall
+Tous les Jours,F&B,1,1,Northpoint City
+Towkay Kia,F&B,1,1,Waterway Point
+Treasures - Yi Dian Xin by Imperial Treasure,F&B,1,1,Paragon
+Treasures Yi Dian Xin,F&B,1,1,Jewel Changi Airport
+Trehaus Café,F&B,1,1,Funan
+True Cost,F&B,1,1,Suntec City
+Tsukimi Hamburg(&JOY Japanese Food Street),F&B,1,1,Jurong Point
+Tsuta,F&B,1,1,313@somerset
+Tsuta Japanese Soba Noodles,F&B,1,1,Jewel Changi Airport
+Tsuzumi Dango つづみ団子,F&B,1,1,Plaza Singapura
+Tuk Tuk Cha,F&B,1,1,PLQ Mall
+Tun Xiang,F&B,1,1,Tampines 1
+TungLok Peking Duck,F&B,1,1,Velocity@Novena Square
+TungLok Seafood,F&B,1,1,PLQ Mall
+Turkish Lezzet House,F&B,1,1,Suntec City
+Twenty Loaf Toasties,F&B,1,1,Waterway Point
+Typhoon Cafe,F&B,1,1,Plaza Singapura
+UM YONG BAEK,F&B,1,1,Far East Square
+UNAGA,F&B,1,1,PLQ Mall
+UNAGI VS SALMON,F&B,1,1,Icon Village
+UNATOTO,F&B,1,1,Velocity@Novena Square
+Ultimate Midas Meal,F&B,1,1,Paragon
+Umeya,F&B,1,1,Bugis+ (Part of Bugis Town)
+Una Una,F&B,1,1,Bugis+ (Part of Bugis Town)
+Unazen,F&B,1,1,Ngee Ann City
+Uncle Fong Hotpot Restaurant,F&B,1,1,Suntec City
+VIOLET OON SINGAPORE,F&B,1,1,ION Orchard
+Vanda Botanical Desserts,F&B,1,1,313@somerset
+Veggie House,F&B,1,1,The Centrepoint
+Verve Pizza Bar,F&B,1,1,CQ @ Clarke Quay
+Victoria Bakery,F&B,1,1,United Square
+Victoria Bakery & Cafe,F&B,1,1,Marina Square
+Viet Thai Kitchen,F&B,1,1,United Square
+Vox,F&B,1,1,Suntec City
+WANGXIAOZAN Hunan Cuisine,F&B,1,1,Swing By @ Thomson Plaza
+WAREHOUSE,F&B,1,1,CQ @ Clarke Quay
+WAttention Plaza Japanese Kiosks Gyomu Japan Mart,F&B,1,1,Jurong Point
+WEST CO'Z CAFE,F&B,1,1,West Coast Plaza
+WEWA,F&B,1,1,Square 2
+WINDOWSILL PIES,F&B,1,1,Great World
+WINGS BAR & GRILL,F&B,1,1,Riverside Point
+WO WO DIAN 窝窝店 百年包子,F&B,1,1,Raffles City Shopping Centre
+WOOBBEE,F&B,1,1,One Holland Village
+WUSHILAND,F&B,1,1,One Holland Village
+Wa-En Wagyu Yakiniku,F&B,1,1,Jewel Changi Airport
+Wadori (&JOY Japanese Food Street),F&B,1,1,Jurong Point
+Waffle Up,F&B,1,1,CQ @ Clarke Quay
+Wan Chai Hong Kong Tea Room,F&B,1,1,IMM Building
+Wang Lu Hotpot,F&B,1,1,Causeway Point
+Wanglu Hot Pot,F&B,1,1,Waterway Point
+Warabi-mochi Kamakura,F&B,1,1,Ngee Ann City
+Wee Nam Kee Chicken Rice,F&B,1,1,United Square
+Wen Zhang Lao Mian,F&B,1,1,Waterway Point
+Western Mahua Noodles,F&B,1,1,PLQ Mall
+Wild Honey,F&B,1,1,Mandarin Gallery
+Will this appear,F&B,1,1,VivoCity
+Wok The Fish!,F&B,1,1,Century Square
+Wokker by A-Roy Thai Restaurant,F&B,1,1,313@somerset
+Wonderful Bap Sang,F&B,1,1,Suntec City
+Wonderful Bapsang,F&B,1,1,Swing By @ Thomson Plaza
+Wooloomooloo Steak House,F&B,1,1,Raffles City Shopping Centre
+Wu Fang Zhai,F&B,1,1,Jewel Changi Airport
+Wu Pao Chun,F&B,1,1,Paragon
+XCYD,F&B,1,1,White Sands
+XITA LAO TAITAI,F&B,1,1,Bugis+ (Part of Bugis Town)
+Xi Chuan Chuan 喜串串,F&B,1,1,Northpoint City
+Xiao Jiao Tian Sichuan Cuisine,F&B,1,1,City Square Mall
+Xiao Noodles,F&B,1,1,313@somerset
+XiaoLongKan Hotpot,F&B,1,1,Bugis Junction (Part of Bugis Town)
+Xin Yuan Ji,F&B,1,1,Jurong Point
+YAKINIQUEST,F&B,1,1,Mandarin Gallery
+YANG Club,F&B,1,1,CQ @ Clarke Quay
+YANG'S DUMPLING,F&B,1,1,Bugis Junction (Part of Bugis Town)
+YATSUDOKI,F&B,1,1,One Holland Village
+YAYOI,F&B,1,1,Northpoint City
+YAYOI Japanese Teishoku Restaurant.,F&B,1,1,United Square
+YI FANG TAIWAN FRUIT TEA,F&B,1,1,Clarke Quay Central
+YIN JI 银记肠粉店,F&B,1,1,Far East Square
+YM Bakery,F&B,1,1,PLQ Mall
+YO-CHI,F&B,1,1,Orchard Central
+YOASOBI BY KANPAI,F&B,1,1,Far East Square
+YUN GA TRADITIONAL KOREAN RESTAURANT,F&B,1,1,Katong V
+Yaki Yaki Bo (&JOY Japanese Food Street),F&B,1,1,Jurong Point
+Yakiniku-GO Plus,F&B,1,1,Suntec City
+Yakitori ONE,F&B,1,1,Suntec City
+Yamazaki Boulangerie Chaude,F&B,1,1,Tampines 1
+Yan Ji Gourmet Seafood Soup,F&B,1,1,Funan
+Yan's Dining Fine Shanghai Cuisine,F&B,1,1,Mandarin Gallery
+Yang Guo Fu Malatang,F&B,1,1,City Square Mall
+YangGuoFu Malatang,F&B,1,1,Marina Square
+Yappari Steak,F&B,1,1,Northpoint City
+Yechun Xiao Jiang Nan @ The Dining Edition,F&B,1,1,Marina Square
+Yew Kee Duck Rice,F&B,1,1,Jem
+Yong Fu,F&B,1,1,Suntec City
+Yong Xing Teochew Porridge,F&B,1,1,Suntec City
+Yum Yum Thai,F&B,1,1,PLQ Mall
+Yum Yum Tod Tod,F&B,1,1,Sengkang Grand Mall
+Yummi Bites,F&B,1,1,AMK Hub
+Yummi House,F&B,1,1,Northpoint City
+Yun Nans,F&B,1,1,Jewel Changi Airport
+ZUI YU XUAN TEOCHEW CUISINE,F&B,1,1,Far East Square
+Zheng Nan Qi Bai and Dong Lai Handmade Fresh Buns Shop,F&B,1,1,White Sands
+Zheng Neng Zhu La Mian,F&B,1,1,Aperia Mall
+Zhou's Claypot Rice Noodles,F&B,1,1,Suntec City
+Zing,F&B,1,1,PLQ Mall
+Zuya Vegetarian,F&B,1,1,Tiong Bahru Plaza
+alittle 1㸃㸃,F&B,1,1,Icon Village
+coast & roast (Halal-Certified),F&B,1,1,Paragon
+elemen 元素™,F&B,1,1,PLQ Mall
+iMANGO,F&B,1,1,Bugis+ (Part of Bugis Town)
+llao llao,F&B,1,1,Suntec City
+noci bakehouse,F&B,1,1,Suntec City
+saap saap thai x kaffe & toast,F&B,1,1,Tampines Mall
+sio pasta,F&B,1,1,Raffles City Shopping Centre
+smol,F&B,1,1,PLQ Mall
+snacKING Retro Biscuits Express,F&B,1,1,Northpoint City
+testing 4,F&B,1,1,VivoCity
+xxx123,F&B,1,1,VivoCity
+小燕子番茄火锅 TOMATO HOTPOT,F&B,1,1,Clarke Quay Central
+爭鮮 GOGO,F&B,1,1,AMK Hub
+老2靓汤 FAST SOUP,F&B,1,1,AMK Hub
+谭木匠 Tan Mujiang,F&B,1,1,VivoCity

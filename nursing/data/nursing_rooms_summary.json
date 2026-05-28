@@ -1,0 +1,1498 @@
+[
+  {
+    "mall": "313@somerset",
+    "operator": null,
+    "total_rooms": 3,
+    "open_rooms": 3,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B3",
+      "L1",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B3": 1,
+      "L1": 1,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "babyment",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.babyment.com/nursing-room/nursing-room.php?nursingroom_id=2",
+    "source_last_modified": null
+  },
+  {
+    "mall": "AMK Hub",
+    "operator": "Link REIT",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://sg.linkreit.com/malls/amk-hub/mall-info",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Alexandra Retail Centre (ARC)",
+    "operator": null,
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1",
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L1": 1,
+      "L2": 1
+    },
+    "capacity_published": 2,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/alexandra-retail-centre-arc-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Aperia Mall",
+    "operator": "CapitaLand",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 3,
+    "retail_floors_with_room": 1,
+    "avg_vertical_floors_to_nearest_room": 1.0,
+    "max_vertical_floors_to_nearest_room": 2,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/aperia/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Bedok Mall",
+    "operator": "CapitaLand",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1"
+    ],
+    "rooms_per_floor": {
+      "B1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 4,
+    "retail_floors_with_room": 1,
+    "avg_vertical_floors_to_nearest_room": 1.5,
+    "max_vertical_floors_to_nearest_room": 3,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/bedokmall/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Bugis Junction",
+    "operator": "CapitaLand",
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L2": 1,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/bugisjunction/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Bugis+",
+    "operator": "CapitaLand",
+    "total_rooms": 7,
+    "open_rooms": 7,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "rooms_per_floor": {
+      "L1": 1,
+      "L2": 1,
+      "L3": 1,
+      "L4": 1,
+      "L5": 1,
+      "L6": 1,
+      "L7": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/bugisplus/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Causeway Point",
+    "operator": "Frasers Property",
+    "total_rooms": 10,
+    "open_rooms": 10,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L1": 1,
+      "L2": 2,
+      "L3": 2,
+      "L4": 2,
+      "L5": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 113,
+    "max_walk_m_to_entrance": 173,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-causeway-point",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Century Square",
+    "operator": "Frasers Property",
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2",
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "L2": 1,
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 1,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": 1.0,
+    "max_vertical_floors_to_nearest_room": 1,
+    "avg_walk_m_to_entrance": 81,
+    "max_walk_m_to_entrance": 82,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-century-square",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Chinatown Point",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "babyment",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.babyment.com/nursing-room/nursing-room.php?nursingroom_id=22",
+    "source_last_modified": null
+  },
+  {
+    "mall": "City Square Mall",
+    "operator": "Hong Leong Group",
+    "total_rooms": 4,
+    "open_rooms": 4,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "B1",
+      "L2",
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "B2": 1,
+      "B1": 1,
+      "L2": 1,
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.citysquaremall.com.sg/about-us/the-mall/amenities/",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Compass One",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "L4": 1
+    },
+    "capacity_published": 2,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/compass-one-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Far East Plaza",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/far-east-plaza-nursing-room/",
+    "source_last_modified": "2020-07-08"
+  },
+  {
+    "mall": "Funan",
+    "operator": "CapitaLand",
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "B2": 1,
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 8,
+    "retail_floors_with_room": 2,
+    "avg_vertical_floors_to_nearest_room": 1.38,
+    "max_vertical_floors_to_nearest_room": 3,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/funan/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Great World",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": 1,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/great-world-city-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Hougang Mall",
+    "operator": "Frasers Property",
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2",
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "L2": 1,
+      "L5": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 25,
+    "max_walk_m_to_entrance": 26,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-hougang-mall",
+    "source_last_modified": null
+  },
+  {
+    "mall": "IMM Building",
+    "operator": "CapitaLand",
+    "total_rooms": 3,
+    "open_rooms": 3,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L2": 2,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 3,
+    "retail_floors_with_room": 2,
+    "avg_vertical_floors_to_nearest_room": 0.33,
+    "max_vertical_floors_to_nearest_room": 1,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/imm/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "ION Orchard",
+    "operator": "CapitaLand",
+    "total_rooms": 4,
+    "open_rooms": 4,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B4",
+      "B3",
+      "L3",
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "B4": 1,
+      "B3": 1,
+      "L3": 1,
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 9,
+    "retail_floors_with_room": 4,
+    "avg_vertical_floors_to_nearest_room": 0.78,
+    "max_vertical_floors_to_nearest_room": 2,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.ionorchard.com/en/mall-info/visitor-information.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Jem",
+    "operator": "Lendlease",
+    "total_rooms": 3,
+    "open_rooms": 2,
+    "closed_rooms": 1,
+    "floors_with_a_room": [
+      "B1",
+      "L3",
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L3": 1,
+      "L5": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.jem.sg/concierge-other-services/",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Jewel Changi Airport",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": 2,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/jewel-changi-nursing-room/",
+    "source_last_modified": "2020-06-22"
+  },
+  {
+    "mall": "Junction 10",
+    "operator": null,
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1",
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L1": 1,
+      "L2": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "babyment",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.babyment.com/nursing-room/nursing-room.php?nursingroom_id=56",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Junction 8",
+    "operator": "CapitaLand",
+    "total_rooms": 4,
+    "open_rooms": 3,
+    "closed_rooms": 1,
+    "floors_with_a_room": [
+      "B1",
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L1": 1,
+      "L2": 1,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 6,
+    "retail_floors_with_room": 3,
+    "avg_vertical_floors_to_nearest_room": 0.5,
+    "max_vertical_floors_to_nearest_room": 1,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/junction8/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Jurong Point",
+    "operator": "Link REIT",
+    "total_rooms": 3,
+    "open_rooms": 3,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L3": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://sg.linkreit.com/malls/jurong-point/mall-info",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Lot One Shoppers' Mall",
+    "operator": "CapitaLand",
+    "total_rooms": 2,
+    "open_rooms": 1,
+    "closed_rooms": 1,
+    "floors_with_a_room": [
+      "B1",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 7,
+    "retail_floors_with_room": 1,
+    "avg_vertical_floors_to_nearest_room": 2.14,
+    "max_vertical_floors_to_nearest_room": 5,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/lotone/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Mandarin Gallery",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L2": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/mandarin-gallery-nursing-room/",
+    "source_last_modified": "2020-07-08"
+  },
+  {
+    "mall": "Marina Square",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1"
+    ],
+    "rooms_per_floor": {
+      "B1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 5,
+    "retail_floors_with_room": 1,
+    "avg_vertical_floors_to_nearest_room": 2.8,
+    "max_vertical_floors_to_nearest_room": 5,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/marina-square-nursing-room/",
+    "source_last_modified": "2024-01-25"
+  },
+  {
+    "mall": "NEX",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L2": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/nex-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Ngee Ann City",
+    "operator": null,
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "B1"
+    ],
+    "rooms_per_floor": {
+      "B2": 1,
+      "B1": 1
+    },
+    "capacity_published": 4,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/ngee-ann-city-nursing-room/",
+    "source_last_modified": "2020-07-08"
+  },
+  {
+    "mall": "Northpoint City",
+    "operator": "Frasers Property",
+    "total_rooms": 10,
+    "open_rooms": 10,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "B1",
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B2": 1,
+      "B1": 4,
+      "L1": 1,
+      "L2": 2,
+      "L3": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 70,
+    "max_walk_m_to_entrance": 111,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-northpoint-city",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Orchard Central",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/orchard-central-nursing-room/",
+    "source_last_modified": "2020-07-08"
+  },
+  {
+    "mall": "PLQ Mall",
+    "operator": "Lendlease",
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.payalebarquarter.com/amenities",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Palais Renaissance",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L2": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/palais-renaissance-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Paragon",
+    "operator": null,
+    "total_rooms": 3,
+    "open_rooms": 3,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3",
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "L3": 1,
+      "L5": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/paragon-mall-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Parkway Parade",
+    "operator": null,
+    "total_rooms": 4,
+    "open_rooms": 4,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L1": 1,
+      "L2": 1,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/parkway-parade-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Pasir Ris Mall",
+    "operator": null,
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "B1"
+    ],
+    "rooms_per_floor": {
+      "B2": 1,
+      "B1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "babyment",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.babyment.com/nursing-room/nursing-room.php?nursingroom_id=132",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Plaza Singapura",
+    "operator": "CapitaLand",
+    "total_rooms": 5,
+    "open_rooms": 5,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2",
+      "L3",
+      "L4",
+      "L6"
+    ],
+    "rooms_per_floor": {
+      "L2": 1,
+      "L3": 2,
+      "L4": 1,
+      "L6": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 9,
+    "retail_floors_with_room": 4,
+    "avg_vertical_floors_to_nearest_room": 1.11,
+    "max_vertical_floors_to_nearest_room": 4,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/plazasingapura/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Raffles City Singapore",
+    "operator": "CapitaLand",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/rafflescity/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Sengkang Grand Mall",
+    "operator": "CapitaLand",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": 2,
+    "retail_floors_in_data": 3,
+    "retail_floors_with_room": 1,
+    "avg_vertical_floors_to_nearest_room": 1.0,
+    "max_vertical_floors_to_nearest_room": 2,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/sengkanggrand/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Suntec City",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": 2,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/suntec-city-nursing-room/",
+    "source_last_modified": "2022-04-07"
+  },
+  {
+    "mall": "Tampines 1",
+    "operator": "Frasers Property",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "L5": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 64,
+    "max_walk_m_to_entrance": 64,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-tampines-1",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Tampines Mall",
+    "operator": "CapitaLand",
+    "total_rooms": 1,
+    "open_rooms": 0,
+    "closed_rooms": 1,
+    "floors_with_a_room": [
+      "unknown"
+    ],
+    "rooms_per_floor": {
+      "unknown": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 7,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/tampinesmall/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Tanglin Mall",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/tanglin-mall-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "The Centrepoint",
+    "operator": "Frasers Property",
+    "total_rooms": 6,
+    "open_rooms": 6,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L2",
+      "L5",
+      "L6"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L2": 2,
+      "L5": 1,
+      "L6": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 74,
+    "max_walk_m_to_entrance": 140,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-the-centrepoint",
+    "source_last_modified": null
+  },
+  {
+    "mall": "The Clementi Mall",
+    "operator": null,
+    "total_rooms": 3,
+    "open_rooms": 3,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "L3": 1,
+      "L4": 1,
+      "L5": 1
+    },
+    "capacity_published": 3,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/the-clementi-mall-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "The Seletar Mall",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L2": 1
+    },
+    "capacity_published": 2,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/the-seletar-mall-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "The Shoppes at Marina Bay Sands",
+    "operator": "Las Vegas Sands Corp.",
+    "total_rooms": 6,
+    "open_rooms": 6,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "B1",
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "B2": 2,
+      "B1": 2,
+      "L1": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 3,
+    "retail_floors_with_room": 3,
+    "avg_vertical_floors_to_nearest_room": 0.0,
+    "max_vertical_floors_to_nearest_room": 0,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.marinabaysands.com/shopping/nursing-rooms.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Thomson Plaza",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/thomson-plaza-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Tiong Bahru Plaza",
+    "operator": "Frasers Property",
+    "total_rooms": 4,
+    "open_rooms": 4,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L1": 1,
+      "L2": 1,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 84,
+    "max_walk_m_to_entrance": 107,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-tiong-bahru-plaza",
+    "source_last_modified": null
+  },
+  {
+    "mall": "United Square",
+    "operator": "UOL Group",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.unitedsquare.com.sg/about-us/",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Valley Point",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/valley-point-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Velocity@Novena Square",
+    "operator": "UOL Group",
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "L2": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.velocitynovena.com/about-us/",
+    "source_last_modified": null
+  },
+  {
+    "mall": "VivoCity",
+    "operator": "Mapletree",
+    "total_rooms": 4,
+    "open_rooms": 4,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L2",
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L2": 3,
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.vivocity.com.sg/about-us?services=nursing_room",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Waterway Point",
+    "operator": "Frasers Property",
+    "total_rooms": 8,
+    "open_rooms": 8,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B2",
+      "B1",
+      "L1",
+      "L2"
+    ],
+    "rooms_per_floor": {
+      "B2": 1,
+      "B1": 2,
+      "L1": 3,
+      "L2": 2
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 56,
+    "max_walk_m_to_entrance": 98,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-waterway-point",
+    "source_last_modified": null
+  },
+  {
+    "mall": "West Coast Plaza",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L1"
+    ],
+    "rooms_per_floor": {
+      "L1": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/west-coast-plaza-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  },
+  {
+    "mall": "Westgate",
+    "operator": "CapitaLand",
+    "total_rooms": 2,
+    "open_rooms": 2,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L4"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L4": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 7,
+    "retail_floors_with_room": 2,
+    "avg_vertical_floors_to_nearest_room": 1.0,
+    "max_vertical_floors_to_nearest_room": 2,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "scrape:capitaland+gemini",
+    "source_confidence": "official",
+    "source_url": "https://www.capitaland.com/sg/malls/westgate/en/concierge.html",
+    "source_last_modified": null
+  },
+  {
+    "mall": "White Sands",
+    "operator": "Frasers Property",
+    "total_rooms": 3,
+    "open_rooms": 3,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "B1",
+      "L4",
+      "L5"
+    ],
+    "rooms_per_floor": {
+      "B1": 1,
+      "L4": 1,
+      "L5": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": 35,
+    "max_walk_m_to_entrance": 62,
+    "source": "scrape:mappedin",
+    "source_confidence": "official",
+    "source_url": "https://api-gateway.mappedin.com/public/1/location/frasers-white-sands",
+    "source_last_modified": null
+  },
+  {
+    "mall": "Wisma Atria",
+    "operator": null,
+    "total_rooms": 1,
+    "open_rooms": 1,
+    "closed_rooms": 0,
+    "floors_with_a_room": [
+      "L3"
+    ],
+    "rooms_per_floor": {
+      "L3": 1
+    },
+    "capacity_published": null,
+    "retail_floors_in_data": 0,
+    "retail_floors_with_room": 0,
+    "avg_vertical_floors_to_nearest_room": null,
+    "max_vertical_floors_to_nearest_room": null,
+    "avg_walk_m_to_entrance": null,
+    "max_walk_m_to_entrance": null,
+    "source": "littledayout",
+    "source_confidence": "community-curated",
+    "source_url": "https://www.littledayout.com/wisma-atria-nursing-room/",
+    "source_last_modified": "2020-05-03"
+  }
+]
