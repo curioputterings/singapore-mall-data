@@ -7,7 +7,7 @@ _This file applies to every page on https://curioputterings.github.io/singapore-
 This is an open-data hobby project assembled from **publicly-discoverable sources** at fixed snapshot dates (currently 2026-05-27). It catalogues:
 
 - Singapore shopping centres, their corporate owners, and the shops listed in their public store directories at the snapshot date.
-- Nursing / baby-care rooms inside Singapore malls that were findable through the operators' public web pages, public APIs, public wayfinder vendors (where coordinates are exposed), or community-curated directories.
+- Nursing / baby-care rooms inside Singapore malls that were findable through operators' own public web pages, publicly-available per-floor coordinate data where it existed, or community-curated directories.
 
 ## What the dataset is, and is NOT
 

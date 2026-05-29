@@ -8,12 +8,12 @@ _Derived analytics on top of [`data/nursing_rooms_summary.json`](./data/nursing_
 
 > ## ⚠️ Important — read before interpreting any chart on this page
 >
-> **Every number here describes only what is discoverable through public digital channels** (operator websites, public APIs, community blogs, the Mappedin wayfinder where exposed) at the time of our snapshot. It is **not a measurement of the underlying facilities**.
+> **Every number here describes only what was discoverable through public digital channels** (operator websites and community blogs) at the time of our snapshot. It is **not a measurement of the underlying facilities**.
 >
 > In particular:
 >
 > - A mall showing **few rooms, low coverage, or no capacity** in our data may have **more rooms, better coverage, and published capacity on physical signage at the mall itself** — we simply could not see it through digital channels.
-> - A column or row showing a **blank, low value, or no operator-published data online** is **not a comment on the mall, the operator, or the facility quality**. It reflects what the operator chose to publish digitally (or what their CMS / wayfinder vendor happens to expose to the public web), which varies widely for reasons unrelated to room provision.
+> - A column or row showing a **blank, low value, or no operator-published data online** is **not a comment on the mall, the operator, or the facility quality**. It reflects what the operator chose to publish digitally, which varies widely for reasons unrelated to room provision.
 > - None of this page is a ranking, a scorecard, an audit, or a recommendation. It is a descriptive view of an open dataset built from publicly-available sources.
 >
 > If you are an operator and any of this data is out of date or incomplete, please get in touch — we will update with a citation. Treat the entire page through this lens.
@@ -53,7 +53,7 @@ The per-mall figures above, rolled up to the owner level. This is **a view of wh
 
 <div id="operator-league" class="chart-wrap"></div>
 
-_The Mappedin walking-distance column shows values only where the mall embeds the Mappedin wayfinder with a publicly accessible API. Many other operators run perfectly good wayfinders we simply can't read coordinates from (different vendor, native app only, no public API, etc.) — so a blank here is not a comment on the mall._
+_The walking-distance column shows values only where the mall makes per-floor coordinate data publicly available. Most other operators have their own perfectly good in-mall navigation that simply isn't published in a form we can read from outside — a blank here is not a comment on the mall._
 
 ## 5. Information availability — capacity (a note, not a critique)
 

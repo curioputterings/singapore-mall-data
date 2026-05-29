@@ -199,7 +199,7 @@
     });
   }
 
-  // Bubble plot: capacity vs avg walking distance (for Mappedin malls)
+  // Bubble plot: capacity vs avg walking distance (coordinate-enabled malls)
   function walkingDistanceScatter(divId) {
     fetchJSON("./data/nursing_rooms_summary.json").then(summary => {
       const mp = summary.filter(s => s.avg_walk_m_to_entrance != null);
@@ -213,7 +213,7 @@
                   color: "#0d6efd", opacity: 0.75, line: { width: 1, color: "white" } },
         hovertemplate: "<b>%{text}</b><br>Avg: %{x} m · Max: %{y} m<br>%{marker.size} rooms<extra></extra>",
       }], Object.assign({}, layoutBase, {
-        title: { text: "Mappedin malls — avg vs worst-case walking metres to nearest entrance", font: { size: 14 } },
+        title: { text: "Coordinate-enabled malls — avg vs worst-case walking metres to nearest entrance", font: { size: 14 } },
         height: 480,
         xaxis: { title: "Avg walking metres", gridcolor: "#eee" },
         yaxis: { title: "Max walking metres", gridcolor: "#eee" },
@@ -417,7 +417,7 @@
         { key: "avg_floor_cov",    label: "Avg floor coverage %", num: true, render: wash },
         { key: "pct_official",     label: "% with operator-published data online", num: true, render: wash },
         { key: "pct_cap_published", label: "% capacity online",   num: true, render: wash },
-        { key: "avg_walk",         label: "Avg walk (m, Mappedin only)", num: true,
+        { key: "avg_walk",         label: "Avg walk (m, coordinate-enabled only)", num: true,
           render: v => v == null ? "—" : v + " m" },
       ], { sortIdx: 3, sortDir: "desc", search: false });
     });

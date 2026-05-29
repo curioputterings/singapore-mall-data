@@ -59,7 +59,7 @@ subcategory, is_fnb, is_halal, description, website, source
 
 ## Limitations
 - **Snapshot dated 2026-05-27.** Tenant mixes change frequently.
-- **VivoCity** — now scraped via the WordPress `store-sitemap.xml` (378 stores); the earlier Algolia approach returned only ~89.
+- **VivoCity** — now catalogued at 378 stores; an earlier capture produced only ~89.
 - **City Square** has shop names + units but per-shop category only for F&B.
 - All sources are public store directories.
 

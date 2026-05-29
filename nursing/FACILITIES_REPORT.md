@@ -6,10 +6,10 @@
 
 > ## ⚠️ Important — read before interpreting this report
 >
-> **Every number, heatmap cell, and table row here describes only what is discoverable through public digital channels** (operator websites, public APIs, community blogs, the Mappedin wayfinder where exposed) at the time of our snapshot.
+> **Every number, heatmap cell, and table row here describes only what was discoverable through public digital channels** (operator websites and community blogs) at the time of our snapshot.
 >
 > - A mall showing **few rooms, no capacity, or no floor coverage** in our data may have **more rooms and clearer information on physical signage at the mall itself** — we just couldn't see it through digital channels.
-> - "No Mappedin walking distance" is **not a comment on the mall**; it only means the mall doesn't use the specific wayfinder vendor whose public API exposes coordinates.
+> - "No walking-distance value" is **not a comment on the mall**; it only means the mall's online materials did not surface the coordinate data we'd need to compute one.
 > - Community-curated rows (Little Day Out, babyment) are known to **undercount** by 60–90% on malls where operator data also exists; treat them as a *lower bound* of presence, not a count.
 > - This report is **not an audit, ranking, or scorecard of any operator** — it is a descriptive view of an open dataset built from publicly-available sources.
 >
@@ -18,12 +18,12 @@
 - **Malls with nursing-room data:** 57
 - **Total nursing rooms catalogued:** 145 (141 open, 4 closed/under works)
 - **Malls publishing capacity:** 9 — Alexandra Retail Centre (2), Compass One (2), Great World (1), Jewel Changi Airport (2), Ngee Ann City (4), Sengkang Grand Mall (2), Suntec City (2), The Clementi Mall (3), The Seletar Mall (2)
-- **Malls with real distance-to-entrance:** 9 (via Mappedin wayfinder coordinates)
+- **Malls with real distance-to-entrance:** 9 (where coordinate data was publicly available)
 - **Source split:** 32 operator-sourced (official) · 25 community-curated (Little Day Out, gap-fill only)
 
 ## Was a physical map / floor plan obtained?
 
-**Partly — yes for the malls that use the Mappedin wayfinder.** Mappedin's public API exposes the coordinate layer (each nursing room and mall entrance as an (x, y) node on a specific floor, plus the walkway graph and lift/escalator links). For those malls we compute the **real horizontal walking distance** from each nursing room to the nearest mall entrance (multi-source Dijkstra over the path network; lift/escalator transfers free).
+**Partly — yes for the 9 malls that publish coordinate data online.** For those malls each nursing room and each mall entrance is positioned on its floor, the walkway graph between them is known, and lift/escalator links are recorded — enabling us to compute the **real horizontal walking distance** from each nursing room to the nearest mall entrance.
 
 For malls **without** a scrapable coordinate layer (e.g. CapitaLand, whose concierge pages list rooms textually), distance in metres can't be computed; we fall back to rooms-per-floor, the nearest-unit text anchor, and a **vertical** floor-distance proxy from store `level` data.
 
@@ -33,7 +33,7 @@ Each row is a mall, each column a floor (B2…L8). Darker = more rooms on that f
 
 <div id="rooms-heatmap" class="chart-wrap"></div>
 
-## Mappedin malls — walking distance to nearest entrance
+## Coordinate-enabled malls — walking distance to nearest entrance
 
 Bubble size = total rooms in the mall. Diagonal = worst-case ≈ average; high-Y = uneven (a few rooms are far from the door).
 
@@ -47,7 +47,7 @@ Click any column to sort; type to filter. Source colour: official (green) · mix
 
 ## Distance-to-entrance: method & coverage
 
-For the **9 Mappedin malls**, distance is the real horizontal walking distance from each nursing room to the nearest mall entrance, computed by multi-source Dijkstra over the mall's own walkway graph (same-floor edges weighted in metres via each floor's `x_scale`; lifts/escalators modelled as free vertical transfers). Across these malls the per-mall average ranges 25–113 m.
+For the **9 coordinate-enabled malls**, distance is the real horizontal walking distance from each nursing room to the nearest mall entrance, computed over the mall's own walkway graph (same-floor edges weighted in metres; lift/escalator transfers free). Across these malls the per-mall average ranges 25–113 m.
 
 For malls without a scrapable coordinate layer (CapitaLand et al.), true metres can't be computed; the `nearest_unit` text anchor and the vertical floor-distance proxy are the best available.
 
