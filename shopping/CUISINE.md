@@ -1,17 +1,20 @@
+<link rel="stylesheet" href="./assets/charts.css">
+
 # F&B by cultural salience
 
 _3,233 F&B outlets across 59 fully-listed malls, classified by the cultural origin of the food (curated brand dictionary + cuisine-keyword lexicon; 48% of outlets matched by curated brand)._
 
+← [back to shopping](./) · [back to the index](../)
+
 ## Ranking by frequency
 
-| Rank | Cultural bucket | Outlets | Share | Distinct brands |
-| ---: | --- | ---: | ---: | ---: |
-| 1 | East Asian (KR/JP/CN/TW) | 1,079 | 33% | 427 |
-| 2 | Other / Mixed | 918 | 28% | 659 |
-| 3 | Local / Immediate-Regional | 642 | 20% | 174 |
-| 4 | European / Western | 460 | 14% | 137 |
-| 5 | Other Asian | 117 | 4% | 47 |
-| 6 | Indian | 17 | 1% | 11 |
+<div id="cuisine-bars" class="chart-wrap"></div>
+
+## Cultural mix per mall — top 20
+
+Stacked F&B outlet counts for the 20 most F&B-heavy malls, broken down by cultural bucket. Hover for exact counts.
+
+<div id="cuisine-by-mall" class="chart-wrap"></div>
 
 ## Top brands in each bucket
 
@@ -48,4 +51,11 @@ Boost Juice (21) · Stuff'd (20) · Guzman Y Gomez (10) · Dough Culture (8) · 
 - **Other/Mixed** = Middle Eastern, Mexican, plus origin-agnostic desserts / ice-cream / juice / generic cafes that have no single national cuisine.
 - Bakeries/cafes are the fuzziest: classed by brand origin where known (Paris Baguette→Korea, Chateraise→Japan, Tiong Bahru Bakery→French, BreadTalk/Polar/Four Leaves→local), else Other/Mixed.
 
-_Full per-brand labels: `data/fnb_cuisine.csv`._
+_Full per-brand labels: [`data/fnb_cuisine.csv`](./data/fnb_cuisine.csv)._
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<script src="./assets/charts.js"></script>
+<script>
+  Charts.cuisineBars("cuisine-bars");
+  Charts.cuisineByMall("cuisine-by-mall", 20);
+</script>
