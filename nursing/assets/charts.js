@@ -10,7 +10,31 @@
     paper_bgcolor: "white",
     plot_bgcolor: "#fafbfc",
   };
-  const cfg = { responsive: true, displaylogo: false, modeBarButtonsToRemove: ["lasso2d", "select2d"] };
+  // responsive:false — see shopping/assets/charts.js for rationale. We drive
+  // chart resizes via ResizeObserver to avoid the iOS/Android "load then
+  // collapse" bug caused by Plotly responding to URL-bar reflow events.
+  const cfg = { responsive: false, displaylogo: false, modeBarButtonsToRemove: ["lasso2d", "select2d"] };
+
+  function plot(divId, traces, layout, config) {
+    const el = typeof divId === "string" ? document.getElementById(divId) : divId;
+    if (!el) return Promise.resolve();
+    return Plotly.newPlot(el, traces, layout, config || cfg).then(() => attachResize(el));
+  }
+
+  function attachResize(el) {
+    if (!el || !window.ResizeObserver) return;
+    let pending = false;
+    new ResizeObserver(() => {
+      if (pending) return;
+      pending = true;
+      requestAnimationFrame(() => {
+        pending = false;
+        if (el.clientWidth > 50 && el.clientHeight > 50) {
+          try { Plotly.Plots.resize(el); } catch (_) { /* not yet plotted */ }
+        }
+      });
+    }).observe(el);
+  }
 
   // simple smart-table reused from shopping/assets/charts.js — kept local so this file is self-contained
   function smartTable(containerId, rows, columns, opts) {
@@ -115,7 +139,7 @@
         const v = (s.rooms_per_floor || {})[f] || 0;
         return v ? String(v) : "";
       }));
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "heatmap",
         z, x: floors, y: malls.map(s => s.mall),
         text, texttemplate: "%{text}",
@@ -171,7 +195,7 @@
   function walkingDistanceScatter(divId) {
     fetchJSON("./data/nursing_rooms_summary.json").then(summary => {
       const mp = summary.filter(s => s.avg_walk_m_to_entrance != null);
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "scatter", mode: "markers+text",
         x: mp.map(s => s.avg_walk_m_to_entrance),
         y: mp.map(s => s.max_walk_m_to_entrance),

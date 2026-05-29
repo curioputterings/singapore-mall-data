@@ -6,7 +6,17 @@
   border-radius: 6px;
   padding: 1em;
   background: #fff;
-  overflow: auto;
+  /* Horizontal scroll for wide charts on narrow viewports; vertical never
+     scrolls. Vertical overflow:hidden would clip Plotly's hover labels. */
+  overflow-x: auto;
+  /* min-height keeps the container measurable during reflows so Plotly's
+     ResizeObserver never sees a 0-height parent (the cause of the iOS/Android
+     "load then collapse" bug). */
+  min-height: 420px;
+  /* Force a new stacking context so iOS Safari composites Plotly's SVG
+     reliably across URL-bar show/hide reflows. */
+  position: relative;
+  isolation: isolate;
 }
 .chart-wrap > h4 {
   margin: 0 0 0.5em 0;

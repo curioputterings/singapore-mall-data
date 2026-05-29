@@ -131,7 +131,42 @@
     paper_bgcolor: "white",
     plot_bgcolor: "#fafbfc",
   };
-  const cfg = { responsive: true, displaylogo: false, modeBarButtonsToRemove: ["lasso2d", "select2d"] };
+  // NB: responsive:false — we drive resizes ourselves via ResizeObserver below.
+  // Plotly's built-in responsive handler reacts to every window resize event,
+  // which on iOS/Android Safari fires repeatedly as the URL bar shows/hides
+  // and can momentarily measure a 0-height parent, collapsing the chart.
+  const cfg = { responsive: false, displaylogo: false, modeBarButtonsToRemove: ["lasso2d", "select2d"] };
+
+  // Wrapper around Plotly.newPlot that auto-attaches a ResizeObserver so the
+  // chart stays correctly sized through mobile-browser reflows (iOS URL-bar
+  // show/hide, Android orientation change, etc.) — instead of using Plotly's
+  // built-in responsive listener which fires on every window resize event.
+  function plot(divId, traces, layout, config) {
+    const el = typeof divId === "string" ? document.getElementById(divId) : divId;
+    if (!el) return Promise.resolve();
+    return Plotly.newPlot(el, traces, layout, config || cfg).then(() => attachResize(el));
+  }
+
+  // Re-fit a Plotly chart to its container whenever the container's actual
+  // box changes size. Debounced via rAF so we don't redraw mid-reflow.
+  function attachResize(divId) {
+    const el = typeof divId === "string" ? document.getElementById(divId) : divId;
+    if (!el || !window.ResizeObserver) return;
+    let pending = false;
+    const obs = new ResizeObserver(() => {
+      if (pending) return;
+      pending = true;
+      requestAnimationFrame(() => {
+        pending = false;
+        // Only resize if the container actually has measurable width; ignore
+        // transient 0-width measurements (the iOS reflow case).
+        if (el.clientWidth > 50 && el.clientHeight > 50) {
+          try { Plotly.Plots.resize(el); } catch (_) { /* not yet plotted */ }
+        }
+      });
+    });
+    obs.observe(el);
+  }
 
   function similarityHeatmap(divId) {
     fetchText("./data/mall_similarity.csv").then(text => {
@@ -141,7 +176,7 @@
       });
       const labels = rows[0].slice(1);
       const z = rows.slice(1).map(r => r.slice(1).map(parseFloat));
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         z, x: labels, y: labels, type: "heatmap",
         colorscale: [[0, "#fff7ec"], [0.05, "#fee8c8"], [0.15, "#fdbb84"], [0.3, "#e34a33"], [1, "#b30000"]],
         zmin: 0, zmax: 0.35,
@@ -194,7 +229,7 @@
   function topShopsBar(divId, csvPath, title, color) {
     fetchCSV(csvPath).then(rows => {
       const data = rows.slice(0, 30).reverse();
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "bar", orientation: "h",
         x: data.map(r => +r.num_malls),
         y: data.map(r => r.shop),
@@ -232,7 +267,7 @@
       const c = {};
       stores.forEach(s => { const k = s.scope_of_business || "Unclassified"; c[k] = (c[k]||0) + 1; });
       const sorted = Object.entries(c).sort((a, b) => a[1] - b[1]);
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "bar", orientation: "h",
         x: sorted.map(e => e[1]),
         y: sorted.map(e => e[0]),
@@ -253,7 +288,7 @@
   function mallsByShopCount(divId) {
     fetchJSON("./data/malls.json").then(malls => {
       const data = malls.filter(m => m.num_stores).sort((a, b) => a.num_stores - b.num_stores);
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "bar", orientation: "h",
         x: data.map(m => m.num_stores),
         y: data.map(m => m.mall_name),
@@ -284,7 +319,7 @@
         byOwner[o].shops += m.num_stores || 0;
       });
       const data = Object.entries(byOwner).sort((a, b) => a[1].shops - b[1].shops);
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "bar", orientation: "h",
         x: data.map(e => e[1].shops), y: data.map(e => e[0]),
         text: data.map(e => `${e[1].shops.toLocaleString()} shops · ${e[1].malls} malls`),
@@ -305,7 +340,7 @@
       const c = {};
       malls.forEach(m => { const k = m.planning_region || "Unknown"; c[k] = (c[k]||0) + 1; });
       const labels = Object.keys(c), values = Object.values(c);
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "pie", labels, values, hole: 0.5,
         textinfo: "label+percent", textposition: "outside",
         hovertemplate: "<b>%{label}</b>: %{value} malls (%{percent})<extra></extra>",
@@ -326,7 +361,7 @@
       });
       const sorted = Object.entries(buckets).sort((a, b) => b[1] - a[1]);
       const total = sorted.reduce((s, e) => s + e[1], 0);
-      Plotly.newPlot(divId, [{
+      plot(divId, [{
         type: "bar", orientation: "h",
         x: sorted.map(e => e[1]).reverse(),
         y: sorted.map(e => e[0]).reverse(),
@@ -374,7 +409,7 @@
         marker: { color: colors[i] },
         hovertemplate: `<b>%{y}</b><br>${b}: %{x}<extra></extra>`,
       }));
-      Plotly.newPlot(divId, traces, Object.assign({}, layoutBase, {
+      plot(divId, traces, Object.assign({}, layoutBase, {
         title: { text: `Top ${topN} malls — F&B cultural mix`, font: { size: 14 } },
         barmode: "stack",
         height: Math.max(420, topN * 28),
@@ -412,7 +447,7 @@
         textposition: "inside",
         hovertemplate: "<b>%{x}</b><br>" + t + ": %{y}<extra></extra>",
       }));
-      Plotly.newPlot(divId, traces, Object.assign({}, layoutBase, {
+      plot(divId, traces, Object.assign({}, layoutBase, {
         title: { text: "Outlets by provenance (Singaporean / Foreign / Unknown long tail)", font: { size: 14 } },
         barmode: "stack",
         height: 460,
@@ -447,7 +482,7 @@
             "<br>Shops: %{x}<br>NPI: S$%{y:.1f}m<extra></extra>",
         };
       });
-      Plotly.newPlot(divId, traces, Object.assign({}, layoutBase, {
+      plot(divId, traces, Object.assign({}, layoutBase, {
         title: { text: "Mall economics — shops × NPI (bubble = NPI yield)", font: { size: 14 } },
         height: 580,
         xaxis: { title: "Number of shops", gridcolor: "#eee" },
@@ -532,7 +567,7 @@
         layout["xaxis" + (i + 1)] = { gridcolor: "#eee" };
         layout["yaxis" + (i + 1)] = { automargin: true, tickfont: { size: 10 } };
       });
-      Plotly.newPlot(divId, traces, layout, cfg);
+      plot(divId, traces, layout, cfg);
     });
   }
 
@@ -580,7 +615,7 @@
           layout["xaxis" + (i + 1)] = { gridcolor: "#eee" };
           layout["yaxis" + (i + 1)] = { automargin: true, tickfont: { size: 10 } };
         });
-        Plotly.newPlot(divId, traces, layout, cfg);
+        plot(divId, traces, layout, cfg);
       });
     });
   }
