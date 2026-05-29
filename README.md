@@ -108,40 +108,7 @@ re-runs are cheap and reproducible. Those caches are not committed.
 ## Running (locally — scrapers not in this repo)
 
 The scraper modules live locally under `shopping/scrapers/` and
-`nursing/scrapers/` and are gitignored. The shape of a typical run:
-
-```bash
-# venv lives at the repo root and is shared between the two projects
-python3 -m venv venv && ./venv/bin/pip install requests beautifulsoup4 lxml pandas
-cd shopping/scrapers
-../../venv/bin/python registry.py         # Gemini research -> mall registry
-../../venv/bin/python capitaland.py        # CapitaLand portfolio (uses raw/ cache)
-../../venv/bin/python frasers.py           # Frasers/FCT  (add --refresh for live)
-../../venv/bin/python fareast.py           # Far East Organization malls
-../../venv/bin/python linkreit.py          # Link REIT (Jurong Point, AMK Hub, Thomson Plaza)
-../../venv/bin/python ion.py               # ION Orchard
-../../venv/bin/python jewel.py             # Jewel Changi Airport
-../../venv/bin/python citysquare.py        # City Square Mall (CDL)
-../../venv/bin/pip install playwright && ../../venv/bin/playwright install chromium  # for Suntec
-../../venv/bin/python suntec.py            # Suntec City (headless browser)
-../../venv/bin/python lendlease.py         # 313@somerset + Jem (headless) + PLQ (JSON island)
-../../venv/bin/python paragon.py           # Paragon (headless browser)
-../../venv/bin/python mandarin.py          # Mandarin Gallery (JSON API)
-../../venv/bin/python wisma.py             # Wisma Atria (WordPress facets)
-../../venv/bin/python greatworld.py        # Great World (sitemap + detail pages)
-../../venv/bin/python unitedsquare.py      # United Square (UOL)
-../../venv/bin/python marinasquare.py      # Marina Square (SingLand)
-../../venv/bin/python velocity.py          # Velocity @ Novena Square (UOL)
-../../venv/bin/python ngeeann.py           # Ngee Ann City / Takashimaya
-../../venv/bin/python mbs.py               # The Shoppes @ Marina Bay Sands (curl)
-../../venv/bin/python vivocity.py          # VivoCity (best-effort)
-../../venv/bin/python consolidate.py       # merge -> shopping/data/stores.* , malls.* , REPORT.md
-
-cd ../../nursing/scrapers
-../../venv/bin/python facilities_mappedin.py # nursing rooms + entrances via Mappedin (Frasers, …) w/ walking distance
-../../venv/bin/python facilities.py        # nursing rooms (CapitaLand concierge) + merge Mappedin
-../../venv/bin/python facilities_report.py # -> FACILITIES_REPORT.md + nursing_rooms_summary.json
-```
+`nursing/scrapers/` and are gitignored. 
 
 ### Nursing-room facilities (a different axis from store directories)
 
