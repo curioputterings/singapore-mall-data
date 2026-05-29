@@ -9,6 +9,13 @@ don't disclose per-mall figures, so their malls are absent below.
 
 ← [back to shopping](./) · [back to the index](../)
 
+> ## ⚠️ Important — please read before interpreting any figure on this page
+>
+> - **Many figures here are estimates**, derived from publicly-disclosed REIT/aggregate segment data and our own shop counts. The `npi_src` and `rev_src` columns in [`data/mall_financials.csv`](./data/mall_financials.csv) flag each value as **D**isclosed by the owner vs **E**stimated by us.
+> - **Estimation methodology is documented** in the caveats paragraph below; reasonable people will get different numbers using different assumptions.
+> - **Nothing on this page is financial advice, investment guidance, a valuation, or an audit.** It is a descriptive view of public disclosures, processed for comparability. Do not make investment or business decisions on this alone.
+> - **Owners are welcome to flag corrections** — if a disclosed figure has been mis-extracted, an estimate is materially off, or a more recent FY filing supersedes ours, please get in touch. We will update with citation.
+
 **Caveats:** CICT NPI is margin-estimated (~69% portfolio proxy applied to
 disclosed gross revenue); MPACT/LREIT/Suntec/Paragon figures are derived from
 disclosed segment-contribution ratios; some assets are integrated office+retail

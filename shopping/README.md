@@ -4,6 +4,8 @@ A catalogue of Singapore shopping centres, their corporate owners, and the **sho
 
 ← [back to the index](../)
 
+> **Please note.** Everything on this sub-site describes what was publicly discoverable on each operator's store directory / REIT disclosure at the time of our snapshot. Tenant mixes change frequently, some operators publish curated subsets only, and several derived figures are estimates. Nothing here is an audit, ranking, or scorecard of any mall, operator, or brand. If you spot anything out of date or want to flag a correction, please get in touch — we will update with a citation.
+
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
 ## Start here

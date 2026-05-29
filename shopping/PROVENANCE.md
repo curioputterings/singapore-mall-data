@@ -6,6 +6,8 @@ _Brands classified as SG-homegrown vs foreign via curated dictionaries of recogn
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** "Singaporean vs Foreign" is a judgement call based on publicly-available information about each brand's founding country and current HQ at the time of our snapshot — corporate domicile changes through acquisition, IPO, JV, or restructuring, so any classification here may be out of date. Brands are not endorsed, criticised, or ranked by this analysis; it is purely a descriptive view of the dataset. If you're a brand owner or representative and your provenance is mis-classified, please get in touch — we will update with reasoning and a citation.
+
 ## Outlets by provenance
 
 Stacked outlets per segment — Singaporean brands (red), foreign chains (blue), and the long-tail Unknown band (grey).

@@ -6,6 +6,8 @@ _Generated 2026-05-27._
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** Every number here describes only what was publicly discoverable on each operator's store directory at the time of our snapshot. Coverage varies by operator (some publish full directories, some publish curated subsets only). Nothing here is an audit, ranking, or scorecard of any mall or operator. If you are an operator and any record is out of date, please get in touch — we will update with a citation.
+
 ## Coverage
 
 - **Shopping centres identified:** 87 (across 23 corporate owner groups)

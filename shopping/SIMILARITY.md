@@ -6,6 +6,8 @@ _Tenant-mix similarity across 59 malls with ≥15 listed brands. Brands normalis
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** The labels "cookie-cutter" and "distinctive" here are purely descriptive of brand-set overlap in our scraped data — they are **not** judgments about a mall's positioning, design quality, customer experience, or strategic intent. A high chain-share simply means the brand list overlaps a lot with other malls; a low one means a mall's tenant mix is more unusual. Both can be desirable depending on what the mall is positioned to do. Operators are welcome to flag missing or out-of-date entries; we will update with a citation.
+
 - **Overall mean pairwise Jaccard:** 0.038 — two random malls share ~4% of their combined tenant set.
 - **Chain-share** = fraction of a mall's brands that also appear in ≥1 other mall. High = templated; low = distinctive.
 

@@ -219,12 +219,14 @@
     });
   }
 
-  // colour wash 0..1
+  // Neutral single-hue blue wash 0..1 — used for descriptive percentage cells
+  // (e.g. cookie-cutter chain-share). Deliberately not red/amber/green: a high
+  // value on these tables is descriptive, not "bad", and shouldn't read as a
+  // red flag against the mall.
   function pctHeat(v) {
     const pct = (v * 100).toFixed(0) + "%";
-    const hue = 30 + (1 - v) * 90;   // red -> yellow -> green
-    const sat = 70, light = 90 - v * 25;
-    return `<span class="cell-heat" style="background:hsl(${hue},${sat}%,${light}%)">${pct}</span>`;
+    const light = 92 - Math.min(v, 1) * 22;
+    return `<span class="cell-heat" style="background:hsl(210,45%,${light}%)">${pct}</span>`;
   }
   function numHeat(v, vmax) {
     const ratio = vmax ? Math.min(1, v / vmax) : 0;

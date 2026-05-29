@@ -6,6 +6,8 @@ _Across 8,869 shop listings in 59 malls with full directories._
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** "Most ubiquitous" rankings here count appearances of a brand in our scraped store directories at the time of our snapshot — they are descriptive of public-directory presence, not of foot traffic, revenue, sales volume, or brand quality. Operators are welcome to flag missing or out-of-date entries; we will update with a citation.
+
 ## Headline
 
 - **Distinct brands:** 4,341 (1,440 F&B, 2,901 retail)

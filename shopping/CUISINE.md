@@ -6,6 +6,8 @@ _3,233 F&B outlets across 59 fully-listed malls, classified by the cultural orig
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** Cuisine bucketing is **inherently subjective** — bakeries, fusion concepts, kopitiams, modern Asian restaurants and pan-regional brands don't fit neatly into any taxonomy. Our buckets are described in the Method section at the bottom; reasonable people will disagree on edge cases. If you're a brand owner and disagree with how your concept is classified, please get in touch — we'll either re-bucket with reasoning or note your preferred framing alongside the current one. Nothing here is a judgement of cuisine authenticity, quality, or value.
+
 ## Ranking by frequency
 
 <div id="cuisine-bars" class="chart-wrap"></div>

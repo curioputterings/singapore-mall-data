@@ -4,6 +4,8 @@
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** This page is intentionally lighthearted — the headings and framing ("apocalypse-bunker mall", "kiasu parents", "secret clones") are editorial colour, not commentary on any operator's strategy or customers. The underlying counts are taken from the [stores dataset](./data/stores.json) at our snapshot date; tenant mixes change. Nothing here is a ranking, scorecard, or audit. Operators are welcome to flag corrections; we will update with a citation.
+
 ---
 
 ## 1. 🛒 Which shop can you literally never escape?

@@ -4,6 +4,8 @@
 
 ← [back to shopping](./) · [back to the index](../)
 
+> **Please note.** Owner and region rollups are based on store directory data captured at our snapshot date. "Anchor chains" reflects how often a brand appeared across the malls in each portfolio in public directories — it is not a ranking of strategic importance, lease tenure, or revenue contribution. Operators are welcome to flag any missing or out-of-date entries; we will update with a citation.
+
 ## 1. Anchor chains per owner's portfolio
 
 _For each owner, the brands found in the most of their fully-listed malls. CapitaLand's portfolio is anchored by Watsons (10 of 11), Frasers' by kcuts (9 of 10)._
