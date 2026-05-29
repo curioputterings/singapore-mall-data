@@ -52,12 +52,12 @@ subcategory, is_fnb, is_halal, description, website, source
 ## Coverage
 
 - **86 shopping centres** across **22 corporate owner groups** (CICT/CapitaLand, FCT/Frasers, Far East, Mapletree/MPACT, Lendlease, CDL, Allgreen, Paragon REIT, UOL, Suntec REIT, Starhill, SingLand, Link REIT, MBS, Jewel, …) — each with owner, address, region, transit.
-- **59 centres have full shop-level listings** (8,869 shops, 3,234 F&B). Largest portfolios: CapitaLand (14 malls, 2,428 shops), Frasers (10 malls, 1,741 shops), Far East (15 malls, 831 shops), Link REIT (3 malls, 640 shops), Suntec City (396), Lendlease 313/Jem/PLQ (586), MBS Shoppes (214).
+- **59 centres have full shop-level listings** (9,158 shops, 3,332 F&B). Largest portfolios: CapitaLand (14 malls, 2,428 shops), Frasers (10 malls, 1,741 shops), Far East (15 malls, 831 shops), Link REIT (3 malls, 640 shops), Suntec City (396), Lendlease 313/Jem/PLQ (586), VivoCity (378), MBS Shoppes (214).
 - The remaining ~40 centres are catalogued at the registry level (owner + geo + transit) but without shop lists.
 
 ## Limitations
 - **Snapshot dated 2026-05-27.** Tenant mixes change frequently.
-- **VivoCity is partial** — its public index exposes only ~89 of ~300+ shops; treated as best-effort and excluded from per-shop financial metrics.
+- **VivoCity** — now scraped via the WordPress `store-sitemap.xml` (378 stores); the earlier Algolia approach returned only ~89.
 - **City Square** has shop names + units but per-shop category only for F&B.
 - All sources are public store directories.
 

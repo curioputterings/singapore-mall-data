@@ -72,7 +72,7 @@ Electronics & Technology, Kids & Children, Supermarket & Convenience, Jewellery
   - **Marina Square** (SingLand) — 216 shops
   - **United Square** (UOL) — 118 shops
   - **Velocity @ Novena Square** (UOL) — 123 shops
-  - **VivoCity (Mapletree)** — 89 shops (best-effort; see limitations)
+  - **VivoCity (Mapletree)** — 378 shops (full sitemap walk)
 - The remaining ~40 centres are catalogued at the **registry level** (owner +
   geo + transit) but without shop lists yet — see *Extending* below.
 
@@ -166,8 +166,10 @@ store `level` data). See `nursing/FACILITIES_REPORT.md`.
 - **Snapshot dated 2026-05-27.** Tenant mixes change frequently; the registry
   reflects recent ownership moves (e.g. Seletar Mall → Allgreen, KINEX divested
   by UOL) as of the research date.
-- **VivoCity is partial** — its public Algolia index exposes only ~89 of ~300+
-  shops; treat as best-effort.
+- **VivoCity now full** — earlier the Algolia index gave only ~89 of ~300+ shops;
+  the current scraper walks `store-sitemap.xml` and parses each `/stores/<slug>/`
+  detail page, yielding 378 records with name, unit, level, category, halal flag,
+  and description.
 - **City Square** has full name+unit but category only for F&B (per-shop category
   isn't exposed on the all-shops page).
 - **Static HTML vs rendered DOM.** Most malls expose data in the static HTML or a

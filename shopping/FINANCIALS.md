@@ -12,8 +12,7 @@ don't disclose per-mall figures, so their malls are absent below.
 **Caveats:** CICT NPI is margin-estimated (~69% portfolio proxy applied to
 disclosed gross revenue); MPACT/LREIT/Suntec/Paragon figures are derived from
 disclosed segment-contribution ratios; some assets are integrated office+retail
-(Raffles City, Funan, Jem). Revenue-per-shop uses our shop counts (VivoCity's is
-partial, so omitted). `npi_src`/`rev_src` columns in [`data/mall_financials.csv`](./data/mall_financials.csv)
+(Raffles City, Funan, Jem). `npi_src`/`rev_src` columns in [`data/mall_financials.csv`](./data/mall_financials.csv)
 flag disclosed (D) vs estimated (E).
 
 ## Shops × NPI — bubble plot

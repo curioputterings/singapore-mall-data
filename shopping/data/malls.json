@@ -570,8 +570,8 @@
     "nearest_mrt": "HarbourFront (NE1/CC29)",
     "latitude": null,
     "longitude": null,
-    "num_stores": 89,
-    "num_fnb": 30,
+    "num_stores": 378,
+    "num_fnb": 128,
     "has_store_data": true,
     "ownership_note": null
   },

@@ -1,146 +1,149 @@
 brand,segment,provenance,outlets
-Starbucks,F&B,Foreign,34
-Ya Kun Kaya Toast,F&B,Singaporean,33
+Starbucks,F&B,Foreign,35
+Ya Kun Kaya Toast,F&B,Singaporean,34
+Toast Box,F&B,Singaporean,28
 Old Chang Kee,F&B,Singaporean,27
-Toast Box,F&B,Singaporean,27
 Subway,F&B,Foreign,24
-The Coffee Bean & Tea Leaf,F&B,Foreign,23
-Mr. Coconut,F&B,Singaporean,22
+The Coffee Bean & Tea Leaf,F&B,Foreign,24
+Mr. Coconut,F&B,Singaporean,23
+McDonald's,F&B,Foreign,22
 Wok Hey,F&B,Singaporean,22
-McDonald's,F&B,Foreign,21
-Boost Juice,F&B,Foreign,21
-BreadTalk,F&B,Singaporean,20
+Boost Juice,F&B,Foreign,22
+Sanook Kitchen,F&B,Singaporean,20
 Stuff'd,F&B,Singaporean,20
-Sanook Kitchen,F&B,Singaporean,19
-LiHO,F&B,Singaporean,18
-Din Tai Fung,F&B,Foreign,18
-Luckin Coffee,F&B,Foreign,17
+LiHO,F&B,Singaporean,19
+BreadTalk,F&B,Singaporean,19
+Din Tai Fung,F&B,Foreign,19
+Luckin Coffee,F&B,Foreign,18
+KOI Thé,F&B,Singaporean,18
+Paris Baguette,F&B,Foreign,17
 SUKIYA,F&B,Foreign,17
-KOI Thé,F&B,Singaporean,17
 Mr Bean,F&B,Singaporean,17
 Tori-Q,F&B,Foreign,17
 CHICHA San Chen,F&B,Foreign,17
 Bengawan Solo,F&B,Singaporean,17
-Paris Baguette,F&B,Foreign,16
+KFC,F&B,Foreign,17
 Chateraise,F&B,Foreign,16
+PlayMade,F&B,Singaporean,16
+CHAGEE,F&B,Foreign,16
 Bee Cheng Hiang,F&B,Singaporean,16
 Four Leaves,F&B,Singaporean,16
-KFC,F&B,Foreign,16
-PlayMade,F&B,Singaporean,15
-CHAGEE,F&B,Foreign,15
 Polar Puffs & Cakes,F&B,Singaporean,15
+Dian Xiao Er,F&B,Singaporean,14
 Fun Toast,F&B,Singaporean,14
 TALAD THAI BANANA,F&B,Foreign,13
-Dian Xiao Er,F&B,Singaporean,13
+Genki Sushi,F&B,Foreign,13
+Burger King,F&B,Foreign,13
 The Soup Spoon,F&B,Singaporean,12
+Xiang Xiang Hunan Cuisine,F&B,Foreign,12
 Nine Fresh,F&B,Foreign,12
 DUNKIN',F&B,Unknown,12
-Genki Sushi,F&B,Foreign,12
-Burger King,F&B,Foreign,12
 Potato Corner,F&B,Foreign,12
 Sushi Express,F&B,Foreign,11
-Xiang Xiang Hunan Cuisine,F&B,Foreign,11
 MOS Burger,F&B,Foreign,11
 Swensen's,F&B,Singaporean,11
 Munchi Pancakes,F&B,Singaporean,11
+Gong Yuan Ma La Tang,F&B,Foreign,11
 Crave,F&B,Singaporean,11
+Sushi Tei,F&B,Foreign,11
+Guzman Y Gomez,F&B,Foreign,11
 Sushiro,F&B,Foreign,10
+Jollibee,F&B,Foreign,10
 EAT.,F&B,Unknown,10
-Gong Yuan Ma La Tang,F&B,Foreign,10
 Famous Amos,F&B,Foreign,10
-Sushi Tei,F&B,Foreign,10
-Guzman Y Gomez,F&B,Foreign,10
+PUTIEN,F&B,Singaporean,10
 KOI THE,F&B,Singaporean,9
 Shihlin Taiwan Street Snacks,F&B,Foreign,9
+COLLIN’S®,F&B,Singaporean,9
 Super Sushi,F&B,Unknown,9
 Gochi-So Shokudo,F&B,Singaporean,9
-Jollibee,F&B,Foreign,9
 Pezzo,F&B,Singaporean,9
 Krispy Kreme,F&B,Foreign,9
+Monster Curry,F&B,Foreign,9
 Auntie Anne's,F&B,Foreign,9
-Haidilao Hot Pot,F&B,Foreign,9
+llaollao,F&B,Foreign,9
 Cedele,F&B,Singaporean,9
-PUTIEN,F&B,Singaporean,9
+Mister Donut,F&B,Foreign,9
+Wine Connection,F&B,Singaporean,9
 Kopi & Tarts,F&B,Singaporean,8
 Saizeriya,F&B,Foreign,8
+Kenangan Coffee,F&B,Foreign,8
 KAZO,F&B,Unknown,8
 Dough Culture,F&B,Unknown,8
-COLLIN’S®,F&B,Singaporean,8
 Nam Kee Pau,F&B,Singaporean,8
 Wingstop,F&B,Foreign,8
-Monster Curry,F&B,Foreign,8
-llaollao,F&B,Foreign,8
-Mister Donut,F&B,Foreign,8
+Haidilao Hot Pot,F&B,Foreign,8
+Yakiniku Like,F&B,Foreign,8
 Steak 99,F&B,Singaporean,8
-Wine Connection,F&B,Singaporean,8
+Tai Cheong Bakery,F&B,Foreign,8
 Ichiban Boshi,F&B,Singaporean,8
+Song Fa Bak Kut Teh,F&B,Singaporean,8
 Tim Ho Wan,F&B,Foreign,7
-Kenangan Coffee,F&B,Foreign,7
 IPPUDO,F&B,Foreign,7
 Yakiniku Shokudo,F&B,Singaporean,7
 Malaysia Boleh!,F&B,Singaporean,7
+Mincheng Bibimbap,F&B,Unknown,7
 Dabba Street,F&B,Singaporean,7
 Nan Yang Dao,F&B,Singaporean,7
 Long John Silver's,F&B,Foreign,7
-Yakiniku Like,F&B,Foreign,7
 PastaMania,F&B,Singaporean,7
 Maki-San,F&B,Singaporean,7
 Kopitiam,F&B,Singaporean,7
-Tai Cheong Bakery,F&B,Foreign,7
+Tiong Bahru Bakery,F&B,Singaporean,7
 Crystal Jade Hong Kong Kitchen,F&B,Foreign,7
 Food Republic,F&B,Singaporean,7
 Kuriya Japanese Market,F&B,Singaporean,7
 MIXUE,F&B,Foreign,7
-Song Fa Bak Kut Teh,F&B,Singaporean,7
+Henri Charpentier,F&B,Unknown,7
+Kei Kaisendon,F&B,Unknown,7
 BEUTEA,F&B,Singaporean,6
 Yolé,F&B,Singaporean,6
 I Love Taimei,F&B,Foreign,6
 SWEE HENG 1989 Classic,F&B,Singaporean,6
 An Acai Affair,F&B,Singaporean,6
+Canton Paradise,F&B,Foreign,6
+Encik Tan,F&B,Singaporean,6
 Tun Xiang Hokkien Delights,F&B,Unknown,6
 Zhang Liang Mala Tang,F&B,Foreign,6
 Greendot,F&B,Singaporean,6
 Eighteen Plum,F&B,Unknown,6
 NiKU iKU,F&B,Unknown,6
-Mincheng Bibimbap,F&B,Unknown,6
-Tiong Bahru Bakery,F&B,Singaporean,6
+Astons Specialities,F&B,Singaporean,6
+Shake Shack,F&B,Foreign,6
+Tim Hortons,F&B,Foreign,6
 Awfully Chocolate,F&B,Singaporean,6
+Garrett Popcorn Shops,F&B,Foreign,6
+Paradise Dynasty,F&B,Singaporean,6
+HEYTEA,F&B,Foreign,6
 Tongue Tip Lanzhou Beef Noodles,F&B,Foreign,6
 Qi Ji,F&B,Singaporean,6
+4FINGERS Crispy Chicken,F&B,Unknown,6
+Aburi-EN,F&B,Unknown,6
 Butter & Cream,F&B,Unknown,6
 Fish & Co.,F&B,Singaporean,6
-Henri Charpentier,F&B,Unknown,6
-Kei Kaisendon,F&B,Unknown,6
+Yew Kee Specialities,F&B,Unknown,6
 Bakery Cuisine,F&B,Unknown,5
 Ottie Pancakes,F&B,Unknown,5
 Twyst,F&B,Unknown,5
 Baskin Robbins,F&B,Foreign,5
-Canton Paradise,F&B,Foreign,5
-Encik Tan,F&B,Singaporean,5
 Hot Tomato,F&B,Singaporean,5
 Pepper Lunch,F&B,Foreign,5
 Seoul Garden,F&B,Foreign,5
 YGF MALATANG,F&B,Unknown,5
-Astons Specialities,F&B,Singaporean,5
-Shake Shack,F&B,Foreign,5
 Cat & the Fiddle,F&B,Singaporean,5
 PrimaDéli,F&B,Singaporean,5
 Go-Ang Pratunam Chicken Rice,F&B,Unknown,5
-Tim Hortons,F&B,Foreign,5
-Garrett Popcorn Shops,F&B,Foreign,5
 Gokoku Japanese Bakery,F&B,Unknown,5
-Paradise Dynasty,F&B,Singaporean,5
 Shabu Sai,F&B,Unknown,5
-HEYTEA,F&B,Foreign,5
 Ajumma's,F&B,Unknown,5
-4FINGERS Crispy Chicken,F&B,Unknown,5
-Aburi-EN,F&B,Unknown,5
 Eat 3 Bowls,F&B,Unknown,5
+Tonkatsu ENbiton,F&B,Unknown,5
 A-One Signature,F&B,Unknown,5
-Yew Kee Specialities,F&B,Unknown,5
+Bottles & Bottles,F&B,Unknown,5
 Soup Restaurant,F&B,Singaporean,5
 Koo Kee,F&B,Unknown,5
 Duke Bakery,F&B,Unknown,4
+Le Shrimp Ramen,F&B,Unknown,4
 Fragrance,F&B,Unknown,4
 Now Pizza,F&B,Unknown,4
 Ho Kee Pau,F&B,Unknown,4
@@ -149,6 +152,7 @@ Saap Saap Thai,F&B,Unknown,4
 Ajisen Tanjiro,F&B,Unknown,4
 LeNu Chef Wai’s Noodle Bar,F&B,Unknown,4
 Ritz Apple Strudel,F&B,Unknown,4
+BATTERCATCH,F&B,Unknown,4
 LITTLE POND,F&B,Unknown,4
 Josh's Grill,F&B,Unknown,4
 Nunsaram Korean Dessert Cafe,F&B,Unknown,4
@@ -165,6 +169,7 @@ Popeyes,F&B,Foreign,4
 Yuen Kee Dumpling,F&B,Unknown,4
 Food Junction,F&B,Singaporean,4
 Chocolate Origin,F&B,Unknown,4
+Tokyo Shokudo,F&B,Unknown,4
 Hoshino Coffee,F&B,Foreign,4
 Beard Papa’s,F&B,Foreign,4
 Da Paolo Gastronomia,F&B,Unknown,4
@@ -177,18 +182,18 @@ Tonkatsu by Ma Maison,F&B,Unknown,4
 Mr. Onigiri,F&B,Unknown,4
 Délifrance,F&B,Unknown,4
 Lao Huo Tang,F&B,Unknown,4
-Tonkatsu ENbiton,F&B,Unknown,4
 Old Tea Hut,F&B,Unknown,4
 Papa Ayam,F&B,Unknown,4
 Wanpo Tea Shop,F&B,Unknown,4
+Cakebar,F&B,Unknown,4
 Mamma Mia Trattoria E Caffè,F&B,Unknown,4
-Bottles & Bottles,F&B,Unknown,4
 365 Juices Bar,F&B,Unknown,4
 ASTONS Steak & Salad,F&B,Unknown,4
+Tempura-EN,F&B,Unknown,4
 KOI Express,F&B,Unknown,4
+Hundred Grains 百米香,F&B,Unknown,3
 Supergreen,F&B,Unknown,3
 A HOT HIDEOUT,F&B,Unknown,3
-Le Shrimp Ramen,F&B,Unknown,3
 Kebabs Faktory,F&B,Unknown,3
 JINJJA Chicken,F&B,Foreign,3
 Kenny Rogers Roasters,F&B,Foreign,3
@@ -197,13 +202,16 @@ TOMORO COFFEE,F&B,Unknown,3
 SF FRUITS,F&B,Unknown,3
 SAN REN XING 三人行,F&B,Unknown,3
 Paradise Classic,F&B,Unknown,3
-BATTERCATCH,F&B,Unknown,3
+Paradise Hotpot,F&B,Unknown,3
 PastaGo,F&B,Unknown,3
 Ajisen Ramen,F&B,Unknown,3
 Big Fish Small Fish,F&B,Unknown,3
 Sushi Plus,F&B,Unknown,3
 Hong Kong Egglet,F&B,Unknown,3
+Flipper's,F&B,Unknown,3
+Bulgogi Syo,F&B,Unknown,3
 Fore Coffee,F&B,Unknown,3
+TANYU,F&B,Unknown,3
 Cai-Ca,F&B,Unknown,3
 Sushi Zushi,F&B,Unknown,3
 SUKI-YA,F&B,Unknown,3
@@ -212,19 +220,23 @@ itea,F&B,Unknown,3
 CHA MULAN,F&B,Unknown,3
 The Whale Tea,F&B,Unknown,3
 CocoCane,F&B,Unknown,3
-Tokyo Shokudo,F&B,Unknown,3
+Mamma Mia! Trattoria E Caffe,F&B,Unknown,3
 Kin No Mame,F&B,Unknown,3
 Pawa Bakery,F&B,Unknown,3
 The Cocoa Trees,F&B,Unknown,3
+SURREY HILLS GROCER,F&B,Unknown,3
 Shiok Burger,F&B,Unknown,3
 Casa Vostra,F&B,Unknown,3
+Poulét,F&B,Unknown,3
 Fieldnotes,F&B,Unknown,3
 ROYCE',F&B,Unknown,3
 Lee Wee & Brothers,F&B,Unknown,3
 Cellarbration,F&B,Unknown,3
+Nasty Cookie,F&B,Unknown,3
 Kind Kones,F&B,Unknown,3
 Ji De Chi Dessert,F&B,Unknown,3
 The Tree Cafe,F&B,Unknown,3
+GyoGyo,F&B,Unknown,3
 Dapur Penyet,F&B,Unknown,3
 SMOOY,F&B,Unknown,3
 Bali Thai,F&B,Unknown,3
@@ -233,6 +245,7 @@ Poke Theory,F&B,Unknown,3
 rrooll,F&B,Unknown,3
 SF Fruits & Juices,F&B,Unknown,3
 Texas Chicken,F&B,Foreign,3
+SEOUL NOODLE SHOP,F&B,Unknown,3
 Ayam Penyet President,F&B,Unknown,3
 BreadTalk/Toast Box,F&B,Unknown,3
 Dough Magic,F&B,Unknown,3
@@ -241,7 +254,6 @@ Hakka Yu,F&B,Unknown,3
 LeNu,F&B,Unknown,3
 Mei Heong Yuen Dessert,F&B,Unknown,3
 Mr Teh Tarik Express,F&B,Singaporean,3
-CAKEBAR,F&B,Unknown,3
 Cookhouse by Koufu,F&B,Unknown,3
 Han's,F&B,Singaporean,3
 Pizza Hut,F&B,Unknown,3
@@ -253,11 +265,15 @@ iSTEAKS,F&B,Unknown,3
 YES LEMON,F&B,Unknown,3
 D'Penyetz,F&B,Unknown,3
 Chicken Pie Kitchen & Don Signature Crab,F&B,Unknown,3
+A&W,F&B,Foreign,3
+Candy Empire,F&B,Unknown,3
+sen-ryo,F&B,Unknown,3
+TCC - The Connoisseur Concerto,F&B,Unknown,3
+VIETSMITH,F&B,Unknown,3
 JUMBO SEAFOOD,F&B,Unknown,3
 % Arabica (Temporarily closed),F&B,Foreign,3
 Kiwami Ramen & Gyoza Bar,F&B,Unknown,3
 Tambuah Mas Indonesian Restaurant,F&B,Unknown,3
-Tempura-EN,F&B,Unknown,3
 Huggs Coffee,F&B,Singaporean,3
 i•tea,F&B,Unknown,3
 Melvados,F&B,Unknown,3
@@ -268,7 +284,6 @@ Peperoni Pizzeria,F&B,Unknown,3
 TAI ER,F&B,Unknown,3
 Wonder Juice,F&B,Unknown,2
 Hoe Nam Signatures,F&B,Unknown,2
-Hundred Grains 百米香,F&B,Unknown,2
 Wang Fu Dim Sum,F&B,Unknown,2
 City Hot Pot,F&B,Unknown,2
 The Alley,F&B,Unknown,2
@@ -283,23 +298,22 @@ Avocadoria,F&B,Unknown,2
 Shanghai Tan Pan-Fried Buns,F&B,Unknown,2
 Hainan Second Street,F&B,Unknown,2
 MENDON,F&B,Unknown,2
-Paradise Hotpot,F&B,Unknown,2
+PANDA CHAN SNACK,F&B,Unknown,2
 Ma Maison,F&B,Unknown,2
 Miam Miam,F&B,Unknown,2
-Flipper's,F&B,Unknown,2
 Hokkaido Baked Cheese Tart,F&B,Unknown,2
-Bulgogi Syo,F&B,Unknown,2
 Lavender,F&B,Unknown,2
 Daily Chicken,F&B,Unknown,2
 GODIVA Chocolatier,F&B,Unknown,2
-TANYU,F&B,Unknown,2
 ORIENTAL KOPI,F&B,Unknown,2
 MRS BANANA,F&B,Unknown,2
 Beryl's,F&B,Unknown,2
 Poulet,F&B,Unknown,2
 J.Co,F&B,Unknown,2
+Una Una,F&B,Unknown,2
 Watami Japanese Dining,F&B,Unknown,2
 YOLE 0% SUGAR ADDED,F&B,Unknown,2
+Seafood Paradise,F&B,Unknown,2
 Overscoop,F&B,Unknown,2
 SHOO LOONG KAN 小龙坎火锅,F&B,Unknown,2
 Seoul Garden HOTPOT,F&B,Unknown,2
@@ -322,7 +336,6 @@ Menya Kokoro,F&B,Unknown,2
 FIVE GUYS,F&B,Foreign,2
 Epid’or,F&B,Unknown,2
 myEureka,F&B,Unknown,2
-Mamma Mia! Trattoria E Caffe,F&B,Unknown,2
 DaXi 大喜,F&B,Unknown,2
 50 年 Taste Of Tradition,F&B,Unknown,2
 85 Redhill Teochew Fishball Noodles,F&B,Unknown,2
@@ -332,14 +345,13 @@ Alchemist,F&B,Unknown,2
 KE MING 克茗冰室,F&B,Unknown,2
 Café&Meal MUJI,F&B,Unknown,2
 Brotzeit,F&B,Unknown,2
+Nespresso,F&B,Unknown,2
 XW Western Grill,F&B,Unknown,2
 Läderach Chocolatier Suisse,F&B,Unknown,2
 TWG Tea,F&B,Unknown,2
 ZOK NOODLE HOUSE 竹麵館(港澳),F&B,Unknown,2
-SURREY HILLS GROCER,F&B,Unknown,2
 Bacha Coffee,F&B,Unknown,2
 NamNam,F&B,Unknown,2
-Poulét,F&B,Unknown,2
 Tokyo Milk Cheese Factory,F&B,Unknown,2
 Gyukatsu Kyoto Katsugyu 牛かつ 京都勝牛,F&B,Unknown,2
 Vivino,F&B,Unknown,2
@@ -353,12 +365,10 @@ Curry Times,F&B,Singaporean,2
 Coffeesmith,F&B,Unknown,2
 TAN YU,F&B,Unknown,2
 Fong Sheng Hao,F&B,Unknown,2
-Nasty Cookie,F&B,Unknown,2
 Xi Men Jie,F&B,Unknown,2
 ZUS COFFEE,F&B,Unknown,2
 Rotiboy,F&B,Unknown,2
 Tonkotsu Kazan,F&B,Unknown,2
-GyoGyo,F&B,Unknown,2
 Dal.komm COFFEE,F&B,Unknown,2
 Lemonaide,F&B,Unknown,2
 Maji Curry,F&B,Unknown,2
@@ -371,7 +381,6 @@ HUGABO,F&B,Unknown,2
 Swee Heng 1989 Signature,F&B,Unknown,2
 Teppan-Yaki,F&B,Unknown,2
 The Dim Sum Place,F&B,Unknown,2
-SEOUL NOODLE SHOP,F&B,Unknown,2
 Country Brot by Four Leaves,F&B,Unknown,2
 Fruit Box,F&B,Unknown,2
 Hong Lim Curry Puff,F&B,Unknown,2
@@ -379,11 +388,13 @@ Koong Woh Tong,F&B,Unknown,2
 Ministry of Rojak,F&B,Unknown,2
 Namu Bulgogi,F&B,Unknown,2
 OMEGA PORK NOODLE,F&B,Unknown,2
+Riverside Canton Claypot Cuisine,F&B,Unknown,2
 Tangled,F&B,Unknown,2
 The Original Vadai,F&B,Unknown,2
 Tonkotsu Kazan Ramen,F&B,Unknown,2
 Xin Wang Hong Kong Café,F&B,Unknown,2
 XW Plus Western Grill,F&B,Unknown,2
+Yappari Steak,F&B,Unknown,2
 Au Croissant,F&B,Unknown,2
 Hototogisu Ramen,F&B,Unknown,2
 Paik's Noodle,F&B,Unknown,2
@@ -401,14 +412,19 @@ Jia Li Seafood Soup,F&B,Unknown,2
 Ramen Hitoyoshi,F&B,Unknown,2
 Beauty in The Pot,F&B,Unknown,2
 TORA-SAN,F&B,Unknown,2
-Brotzeit German Bier Bar & Restaurant,F&B,Unknown,2
+Veggie House,F&B,Unknown,2
+Chimichanga,F&B,Unknown,2
+Dancing Crab,F&B,Unknown,2
+Hokkaido-Ya,F&B,Unknown,2
+Jiak Ba Food Heaven 甲霸食堂,F&B,Unknown,2
+Kopitiam Food Hall,F&B,Unknown,2
+雙月 Moon Moon Food,F&B,Unknown,2
+农耕记 Nong Geng Ji,F&B,Unknown,2
 JASONS DELI,F&B,Unknown,2
 LÄDERACH (LADERACH),F&B,Unknown,2
 MARUTAMA RAMEN,F&B,Unknown,2
 POCHA! KOREAN STREET DINING,F&B,Unknown,2
-SEN-RYO,F&B,Unknown,2
 THE 1872 CLIPPER TEA CO.,F&B,Unknown,2
-A&W,F&B,Foreign,2
 Baba Nyonya,F&B,Unknown,2
 BHC Chicken,F&B,Unknown,2
 Imperial Treasure Super Peking Duck,F&B,Unknown,2
@@ -429,7 +445,6 @@ JI DE CHI & OTTER PIZZA,F&B,Unknown,2
 BAKEINC,F&B,Unknown,2
 HABIT,F&B,Unknown,2
 NATURE'S NUTRITION,F&B,Unknown,2
-VIETSMITH,F&B,Unknown,2
 ISHIRO FUSHION BOWL (TEMPORARILY CLOSED),F&B,Unknown,2
 MATSUKIYA,F&B,Unknown,2
 TSUJIRI PREMIUM,F&B,Unknown,2
@@ -453,7 +468,6 @@ Nong Geng Ji Hunan Home-Style Cuisine,F&B,Unknown,2
 Yi Zun Noodle,F&B,Unknown,2
 Compose Coffee,F&B,Unknown,2
 HarriAnns Nonya Table,F&B,Unknown,2
-Candy Empire,F&B,Unknown,2
 Ben's Cookies,F&B,Unknown,2
 SUPER SUB,F&B,Unknown,2
 COCA,F&B,Unknown,2
@@ -467,7 +481,6 @@ Old Seng Choong,F&B,Unknown,2
 Tofu G,F&B,Unknown,2
 HONEYWORLD®,F&B,Unknown,2
 SALADSTOP!,F&B,Unknown,2
-TCC – THE CONNOISSEUR CONCERTO,F&B,Unknown,2
 Kaeden Cafe,F&B,Unknown,1
 Pohang Seafood & Butchery,F&B,Unknown,1
 PINWEI MALA 品味麻辣,F&B,Unknown,1
@@ -496,7 +509,6 @@ PrimaDeli,F&B,Unknown,1
 COFFEESARANG,F&B,Unknown,1
 CRAVE/Stuff'd,F&B,Unknown,1
 KEBABCHI BIRYANI,F&B,Unknown,1
-PANDA CHAN SNACK,F&B,Unknown,1
 Toast & Roll,F&B,Unknown,1
 Ji Xiang Everton,F&B,Unknown,1
 Bibimbap! / Dosirak!,F&B,Unknown,1
@@ -527,7 +539,6 @@ Umeya,F&B,Unknown,1
 Pizza Maru,F&B,Unknown,1
 Pratunam Plus,F&B,Unknown,1
 Marutama Ra-men,F&B,Unknown,1
-Una Una,F&B,Unknown,1
 Ramen Champion,F&B,Unknown,1
 Meow Barbecue,F&B,Unknown,1
 LAU WANG CLAYPOT,F&B,Unknown,1
@@ -552,7 +563,6 @@ BBQ Box Prime,F&B,Unknown,1
 Monster Fish,F&B,Unknown,1
 Fu Lin Restaurant & Bar,F&B,Unknown,1
 Rico Rico,F&B,Unknown,1
-Seafood Paradise,F&B,Unknown,1
 Chapters by Drinks & Co.,F&B,Unknown,1
 Nana Thai Royale,F&B,Unknown,1
 Grand Konak Turkish and Lebanese Cuisine,F&B,Unknown,1
@@ -626,7 +636,6 @@ Tsuzumi Dango つづみ団子,F&B,Unknown,1
 M'Burger Inn,F&B,Unknown,1
 Asian Market Cafe,F&B,Unknown,1
 Hyang-To-Gol,F&B,Unknown,1
-Nespresso,F&B,Unknown,1
 Prego,F&B,Unknown,1
 Sufood,F&B,Unknown,1
 The Cookie Museum,F&B,Unknown,1
@@ -750,7 +759,6 @@ Joe & Dough,F&B,Unknown,1
 Komala's,F&B,Unknown,1
 Nakhon Kitchen,F&B,Unknown,1
 Pizza Nation,F&B,Unknown,1
-Riverside Canton Claypot Cuisine,F&B,Unknown,1
 Sakon Thai,F&B,Unknown,1
 Sakunthala's Restaurant,F&B,Unknown,1
 SEORAE Korean Charcoal BBQ,F&B,Unknown,1
@@ -763,7 +771,6 @@ The Kind Bowl,F&B,Unknown,1
 The SGFR Store,F&B,Unknown,1
 Tous les Jours,F&B,Foreign,1
 Xi Chuan Chuan 喜串串,F&B,Unknown,1
-Yappari Steak,F&B,Unknown,1
 YAYOI,F&B,Unknown,1
 Yummi House,F&B,Unknown,1
 Buddy Hoagies Café & Grill,F&B,Unknown,1
@@ -826,27 +833,42 @@ GoroGoro Steamboat & Korean Buffet,F&B,Unknown,1
 Gyushi,F&B,Unknown,1
 Ji Xiang Kueh,F&B,Unknown,1
 Song Gye Ok,F&B,Unknown,1
-Veggie House,F&B,Unknown,1
-HANS IM GLÜCK,F&B,Unknown,1
-Paik's Bibim,F&B,Unknown,1
-Bornga,F&B,Unknown,1
-SF Juice,F&B,Unknown,1
-Tajimaya Yakiniku / Suki-Ya KIN / MASH,F&B,Unknown,1
+A-ROY THAI,F&B,Unknown,1
+Alijiang Silk Road Cuisine and Western Mahua,F&B,Unknown,1
+Barossa Bar & Grill,F&B,Unknown,1
+Birds of Paradise Gelato Boutique,F&B,Unknown,1
+Bliss Nest Capsules,F&B,Unknown,1
+Boost Express,F&B,Unknown,1
+Brotzeit German Bier Bar & Restaurant,F&B,Unknown,1
+Chou Niang Jiu Niang 丑娘酒酿,F&B,Unknown,1
+Crystal Jade Pavilion,F&B,Unknown,1
+DaXi Taiwan Noodle & Dumpling,F&B,Unknown,1
+DipnDip,F&B,Unknown,1
+FËI ZAP MÂI LÄAN 肥汁米蘭,F&B,Unknown,1
+Fruit Paradise,F&B,Unknown,1
+Go Noodle House,F&B,Unknown,1
+Gyu-Kaku,F&B,Foreign,1
+HaiDiLao HotPot,F&B,Unknown,1
+SERVUS German Burger Grill,F&B,Unknown,1
+Kikanbo 鬼金棒 カラシビ味噌ら一麺,F&B,Unknown,1
+Kiwami Ramen & Teppan Bar,F&B,Unknown,1
+Marché Food Lovers' Place,F&B,Unknown,1
+Meow BBQ 猫抓烤肉,F&B,Unknown,1
+Mr Hainan 海南先生 - Hainan Cuisine,F&B,Unknown,1
+PappaRich,F&B,Foreign,1
 Project Acai,F&B,Unknown,1
-xxx123,F&B,Unknown,1
-Will this appear,F&B,Unknown,1
-Test 1206,F&B,Unknown,1
-Levi’s®,F&B,Foreign,1
-Halal Test,F&B,Unknown,1
-Earle Swensen's,F&B,Unknown,1
-Crystal Jade Dining IN,F&B,Unknown,1
-BT21 Bubble Squad Walk 2025 - Race Pack Collection & Race Day Carnival,F&B,Unknown,1
-1earn,F&B,Unknown,1
-谭木匠 Tan Mujiang,F&B,Unknown,1
-Testing 7,F&B,Unknown,1
-testing 4,F&B,Unknown,1
-Testing 3,F&B,Unknown,1
-Store Testing,F&B,Unknown,1
+Rollney,F&B,Unknown,1
+Saboten,F&B,Unknown,1
+SF Juice,F&B,Unknown,1
+Shabu Suki 99,F&B,Unknown,1
+Swensen’s Unlimited,F&B,Unknown,1
+The Original Beach Road Scissors Cut Curry Rice Since 1930,F&B,Unknown,1
+TheJellyHearts,F&B,Unknown,1
+Vicoletto Osteria,F&B,Unknown,1
+Waa Cow!,F&B,Unknown,1
+WHITE 三巴旺白米粉,F&B,Unknown,1
+Xin Yuan Ji Fish Soup Singapore 新源记,F&B,Unknown,1
+YANG MING SEAFOOD (KELONG),F&B,Unknown,1
 GATTEN SUSHI,F&B,Unknown,1
 KYO WATAMI,F&B,Unknown,1
 OSTERIA MOZZA,F&B,Unknown,1
@@ -898,7 +920,6 @@ Lotteria,F&B,Unknown,1
 Monarchs & Milkweed,F&B,Unknown,1
 Naixue,F&B,Unknown,1
 Nesuto,F&B,Unknown,1
-Nong Geng Ji,F&B,Unknown,1
 NY Char Grill,F&B,Unknown,1
 PAUL Bakery & Restaurant,F&B,Unknown,1
 Pop Play Planet Cafe,F&B,Unknown,1
@@ -920,7 +941,6 @@ Yun Nans,F&B,Unknown,1
 ARMOURY STEAKS AND CRAFT BEER,F&B,Unknown,1
 CAFE ONE O,F&B,Unknown,1
 CLAYFUL CAFE,F&B,Unknown,1
-DANCING CRAB,F&B,Unknown,1
 DE TASTE,F&B,Unknown,1
 FYP,F&B,Unknown,1
 GANGNAM STORY,F&B,Unknown,1
@@ -1025,7 +1045,6 @@ GWANGHWAMUN MIJIN,F&B,Unknown,1
 HELLU COFFEE,F&B,Unknown,1
 HUMMINGBIRD,F&B,Unknown,1
 IKKOTEN,F&B,Unknown,1
-JIAK BA FOOD HEAVEN,F&B,Unknown,1
 KEONBAE,F&B,Unknown,1
 KURA OYSTER & HIGHBALL BAR,F&B,Unknown,1
 MISS G'S GRILL & BAR,F&B,Unknown,1
@@ -1142,7 +1161,6 @@ Zhong Yan Tang,F&B,Unknown,1
 Bistro Box by Uncle Penyet,F&B,Unknown,1
 Hajime Tonkatsu & Ramen,F&B,Unknown,1
 Heavenly Wang,F&B,Singaporean,1
-Hokkaido-Ya,F&B,Unknown,1
 Koufu,F&B,Singaporean,1
 Nam Kee Pau & Hong Kong Egglet,F&B,Unknown,1
 Peach Garden,F&B,Unknown,1
@@ -1261,7 +1279,6 @@ Han's Union,F&B,Unknown,1
 Hand In Hand Peking Duck Restaurant,F&B,Unknown,1
 IKEA Swedish Restaurant and Bistro,F&B,Unknown,1
 Jack's Place Steak House & Restaurant,F&B,Unknown,1
-Kopitiam Food Hall,F&B,Unknown,1
 Pratunam by Soi Thai Soi Nice,F&B,Unknown,1
 Rumah Sayang,F&B,Unknown,1
 Sen Sen Sushi by DON DON DONKI,F&B,Unknown,1
@@ -1272,7 +1289,6 @@ Attap House,F&B,Unknown,1
 Bites by Scarlett,F&B,Unknown,1
 Chao Chao Xiang,F&B,Unknown,1
 Chen's,F&B,Unknown,1
-Chimichanga,F&B,Unknown,1
 Donburi King 爆爆王 ばくばくおう,F&B,Unknown,1
 elemen 元素™,F&B,Unknown,1
 Fisher King's Grill,F&B,Unknown,1
@@ -1432,7 +1448,6 @@ Hanare by Takayama,F&B,Unknown,1
 Hazuki Kaiseki,F&B,Unknown,1
 Kai Duck,F&B,Unknown,1
 Mizuki Sushi & Tempura,F&B,Unknown,1
-Moon Moon Food,F&B,Unknown,1
 Paradise Teochew Restaurant,F&B,Unknown,1
 Tampopo Grand Sushi & Shabu Shabu,F&B,Unknown,1
 Tampopo,F&B,Unknown,1
@@ -1456,190 +1471,203 @@ TungLok Peking Duck,F&B,Unknown,1
 UNATOTO,F&B,Unknown,1
 Watsons,Retail,Foreign,39
 Guardian,Retail,Foreign,36
-Eu Yan Sang,Retail,Singaporean,32
-LAC,Retail,Singaporean,30
-7-Eleven,Retail,Foreign,28
-FairPrice,Retail,Singaporean,25
-OWNDAYS,Retail,Foreign,25
+Eu Yan Sang,Retail,Singaporean,33
+LAC,Retail,Singaporean,31
+7-Eleven,Retail,Foreign,29
+FairPrice,Retail,Singaporean,27
+OWNDAYS,Retail,Foreign,26
+Skechers,Retail,Foreign,25
 OCBC,Retail,Singaporean,25
 kcuts,Retail,Singaporean,24
 Singtel,Retail,Singaporean,24
-Skechers,Retail,Foreign,24
-Challenger,Retail,Singaporean,23
-UNIQLO,Retail,Foreign,22
-Spectacle Hut,Retail,Singaporean,21
+Challenger,Retail,Singaporean,24
+UNIQLO,Retail,Foreign,23
+Spectacle Hut,Retail,Singaporean,22
 Pet Lovers Centre,Retail,Singaporean,20
+SK JEWELLERY,Retail,Singaporean,20
 HOCKHUA TONIC,Retail,Singaporean,19
-SK JEWELLERY,Retail,Singaporean,19
+UOB,Retail,Singaporean,18
 Clippers Barber,Retail,Singaporean,17
-Venus Beauty,Retail,Singaporean,16
-UOB,Retail,Singaporean,16
-Lenskart,Retail,Foreign,16
-CHARLES & KEITH,Retail,Singaporean,16
+Venus Beauty,Retail,Singaporean,17
+Lenskart,Retail,Foreign,17
+CHARLES & KEITH,Retail,Singaporean,17
+Aureus Academy,Retail,Singaporean,16
 Kskin,Retail,Singaporean,16
 Bata,Retail,Foreign,15
 Giordano,Retail,Foreign,15
+Goldheart,Retail,Singaporean,15
 Japan Home,Retail,Singaporean,15
+MINISO,Retail,Foreign,15
+The Body Shop,Retail,Foreign,15
 iStudio,Retail,Singaporean,15
+PANDORA,Retail,Foreign,15
 Pixie Nail Spa,Retail,Singaporean,15
-Goldheart,Retail,Singaporean,14
-Miniso,Retail,Foreign,14
+Unity,Retail,Singaporean,15
+Fun Claw,Retail,Singaporean,14
 Popular,Retail,Singaporean,14
-The Body Shop,Retail,Foreign,14
-Aureus Academy,Retail,Singaporean,14
-PANDORA,Retail,Foreign,14
-Unity,Retail,Singaporean,14
-Fun Claw,Retail,Singaporean,13
+Levi's,Retail,Foreign,14
 Beauty Language,Retail,Singaporean,13
 THEFACESHOP,Retail,Foreign,13
-Levi's,Retail,Foreign,13
 Xiaomi,Retail,Foreign,13
+adidas,Retail,Foreign,13
+Smiggle,Retail,Foreign,13
 My Digital Lock,Retail,Singaporean,12
 iORA,Retail,Singaporean,12
 epitex,Retail,Singaporean,12
 Gadget Mix,Retail,Singaporean,12
+Cotton On,Retail,Foreign,12
+Benjamin Barker,Retail,Singaporean,12
 OSIM,Retail,Singaporean,12
-Smiggle,Retail,Foreign,12
 Syoujin,Retail,Singaporean,11
 Young Hearts,Retail,Singaporean,11
 OPPO,Retail,Foreign,11
-adidas,Retail,Foreign,11
-Cotton On,Retail,Foreign,11
 HELEN,Retail,Singaporean,11
 MUJI,Retail,Foreign,11
-Benjamin Barker,Retail,Singaporean,11
+Kiehl's,Retail,Foreign,11
+Golden Village,Retail,Singaporean,11
+Crocs,Retail,Foreign,11
 The Green Party,Retail,Singaporean,11
 DON DON DONKI,Retail,Foreign,11
 Stalford Learning Centre,Retail,Singaporean,10
 Pierre Cardin,Retail,Foreign,10
 Japan IPL Express,Retail,Singaporean,10
+Nailz Gallery,Retail,Singaporean,10
 Valu$,Retail,Unknown,10
 Best Denki,Retail,Foreign,10
 Kiddy Palace,Retail,Singaporean,10
 Q & M Dental Surgery,Retail,Singaporean,10
 Lovisa,Retail,Foreign,10
+PEDRO,Retail,Singaporean,10
 DBS,Retail,Singaporean,10
-Kiehl's,Retail,Foreign,10
+HYSSES,Retail,Singaporean,10
 Nail Palace,Retail,Singaporean,10
-Golden Village,Retail,Singaporean,10
-Crocs,Retail,Foreign,10
+Sephora,Retail,Foreign,10
 Capitol Optical,Retail,Singaporean,10
 SkinGO!,Retail,Singaporean,10
 SKP,Retail,Singaporean,10
 Decathlon,Retail,Foreign,10
 G2000,Retail,Foreign,10
+Timezone,Retail,Foreign,10
 HOOGA,Retail,Singaporean,10
 Minmed Clinic,Retail,Singaporean,9
-Nailz Gallery,Retail,Singaporean,9
 EC House,Retail,Singaporean,9
 Sorella,Retail,Singaporean,9
-PEDRO,Retail,Singaporean,9
+Gain City,Retail,Singaporean,9
+Sans & Sans,Retail,Singaporean,9
+ASICS,Retail,Foreign,9
 "TOYS""R""US",Retail,Foreign,9
-HYSSES,Retail,Singaporean,9
+Samsonite,Retail,Foreign,9
+Stryv,Retail,Singaporean,9
 Mister Minit,Retail,Unknown,9
-Timezone,Retail,Foreign,9
 Swarovski,Retail,Foreign,9
 QB House,Retail,Foreign,9
 Xpressflower.com,Retail,Singaporean,8
-Gain City,Retail,Singaporean,8
 LANEIGE,Retail,Foreign,8
 Daiso,Retail,Foreign,8
-Sans & Sans,Retail,Singaporean,8
-ASICS,Retail,Foreign,8
-Sephora,Retail,Foreign,8
-Samsonite,Retail,Foreign,8
+Sunnystep,Retail,Singaporean,8
+Kaleido,Retail,Unknown,8
 Poh Heng Jewellery,Retail,Singaporean,8
 MoneyMax,Retail,Singaporean,8
-Stryv,Retail,Singaporean,8
+Ogawa,Retail,Singaporean,8
+Tech House,Retail,Singaporean,8
+Cotton On Kids,Retail,Foreign,8
+RAY-BAN,Retail,Foreign,8
+ECCO,Retail,Foreign,8
+L'OCCITANE,Retail,Foreign,8
+MANGO,Retail,Foreign,8
 Anytime Fitness,Retail,Foreign,8
 Kin Teck Tong,Retail,Singaporean,7
 Bank Of China,Retail,Foreign,7
 Wacoal,Retail,Foreign,7
+W OPTICS,Retail,Unknown,7
 Presto Drycleaners,Retail,Singaporean,7
 TAKA Jewellery,Retail,Singaporean,7
 V Medical Aesthetics & Laser Clinic,Retail,Singaporean,7
 PAZZION,Retail,Singaporean,7
-Sunnystep,Retail,Singaporean,7
+UNDER ARMOUR,Retail,Foreign,7
+Birkenstock,Retail,Foreign,7
 CS Fresh,Retail,Unknown,7
-Kaleido,Retail,Unknown,7
+prettyFIT,Retail,Unknown,7
+Stellar,Retail,Unknown,7
 KIMOJ,Retail,Unknown,7
 Rest N Go,Retail,Singaporean,7
-Ogawa,Retail,Singaporean,7
 Chomel,Retail,Singaporean,7
-Tech House,Retail,Singaporean,7
+PRISM+,Retail,Unknown,7
 SkinLab The Medical Spa,Retail,Singaporean,7
 INNISFREE,Retail,Foreign,7
 Raffles Medical,Retail,Singaporean,7
 Yun Nam Hair Care,Retail,Singaporean,7
 CARs International,Retail,Singaporean,7
-Cotton On Kids,Retail,Foreign,7
-RAY-BAN,Retail,Foreign,7
-ECCO,Retail,Foreign,7
-L'OCCITANE,Retail,Foreign,7
-MANGO,Retail,Foreign,7
+CHANEL,Retail,Foreign,7
 M&G LIFE,Retail,Foreign,7
 New York Skin Solutions,Retail,Singaporean,7
+"Love, Bonito",Retail,Singaporean,7
+Cheers,Retail,Unknown,7
 Concierge (Waterway Point),Retail,Unknown,7
 Tree Art,Retail,Unknown,6
 MINDCHAMPS PRESCHOOL,Retail,Unknown,6
-W Optics,Retail,Unknown,6
+Nailz Treats,Retail,Unknown,6
 Glimpse,Retail,Singaporean,6
 Nippon Home,Retail,Unknown,6
 Refash,Retail,Singaporean,6
+VIVAIA,Retail,Unknown,6
 Welcia,Retail,Foreign,6
+G-Shock Casio,Retail,Unknown,6
 The Wallet Shop,Retail,Unknown,6
-UNDER ARMOUR,Retail,Foreign,6
 Boarding Gate,Retail,Singaporean,6
-Birkenstock,Retail,Foreign,6
-prettyFIT,Retail,Unknown,6
+MONTIGO,Retail,Unknown,6
+SALOMON,Retail,Unknown,6
 Q & M Dental Centre,Retail,Unknown,6
-Stellar,Retail,Unknown,6
 Musee Platinum Tokyo,Retail,Foreign,6
-PRISM+,Retail,Unknown,6
+ANTA,Retail,Unknown,6
+Solace Studios,Retail,Unknown,6
 Maxi-Cash,Retail,Unknown,6
 HLA,Retail,Unknown,6
 Harvey Norman,Retail,Unknown,6
 LEGO Certified Store (Bricks World),Retail,Unknown,6
-CHANEL,Retail,Foreign,6
+Aesop,Retail,Unknown,6
+Calvin Klein,Retail,Foreign,6
+lululemon,Retail,Foreign,6
 Tissot,Retail,Foreign,6
+Mobilestop,Retail,Unknown,6
+RABEANCO,Retail,Unknown,6
 Better Vision,Retail,Unknown,6
 StarHub,Retail,Unknown,6
+FILA,Retail,Foreign,6
 Sparkle,Retail,Unknown,6
-"Love, Bonito",Retail,Singaporean,6
+Bath & Body Works,Retail,Unknown,6
 Home's Harmony,Retail,Unknown,6
-Cheers,Retail,Unknown,6
+SK Gold,Retail,Unknown,6
 Triumph,Retail,Unknown,6
 I Can Read,Retail,Unknown,6
 Cow Play Cow Moo,Retail,Unknown,6
-ZARA,Retail,Foreign,6
 Cold Storage,Retail,Unknown,5
+N20 Nail Spa,Retail,Unknown,5
 AGrader Learning Centre,Retail,Unknown,5
 BEGA,Retail,Unknown,5
-Nailz Treats,Retail,Unknown,5
+Samsung,Retail,Foreign,5
 NK Hairworks,Retail,Unknown,5
 Spacio TCM Wellness,Retail,Unknown,5
-VIVAIA,Retail,Unknown,5
 Eurotex,Retail,Unknown,5
 Mister Mobile,Retail,Unknown,5
 KKV,Retail,Foreign,5
 V Aesthetics Body Slim,Retail,Unknown,5
 ALDO,Retail,Unknown,5
-G-Shock Casio,Retail,Unknown,5
+Paris Miki,Retail,Unknown,5
 Recoil,Retail,Unknown,5
 Playdress,Retail,Unknown,5
 TRT,Retail,Unknown,5
 Anothersole,Retail,Unknown,5
-MONTIGO,Retail,Unknown,5
-SALOMON,Retail,Unknown,5
+CHOW TAI FOOK,Retail,Unknown,5
 The Stage Walk,Retail,Unknown,5
+Oh! Sunny,Retail,Unknown,5
+HSBC ATM,Retail,Unknown,5
 Novela,Retail,Unknown,5
 Sealy Sleep Boutique,Retail,Unknown,5
 Singapore Pools,Retail,Unknown,5
 ZTP Ginseng Birdnest,Retail,Unknown,5
 Shakura Pigmentation Beauty,Retail,Unknown,5
-ANTA,Retail,Unknown,5
 CFOOT,Retail,Unknown,5
-Solace Studios,Retail,Unknown,5
 Dunlopillo,Retail,Unknown,5
 Vivian & Sean,Retail,Unknown,5
 Pop Play Planet,Retail,Unknown,5
@@ -1648,27 +1676,27 @@ Garmin,Retail,Foreign,5
 Sinjojo,Retail,Unknown,5
 AsterSpring,Retail,Unknown,5
 POP MART,Retail,Foreign,5
-AESOP,Retail,Unknown,5
-Calvin Klein,Retail,Foreign,5
-lululemon,Retail,Foreign,5
+Tommy Hilfiger,Retail,Foreign,5
+Onitsuka Tiger,Retail,Unknown,5
 BOSS,Retail,Unknown,5
-Mobilestop,Retail,Unknown,5
-RABEANCO,Retail,Unknown,5
 COURTS,Retail,Unknown,5
-FILA,Retail,Foreign,5
-Bath & Body Works,Retail,Unknown,5
+Weston Corp,Retail,Unknown,5
+Love & Co.,Retail,Unknown,5
+Selffix DIY,Retail,Unknown,5
+Become Aesthetics Clinic,Retail,Unknown,5
+Oakley,Retail,Unknown,5
 Chiropractic First,Retail,Unknown,5
-SK Gold,Retail,Unknown,5
 Ms New,Retail,Unknown,5
 United Overseas Bank,Retail,Unknown,5
+Scarlett,Retail,Unknown,5
 London Weight Management,Retail,Unknown,5
+New Balance,Retail,Foreign,5
+ZARA,Retail,Foreign,5
 Shine Korea,Retail,Unknown,4
-N20 Nail Spa,Retail,Unknown,4
 FUJIFILM,Retail,Unknown,4
 Citibank ATM,Retail,Unknown,4
 H2 Hub Timepiece,Retail,Unknown,4
 Happy Walker,Retail,Unknown,4
-Samsung,Retail,Foreign,4
 Peniwern,Retail,Unknown,4
 Mavis Tutorial Centre,Retail,Unknown,4
 MyRepublic,Retail,Unknown,4
@@ -1679,12 +1707,11 @@ Fitness First,Retail,Unknown,4
 Jean Yip Hub,Retail,Unknown,4
 Kappa,Retail,Unknown,4
 M1,Retail,Singaporean,4
-Paris Miki,Retail,Unknown,4
 Longines,Retail,Foreign,4
-CHOW TAI FOOK,Retail,Unknown,4
-Oh! Sunny,Retail,Unknown,4
-HSBC ATM,Retail,Unknown,4
+Teva,Retail,Unknown,4
+ActionCity,Retail,Unknown,4
 Top Secret STUDIO,Retail,Unknown,4
+Couple Lab,Retail,Unknown,4
 Slumberland,Retail,Unknown,4
 Serta,Retail,Unknown,4
 Oriental Hair Solutions,Retail,Unknown,4
@@ -1708,24 +1735,23 @@ Strip & Browhaus,Retail,Unknown,4
 Komehyo,Retail,Unknown,4
 HONOR,Retail,Unknown,4
 APM Monaco,Retail,Unknown,4
+COS,Retail,Unknown,4
 FotoHub,Retail,Unknown,4
-Tommy Hilfiger,Retail,Foreign,4
-Onitsuka Tiger,Retail,Unknown,4
+Team Salon,Retail,Unknown,4
+FILA KIDS,Retail,Unknown,4
 TAG Heuer,Retail,Foreign,4
 Sam Edelman,Retail,Unknown,4
 Longchamp,Retail,Foreign,4
+Wilson,Retail,Unknown,4
 The Learning Lab,Retail,Unknown,4
-Love & Co.,Retail,Unknown,4
-SELFFIX DIY,Retail,Unknown,4
 The Ballet School,Retail,Unknown,4
 HUAWEI,Retail,Foreign,4
+WJL 永裕隆,Retail,Unknown,4
 Odoroki,Retail,Unknown,4
 The Planet Traveller,Retail,Unknown,4
-Become Aesthetics Clinic,Retail,Unknown,4
 Sa Sa,Retail,Unknown,4
 Chinese Medical Centre,Retail,Unknown,4
 Beyond The Vines,Retail,Singaporean,4
-Oakley,Retail,Unknown,4
 I'M IN,Retail,Unknown,4
 Chip Lee Jewellery,Retail,Unknown,4
 Jean Yip Hairdressing,Retail,Unknown,4
@@ -1734,19 +1760,24 @@ Samsung Experience Store,Retail,Unknown,4
 Teo Heng KTV Studio,Retail,Unknown,4
 WTS Travel,Retail,Unknown,4
 British Essential,Retail,Unknown,4
+EX Style,Retail,Unknown,4
 Hush Puppies,Retail,Unknown,4
 IVI Aesthetic,Retail,Unknown,4
+Strip,Retail,Unknown,4
 Sweet Home,Retail,Unknown,4
 The Orange Academy,Retail,Unknown,4
 Mind Stretcher,Retail,Unknown,4
-Scarlett,Retail,Unknown,4
+Apgujeong Hair Studio,Retail,Unknown,4
 Gifts Greetings,Retail,Unknown,4
 Play United,Retail,Unknown,4
 Repair Station,Retail,Unknown,4
+Burberry,Retail,Foreign,4
+Clarks,Retail,Foreign,4
 Coach,Retail,Foreign,4
+Polo Ralph Lauren,Retail,Unknown,4
+Prada,Retail,Foreign,4
 BIMBA Y LOLA,Retail,Unknown,4
 TUMI,Retail,Foreign,4
-New Balance,Retail,Foreign,4
 DR. STRETCH,Retail,Unknown,4
 MONOLOQ,Retail,Unknown,4
 MINDSPACE,Retail,Unknown,4
@@ -1767,31 +1798,33 @@ Aspire Hub Education,Retail,Unknown,3
 Dollars & Scent,Retail,Unknown,3
 Vintage Studio Hairdressing Spa,Retail,Unknown,3
 Beijing 101,Retail,Unknown,3
+Everbest,Retail,Unknown,3
 Books Kinokuniya,Retail,Unknown,3
 City Chain,Retail,Unknown,3
 Converse,Retail,Foreign,3
 Fred Perry,Retail,Unknown,3
 Gamemartz,Retail,Unknown,3
 Purpur,Retail,Unknown,3
-Teva,Retail,Unknown,3
 SneakSurf,Retail,Unknown,3
 QB Premium,Retail,Unknown,3
-ActionCity,Retail,Unknown,3
+Lee Hwa,Retail,Unknown,3
 Scent by SIX,Retail,Unknown,3
 ActionCity Plus,Retail,Unknown,3
 Nitori,Retail,Unknown,3
+UNBOTTLED,Retail,Unknown,3
 Running Lab,Retail,Unknown,3
 PEARLY LUSTRE,Retail,Unknown,3
 AXS Station,Retail,Unknown,3
+PUMA,Retail,Foreign,3
 YISHION,Retail,Unknown,3
 LAMY,Retail,Unknown,3
-Couple Lab,Retail,Unknown,3
 Lulucrystalsx,Retail,Unknown,3
 JF Elite,Retail,Unknown,3
 JUDYDOLL,Retail,Unknown,3
 Safewell,Retail,Unknown,3
 Simmons Gallery,Retail,Unknown,3
 Zero Healthcare,Retail,Unknown,3
+Prime Auto Care,Retail,Unknown,3
 Sea Horse,Retail,Unknown,3
 Futurum Academy,Retail,Unknown,3
 ALL WOULD ENVY,Retail,Unknown,3
@@ -1801,6 +1834,7 @@ Mobile Fashion,Retail,Unknown,3
 LA Barbershop,Retail,Unknown,3
 Myeongdong Hair Studio,Retail,Unknown,3
 Kimage,Retail,Unknown,3
+Crocodile,Retail,Unknown,3
 DMK,Retail,Unknown,3
 Estetica,Retail,Unknown,3
 Toy Outpost,Retail,Unknown,3
@@ -1814,7 +1848,6 @@ Meilleur Moment,Retail,Unknown,3
 V Aesthetics Hair Grow,Retail,Unknown,3
 The Digital Gadgets,Retail,Unknown,3
 Browhaus,Retail,Unknown,3
-COS,Retail,Unknown,3
 FRESH,Retail,Unknown,3
 GG<5,Retail,Unknown,3
 Giordano Ladies,Retail,Unknown,3
@@ -1822,7 +1855,6 @@ HAACH,Retail,Unknown,3
 iROO,Retail,Unknown,3
 Seafolly,Retail,Unknown,3
 GINLEE,Retail,Unknown,3
-TEAM Salon,Retail,Unknown,3
 Diptyque,Retail,Unknown,3
 GUERLAIN,Retail,Unknown,3
 GIVENCHY,Retail,Foreign,3
@@ -1830,12 +1862,9 @@ Jo Malone London,Retail,Unknown,3
 Gingersnaps,Retail,Unknown,3
 Liv Activ,Retail,Unknown,3
 Little Ground,Retail,Unknown,3
-FILA KIDS,Retail,Unknown,3
 Club21,Retail,Unknown,3
 By Invite Only,Retail,Unknown,3
-Wilson,Retail,Unknown,3
 Artary,Retail,Unknown,3
-Weston Corp,Retail,Unknown,3
 X-Craft,Retail,Unknown,3
 avenue,Retail,Unknown,3
 SHISEIDO,Retail,Unknown,3
@@ -1845,10 +1874,13 @@ Moley Apparels,Retail,Unknown,3
 CLARINS,Retail,Unknown,3
 SONY,Retail,Foreign,3
 1Gravity,Retail,Unknown,3
-WJL 永裕隆,Retail,Unknown,3
+DR. LASH,Retail,Unknown,3
+Dyson,Retail,Foreign,3
 Box Hunt,Retail,Unknown,3
 May Tailor & Laundry,Retail,Unknown,3
 Liang Yi (良医),Retail,Unknown,3
+DJI,Retail,Unknown,3
+LOJEL,Retail,Unknown,3
 Beijing 101 Hair Consultants,Retail,Unknown,3
 Kitchen+Ware,Retail,Unknown,3
 NTUC LearningHub,Retail,Unknown,3
@@ -1856,13 +1888,12 @@ Yale Smart Shop,Retail,Unknown,3
 Coslab,Retail,Unknown,3
 De Arte Hair Studio,Retail,Unknown,3
 Ex Beauty,Retail,Unknown,3
-EX Style,Retail,Unknown,3
+Fitflop,Retail,Unknown,3
 SHINE,Retail,Unknown,3
-Strip,Retail,Unknown,3
 The Flip Flop Shop,Retail,Unknown,3
 PlayFACTO School,Retail,Unknown,3
 POSB Bank,Retail,Unknown,3
-APGUJEONG HAIR STUDIO,Retail,Unknown,3
+ALUXE,Retail,Unknown,3
 Heart Springs Spa,Retail,Unknown,3
 Highlander London,Retail,Unknown,3
 Michael Trio,Retail,Unknown,3
@@ -1873,29 +1904,34 @@ Turtle,Retail,Unknown,3
 MediFeet,Retail,Unknown,3
 GLOBAL ART,Retail,Unknown,3
 Chrysalis Spa (Imago),Retail,Unknown,3
-TANGS,Retail,Unknown,3
-Massimo Dutti,Retail,Foreign,3
+Mondays Made,Retail,Unknown,3
+Amaris,Retail,Unknown,3
 H&M,Retail,Foreign,3
-Lush,Retail,Unknown,3
-NIKE,Retail,Foreign,3
-bloomB,Retail,Unknown,3
+Kate Spade New York,Retail,Unknown,3
+Lacoste,Retail,Unknown,3
+LUSH,Retail,Unknown,3
+Maison Margiela,Retail,Unknown,3
+Massimo Dutti,Retail,Foreign,3
+MLB,Retail,Foreign,3
+Rituals,Retail,Foreign,3
+Swatch,Retail,Foreign,3
+The Hour Glass,Retail,Singaporean,3
+The Shirt Bar,Retail,Unknown,3
+VALENTINO,Retail,Foreign,3
 1855 THE BOTTLE SHOP,Retail,Unknown,3
 CARTIER,Retail,Foreign,3
 CELINE,Retail,Foreign,3
-Clarks,Retail,Foreign,3
 DIOR,Retail,Foreign,3
 FENDI,Retail,Foreign,3
 GUCCI,Retail,Foreign,3
 Louis Vuitton,Retail,Foreign,3
 Marimekko,Retail,Unknown,3
-Prada,Retail,Foreign,3
 SAINT LAURENT,Retail,Foreign,3
 The Whisky Distillery,Retail,Unknown,3
 Tiffany & Co.,Retail,Foreign,3
 TUDOR,Retail,Foreign,3
 Van Cleef & Arpels,Retail,Foreign,3
 ZOFF,Retail,Unknown,3
-Polo Ralph Lauren,Retail,Unknown,3
 HANDS,Retail,Unknown,3
 KUMON LEARNING CENTRE,Retail,Unknown,3
 HOUSE OF TRADITIONAL JAVANESE MASSAGE,Retail,Unknown,3
@@ -1904,7 +1940,6 @@ POSB,Retail,Unknown,3
 TK TrichoKare,Retail,Unknown,3
 homestolife,Retail,Unknown,3
 Fossil,Retail,Foreign,3
-Burberry,Retail,Foreign,3
 The Clinic Group,Retail,Unknown,2
 The Ark Futsal,Retail,Unknown,2
 FAT HOPE,Retail,Unknown,2
@@ -1917,11 +1952,11 @@ Kawata House of Socks,Retail,Unknown,2
 Echo,Retail,Unknown,2
 Dr J,Retail,Unknown,2
 D & C (Design & Comfort),Retail,Unknown,2
+Jean Yip Hair & Hair Spa,Retail,Unknown,2
 Play-e,Retail,Unknown,2
 ValueLux Furnishing,Retail,Unknown,2
 OTO,Retail,Unknown,2
 99 PERCENT HAIR STUDIO,Retail,Unknown,2
-EVERBEST,Retail,Unknown,2
 All Watches,Retail,Unknown,2
 Another One,Retail,Unknown,2
 Bratpack,Retail,Unknown,2
@@ -1929,21 +1964,21 @@ Raffles Florist,Retail,Unknown,2
 Shu Uemura,Retail,Unknown,2
 Life4Cut,Retail,Unknown,2
 NB 1906,Retail,Unknown,2
+EICHITOO,Retail,Unknown,2
 FILA FUSION,Retail,Unknown,2
 NARS,Retail,Unknown,2
 MAD PARFUMEUR,Retail,Unknown,2
 Y21,Retail,Unknown,2
-Lee Hwa,Retail,Unknown,2
 Eyedentity,Retail,Unknown,2
-UNBOTTLED,Retail,Unknown,2
-PUMA,Retail,Foreign,2
 Shadori,Retail,Unknown,2
 KBOX,Retail,Unknown,2
 LI-NING,Retail,Unknown,2
 JD Sports,Retail,Unknown,2
 Flying Tiger Copenhagen,Retail,Unknown,2
+Connor,Retail,Unknown,2
 The Smell Lab,Retail,Unknown,2
 Zouk,Retail,Unknown,2
+Natureland Spa . Therapy,Retail,Unknown,2
 K.STAR KARAOKE,Retail,Unknown,2
 Maybank ATM,Retail,Unknown,2
 PUMA Outlet,Retail,Unknown,2
@@ -1959,7 +1994,6 @@ Chou Niang Jiu Niang,Retail,Unknown,2
 YEAH GELATO 野人先生,Retail,Unknown,2
 BYD BY 1826,Retail,Unknown,2
 iBrow Studio,Retail,Unknown,2
-Prime Auto Care,Retail,Unknown,2
 Regina,Retail,Unknown,2
 Tracyeinny,Retail,Unknown,2
 BOLON,Retail,Unknown,2
@@ -1973,7 +2007,6 @@ Mobile Life,Retail,Unknown,2
 RANDY INDULGENCE ACAI BAR,Retail,Unknown,2
 Ian Darcy EAU DE PARFUM,Retail,Unknown,2
 The Underground,Retail,Unknown,2
-Crocodile,Retail,Unknown,2
 INI8TIVE,Retail,Unknown,2
 COTTON ON BODY,Retail,Foreign,2
 My Greatest Child,Retail,Unknown,2
@@ -1985,6 +2018,7 @@ Nails & Good Company,Retail,Unknown,2
 From There On,Retail,Unknown,2
 LUX BOUTIQUE,Retail,Unknown,2
 COCORO,Retail,Unknown,2
+balabala,Retail,Unknown,2
 Karva Salon for Family,Retail,Unknown,2
 Insta360,Retail,Unknown,2
 Hunter,Retail,Unknown,2
@@ -1999,6 +2033,7 @@ Zhong Yan Tang 中燕堂,Retail,Unknown,2
 TOY-C,Retail,Unknown,2
 Bellezza Aesthetics,Retail,Unknown,2
 Bio Organicare,Retail,Unknown,2
+Adore Cosmetics,Retail,Unknown,2
 Cortina Watch,Retail,Singaporean,2
 DR HAACH,Retail,Unknown,2
 Forever New,Retail,Unknown,2
@@ -2031,27 +2066,28 @@ My Gym,Retail,Unknown,2
 Scanteak Signature,Retail,Unknown,2
 STAR ARTS,Retail,Unknown,2
 Sulwhasoo,Retail,Unknown,2
+Zoomoov,Retail,Unknown,2
 K.LAB,Retail,Unknown,2
 Multiflora TCM Spa,Retail,Unknown,2
 Write Edge,Retail,Unknown,2
-DR. LASH,Retail,Unknown,2
 Dreame,Retail,Unknown,2
 20dB Digisound,Retail,Unknown,2
 Jean Yip Beauty & Slimming,Retail,Unknown,2
-Dyson,Retail,Foreign,2
 CocoArt,Retail,Unknown,2
 Arch Angel,Retail,Unknown,2
 52TOYS,Retail,Unknown,2
 BOSE,Retail,Foreign,2
 Climb Central,Retail,Unknown,2
+Koong Woh Tong,Retail,Unknown,2
 Barehands,Retail,Unknown,2
 Brompton Junction,Retail,Unknown,2
-DJI,Retail,Unknown,2
-LOJEL,Retail,Unknown,2
+JD,Retail,Unknown,2
+Elite Supplements,Retail,Unknown,2
 Bites By Scarlett,Retail,Unknown,2
 Customer Service Counter (Causeway Point),Retail,Unknown,2
 Dr. Kong,Retail,Unknown,2
 Eazea Smart Lock,Retail,Unknown,2
+Joyre TCMedi Clinic,Retail,Unknown,2
 Ma Kuang TCM,Retail,Unknown,2
 Metro,Retail,Singaporean,2
 Owell BodyCare,Retail,Unknown,2
@@ -2061,7 +2097,6 @@ Winning,Retail,Unknown,2
 Berries World of Learning School,Retail,Unknown,2
 De Silver,Retail,Unknown,2
 Dorra Slimming,Retail,Unknown,2
-Fitflop,Retail,Unknown,2
 Fortune Wigs,Retail,Unknown,2
 Hang Ten,Retail,Unknown,2
 K-Market,Retail,Unknown,2
@@ -2075,8 +2110,8 @@ Bolon Eyewear,Retail,Unknown,2
 Freeman Florist,Retail,Unknown,2
 ICBC,Retail,Foreign,2
 One2Play,Retail,Unknown,2
+The Pet Safari,Retail,Unknown,2
 ALLU,Retail,Unknown,2
-ALUXE,Retail,Unknown,2
 BodyWerkz,Retail,Unknown,2
 Cube-i,Retail,Unknown,2
 Happie,Retail,Unknown,2
@@ -2086,6 +2121,7 @@ Milly’s,Retail,Unknown,2
 OH!SOME,Retail,Unknown,2
 Strip / Browhaus,Retail,Unknown,2
 The s.k.MED Clinic,Retail,Unknown,2
+3TMOBILESTORY,Retail,Unknown,2
 Cheryl W,Retail,Unknown,2
 Glamour + Nail.Lash.Brow Studio,Retail,Unknown,2
 ICON Aesthetics,Retail,Unknown,2
@@ -2111,10 +2147,36 @@ Jullia Olger,Retail,Unknown,2
 Junior Page,Retail,Unknown,2
 JustCo,Retail,Unknown,2
 Kawai Music School,Retail,Unknown,2
-Mondays Made,Retail,Unknown,2
 Pavonine House,Retail,Unknown,2
 Hom Yoga,Retail,Unknown,2
 Little Farms (Cafe),Retail,Unknown,2
+Nam Kee Pau,Retail,Singaporean,2
+BLÉ DE FONTY,Retail,Unknown,2
+Braun Büffel,Retail,Unknown,2
+BYD,Retail,Unknown,2
+Click – Photo Ideas,Retail,Unknown,2
+Daiso Japan,Retail,Unknown,2
+DENIM D'Artisan,Retail,Unknown,2
+Desigual,Retail,Unknown,2
+Diamond2®,Retail,Unknown,2
+Foot Locker,Retail,Foreign,2
+GOLDLION,Retail,Unknown,2
+JUNGSAEMMOOL,Retail,Unknown,2
+LA Barbershop / LA Cowboy Kids,Retail,Unknown,2
+LOVET,Retail,Singaporean,2
+Michael Kors,Retail,Foreign,2
+motherlove,Retail,Unknown,2
+Parfums Christian Dior,Retail,Unknown,2
+Pramwash,Retail,Unknown,2
+Seiko,Retail,Foreign,2
+Sole Lovers,Retail,Unknown,2
+Standard Chartered Bank,Retail,Unknown,2
+Stuff'd,Retail,Singaporean,2
+TANGS,Retail,Unknown,2
+THE NORTH FACE,Retail,Foreign,2
+The Paper Bunny,Retail,Unknown,2
+Watches of Switzerland,Retail,Unknown,2
+Yong Kang TCM Clinic,Retail,Unknown,2
 BUCCELLATI,Retail,Unknown,2
 HERMÈS (HERMES),Retail,Foreign,2
 JAEGER-LECOULTRE,Retail,Unknown,2
@@ -2136,13 +2198,11 @@ HUBLOT,Retail,Foreign,2
 IWC SCHAFFHAUSEN,Retail,Unknown,2
 LA MER,Retail,Unknown,2
 LA PRAIRIE,Retail,Unknown,2
-LACOSTE,Retail,Unknown,2
 LEICA,Retail,Unknown,2
 LOEWE,Retail,Foreign,2
 LORO PIANA,Retail,Unknown,2
 MAJE,Retail,Unknown,2
 MASTER-FIX SERVICES,Retail,Unknown,2
-MLB,Retail,Foreign,2
 NATURELAND SPA. PREMIUM,Retail,Unknown,2
 OMEGA,Retail,Foreign,2
 PANERAI,Retail,Foreign,2
@@ -2150,23 +2210,17 @@ PATEK PHILIPPE,Retail,Foreign,2
 PIAGET,Retail,Foreign,2
 PICOTA NAIL SPA,Retail,Unknown,2
 RED ARMY WATCHES,Retail,Unknown,2
-RITUALS,Retail,Foreign,2
 ROYAL SELANGOR,Retail,Unknown,2
 SANDRO,Retail,Unknown,2
 SUNGLASS HUT,Retail,Unknown,2
-SWATCH,Retail,Foreign,2
 VACHERON CONSTANTIN,Retail,Unknown,2
-VALENTINO,Retail,Foreign,2
-Amaris,Retail,Unknown,2
 Apple,Retail,Foreign,2
 AWHSOME by Hyggerium,Retail,Unknown,2
 Columbia,Retail,Foreign,2
 Cuttour Hair Studio,Retail,Unknown,2
 Grand Seiko,Retail,Unknown,2
-Kate Spade New York,Retail,Unknown,2
 Le Petit Society,Retail,Unknown,2
-Maison Margiela,Retail,Unknown,2
-The Shirt Bar,Retail,Unknown,2
+Nike,Retail,Foreign,2
 ORGANIC HAIR REGROWTH SOLUTIONS,Retail,Unknown,2
 AUBE BEAUTY SALON,Retail,Unknown,2
 ISLAND SHOP,Retail,Unknown,2
@@ -2226,6 +2280,7 @@ LIOU&LANS,Retail,Unknown,2
 Melissa,Retail,Unknown,2
 Smigy,Retail,Unknown,2
 Balenciaga,Retail,Foreign,2
+bloomB,Retail,Unknown,2
 BOGGI Milano,Retail,Unknown,2
 Bottega Veneta,Retail,Foreign,2
 Brunello Cucinelli,Retail,Foreign,2
@@ -2244,7 +2299,6 @@ Petit Bateau,Retail,Unknown,2
 Ralph Lauren Children,Retail,Unknown,2
 Sandbar,Retail,Unknown,2
 SEED Heritage,Retail,Unknown,2
-The Hour Glass,Retail,Singaporean,2
 Versace,Retail,Foreign,2
 Zegna,Retail,Unknown,2
 Nailz Haus,Retail,Unknown,2
@@ -2299,7 +2353,6 @@ kcuts & Kskin,Retail,Unknown,1
 JasonSally Hairdressers,Retail,Unknown,1
 Wellspring Wellness 康园养生屋,Retail,Unknown,1
 BP Brow & Lash,Retail,Unknown,1
-Jean Yip Hair & Hair Spa,Retail,Unknown,1
 FIRMAN SHAH (Money Changer),Retail,Unknown,1
 JHL TCM Beauty,Retail,Unknown,1
 I.E.F.SG,Retail,Unknown,1
@@ -2334,7 +2387,6 @@ JET'AMINE,Retail,Unknown,1
 SPERRY,Retail,Unknown,1
 hairz,Retail,Unknown,1
 MOWE,Retail,Unknown,1
-EICHITOO,Retail,Unknown,1
 SK-II at BHG,Retail,Unknown,1
 Heart To Heart Jewellery,Retail,Unknown,1
 SKINARMA,Retail,Unknown,1
@@ -2381,7 +2433,6 @@ HaveFun Karaoke,Retail,Unknown,1
 Odoroki / FUN CLAW,Retail,Unknown,1
 THE INN LIVEHOUSE,Retail,Unknown,1
 EBLACKBOX,Retail,Unknown,1
-Connor,Retail,Unknown,1
 GG GAMER’S GUILD,Retail,Unknown,1
 BLOOM & BOOM,Retail,Unknown,1
 STICKS & STONES,Retail,Unknown,1
@@ -2390,7 +2441,6 @@ Phuture,Retail,Unknown,1
 Mimi Restaurant,Retail,Unknown,1
 Zorba the Greek Taverna,Retail,Unknown,1
 Corinthians Asia Group (Office),Retail,Unknown,1
-Natureland Spa . Therapy,Retail,Unknown,1
 Lil Dublin,Retail,Unknown,1
 Swee Lee,Retail,Unknown,1
 Fort Canine Swimming Club,Retail,Unknown,1
@@ -2594,7 +2644,6 @@ PURE SALON AND SPA,Retail,Unknown,1
 Life4Cuts,Retail,Unknown,1
 chicco,Retail,Unknown,1
 The individual society,Retail,Unknown,1
-balabala,Retail,Unknown,1
 BECOME Aesthetics Clinics,Retail,Unknown,1
 "Analisa, The Perfumers' Album, PARIS",Retail,Unknown,1
 KIRAME,Retail,Unknown,1
@@ -2622,7 +2671,6 @@ T-Swirl Crepe,Retail,Unknown,1
 Que Sera Vintage,Retail,Unknown,1
 kizik,Retail,Unknown,1
 FullOut,Retail,Unknown,1
-Adore Cosmetics,Retail,Unknown,1
 Yamaha Creators’ Crossing,Retail,Unknown,1
 Roryland,Retail,Unknown,1
 The Kind Wash,Retail,Unknown,1
@@ -2715,7 +2763,6 @@ Fitness First Platinum,Retail,Unknown,1
 ORO GOLD Cosmetics,Retail,Unknown,1
 Unionware,Retail,Unknown,1
 Million Dollar Exchange,Retail,Unknown,1
-Zoomoov,Retail,Unknown,1
 REDMAN by Phoon Huat,Retail,Unknown,1
 Nuffield Dental Westgate,Retail,Unknown,1
 Queen College,Retail,Unknown,1
@@ -2747,7 +2794,6 @@ Drumstruck Studios,Retail,Unknown,1
 Expressions,Retail,Unknown,1
 Herschel,Retail,Unknown,1
 Iuiga,Retail,Unknown,1
-Koong Woh Tong,Retail,Unknown,1
 T K FOTO,Retail,Unknown,1
 TFX,Retail,Unknown,1
 The Green Capsule,Retail,Unknown,1
@@ -2777,7 +2823,6 @@ Omnidesk,Retail,Unknown,1
 Astute Medical Clinic,Retail,Unknown,1
 Alchemist & Arcade,Retail,Unknown,1
 Hallyu Hair,Retail,Unknown,1
-JD,Retail,Unknown,1
 Nikon Experience Hub,Retail,Unknown,1
 Sonata Dancewear,Retail,Unknown,1
 The Experts Sound,Retail,Unknown,1
@@ -2786,7 +2831,6 @@ RazerStore,Retail,Unknown,1
 Ace Club Tennis,Retail,Unknown,1
 madeyoulook,Retail,Unknown,1
 US Pizza,Retail,Unknown,1
-Elite Supplements,Retail,Unknown,1
 Ning,Retail,Unknown,1
 Pure K 纯K,Retail,Unknown,1
 allbirds,Retail,Unknown,1
@@ -2810,7 +2854,6 @@ Fujitec,Retail,Unknown,1
 GK Global,Retail,Unknown,1
 Ilham Empire,Retail,Unknown,1
 JML,Retail,Unknown,1
-Joyre TCMedi Clinic,Retail,Unknown,1
 Lifexp,Retail,Unknown,1
 Luxebags,Retail,Unknown,1
 Mabel Story,Retail,Unknown,1
@@ -2892,7 +2935,6 @@ Raffles Medical / Raffles Children's Centre,Retail,Unknown,1
 Sciencewerkz by Stalford,Retail,Unknown,1
 Shugar Spa,Retail,Unknown,1
 Smile Doctor Dentalcare @ Punggol Waterway,Retail,Unknown,1
-The Pet Safari,Retail,Unknown,1
 THEGREYSPACE.CO,Retail,Unknown,1
 Thomson Paediatric Centre & Thomson Chinese Medicine,Retail,Unknown,1
 Thomson Women’s Clinic,Retail,Unknown,1
@@ -2927,7 +2969,6 @@ Skin Labo,Retail,Unknown,1
 Sothys,Retail,Unknown,1
 The Moments,Retail,Unknown,1
 Venus Tears,Retail,Unknown,1
-3TMOBILESTORY,Retail,Unknown,1
 All Best Air-Conditioning,Retail,Unknown,1
 Beauty Essentials,Retail,Unknown,1
 Cash Lux,Retail,Unknown,1
@@ -3066,44 +3107,68 @@ Crystal Wines,Retail,Unknown,1
 Elegant Nails,Retail,Unknown,1
 GreenLeiF,Retail,Unknown,1
 LR Boulangerie,Retail,Unknown,1
-Nam Kee Pau,Retail,Singaporean,1
 Natureland Massage & Therapy,Retail,Unknown,1
 Phat Burger Bro,Retail,Unknown,1
 Sabai Sabai Thai Private Kitchen,Retail,Unknown,1
 Starbucks,Retail,Foreign,1
 The Achievers’ Learning Place,Retail,Unknown,1
 Vets for Life Animal Clinic,Retail,Unknown,1
-Zara Men,Retail,Unknown,1
+Adonis,Retail,Unknown,1
+Ah Mah Homemade Cake,Retail,Unknown,1
+AIBI,Retail,Unknown,1
+andar,Retail,Unknown,1
+Auntie Anne's,Retail,Foreign,1
+BEARD PAPA'S,Retail,Foreign,1
+Ben & Jerry's,Retail,Unknown,1
+Billabong,Retail,Unknown,1
+BreadTalk,Retail,Singaporean,1
+CFC Chicken,Retail,Unknown,1
+Chloé Atelier des Fleurs,Retail,Unknown,1
+DBS ATM & DBS Cash Deposit Machine,Retail,Unknown,1
+Dental on the Bay,Retail,Unknown,1
+DOUGH MAGIC 扑面而来,Retail,Unknown,1
+Eat Pizza,Retail,Unknown,1
+ELEVATIONE™,Retail,Unknown,1
 Fabindia,Retail,Unknown,1
-Lee Hwa Diamond Atelier,Retail,Unknown,1
-[RDM] New Sharepoint API Key,Retail,Unknown,1
-VIP Parking Zone,Retail,Unknown,1
-Victoria's Secret and Pink by Victoria's Secret,Retail,Unknown,1
-Twister,Retail,Unknown,1
-Transformer,Retail,Unknown,1
-The Polliwogs,Retail,Unknown,1
-The Lion King Story,Retail,Unknown,1
-The Game of Life,Retail,Unknown,1
-TEST002Bags,Retail,Unknown,1
-Test Store Pay Configurations,Retail,Unknown,1
-test store again for configurations,Retail,Unknown,1
-Test Store,Retail,Unknown,1
-Store without unit number,Retail,Unknown,1
-Store Mapping Store (Zara),Retail,Unknown,1
-Pull&Bear,Retail,Foreign,1
-Play-Doh,Retail,Unknown,1
-Planet of Play,Retail,Unknown,1
-New Store Test,Retail,Unknown,1
-NERF,Retail,Unknown,1
-My Little Pony,Retail,Unknown,1
-Monopoly,Retail,Unknown,1
-Hungry Hungry Hippo,Retail,Unknown,1
-EsBoudoir,Retail,Unknown,1
-Demo Store for Demo,Retail,Unknown,1
-Connect 4,Retail,Unknown,1
-6IXTY8IGHT,Retail,Unknown,1
-Testing 2,Retail,Unknown,1
+Fragrance,Retail,Unknown,1
+Future State,Retail,Unknown,1
+GG,Retail,Unknown,1
+Giraffa,Retail,Unknown,1
+GRATiAE,Retail,Unknown,1
+Han Flowers,Retail,Unknown,1
+Himalayan Salt Spa by GRATiAE,Retail,Unknown,1
+Kazo,Retail,Unknown,1
+Krispy Kreme,Retail,Foreign,1
+L.E. Underground,Retail,Unknown,1
 library@harbourfront,Retail,Unknown,1
+Maybank ATM & Cash Deposit Machine,Retail,Unknown,1
+McHugs,Retail,Unknown,1
+M.G.M Foreign Exchange,Retail,Unknown,1
+Mr.Onigiri,Retail,Unknown,1
+Naomi,Retail,Unknown,1
+NEW ERA,Retail,Unknown,1
+Old Chang Kee,Retail,Singaporean,1
+Pastago and CHICHA San Chen,Retail,Unknown,1
+PLAYe,Retail,Unknown,1
+Polar Puffs & Cakes,Retail,Singaporean,1
+Potato Corner,Retail,Foreign,1
+RINA LEE,Retail,Unknown,1
+Rising Money Exchange,Retail,Unknown,1
+San.wich by Swee Heng,Retail,Unknown,1
+Seremban Kee Mei Siew Pow,Retail,Unknown,1
+SPLATTIFY,Retail,Unknown,1
+Steve Madden,Retail,Unknown,1
+TALAD THAI BANANA ตลาดไทย,Retail,Foreign,1
+谭木匠 Tan Mujiang,Retail,Unknown,1
+The French American Bakery,Retail,Unknown,1
+Tsuzumi Dango つづみ団子,Retail,Unknown,1
+Venchi,Retail,Unknown,1
+Victoria's Secret and Pink by Victoria's Secret,Retail,Unknown,1
+WOK HEY,Retail,Singaporean,1
+Yamazaki,Retail,Unknown,1
+幺社宠物 YAOSHE HUB,Retail,Unknown,1
+Yeti,Retail,Unknown,1
+Z T P Ginseng Birdnest,Retail,Unknown,1
 BUBEN & ZORWEG,Retail,Unknown,1
 YUTOPIA,Retail,Unknown,1
 CHALLENGER B3,Retail,Unknown,1
@@ -3123,7 +3188,6 @@ CLUB MONACO,Retail,Unknown,1
 COULISSE HEIR,Retail,Unknown,1
 CRUMPLER,Retail,Unknown,1
 CURIOUS CREATURES,Retail,Unknown,1
-DESIGUAL,Retail,Unknown,1
 DIOR PRESTIGE LA SUITE,Retail,Unknown,1
 ELEMIS LONDON,Retail,Unknown,1
 ENVIE DE POIS,Retail,Unknown,1
@@ -3139,20 +3203,17 @@ I-PRIMO,Retail,Unknown,1
 IN GOOD COMPANY,Retail,Singaporean,1
 JENNIFER GREEN,Retail,Unknown,1
 JERIC SALON,Retail,Unknown,1
-JUNGSAEMMOOL,Retail,Unknown,1
 KATE SPADE,Retail,Foreign,1
 KERASTASE,Retail,Unknown,1
 KIPLING,Retail,Unknown,1
 LEE HWA DIAMOND PROMENADE,Retail,Unknown,1
 LEGO,Retail,Foreign,1
-LOVET,Retail,Singaporean,1
 MAX&CO.,Retail,Unknown,1
 MIZU AESTHETIC CLINIC + AERAS,Retail,Unknown,1
 MONICA VINADER,Retail,Unknown,1
 NESPRESSO,Retail,Unknown,1
 OPERA GALLERY,Retail,Unknown,1
 OPTICAL 88 PREMIER,Retail,Unknown,1
-PARFUMS CHRISTIAN DIOR,Retail,Unknown,1
 PROOF LIVING,Retail,Unknown,1
 PULSE+ALLIED HEALTH CLINIC / PULSE TCM CLINIC,Retail,Unknown,1
 RISIS,Retail,Unknown,1
@@ -3163,7 +3224,6 @@ SPA ELEMENTS,Retail,Unknown,1
 STEINWAY & SONS,Retail,Unknown,1
 SUPERGA,Retail,Unknown,1
 TAKA JEWELLERY TREASURES,Retail,Unknown,1
-THE NORTH FACE,Retail,Foreign,1
 THE OAK CELLARS,Retail,Unknown,1
 THE ONITSUKA,Retail,Unknown,1
 V-ZUG,Retail,Unknown,1
@@ -3179,7 +3239,6 @@ Buttonscarves,Retail,Unknown,1
 CAPSULE by Watches of Switzerland,Retail,Unknown,1
 Dyson Demo Store Service Centre,Retail,Unknown,1
 Fila Flagship S.E.A,Retail,Unknown,1
-Foot Locker,Retail,Foreign,1
 Fragrance Bak Kwa,Retail,Unknown,1
 Gift by Changi Airport,Retail,Unknown,1
 GODIVA Chocolatier,Retail,Unknown,1
@@ -3595,7 +3654,6 @@ The Remote Control House,Retail,Unknown,1
 Calista Fashion,Retail,Unknown,1
 Clovers,Retail,Unknown,1
 Coo. Seoul+,Retail,Unknown,1
-Goldlion,Retail,Unknown,1
 Lady Z,Retail,Unknown,1
 Lilian Select,Retail,Unknown,1
 Pandora Jewelry,Retail,Unknown,1
@@ -3644,7 +3702,6 @@ Point Medical Group,Retail,Unknown,1
 Singpost,Retail,Unknown,1
 The SGFR Store,Retail,Unknown,1
 Vision Exchange,Retail,Unknown,1
-Yong Kang TCM Clinic,Retail,Unknown,1
 Donna Aesthetics/ La Vida/ Nailz Haus/ HGs,Retail,Unknown,1
 ECOK. CHARCOALHOUSE,Retail,Unknown,1
 Fight Zone,Retail,Unknown,1
@@ -3727,7 +3784,6 @@ Sciencetopia,Retail,Unknown,1
 Sealy,Retail,Unknown,1
 SingHear Tinnitus and Hearing Specialists,Retail,Unknown,1
 Sparkanauts,Retail,Unknown,1
-Stuff'd,Retail,Singaporean,1
 The Logic Coders,Retail,Unknown,1
 The Spa-Lon,Retail,Unknown,1
 The Write Connection,Retail,Unknown,1
@@ -3762,7 +3818,6 @@ LG Subscribe™,Retail,Unknown,1
 ViewQwest,Retail,Unknown,1
 AWENQIQI,Retail,Unknown,1
 Barani,Retail,Unknown,1
-Braun Büffel,Retail,Unknown,1
 Chaut Fifth,Retail,Unknown,1
 D&C Design & Comfort,Retail,Unknown,1
 DELSEY PARIS,Retail,Unknown,1
@@ -3809,7 +3864,6 @@ SuperPark Singapore,Retail,Unknown,1
 AXS Station 2,Retail,Unknown,1
 Bells Baking Studio,Retail,Unknown,1
 Bethesda Medical Centre,Retail,Unknown,1
-BYD,Retail,Unknown,1
 Central Exchange Money Changer,Retail,Unknown,1
 Crawfurd Medical,Retail,Unknown,1
 DONGFENG Volt Auto,Retail,Unknown,1
@@ -3832,14 +3886,12 @@ MST Athleisure Wear,Retail,Unknown,1
 MST GOLF Superstore,Retail,Unknown,1
 AAPE STORE,Retail,Unknown,1
 Belle & Kate,Retail,Unknown,1
-Blé de Fonty,Retail,Unknown,1
 By Invite Only Jewellery,Retail,Unknown,1
 CHASEYCHARM,Retail,Unknown,1
 Chota House,Retail,Unknown,1
 ConnectIT by Jade Gift Shop,Retail,Unknown,1
 Deen Exchange,Retail,Unknown,1
 Deen Express,Retail,Unknown,1
-Denim D'Artisan,Retail,Unknown,1
 DRx Medispa,Retail,Unknown,1
 ECLAIRE & SAVOIR,Retail,Unknown,1
 Eclat By Oui,Retail,Unknown,1
@@ -3880,9 +3932,7 @@ Natural Wild Honey,Retail,Unknown,1
 Naturalizer,Retail,Unknown,1
 Royce Dental Surgery,Retail,Unknown,1
 Simply Flowers,Retail,Unknown,1
-Sole Lovers,Retail,Unknown,1
 SPX Express Locker (Opening Soon),Retail,Unknown,1
-Standard Chartered Bank,Retail,Unknown,1
 Sugarcane Vending Machine by Quench Mart,Retail,Unknown,1
 Swift Exchange,Retail,Unknown,1
 Thomson Medical,Retail,Unknown,1
@@ -3964,7 +4014,6 @@ The Better Toy Store,Retail,Unknown,1
 The Hair Shop,Retail,Unknown,1
 TOM FORD,Retail,Unknown,1
 Vans,Retail,Foreign,1
-Watches of Switzerland,Retail,Unknown,1
 Watsons Health,Retail,Unknown,1
 Weekend Max Mara,Retail,Unknown,1
 XZQT Portfolio,Retail,Unknown,1
@@ -3996,7 +4045,6 @@ Xi Apparel & Jade,Retail,Unknown,1
 woosee fine art and finest tea,Retail,Unknown,1
 Leonian Sportique,Retail,Unknown,1
 Quintessential,Retail,Unknown,1
-Michael Kors,Retail,Foreign,1
 O+ Eyewear,Retail,Unknown,1
 Sage Medical Clinic,Retail,Unknown,1
 MANDARIN REPTILE,Retail,Unknown,1
@@ -4033,7 +4081,6 @@ Sabaai Sabaai Boutique Spa*,Retail,Unknown,1
 Salon Vim*,Retail,Unknown,1
 Spa45*,Retail,Unknown,1
 YANN BEYRIE SALON*,Retail,Unknown,1
-Diamond2®,Retail,Unknown,1
 Jeulia,Retail,Unknown,1
 MAUBOUSSIN,Retail,Unknown,1
 NORQAIN,Retail,Unknown,1
@@ -4047,7 +4094,6 @@ AVEDA MICRO EXPERIENCE CENTER,Retail,Unknown,1
 BOCHECHAS X TINY DOTS WONDER,Retail,Unknown,1
 CHATEAU DE SABLE,Retail,Unknown,1
 CLÉMENCE BY RUE MADAME,Retail,Unknown,1
-CLICK PHOTO IDEAS,Retail,Unknown,1
 COSMO HAIR & BEAUTY SALON,Retail,Unknown,1
 CS FRESH BY COLD STORAGE,Retail,Unknown,1
 DBS DIGITAL LOBBY,Retail,Unknown,1
@@ -4065,7 +4111,6 @@ ISLAND RUN CLUB,Retail,Unknown,1
 J. KEYER +,Retail,Unknown,1
 JANTZEN SALON,Retail,Unknown,1
 JULLIA OLGER BY ARTNATURE,Retail,Unknown,1
-LA BARBERSHOP LA COWBOY KIDS,Retail,Unknown,1
 LAUNDRY QUEEN,Retail,Unknown,1
 LILIEWOODS SOCIAL,Retail,Unknown,1
 MANNEQUEEN®,Retail,Unknown,1
@@ -4109,7 +4154,6 @@ Club Shine,Retail,Unknown,1
 Corinne Jewelry,Retail,Unknown,1
 Cotton Amour,Retail,Unknown,1
 Daily & Co,Retail,Unknown,1
-Daiso Japan,Retail,Unknown,1
 Dance Thrilogy,Retail,Unknown,1
 Danz People,Retail,Unknown,1
 Dear Bliss,Retail,Unknown,1
@@ -4222,7 +4266,6 @@ Digital Xpress,Retail,Unknown,1
 GPA Dental Group United Square,Retail,Unknown,1
 Lifetime Vision Care,Retail,Unknown,1
 Physicians Practice Family Medical Center,Retail,Unknown,1
-PramWash,Retail,Unknown,1
 Precision Optics,Retail,Unknown,1
 The Laundry Corner,Retail,Unknown,1
 Thomson Chinese Medicine,Retail,Unknown,1
@@ -4269,19 +4312,16 @@ Neals Yard Remedies,Retail,Unknown,1
 PAÃPURI,Retail,Unknown,1
 Penhaligonâs,Retail,Unknown,1
 Prologue,Retail,Unknown,1
-Motherlove,Retail,Unknown,1
 SJ Clinic & Surgery,Retail,Unknown,1
 Zell-V Platinum,Retail,Unknown,1
 Chanel Watches & Fine Jewellery,Retail,Unknown,1
 Jacob & Co.,Retail,Unknown,1
-Seiko,Retail,Foreign,1
 State Property,Retail,Unknown,1
 Goyard,Retail,Unknown,1
 Jalan Sriwijaya,Retail,Unknown,1
 Kurun Tokyo,Retail,Unknown,1
 Flavours of Ishikawa,Retail,Unknown,1
 MORNING,Retail,Unknown,1
-The Paper Bunny,Retail,Unknown,1
 Within Yoga | Pilates,Retail,Unknown,1
 999.9,Retail,Unknown,1
 Kaneko Optical,Retail,Unknown,1
