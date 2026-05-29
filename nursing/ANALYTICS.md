@@ -33,7 +33,17 @@ Each component scales 0–1; the composite is just the sum (so 4.0 is the theore
 
 _Methodology note — this is intentionally a thin ranking, not a recommendation. Real "family-friendly" judgement depends on stroller access, playground proximity, breastfeeding-friendly seating, change-table location etc. — none of which we can scrape. Treat this as a first-pass shortlist, not a verdict._
 
-## 4. Information availability — capacity
+## 4. Operator portfolio comparison
+
+Aggregating up from individual malls to their owner groups. "Avg rooms / mall" tells you the typical baby-care footprint at a randomly-chosen mall in each portfolio; "Avg floor coverage" tells you how many of the retail floors at those malls have at least one room; "% operator-verified" tells you how much of the dataset comes from the operator's own published facility page (vs community gap-fill).
+
+Only owners with **at least 2 malls** in the nursing dataset shown — smaller landlords don't have enough data points to compare meaningfully.
+
+<div id="operator-league" class="chart-wrap"></div>
+
+_The Mappedin walking-distance column is sparse on purpose: only one operator's portfolio (Frasers) embeds the wayfinder we can scrape for coordinates, so most rows show '—'. Read this as "where the data exists" rather than a like-for-like comparison._
+
+## 5. Information availability — capacity
 
 A small note on data completeness rather than facility quality. The summary already shows that 9 of 57 malls publish nursing-room **capacity** on their public website or app. The remaining 48 may well display capacity on physical signage at the room itself — we just can't see it through digital channels, so we record it as `null` rather than guess.
 
@@ -53,5 +63,6 @@ _If you're an operator and would like to flag that your capacity is published so
   NursingCharts.provisionTable("provision-table");
   NursingCharts.floorCoverageBars("floor-coverage");
   NursingCharts.familyFriendlyScore("family-score");
+  NursingCharts.operatorLeagueTable("operator-league");
   NursingCharts.capacityDisclosure("capacity-pie");
 </script>

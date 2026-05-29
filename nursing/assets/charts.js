@@ -356,8 +356,63 @@
     });
   }
 
+  function operatorLeagueTable(divId) {
+    fetchJSON("./data/per_mall_context.json").then(ctx => {
+      const byOwner = {};
+      ctx.forEach(r => {
+        const o = r.owner_group;
+        if (!o) return;
+        if (!byOwner[o]) byOwner[o] = {
+          owner: o, malls: 0, rooms: 0, official: 0,
+          capPublished: 0, floorPctSum: 0, floorPctN: 0,
+          walkSum: 0, walkN: 0,
+        };
+        const b = byOwner[o];
+        b.malls += 1;
+        b.rooms += r.total_rooms || 0;
+        if (r.source_confidence === "official") b.official += 1;
+        if (r.capacity_published) b.capPublished += 1;
+        if (r.retail_floors_in_data) {
+          b.floorPctSum += 100 * (r.retail_floors_with_room || 0) / r.retail_floors_in_data;
+          b.floorPctN += 1;
+        }
+        if (r.avg_walk_m_to_entrance != null) {
+          b.walkSum += r.avg_walk_m_to_entrance;
+          b.walkN += 1;
+        }
+      });
+      const rows = Object.values(byOwner).filter(b => b.malls >= 2).map(b => ({
+        owner: b.owner,
+        malls: b.malls,
+        rooms: b.rooms,
+        avg_rooms: +(b.rooms / b.malls).toFixed(2),
+        avg_floor_cov: b.floorPctN ? Math.round(b.floorPctSum / b.floorPctN) : null,
+        pct_official: Math.round(100 * b.official / b.malls),
+        pct_cap_published: Math.round(100 * b.capPublished / b.malls),
+        avg_walk: b.walkN ? Math.round(b.walkSum / b.walkN) : null,
+      }));
+      smartTable(divId, rows, [
+        { key: "owner",            label: "Owner group" },
+        { key: "malls",            label: "Malls in dataset",   num: true },
+        { key: "rooms",            label: "Total rooms",        num: true },
+        { key: "avg_rooms",        label: "Avg rooms / mall",   num: true,
+          render: v => `<span class="cell-heat" style="background:hsl(${Math.min(v*30,180)},65%,${92-Math.min(v*3,18)}%)">${v}</span>` },
+        { key: "avg_floor_cov",    label: "Avg floor coverage %", num: true,
+          render: v => v == null ? "—" :
+            `<span class="cell-heat" style="background:hsl(${v*1.2},65%,${92-v*0.18}%)">${v}%</span>` },
+        { key: "pct_official",     label: "% operator-verified", num: true,
+          render: v => `<span class="cell-heat" style="background:hsl(${v*1.2},65%,${92-v*0.18}%)">${v}%</span>` },
+        { key: "pct_cap_published", label: "% capacity online",   num: true,
+          render: v => `${v}%` },
+        { key: "avg_walk",         label: "Avg walk (m, Mappedin only)", num: true,
+          render: v => v == null ? "—" : v + " m" },
+      ], { sortIdx: 3, sortDir: "desc", search: false });
+    });
+  }
+
   window.NursingCharts = {
     roomsHeatmap, facilitiesTable, walkingDistanceScatter,
     provisionTable, floorCoverageBars, familyFriendlyScore, capacityDisclosure,
+    operatorLeagueTable,
   };
 })();
