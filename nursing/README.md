@@ -6,9 +6,12 @@ A catalogue of nursing / baby-care rooms inside Singapore malls — which floor 
 
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
-## Report
+## Reports
 
-→ **[Open the Facilities Report](./FACILITIES_REPORT.html)** — interactive rooms-per-floor heatmap, walking-distance scatter, and a sortable per-mall summary table.
+| Page | What it shows |
+| --- | --- |
+| **[Facilities Report →](./FACILITIES_REPORT.html)** | The raw catalogue — rooms-per-floor heatmap, walking-distance scatter, sortable per-mall summary. |
+| **[Analytics →](./ANALYTICS.html)** | Derived views — rooms per shop, floor-coverage gap, a family-friendly composite ranking, and a note on online capacity disclosure. |
 
 ## Data
 

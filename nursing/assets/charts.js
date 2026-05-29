@@ -213,5 +213,151 @@
     });
   }
 
-  window.NursingCharts = { roomsHeatmap, facilitiesTable, walkingDistanceScatter };
+  // ---------- analytics page: derived metrics from per_mall_context.json ----------
+
+  function provisionTable(divId) {
+    fetchJSON("./data/per_mall_context.json").then(ctx => {
+      const rows = ctx.filter(r => r.num_stores && r.total_rooms).map(r => ({
+        mall: r.mall,
+        owner: r.owner_group || "—",
+        rooms: r.total_rooms,
+        shops: r.num_stores,
+        rooms_per_100: +(r.total_rooms / r.num_stores * 100).toFixed(2),
+        floors_covered: r.retail_floors_with_room || 0,
+        floors_total: r.retail_floors_in_data || 0,
+        floor_pct: r.retail_floors_in_data
+          ? Math.round(100 * (r.retail_floors_with_room || 0) / r.retail_floors_in_data)
+          : null,
+      }));
+      const maxRp = Math.max(...rows.map(r => r.rooms_per_100));
+      smartTable(divId, rows, [
+        { key: "mall",  label: "Mall" },
+        { key: "owner", label: "Owner" },
+        { key: "rooms", label: "Rooms",        num: true },
+        { key: "shops", label: "Shops",        num: true },
+        { key: "rooms_per_100", label: "Rooms / 100 shops", num: true,
+          render: v => {
+            const ratio = v / maxRp;
+            const hue = 90 + ratio * 100;          // yellow → green
+            const light = 92 - ratio * 18;
+            return `<span class="cell-heat" style="background:hsl(${hue},70%,${light}%)">${v}</span>`;
+          } },
+        { key: "floor_pct", label: "Retail floors covered %", num: true,
+          render: (v, r) => v == null ? "—" :
+            `<span class="cell-heat" style="background:hsl(${v * 1.2},65%,${92 - v * 0.18}%)">${v}% (${r.floors_covered}/${r.floors_total})</span>` },
+      ], { sortIdx: 4, sortDir: "desc" });
+    });
+  }
+
+  function floorCoverageBars(divId) {
+    fetchJSON("./data/per_mall_context.json").then(ctx => {
+      const rows = ctx.filter(r => r.retail_floors_in_data && r.retail_floors_in_data > 0)
+                      .map(r => ({
+                        mall: r.mall,
+                        pct: Math.round(100 * (r.retail_floors_with_room || 0) / r.retail_floors_in_data),
+                        cov: r.retail_floors_with_room || 0,
+                        tot: r.retail_floors_in_data,
+                      }))
+                      .sort((a, b) => a.pct - b.pct);
+      const colors = rows.map(r =>
+        r.pct >= 60 ? "#28a745" : r.pct >= 30 ? "#fd7e14" : "#dc3545");
+      plot(divId, [{
+        type: "bar", orientation: "h",
+        x: rows.map(r => r.pct),
+        y: rows.map(r => r.mall),
+        text: rows.map(r => `${r.pct}% (${r.cov}/${r.tot} floors)`),
+        textposition: "outside",
+        marker: { color: colors },
+        hovertemplate: "<b>%{y}</b><br>%{text}<extra></extra>",
+      }], Object.assign({}, layoutBase, {
+        title: { text: "Retail floors with a nursing room — coverage % per mall", font: { size: 14 } },
+        height: Math.max(420, rows.length * 22),
+        margin: { l: 220, r: 110, t: 50, b: 50 },
+        xaxis: { title: "% of retail floors with at least one room", range: [0, 110], gridcolor: "#eee" },
+        yaxis: { automargin: true, tickfont: { size: 11 } },
+      }));
+    });
+  }
+
+  function familyFriendlyScore(divId) {
+    fetchJSON("./data/per_mall_context.json").then(ctx => {
+      // include malls that have at least nursing data + store-level join
+      const rows = ctx.filter(r => r.store_mall_name).map(r => {
+        const halal_share = r.fnb ? r.halal_fnb / r.fnb : 0;
+        // cap room/kids scores so a single mega-mall doesn't dominate
+        const rooms_score = Math.min(r.total_rooms || 0, 10) / 10;
+        const kids_score  = Math.min(r.kids_stores || 0, 12) / 12;
+        const halal_score = Math.min(halal_share, 0.5) / 0.5;    // 50% halal F&B saturates the score
+        const super_score = r.has_supermarket ? 1 : 0;
+        const composite = (rooms_score + kids_score + halal_score + super_score) / 4;
+        return {
+          mall: r.mall,
+          composite: +composite.toFixed(3),
+          rooms_score: +rooms_score.toFixed(3),
+          kids_score:  +kids_score.toFixed(3),
+          halal_score: +halal_score.toFixed(3),
+          super_score,
+          rooms: r.total_rooms || 0,
+          kids: r.kids_stores || 0,
+          halal: r.halal_fnb || 0,
+          fnb: r.fnb || 0,
+          supermarket: r.has_supermarket,
+        };
+      }).sort((a, b) => b.composite - a.composite).slice(0, 25);
+      const components = [
+        { key: "rooms_score", label: "Nursing rooms (cap 10)", color: "#0d6efd" },
+        { key: "kids_score",  label: "Kids stores (cap 12)",   color: "#fd7e14" },
+        { key: "halal_score", label: "Halal F&B share (cap 50%)", color: "#198754" },
+        { key: "super_score", label: "Supermarket on-site",    color: "#6f42c1" },
+      ];
+      const traces = components.map(c => ({
+        type: "bar", orientation: "h", name: c.label,
+        x: rows.map(r => r[c.key]).reverse(),
+        y: rows.map(r => r.mall).reverse(),
+        marker: { color: c.color },
+        hovertemplate: rows.slice().reverse().map(r =>
+          `<b>${r.mall}</b><br>${c.label}: ${r[c.key]}<br>` +
+          `Rooms: ${r.rooms} · Kids: ${r.kids} · Halal F&B: ${r.halal}/${r.fnb} · Supermarket: ${r.supermarket ? "yes" : "no"}<extra></extra>`),
+        hovertext: rows.slice().reverse().map(r => r.mall),
+      }));
+      plot(divId, traces, Object.assign({}, layoutBase, {
+        title: { text: "Family-friendly composite — top 25 malls (4 capped components, each 0–1)", font: { size: 14 } },
+        barmode: "stack",
+        height: Math.max(500, rows.length * 24),
+        margin: { l: 220, r: 30, t: 50, b: 60 },
+        xaxis: { title: "Composite score (4 of 4 = max)", range: [0, 4.05], gridcolor: "#eee" },
+        yaxis: { automargin: true },
+        legend: { orientation: "h", y: -0.08 },
+      }));
+    });
+  }
+
+  function capacityDisclosure(divId) {
+    fetchJSON("./data/per_mall_context.json").then(ctx => {
+      const total = ctx.length;
+      const published = ctx.filter(r => r.capacity_published).length;
+      const unpublished = total - published;
+      plot(divId, [{
+        type: "pie",
+        labels: ["Published on operator's digital channels", "Not surfaced online"],
+        values: [published, unpublished],
+        hole: 0.55,
+        marker: { colors: ["#0d6efd", "#e9ecef"] },
+        textinfo: "label+value",
+        textposition: "outside",
+        hovertemplate: "%{label}<br>%{value} of " + total + " malls<extra></extra>",
+      }], Object.assign({}, layoutBase, {
+        title: { text: `Capacity disclosed online: ${published} of ${total} malls`, font: { size: 14 } },
+        height: 380,
+        showlegend: false,
+        annotations: [{ text: `${Math.round(100*published/total)}%`, x: 0.5, y: 0.5,
+          showarrow: false, font: { size: 22 } }],
+      }));
+    });
+  }
+
+  window.NursingCharts = {
+    roomsHeatmap, facilitiesTable, walkingDistanceScatter,
+    provisionTable, floorCoverageBars, familyFriendlyScore, capacityDisclosure,
+  };
 })();
