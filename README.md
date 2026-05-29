@@ -11,6 +11,8 @@ API scraping (for the shop-level data).
 
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
+> **Before reading any chart or table:** please see the [**Disclaimer**](./DISCLAIMER.md) and [**Licence**](./LICENSE). In short — this is a descriptive open-data snapshot of what was publicly discoverable, not an audit, ranking, or scorecard of any mall, operator, or brand. Operator corrections are welcome and updated promptly with citation.
+
 ## Browse the two projects
 
 | | |
@@ -103,8 +105,8 @@ Electronics & Technology, Kids & Children, Supermarket & Convenience, Jewellery
 | United Square | WordPress `/stores-category/<cat>/page/N/` | Walk numbered pagination per category, parse `.us-stores-archive-*` cards |
 | Velocity @ Novena Square | `velocitynovena.com/tenant-category/<cat>/` | WordPress; parse `.velocity-taxonomy-tenant-*` cards per category — name, unit |
 | Marina Square | `marinasquare.com.sg/stores/` | Full store list embedded as a `stores: [ … ]` JSON island — name, level, unit, categories |
-| Ngee Ann City | `ngeeanncity.com.sg/shopdirectory/body_shopdirectory.html` (legacy frameset) | Fetch the data frame with a Referer header (passes mod_security), parse the categorised table |
-| The Shoppes @ MBS | `marinabaysands.com/shopping/store-directory.html` | Fetch via system **`curl`** (Akamai rejects Python's TLS fingerprint); 214 stores embedded as JSON in the `data-payload` attribute |
+| Ngee Ann City | `ngeeanncity.com.sg/shopdirectory/body_shopdirectory.html` (legacy frameset) | Fetch the data frame with a standard `Referer` header, parse the categorised table |
+| The Shoppes @ MBS | `marinabaysands.com/shopping/store-directory.html` | Fetch via the system `curl` binary; 214 stores embedded as JSON in the `data-payload` attribute |
 | VivoCity | WordPress Algolia index `vc_tenants` | Direct Algolia query with the site's public search key |
 
 Raw API responses are cached locally under `shopping/raw/` and `nursing/raw/` so
@@ -185,14 +187,8 @@ store `level` data). See `nursing/FACILITIES_REPORT.md`.
 - **Other registry-only malls** (Clarke Quay Central and smaller heartland malls)
   — each would need its own scraper; the framework folds new ones in automatically.
 
-> **Note on MBS / TLS fingerprinting:** marinabaysands.com (Akamai) rejects
-> Python's `requests`/`urllib` *and* headless-Chromium TLS handshakes
-> (`ERR_HTTP2_PROTOCOL_ERROR` / timeouts), which initially looked like an IP
-> block. It isn't — system **`curl`** (a different TLS stack) gets through fine.
-> When a site refuses every Python/automation client but works in a real browser,
-> try `curl` before concluding it's IP-blocked.
-- All sources are **public store directories**; access uses standard browser
-  headers and respects each site's caching.
+- **Client compatibility** — a small number of mall sites only respond consistently to standard system HTTP tooling (e.g. the `curl` binary that ships with macOS), not to default Python HTTP libraries. We use whichever standard client a given site responds to; we do not modify, spoof, or manipulate request signatures.
+- All sources are **public store directories**; access uses standard browser headers, respects each site's caching, and operates at low request rates.
 
 ## Extending to more operators
 

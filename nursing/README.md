@@ -4,7 +4,7 @@ A catalogue of nursing / baby-care rooms inside Singapore malls — which floor 
 
 ← [back to the index](../)
 
-> **Please note.** This entire sub-site describes only what is discoverable through public digital channels at the time of our snapshot. A mall showing few rooms / no capacity in our data may have more rooms and richer info on **physical signage at the mall itself** — we just couldn't see it through digital channels. Nothing here is an audit, ranking, or scorecard of any operator. If you spot anything out of date, please get in touch — we'll update with a citation.
+> **Please note.** This entire sub-site describes only what is discoverable through public digital channels at the time of our snapshot. A mall showing few rooms / no capacity in our data may have more rooms and richer info on **physical signage at the mall itself** — we just couldn't see it through digital channels. Nothing here is an audit, ranking, or scorecard of any operator. If you spot anything out of date, please get in touch — we'll update with a citation. Full terms: [Disclaimer](../DISCLAIMER.md) · [Licence (CC BY 4.0)](../LICENSE).
 
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
