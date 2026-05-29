@@ -267,8 +267,13 @@
                         tot: r.retail_floors_in_data,
                       }))
                       .sort((a, b) => a.pct - b.pct);
-      const colors = rows.map(r =>
-        r.pct >= 60 ? "#28a745" : r.pct >= 30 ? "#fd7e14" : "#dc3545");
+      // Single-hue blue ramp — deliberately neutral. Low bars are descriptive
+      // ("less coverage was discoverable online"), not a red flag against the
+      // mall — see the top-of-page caveat in ANALYTICS.md.
+      const colors = rows.map(r => {
+        const ratio = Math.min(r.pct, 100) / 100;
+        return `hsl(210, 45%, ${75 - ratio * 25}%)`;
+      });
       plot(divId, [{
         type: "bar", orientation: "h",
         x: rows.map(r => r.pct),

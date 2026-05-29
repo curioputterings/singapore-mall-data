@@ -4,6 +4,17 @@
 
 ← [back to nursing](./) · [back to the index](../)
 
+> ## ⚠️ Important — read before interpreting this report
+>
+> **Every number, heatmap cell, and table row here describes only what is discoverable through public digital channels** (operator websites, public APIs, community blogs, the Mappedin wayfinder where exposed) at the time of our snapshot.
+>
+> - A mall showing **few rooms, no capacity, or no floor coverage** in our data may have **more rooms and clearer information on physical signage at the mall itself** — we just couldn't see it through digital channels.
+> - "No Mappedin walking distance" is **not a comment on the mall**; it only means the mall doesn't use the specific wayfinder vendor whose public API exposes coordinates.
+> - Community-curated rows (Little Day Out, babyment) are known to **undercount** by 60–90% on malls where operator data also exists; treat them as a *lower bound* of presence, not a count.
+> - This report is **not an audit, ranking, or scorecard of any operator** — it is a descriptive view of an open dataset built from publicly-available sources.
+>
+> If you are an operator and any of this data is out of date or incomplete, please get in touch — we will update with a citation.
+
 - **Malls with nursing-room data:** 57
 - **Total nursing rooms catalogued:** 145 (141 open, 4 closed/under works)
 - **Malls publishing capacity:** 9 — Alexandra Retail Centre (2), Compass One (2), Great World (1), Jewel Changi Airport (2), Ngee Ann City (4), Sengkang Grand Mall (2), Suntec City (2), The Clementi Mall (3), The Seletar Mall (2)
