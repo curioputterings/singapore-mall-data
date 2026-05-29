@@ -33,15 +33,15 @@ Each component scales 0–1; the composite is just the sum (so 4.0 is the theore
 
 _Methodology note — this is intentionally a thin ranking, not a recommendation. Real "family-friendly" judgement depends on stroller access, playground proximity, breastfeeding-friendly seating, change-table location etc. — none of which we can scrape. Treat this as a first-pass shortlist, not a verdict._
 
-## 4. Operator portfolio comparison
+## 4. By owner group — what the dataset shows at the portfolio level
 
-Aggregating up from individual malls to their owner groups. "Avg rooms / mall" tells you the typical baby-care footprint at a randomly-chosen mall in each portfolio; "Avg floor coverage" tells you how many of the retail floors at those malls have at least one room; "% operator-verified" tells you how much of the dataset comes from the operator's own published facility page (vs community gap-fill).
+The per-mall figures above, rolled up to the owner level. This is **a view of what's catalogued in the dataset**, not a comparison or ranking of operators against each other. Owners are shown if they have ≥2 malls with any nursing-room data in the catalogue.
 
-Only owners with **at least 2 malls** in the nursing dataset shown — smaller landlords don't have enough data points to compare meaningfully.
+> **Please read this section as a description of the dataset, not of the operators.** Low numbers in any column typically reflect what's discoverable through public digital channels at the time of our snapshot — not the underlying facilities. Several columns (e.g. "% with operator-published data online") depend on the operator's own website surfacing the information, which varies for many reasons unrelated to room quality.
 
 <div id="operator-league" class="chart-wrap"></div>
 
-_The Mappedin walking-distance column is sparse on purpose: only one operator's portfolio (Frasers) embeds the wayfinder we can scrape for coordinates, so most rows show '—'. Read this as "where the data exists" rather than a like-for-like comparison._
+_The Mappedin walking-distance column shows values only where the mall embeds the Mappedin wayfinder with a publicly accessible API. Many other operators run perfectly good wayfinders we simply can't read coordinates from (different vendor, native app only, etc.) — so a blank here is not a comment on the mall._
 
 ## 5. Information availability — capacity
 

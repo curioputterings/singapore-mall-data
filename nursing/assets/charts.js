@@ -391,19 +391,19 @@
         pct_cap_published: Math.round(100 * b.capPublished / b.malls),
         avg_walk: b.walkN ? Math.round(b.walkSum / b.walkN) : null,
       }));
+      // Neutral single-hue wash so no row reads as a red flag — this is a
+      // descriptive view of the dataset, not a scorecard of operators.
+      const wash = v => v == null ? "—" :
+        `<span class="cell-heat" style="background:hsl(210,45%,${96 - Math.min(v, 100) * 0.18}%)">${v}${typeof v === "number" && v <= 100 ? "%" : ""}</span>`;
       smartTable(divId, rows, [
         { key: "owner",            label: "Owner group" },
         { key: "malls",            label: "Malls in dataset",   num: true },
         { key: "rooms",            label: "Total rooms",        num: true },
         { key: "avg_rooms",        label: "Avg rooms / mall",   num: true,
-          render: v => `<span class="cell-heat" style="background:hsl(${Math.min(v*30,180)},65%,${92-Math.min(v*3,18)}%)">${v}</span>` },
-        { key: "avg_floor_cov",    label: "Avg floor coverage %", num: true,
-          render: v => v == null ? "—" :
-            `<span class="cell-heat" style="background:hsl(${v*1.2},65%,${92-v*0.18}%)">${v}%</span>` },
-        { key: "pct_official",     label: "% operator-verified", num: true,
-          render: v => `<span class="cell-heat" style="background:hsl(${v*1.2},65%,${92-v*0.18}%)">${v}%</span>` },
-        { key: "pct_cap_published", label: "% capacity online",   num: true,
-          render: v => `${v}%` },
+          render: v => `<span class="cell-heat" style="background:hsl(210,45%,${96 - Math.min(v*4, 18)}%)">${v}</span>` },
+        { key: "avg_floor_cov",    label: "Avg floor coverage %", num: true, render: wash },
+        { key: "pct_official",     label: "% with operator-published data online", num: true, render: wash },
+        { key: "pct_cap_published", label: "% capacity online",   num: true, render: wash },
         { key: "avg_walk",         label: "Avg walk (m, Mappedin only)", num: true,
           render: v => v == null ? "—" : v + " m" },
       ], { sortIdx: 3, sortDir: "desc", search: false });
