@@ -8,7 +8,7 @@ A catalogue of nursing / baby-care rooms inside Singapore malls — which floor 
 
 ## Report
 
-→ **[FACILITIES_REPORT.md](./FACILITIES_REPORT.md)** — per-mall summary, rooms-per-floor, distance to nearest entrance, and source-confidence notes.
+→ **[Open the Facilities Report](./FACILITIES_REPORT.html)** — interactive rooms-per-floor heatmap, walking-distance scatter, and a sortable per-mall summary table.
 
 ## Data
 

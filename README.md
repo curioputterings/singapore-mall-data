@@ -11,7 +11,12 @@ API scraping (for the shop-level data).
 
 <a href="https://buymeacoffee.com/curioputterings" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
-> 🛍️ **New** — [10 Fun Questions About Singapore Malls](./shopping/FUN.md): the bubble-tea capital, the secret-clone malls, the apocalypse-bunker mall, and more.
+## Browse the two projects
+
+| | |
+| :--- | :--- |
+| 🛍️ **[Shopping →](./shopping/)** | 87 shopping centres · 9,158 stores · 6 analytical reports (chain ubiquity, mall similarity, cuisine mix, brand provenance, REIT financials) plus [**10 fun questions**](./shopping/FUN.md) |
+| 🍼 **[Nursing-room facilities →](./nursing/)** | 145+ nursing/baby-care rooms across 57 malls · interactive [**facilities report**](./nursing/FACILITIES_REPORT.html) with rooms-per-floor heatmap + walking-distance scatter |
 
 > **Repo layout.** Two sibling sub-projects: [`shopping/`](./shopping/) (malls + stores + REIT financials) and [`nursing/`](./nursing/) (nursing-room facilities). The published Pages site mirrors that split.
 >
