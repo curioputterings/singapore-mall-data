@@ -147,20 +147,27 @@
     return Plotly.newPlot(el, traces, layout, config || cfg).then(() => attachResize(el));
   }
 
-  // Re-fit a Plotly chart to its container whenever the container's actual
-  // box changes size. Debounced via rAF so we don't redraw mid-reflow.
+  // Re-fit a Plotly chart to its container ONLY when the container's width
+  // actually changes (orientation flip, viewport resize). We deliberately
+  // ignore height changes because every Plotly.Plots.resize() can nudge the
+  // SVG height by a pixel or two (label wrap, automargin), and observing
+  // height would create a runaway feedback loop where the chart grows on
+  // every redraw. Debounced via rAF.
   function attachResize(divId) {
     const el = typeof divId === "string" ? document.getElementById(divId) : divId;
     if (!el || !window.ResizeObserver) return;
+    let lastWidth = el.clientWidth;
     let pending = false;
-    const obs = new ResizeObserver(() => {
+    const obs = new ResizeObserver(entries => {
+      const w = Math.round(entries[0].contentRect.width);
+      // Width-only trigger, with a small threshold to ignore noise.
+      if (Math.abs(w - lastWidth) < 4) return;
+      lastWidth = w;
       if (pending) return;
       pending = true;
       requestAnimationFrame(() => {
         pending = false;
-        // Only resize if the container actually has measurable width; ignore
-        // transient 0-width measurements (the iOS reflow case).
-        if (el.clientWidth > 50 && el.clientHeight > 50) {
+        if (w > 50) {
           try { Plotly.Plots.resize(el); } catch (_) { /* not yet plotted */ }
         }
       });

@@ -21,15 +21,23 @@
     return Plotly.newPlot(el, traces, layout, config || cfg).then(() => attachResize(el));
   }
 
+  // Width-only ResizeObserver — observing height too creates a feedback loop
+  // where each Plotly redraw nudges the SVG height a pixel or two, fires
+  // the observer again, redraws, and the chart grows endlessly. See the
+  // shopping/charts.js comment for full rationale.
   function attachResize(el) {
     if (!el || !window.ResizeObserver) return;
+    let lastWidth = el.clientWidth;
     let pending = false;
-    new ResizeObserver(() => {
+    new ResizeObserver(entries => {
+      const w = Math.round(entries[0].contentRect.width);
+      if (Math.abs(w - lastWidth) < 4) return;
+      lastWidth = w;
       if (pending) return;
       pending = true;
       requestAnimationFrame(() => {
         pending = false;
-        if (el.clientWidth > 50 && el.clientHeight > 50) {
+        if (w > 50) {
           try { Plotly.Plots.resize(el); } catch (_) { /* not yet plotted */ }
         }
       });
