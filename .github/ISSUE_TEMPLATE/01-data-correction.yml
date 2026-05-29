@@ -1,0 +1,66 @@
+name: Data correction
+description: Flag an out-of-date or incorrect record (a store, a mall, a nursing room, an owner, a financial figure, a category, etc.)
+title: "[correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to flag this. Corrections are welcomed and acted on — we log every accepted change in [CORRECTIONS.md](../CORRECTIONS.md) with the date and citation.
+
+        You do not need to be the operator to file a correction. If you spot something wrong, please share what you know.
+  - type: dropdown
+    id: which-page
+    attributes:
+      label: Which page or dataset?
+      options:
+        - "Shopping: REPORT (overview)"
+        - "Shopping: ANALYTICS (ubiquitous chains)"
+        - "Shopping: BREAKDOWNS (owners / regions)"
+        - "Shopping: SIMILARITY (mall similarity)"
+        - "Shopping: CUISINE (F&B cultural mix)"
+        - "Shopping: PROVENANCE (SG vs Foreign)"
+        - "Shopping: FINANCIALS (REIT economics)"
+        - "Shopping: FUN (10 fun questions)"
+        - "Shopping data file (stores.json / malls.json / *.csv)"
+        - "Nursing: FACILITIES REPORT"
+        - "Nursing: ANALYTICS"
+        - "Nursing data file"
+        - "Top-level README / disclaimer"
+        - "Other"
+    validations:
+      required: true
+  - type: input
+    id: subject
+    attributes:
+      label: What record needs to change? (mall name, brand, or row identifier)
+      placeholder: "e.g. ION Orchard, KOI Thé, mall_financials.csv row 'Paragon'"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What the page currently says (paste the line or a screenshot)
+    validations:
+      required: true
+  - type: textarea
+    id: corrected
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source for the correction (link, document, screenshot of operator's page, etc.)
+      description: We need a public source we can cite when we update the record. If the source is private, please describe it — we may follow up by email.
+  - type: dropdown
+    id: capacity
+    attributes:
+      label: Are you submitting this on behalf of the operator?
+      options:
+        - "Yes — I represent the operator / brand"
+        - "No — I'm a visitor / researcher"
+        - "Other"
+    validations:
+      required: true

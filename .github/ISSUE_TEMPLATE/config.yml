@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email the maintainer directly
+    url: mailto:curioputterings@proton.me
+    about: Prefer email over GitHub Issues? You can reach the maintainer directly.

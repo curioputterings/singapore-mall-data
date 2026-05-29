@@ -1,0 +1,11 @@
+name: Question / suggestion / something else
+description: Anything that isn't a data correction or a takedown — questions, ideas for additional analyses, feedback on framing, etc.
+title: ""
+labels: ["question"]
+body:
+  - type: textarea
+    id: body
+    attributes:
+      label: What's on your mind?
+    validations:
+      required: true

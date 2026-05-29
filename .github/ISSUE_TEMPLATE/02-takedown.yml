@@ -1,0 +1,59 @@
+name: Removal / takedown request (operators only)
+description: If you are an operator and prefer that your records be removed from the dataset, file this and we will remove promptly. No reason required.
+title: "[takedown] "
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Operator opt-out is unconditional — you do not need to provide a reason. We acknowledge takedown requests within 7 days and complete removals within 30 days. The removal will be recorded in [CORRECTIONS.md](../CORRECTIONS.md) with the date and the entity that requested it (or "anonymous" if you prefer).
+
+        If you would prefer to do this by email rather than in a public issue, please use curioputterings@proton.me.
+  - type: input
+    id: entity
+    attributes:
+      label: Entity requesting removal
+      description: The operator / brand / property owner whose records should be removed.
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Scope of removal
+      options:
+        - "Remove all records for a specific mall"
+        - "Remove all records for a specific brand / retailer"
+        - "Remove all records published by a specific REIT / owner"
+        - "Other (please describe below)"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Which records exactly? (names, rows, or pages)
+    validations:
+      required: true
+  - type: dropdown
+    id: representation
+    attributes:
+      label: Capacity in which you are requesting this
+      options:
+        - "Authorised representative of the operator / brand"
+        - "Legal counsel for the operator / brand"
+        - "Other (please describe below)"
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Verification contact (so we can confirm authority)
+      description: A corporate email address, official letterhead reference, or similar. Will not be published.
+  - type: dropdown
+    id: log
+    attributes:
+      label: Public acknowledgement preference
+      options:
+        - "Record the removal in CORRECTIONS.md naming the requesting entity"
+        - "Record the removal as 'anonymous, at operator's request'"
+    validations:
+      required: true

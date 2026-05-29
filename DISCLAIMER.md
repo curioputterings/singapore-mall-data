@@ -2,6 +2,20 @@
 
 _This file applies to every page on https://curioputterings.github.io/singapore-mall-data and every file in this repository. By using the data or visiting the published pages, you acknowledge the following._
 
+## In plain English
+
+This is a hobby project. It collects publicly-visible information about shopping malls in Singapore — the shops they list on their own websites, and the nursing rooms they mention on their facility pages — and presents it in charts and tables. The numbers describe **what we could see online at a single point in time**. They are not an audit of any mall, not a ranking of any operator, not a measurement of physical reality, and not advice of any kind. If you are an operator and we got something wrong, please tell us — we will fix it quickly and log the change publicly. If you would prefer to be removed from the dataset entirely, no reason needed, just ask.
+
+## Contact
+
+- File an [issue on GitHub](https://github.com/curioputterings/singapore-mall-data/issues/new/choose) — templates exist for corrections, takedowns, and general questions.
+- Or email the maintainer directly at **curioputterings@proton.me**.
+- All operator-initiated corrections and takedowns are logged in [CORRECTIONS.md](./CORRECTIONS.md) with date and citation.
+
+## No personal data
+
+This dataset describes **businesses and their public-facing facilities**, not individuals. It does **not** contain personal data of customers, employees, or members of the public, and is not subject to Singapore's Personal Data Protection Act (PDPA) in that respect. If you nonetheless believe a record refers to you personally and want it removed, please contact the maintainer through any channel above.
+
 ## Nature of the project
 
 This is an open-data hobby project assembled from **publicly-discoverable sources** at fixed snapshot dates (currently 2026-05-27). It catalogues:
@@ -38,9 +52,16 @@ The data is provided **as-is, without warranty of any kind**, express or implied
 
 Mall names, retailer names, F&B brand names, REIT names and other identifiers referenced in this dataset and narrative remain the property of their respective owners and are used here for purely descriptive purposes. No affiliation, sponsorship, or endorsement is implied by either party.
 
-## Corrections welcome
+## Corrections welcome — a real procedure, not a promise
 
-If you are an operator, brand, or representative and you spot a factual error, an out-of-date entry, a mis-classified row, or any framing that you believe misrepresents your business, please open an issue at https://github.com/curioputterings/singapore-mall-data/issues — or contact the maintainer directly. We will update the record promptly, add a citation acknowledging your input, and (where useful) note your preferred framing alongside our own.
+If you spot a factual error, an out-of-date entry, a mis-classified row, or any framing that you believe misrepresents your business:
+
+1. **File a [data-correction issue](https://github.com/curioputterings/singapore-mall-data/issues/new/choose)** or email **curioputterings@proton.me**.
+2. **We acknowledge within 7 days.**
+3. **We update verifiable corrections within 30 days** and republish.
+4. **Every accepted change is logged in [CORRECTIONS.md](./CORRECTIONS.md)** with date, what changed, and the source citation.
+5. **For removals (operator opt-out)**: file a [takedown issue](https://github.com/curioputterings/singapore-mall-data/issues/new/choose). No reason required. Same SLA: acknowledged within 7 days, removed within 30. The takedown is logged (named or anonymous, your choice).
+6. **Where you disagree with a classification** (e.g. cuisine bucket, provenance label) but the facts are correct: we will publish your preferred framing alongside ours rather than choose one. Differences of interpretation are real and we'd rather show both than appear to take sides.
 
 ## License
 
