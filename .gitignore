@@ -31,3 +31,6 @@ _site/
 # are the hand-authored interactive Plotly versions in shopping/*.md).
 shopping/data/_*.md
 nursing/data/_*.md
+
+# Maintainer-only project decision log (NOT for publication).
+NOTES.md
